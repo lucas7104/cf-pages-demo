@@ -1,0 +1,549 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>訂單查詢｜cf-pages-demo</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, "Microsoft JhengHei", sans-serif;
+      background: #f6f8fb;
+      color: #1f2937;
+      line-height: 1.7;
+    }
+
+    a {
+      color: #2563eb;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 24px 16px 48px;
+    }
+
+    .topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 24px;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .brand {
+      font-size: 24px;
+      font-weight: 700;
+    }
+
+    .nav {
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    .card {
+      background: #ffffff;
+      border-radius: 16px;
+      padding: 24px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      margin-top: 0;
+      margin-bottom: 8px;
+      font-size: 32px;
+    }
+
+    .desc {
+      color: #4b5563;
+      margin-bottom: 0;
+    }
+
+    .form-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    @media (max-width: 700px) {
+      .form-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    label {
+      display: block;
+      font-weight: 700;
+      margin-bottom: 6px;
+    }
+
+    input {
+      width: 100%;
+      padding: 12px 14px;
+      border: 1px solid #d1d5db;
+      border-radius: 10px;
+      font-size: 16px;
+      outline: none;
+      background: #fff;
+    }
+
+    input:focus {
+      border-color: #2563eb;
+      box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.12);
+    }
+
+    .btn-row {
+      margin-top: 18px;
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    button {
+      border: none;
+      border-radius: 10px;
+      padding: 12px 18px;
+      font-size: 16px;
+      cursor: pointer;
+      font-weight: 700;
+    }
+
+    .btn-primary {
+      background: #2563eb;
+      color: white;
+    }
+
+    .btn-secondary {
+      background: #e5e7eb;
+      color: #111827;
+    }
+
+    .tip {
+      margin-top: 14px;
+      color: #6b7280;
+      font-size: 14px;
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    .message {
+      border-radius: 12px;
+      padding: 14px 16px;
+      margin-top: 16px;
+      font-weight: 700;
+    }
+
+    .message.error {
+      background: #fee2e2;
+      color: #991b1b;
+    }
+
+    .message.success {
+      background: #dcfce7;
+      color: #166534;
+    }
+
+    .result-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-bottom: 16px;
+    }
+
+    .order-title {
+      font-size: 24px;
+      font-weight: 700;
+      margin: 0;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 6px 12px;
+      border-radius: 999px;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .badge.pending {
+      background: #fef3c7;
+      color: #92400e;
+    }
+
+    .badge.ready {
+      background: #dbeafe;
+      color: #1d4ed8;
+    }
+
+    .badge.paid {
+      background: #dcfce7;
+      color: #166534;
+    }
+
+    .badge.shipped {
+      background: #ede9fe;
+      color: #6d28d9;
+    }
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 14px;
+      margin-top: 18px;
+    }
+
+    @media (max-width: 700px) {
+      .info-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .info-box {
+      background: #f9fafb;
+      border: 1px solid #e5e7eb;
+      border-radius: 12px;
+      padding: 14px 16px;
+    }
+
+    .info-label {
+      color: #6b7280;
+      font-size: 14px;
+      margin-bottom: 4px;
+    }
+
+    .info-value {
+      font-size: 18px;
+      font-weight: 700;
+    }
+
+    .section-title {
+      margin-top: 24px;
+      margin-bottom: 10px;
+      font-size: 20px;
+    }
+
+    .item-list {
+      margin: 0;
+      padding-left: 20px;
+    }
+
+    .pay-link {
+      display: inline-block;
+      margin-top: 16px;
+      background: #16a34a;
+      color: white;
+      padding: 12px 18px;
+      border-radius: 10px;
+      font-weight: 700;
+    }
+
+    .pay-link:hover {
+      text-decoration: none;
+      opacity: 0.92;
+    }
+
+    .notice {
+      margin-top: 16px;
+      padding: 14px 16px;
+      border-radius: 12px;
+      background: #eff6ff;
+      color: #1e3a8a;
+    }
+
+    .footer-note {
+      margin-top: 28px;
+      color: #6b7280;
+      font-size: 14px;
+    }
+
+    .muted {
+      color: #6b7280;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="topbar">
+      <div class="brand">Kaguya 訂單平台 Demo</div>
+      <div class="nav">
+        <a href="./index.html">首頁</a>
+        <a href="./search.html">訂單查詢</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <h1>訂單查詢</h1>
+      <p class="desc">
+        請輸入訂單編號與手機末三碼進行查詢。<br />
+        這是第一版示範頁面，目前使用前端假資料，之後可再改成連接 Cloudflare Functions / 資料庫。
+      </p>
+    </div>
+
+    <div class="card">
+      <div class="form-grid">
+        <div>
+          <label for="orderNo">訂單編號</label>
+          <input
+            id="orderNo"
+            type="text"
+            placeholder="例如：KG20260326001"
+          />
+        </div>
+
+        <div>
+          <label for="phoneLast3">手機末三碼</label>
+          <input
+            id="phoneLast3"
+            type="text"
+            maxlength="3"
+            placeholder="例如：123"
+          />
+        </div>
+      </div>
+
+      <div class="btn-row">
+        <button class="btn-primary" id="searchBtn">查詢訂單</button>
+        <button class="btn-secondary" id="resetBtn" type="button">清除</button>
+      </div>
+
+      <div class="tip">
+        測試資料可輸入：<br />
+        訂單編號：<strong>KG20260326001</strong>，手機末三碼：<strong>123</strong><br />
+        訂單編號：<strong>KG20260326002</strong>，手機末三碼：<strong>456</strong>
+      </div>
+
+      <div id="messageBox" class="message hidden"></div>
+    </div>
+
+    <div id="resultCard" class="card hidden">
+      <div class="result-header">
+        <h2 class="order-title" id="resultOrderTitle">訂單資訊</h2>
+        <span id="statusBadge" class="badge">狀態</span>
+      </div>
+
+      <div class="info-grid">
+        <div class="info-box">
+          <div class="info-label">訂購人</div>
+          <div class="info-value" id="customerName">-</div>
+        </div>
+
+        <div class="info-box">
+          <div class="info-label">訂單狀態</div>
+          <div class="info-value" id="orderStatusText">-</div>
+        </div>
+
+        <div class="info-box">
+          <div class="info-label">已付訂金</div>
+          <div class="info-value" id="depositAmount">-</div>
+        </div>
+
+        <div class="info-box">
+          <div class="info-label">尾款金額</div>
+          <div class="info-value" id="balanceAmount">-</div>
+        </div>
+
+        <div class="info-box">
+          <div class="info-label">總金額</div>
+          <div class="info-value" id="totalAmount">-</div>
+        </div>
+
+        <div class="info-box">
+          <div class="info-label">尾款期限</div>
+          <div class="info-value" id="paymentDeadline">-</div>
+        </div>
+      </div>
+
+      <h3 class="section-title">商品明細</h3>
+      <ul id="itemList" class="item-list"></ul>
+
+      <div id="paymentLinkWrap"></div>
+
+      <div class="notice" id="noticeText">
+        系統提醒：若尾款賣場開放後，請於期限內完成下單。
+      </div>
+
+      <div class="footer-note">
+        目前為前端示範版本，資料寫在頁面內，尚未連接真實訂單資料庫。
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const demoOrders = [
+      {
+        orderNo: "KG20260326001",
+        phoneLast3: "123",
+        customerName: "王小明",
+        status: "waiting_balance",
+        statusText: "待付尾款",
+        deposit: 500,
+        balance: 1280,
+        total: 1780,
+        deadline: "2026-03-31 23:59",
+        canPay: true,
+        paymentUrl: "https://example.com/pay/order-001",
+        items: [
+          "進擊的巨人壓克力立牌 x1",
+          "進擊的巨人吊飾 x2"
+        ]
+      },
+      {
+        orderNo: "KG20260326002",
+        phoneLast3: "456",
+        customerName: "陳小華",
+        status: "paid",
+        statusText: "尾款已付款",
+        deposit: 300,
+        balance: 950,
+        total: 1250,
+        deadline: "2026-03-28 23:59",
+        canPay: false,
+        paymentUrl: "",
+        items: [
+          "角色徽章組 x1",
+          "壓克力色紙 x1"
+        ]
+      }
+    ];
+
+    const orderNoInput = document.getElementById("orderNo");
+    const phoneLast3Input = document.getElementById("phoneLast3");
+    const searchBtn = document.getElementById("searchBtn");
+    const resetBtn = document.getElementById("resetBtn");
+    const messageBox = document.getElementById("messageBox");
+    const resultCard = document.getElementById("resultCard");
+
+    function formatMoney(amount) {
+      return "NT$ " + amount.toLocaleString("zh-TW");
+    }
+
+    function showMessage(text, type) {
+      messageBox.textContent = text;
+      messageBox.className = `message ${type}`;
+    }
+
+    function hideMessage() {
+      messageBox.textContent = "";
+      messageBox.className = "message hidden";
+    }
+
+    function getBadgeClass(status) {
+      if (status === "waiting_balance") return "badge ready";
+      if (status === "paid") return "badge paid";
+      if (status === "shipped") return "badge shipped";
+      return "badge pending";
+    }
+
+    function getStatusLabel(statusText) {
+      return statusText || "處理中";
+    }
+
+    function renderResult(order) {
+      document.getElementById("resultOrderTitle").textContent =
+        "訂單編號：" + order.orderNo;
+
+      const statusBadge = document.getElementById("statusBadge");
+      statusBadge.className = getBadgeClass(order.status);
+      statusBadge.textContent = getStatusLabel(order.statusText);
+
+      document.getElementById("customerName").textContent = order.customerName;
+      document.getElementById("orderStatusText").textContent = order.statusText;
+      document.getElementById("depositAmount").textContent = formatMoney(order.deposit);
+      document.getElementById("balanceAmount").textContent = formatMoney(order.balance);
+      document.getElementById("totalAmount").textContent = formatMoney(order.total);
+      document.getElementById("paymentDeadline").textContent = order.deadline;
+
+      const itemList = document.getElementById("itemList");
+      itemList.innerHTML = "";
+      order.items.forEach(item => {
+        const li = document.createElement("li");
+        li.textContent = item;
+        itemList.appendChild(li);
+      });
+
+      const paymentLinkWrap = document.getElementById("paymentLinkWrap");
+      paymentLinkWrap.innerHTML = "";
+
+      if (order.canPay && order.paymentUrl) {
+        const link = document.createElement("a");
+        link.href = order.paymentUrl;
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+        link.className = "pay-link";
+        link.textContent = "前往尾款下單";
+        paymentLinkWrap.appendChild(link);
+      } else {
+        const p = document.createElement("p");
+        p.className = "muted";
+        p.textContent = "目前無需前往尾款下單，或系統尚未開放尾款。";
+        paymentLinkWrap.appendChild(p);
+      }
+
+      resultCard.classList.remove("hidden");
+    }
+
+    function handleSearch() {
+      const orderNo = orderNoInput.value.trim();
+      const phoneLast3 = phoneLast3Input.value.trim();
+
+      hideMessage();
+      resultCard.classList.add("hidden");
+
+      if (!orderNo || !phoneLast3) {
+        showMessage("請完整輸入訂單編號與手機末三碼。", "error");
+        return;
+      }
+
+      if (!/^\d{3}$/.test(phoneLast3)) {
+        showMessage("手機末三碼格式不正確，請輸入 3 位數字。", "error");
+        return;
+      }
+
+      const foundOrder = demoOrders.find(order =>
+        order.orderNo === orderNo && order.phoneLast3 === phoneLast3
+      );
+
+      if (!foundOrder) {
+        showMessage("查無符合資料，請確認輸入資訊是否正確。", "error");
+        return;
+      }
+
+      showMessage("查詢成功，以下為您的訂單資訊。", "success");
+      renderResult(foundOrder);
+    }
+
+    function resetForm() {
+      orderNoInput.value = "";
+      phoneLast3Input.value = "";
+      hideMessage();
+      resultCard.classList.add("hidden");
+    }
+
+    searchBtn.addEventListener("click", handleSearch);
+    resetBtn.addEventListener("click", resetForm);
+
+    orderNoInput.addEventListener("keydown", function (e) {
+      if (e.key === "Enter") handleSearch();
+    });
+
+    phoneLast3Input.addEventListener("keydown", function (e) {
+      if (e.key === "Enter") handleSearch();
+    });
+  </script>
+</body>
+</html>
