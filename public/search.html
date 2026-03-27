@@ -279,7 +279,7 @@
 <body>
   <div class="container">
     <div class="topbar">
-      <div class="brand">Kaguya 訂單平台 Demo</div>
+      <div class="brand">獻出錢包！ 訂單平台 Demo</div>
       <div class="nav">
         <a href="./index.html">首頁</a>
         <a href="./search.html">訂單查詢</a>
@@ -289,19 +289,19 @@
     <div class="card">
       <h1>訂單查詢</h1>
       <p class="desc">
-        請輸入訂單編號與手機末三碼進行查詢。<br />
-        這是第一版示範頁面，目前使用前端假資料，之後可再改成連接 Cloudflare Functions / 資料庫。
+        請輸入訂購人姓名與手機末三碼進行查詢。<br />
+        這是第一版示範頁面，目前使用前端假資料，之後可再改成從 Excel / API / 資料庫抓資料。
       </p>
     </div>
 
     <div class="card">
       <div class="form-grid">
         <div>
-          <label for="orderNo">訂單編號</label>
+          <label for="customerNameInput">社群暱稱</label>
           <input
-            id="orderNo"
+            id="customerNameInput"
             type="text"
-            placeholder="例如：KG20260326001"
+            placeholder="例如：王小明"
           />
         </div>
 
@@ -323,8 +323,8 @@
 
       <div class="tip">
         測試資料可輸入：<br />
-        訂單編號：<strong>KG20260326001</strong>，手機末三碼：<strong>123</strong><br />
-        訂單編號：<strong>KG20260326002</strong>，手機末三碼：<strong>456</strong>
+        姓名：<strong>王小明</strong>，手機末三碼：<strong>123</strong><br />
+        姓名：<strong>陳小華</strong>，手機末三碼：<strong>456</strong>
       </div>
 
       <div id="messageBox" class="message hidden"></div>
@@ -337,6 +337,11 @@
       </div>
 
       <div class="info-grid">
+        <div class="info-box">
+          <div class="info-label">訂單編號</div>
+          <div class="info-value" id="orderNoText">-</div>
+        </div>
+
         <div class="info-box">
           <div class="info-label">訂購人</div>
           <div class="info-value" id="customerName">-</div>
@@ -378,7 +383,7 @@
       </div>
 
       <div class="footer-note">
-        目前為前端示範版本，資料寫在頁面內，尚未連接真實訂單資料庫。
+        目前為前端示範版本，資料寫在頁面內，尚未連接真實訂單資料來源。
       </div>
     </div>
   </div>
@@ -387,8 +392,8 @@
     const demoOrders = [
       {
         orderNo: "KG20260326001",
-        phoneLast3: "123",
         customerName: "王小明",
+        phoneLast3: "123",
         status: "waiting_balance",
         statusText: "待付尾款",
         deposit: 500,
@@ -404,8 +409,8 @@
       },
       {
         orderNo: "KG20260326002",
-        phoneLast3: "456",
         customerName: "陳小華",
+        phoneLast3: "456",
         status: "paid",
         statusText: "尾款已付款",
         deposit: 300,
@@ -421,7 +426,7 @@
       }
     ];
 
-    const orderNoInput = document.getElementById("orderNo");
+    const customerNameInput = document.getElementById("customerNameInput");
     const phoneLast3Input = document.getElementById("phoneLast3");
     const searchBtn = document.getElementById("searchBtn");
     const resetBtn = document.getElementById("resetBtn");
@@ -430,6 +435,10 @@
 
     function formatMoney(amount) {
       return "NT$ " + amount.toLocaleString("zh-TW");
+    }
+
+    function normalizeText(text) {
+      return text.trim().replace(/\s+/g, "").toLowerCase();
     }
 
     function showMessage(text, type) {
@@ -455,7 +464,8 @@
 
     function renderResult(order) {
       document.getElementById("resultOrderTitle").textContent =
-        "訂單編號：" + order.orderNo;
+        "查詢結果";
+      document.getElementById("orderNoText").textContent = order.orderNo;
 
       const statusBadge = document.getElementById("statusBadge");
       statusBadge.className = getBadgeClass(order.status);
@@ -498,14 +508,14 @@
     }
 
     function handleSearch() {
-      const orderNo = orderNoInput.value.trim();
+      const customerName = customerNameInput.value.trim();
       const phoneLast3 = phoneLast3Input.value.trim();
 
       hideMessage();
       resultCard.classList.add("hidden");
 
-      if (!orderNo || !phoneLast3) {
-        showMessage("請完整輸入訂單編號與手機末三碼。", "error");
+      if (!customerName || !phoneLast3) {
+        showMessage("請完整輸入姓名與手機末三碼。", "error");
         return;
       }
 
@@ -514,12 +524,15 @@
         return;
       }
 
+      const normalizedInputName = normalizeText(customerName);
+
       const foundOrder = demoOrders.find(order =>
-        order.orderNo === orderNo && order.phoneLast3 === phoneLast3
+        normalizeText(order.customerName) === normalizedInputName &&
+        order.phoneLast3 === phoneLast3
       );
 
       if (!foundOrder) {
-        showMessage("查無符合資料，請確認輸入資訊是否正確。", "error");
+        showMessage("查無符合資料，請確認姓名與手機末三碼是否正確。", "error");
         return;
       }
 
@@ -528,7 +541,7 @@
     }
 
     function resetForm() {
-      orderNoInput.value = "";
+      customerNameInput.value = "";
       phoneLast3Input.value = "";
       hideMessage();
       resultCard.classList.add("hidden");
@@ -537,7 +550,7 @@
     searchBtn.addEventListener("click", handleSearch);
     resetBtn.addEventListener("click", resetForm);
 
-    orderNoInput.addEventListener("keydown", function (e) {
+    customerNameInput.addEventListener("keydown", function (e) {
       if (e.key === "Enter") handleSearch();
     });
 
