@@ -1,0 +1,58 @@
+[
+  {
+    "socialName": "琳琳",
+    "title": "鬼滅之刃 萬代一番賞-繼任者",
+    "statusBadges": ["已出貨", "已抵台", "已付訂金"],
+    "productAmount": 1250,
+    "depositPaid": 1150,
+    "balanceDue": 100,
+    "etaText": "25天左右",
+    "paymentMethod": "匯款",
+    "contactUrl": "https://example.com/contact",
+    "items": [
+      { "name": "御守+3, 壓克力飯友義勇+1, 貼紙+1", "qty": 5 }
+    ]
+  },
+  {
+    "socialName": "琳琳",
+    "title": "JF25 先行商品事後通販搶購",
+    "statusBadges": ["已出貨", "已抵台"],
+    "productAmount": 460,
+    "depositPaid": 460,
+    "balanceDue": 0,
+    "etaText": "已到貨",
+    "paymentMethod": "匯款",
+    "contactUrl": "https://example.com/contact",
+    "items": [
+      { "name": "先行商品", "qty": 1 }
+    ]
+  },
+  {
+    "socialName": "琳琳",
+    "title": "失憶投捕一番賞",
+    "statusBadges": ["已出貨", "已抵台"],
+    "productAmount": 450,
+    "depositPaid": 450,
+    "balanceDue": 0,
+    "etaText": "已到貨",
+    "paymentMethod": "匯款",
+    "contactUrl": "https://example.com/contact",
+    "items": [
+      { "name": "一番賞商品", "qty": 2 }
+    ]
+  },
+  {
+    "socialName": "Hitch",
+    "title": "1029 鬼滅Look up",
+    "statusBadges": ["已付訂金"],
+    "productAmount": 1800,
+    "depositPaid": 800,
+    "balanceDue": 1102,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "items": [
+      { "name": "Look up 商品", "qty": 1 }
+    ]
+  }
+]

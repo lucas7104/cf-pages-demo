@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>訂單查詢｜cf-pages-demo</title>
+  <title>訂單查詢｜Kaguya 訂單平台 Demo</title>
   <style>
     * {
       box-sizing: border-box;
@@ -12,144 +12,127 @@
     body {
       margin: 0;
       font-family: Arial, "Microsoft JhengHei", sans-serif;
-      background: #f6f8fb;
-      color: #1f2937;
-      line-height: 1.7;
+      background: #f6f4ee;
+      color: #111;
     }
 
     a {
-      color: #2563eb;
+      color: inherit;
       text-decoration: none;
     }
 
-    a:hover {
-      text-decoration: underline;
-    }
-
     .container {
-      max-width: 900px;
+      max-width: 760px;
       margin: 0 auto;
-      padding: 24px 16px 48px;
+      padding: 24px 16px 56px;
     }
 
     .topbar {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      margin-bottom: 24px;
-      flex-wrap: wrap;
       gap: 12px;
+      flex-wrap: wrap;
+      margin-bottom: 20px;
     }
 
     .brand {
       font-size: 24px;
-      font-weight: 700;
+      font-weight: 800;
     }
 
     .nav {
       display: flex;
-      gap: 16px;
+      gap: 14px;
       flex-wrap: wrap;
     }
 
-    .card {
-      background: #ffffff;
-      border-radius: 16px;
-      padding: 24px;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
-      margin-bottom: 20px;
+    .nav a {
+      color: #555;
+      font-weight: 700;
+    }
+
+    .panel {
+      background: #fff;
+      border-radius: 22px;
+      padding: 22px;
+      box-shadow: 0 8px 28px rgba(0, 0, 0, 0.06);
+      margin-bottom: 18px;
     }
 
     h1 {
-      margin-top: 0;
-      margin-bottom: 8px;
-      font-size: 32px;
+      margin: 0 0 10px;
+      font-size: 30px;
     }
 
     .desc {
-      color: #4b5563;
-      margin-bottom: 0;
+      margin: 0;
+      color: #666;
+      line-height: 1.8;
     }
 
-    .form-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 16px;
+    .search-row {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-top: 16px;
     }
 
-    @media (max-width: 700px) {
-      .form-grid {
-        grid-template-columns: 1fr;
-      }
-    }
-
-    label {
-      display: block;
-      font-weight: 700;
-      margin-bottom: 6px;
-    }
-
-    input {
-      width: 100%;
-      padding: 12px 14px;
-      border: 1px solid #d1d5db;
-      border-radius: 10px;
+    input[type="text"] {
+      flex: 1;
+      min-width: 220px;
+      padding: 14px 16px;
+      border: 2px solid #ddd;
+      border-radius: 14px;
       font-size: 16px;
       outline: none;
       background: #fff;
     }
 
-    input:focus {
-      border-color: #2563eb;
-      box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.12);
-    }
-
-    .btn-row {
-      margin-top: 18px;
-      display: flex;
-      gap: 12px;
-      flex-wrap: wrap;
+    input[type="text"]:focus {
+      border-color: #7f7fff;
     }
 
     button {
       border: none;
-      border-radius: 10px;
-      padding: 12px 18px;
-      font-size: 16px;
       cursor: pointer;
-      font-weight: 700;
+      border-radius: 14px;
+      padding: 14px 18px;
+      font-size: 16px;
+      font-weight: 800;
     }
 
     .btn-primary {
-      background: #2563eb;
-      color: white;
+      background: #4ec7d0;
+      color: #fff;
     }
 
     .btn-secondary {
-      background: #e5e7eb;
-      color: #111827;
+      background: #ececec;
+      color: #333;
     }
 
     .tip {
-      margin-top: 14px;
-      color: #6b7280;
+      margin-top: 12px;
+      color: #777;
       font-size: 14px;
-    }
-
-    .hidden {
-      display: none;
+      line-height: 1.8;
     }
 
     .message {
-      border-radius: 12px;
+      margin-top: 14px;
+      border-radius: 14px;
       padding: 14px 16px;
-      margin-top: 16px;
-      font-weight: 700;
+      font-weight: 800;
+    }
+
+    .message.hidden {
+      display: none;
     }
 
     .message.error {
       background: #fee2e2;
-      color: #991b1b;
+      color: #a11b1b;
     }
 
     .message.success {
@@ -157,288 +140,491 @@
       color: #166534;
     }
 
-    .result-header {
+    .result-list {
+      display: grid;
+      gap: 18px;
+      margin-top: 22px;
+    }
+
+    .result-list.hidden {
+      display: none;
+    }
+
+    .order-card {
+      background: #f7f7f7;
+      border: 4px solid #111;
+      border-radius: 28px;
+      padding: 18px 18px 16px;
+      cursor: pointer;
+      transition: transform 0.12s ease, box-shadow 0.12s ease;
+    }
+
+    .order-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 10px 22px rgba(0, 0, 0, 0.08);
+    }
+
+    .badge-row {
       display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 12px;
+      gap: 8px;
       flex-wrap: wrap;
       margin-bottom: 16px;
     }
 
-    .order-title {
-      font-size: 24px;
-      font-weight: 700;
-      margin: 0;
-    }
-
     .badge {
-      display: inline-block;
-      padding: 6px 12px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 7px 14px;
       border-radius: 999px;
       font-size: 14px;
-      font-weight: 700;
+      font-weight: 800;
+      white-space: nowrap;
     }
 
-    .badge.pending {
-      background: #fef3c7;
-      color: #92400e;
+    .badge-teal {
+      background: #49c5ca;
+      color: #fff;
     }
 
-    .badge.ready {
-      background: #dbeafe;
-      color: #1d4ed8;
+    .badge-yellow {
+      background: #f0dd63;
+      color: #333;
     }
 
-    .badge.paid {
-      background: #dcfce7;
-      color: #166534;
+    .badge-cream {
+      background: #f6f3e8;
+      color: #55cfd2;
     }
 
-    .badge.shipped {
-      background: #ede9fe;
-      color: #6d28d9;
+    .card-main {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      gap: 18px;
     }
 
-    .info-grid {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 14px;
-      margin-top: 18px;
+    .card-title {
+      flex: 1;
+      font-size: 22px;
+      font-weight: 900;
+      line-height: 1.45;
     }
 
-    @media (max-width: 700px) {
-      .info-grid {
-        grid-template-columns: 1fr;
-      }
+    .card-right {
+      text-align: right;
+      min-width: 120px;
     }
 
-    .info-box {
-      background: #f9fafb;
-      border: 1px solid #e5e7eb;
-      border-radius: 12px;
-      padding: 14px 16px;
-    }
-
-    .info-label {
-      color: #6b7280;
-      font-size: 14px;
+    .amount-label {
+      font-size: 12px;
+      color: #999;
       margin-bottom: 4px;
+      font-weight: 700;
     }
 
-    .info-value {
-      font-size: 18px;
+    .amount-value {
+      font-size: 30px;
+      font-weight: 900;
+      color: #f1a6ef;
+    }
+
+    .count-pill {
+      display: inline-block;
+      margin-top: 18px;
+      border: 3px solid #111;
+      border-radius: 999px;
+      padding: 6px 14px;
+      font-size: 14px;
+      font-weight: 800;
+      background: #fff;
+    }
+
+    .modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.35);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 18px;
+      z-index: 999;
+    }
+
+    .modal-overlay.show {
+      display: flex;
+    }
+
+    .modal {
+      width: min(100%, 520px);
+      max-height: 92vh;
+      overflow-y: auto;
+      background: #fff;
+      border-radius: 26px;
+      padding: 18px 18px 22px;
+      position: relative;
+    }
+
+    .modal-close {
+      position: absolute;
+      top: 14px;
+      right: 14px;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: #f0f0f0;
+      color: #666;
+      font-size: 24px;
       font-weight: 700;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0;
+    }
+
+    .modal-title-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+
+    .diamond {
+      width: 14px;
+      height: 14px;
+      border: 2px solid #f1a6ef;
+      transform: rotate(45deg);
+      margin-left: 4px;
+    }
+
+    .modal-title {
+      font-size: 24px;
+      font-weight: 900;
+    }
+
+    .profile-card {
+      background: #f7f7f7;
+      border-radius: 20px;
+      padding: 16px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 18px;
+    }
+
+    .avatar {
+      width: 52px;
+      height: 52px;
+      border-radius: 50%;
+      background: #ef9eee;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 24px;
+      font-weight: 900;
+      flex-shrink: 0;
+    }
+
+    .profile-label {
+      color: #aaa;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .profile-name {
+      font-size: 18px;
+      font-weight: 900;
+      margin-top: 2px;
+    }
+
+    .detail-title {
+      margin: 16px 0 18px;
+      font-size: 22px;
+      font-weight: 900;
+      color: #5c69c8;
+      border-left: 5px solid #f1a6ef;
+      padding-left: 14px;
+      line-height: 1.5;
+    }
+
+    .mini-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+      margin-bottom: 18px;
+    }
+
+    .mini-box {
+      background: #f7f7f7;
+      border-radius: 18px;
+      padding: 16px;
+    }
+
+    .mini-label {
+      color: #a8adb7;
+      font-size: 14px;
+      font-weight: 800;
+      margin-bottom: 6px;
+    }
+
+    .mini-value {
+      font-size: 16px;
+      font-weight: 900;
+      color: #222;
+      line-height: 1.5;
     }
 
     .section-title {
-      margin-top: 24px;
-      margin-bottom: 10px;
-      font-size: 20px;
+      color: #b8bcc7;
+      font-size: 16px;
+      font-weight: 900;
+      margin: 20px 0 10px;
     }
 
-    .item-list {
-      margin: 0;
-      padding-left: 20px;
+    .item-box {
+      background: #f7f7f7;
+      border-radius: 20px;
+      padding: 16px;
     }
 
-    .pay-link {
-      display: inline-block;
-      margin-top: 16px;
-      background: #16a34a;
-      color: white;
-      padding: 12px 18px;
-      border-radius: 10px;
-      font-weight: 700;
-    }
-
-    .pay-link:hover {
-      text-decoration: none;
-      opacity: 0.92;
-    }
-
-    .notice {
-      margin-top: 16px;
+    .item-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      background: #fff;
+      border-radius: 16px;
       padding: 14px 16px;
-      border-radius: 12px;
-      background: #eff6ff;
-      color: #1e3a8a;
     }
 
-    .footer-note {
-      margin-top: 28px;
-      color: #6b7280;
+    .item-name {
+      font-size: 16px;
+      font-weight: 800;
+      line-height: 1.6;
+    }
+
+    .item-qty {
+      background: #ef9eee;
+      color: #fff;
+      border-radius: 999px;
+      padding: 6px 12px;
       font-size: 14px;
+      font-weight: 900;
+      white-space: nowrap;
     }
 
-    .muted {
-      color: #6b7280;
+    .money-box {
+      background: #f7f7f7;
+      border-radius: 22px;
+      padding: 18px;
+    }
+
+    .money-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      padding: 10px 0;
+      color: #666;
+      font-size: 16px;
+    }
+
+    .money-row strong {
+      color: #111;
+    }
+
+    .money-divider {
+      border-top: 2px dashed #ddd;
+      margin: 8px 0 10px;
+    }
+
+    .money-total {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      gap: 14px;
+      margin-top: 4px;
+    }
+
+    .money-total-label {
+      font-size: 20px;
+      font-weight: 900;
+    }
+
+    .money-total-value {
+      font-size: 28px;
+      font-weight: 900;
+      color: #f1a6ef;
+    }
+
+    .action-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+      margin-top: 20px;
+    }
+
+    .action-btn {
+      height: 54px;
+      border-radius: 999px;
+      font-size: 16px;
+      font-weight: 900;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+    }
+
+    .action-copy {
+      background: #ececec;
+      color: #555;
+    }
+
+    .action-contact {
+      background: #49c5ca;
+      color: #fff;
+    }
+
+    @media (max-width: 640px) {
+      .card-main {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .card-right {
+        text-align: left;
+      }
+
+      .amount-value {
+        font-size: 26px;
+      }
+
+      .mini-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .action-row {
+        grid-template-columns: 1fr;
+      }
     }
   </style>
 </head>
 <body>
   <div class="container">
     <div class="topbar">
-      <div class="brand">獻出錢包！ 訂單平台 Demo</div>
+      <div class="brand">Kaguya 訂單平台 Demo</div>
       <div class="nav">
         <a href="./index.html">首頁</a>
         <a href="./search.html">訂單查詢</a>
       </div>
     </div>
 
-    <div class="card">
-      <h1>訂單查詢</h1>
+    <div class="panel">
+      <h1>社群名查詢</h1>
       <p class="desc">
-        請輸入訂購人姓名與手機末三碼進行查詢。<br />
-        這是第一版示範頁面，目前使用前端假資料，之後可再改成從 Excel / API / 資料庫抓資料。
+        請輸入你的社群名。<br>
+        系統會列出該社群名底下的所有商品卡片，點擊後可查看詳細內容。
       </p>
-    </div>
 
-    <div class="card">
-      <div class="form-grid">
-        <div>
-          <label for="customerNameInput">社群暱稱</label>
-          <input
-            id="customerNameInput"
-            type="text"
-            placeholder="例如：王小明"
-          />
-        </div>
-
-        <div>
-          <label for="phoneLast3">手機末三碼</label>
-          <input
-            id="phoneLast3"
-            type="text"
-            maxlength="3"
-            placeholder="例如：123"
-          />
-        </div>
-      </div>
-
-      <div class="btn-row">
-        <button class="btn-primary" id="searchBtn">查詢訂單</button>
-        <button class="btn-secondary" id="resetBtn" type="button">清除</button>
+      <div class="search-row">
+        <input id="socialNameInput" type="text" placeholder="例如：琳琳" />
+        <button id="searchBtn" class="btn-primary">查詢</button>
+        <button id="resetBtn" class="btn-secondary" type="button">清除</button>
       </div>
 
       <div class="tip">
-        測試資料可輸入：<br />
-        姓名：<strong>王小明</strong>，手機末三碼：<strong>123</strong><br />
-        姓名：<strong>陳小華</strong>，手機末三碼：<strong>456</strong>
+        目前先讀取 <code>orders.json</code>。之後可以改成直接接 Google 試算表。
       </div>
 
       <div id="messageBox" class="message hidden"></div>
     </div>
 
-    <div id="resultCard" class="card hidden">
-      <div class="result-header">
-        <h2 class="order-title" id="resultOrderTitle">訂單資訊</h2>
-        <span id="statusBadge" class="badge">狀態</span>
+    <div id="resultList" class="result-list hidden"></div>
+  </div>
+
+  <div id="modalOverlay" class="modal-overlay">
+    <div class="modal">
+      <button id="closeModalBtn" class="modal-close" type="button">×</button>
+
+      <div class="modal-title-row">
+        <div class="diamond"></div>
+        <div class="modal-title">訂單詳情</div>
       </div>
 
-      <div class="info-grid">
-        <div class="info-box">
-          <div class="info-label">訂單編號</div>
-          <div class="info-value" id="orderNoText">-</div>
-        </div>
-
-        <div class="info-box">
-          <div class="info-label">訂購人</div>
-          <div class="info-value" id="customerName">-</div>
-        </div>
-
-        <div class="info-box">
-          <div class="info-label">訂單狀態</div>
-          <div class="info-value" id="orderStatusText">-</div>
-        </div>
-
-        <div class="info-box">
-          <div class="info-label">已付訂金</div>
-          <div class="info-value" id="depositAmount">-</div>
-        </div>
-
-        <div class="info-box">
-          <div class="info-label">尾款金額</div>
-          <div class="info-value" id="balanceAmount">-</div>
-        </div>
-
-        <div class="info-box">
-          <div class="info-label">總金額</div>
-          <div class="info-value" id="totalAmount">-</div>
-        </div>
-
-        <div class="info-box">
-          <div class="info-label">尾款期限</div>
-          <div class="info-value" id="paymentDeadline">-</div>
+      <div class="profile-card">
+        <div class="avatar">⍟</div>
+        <div>
+          <div class="profile-label">社群暱稱（請核對）</div>
+          <div id="modalSocialName" class="profile-name">-</div>
         </div>
       </div>
 
-      <h3 class="section-title">商品明細</h3>
-      <ul id="itemList" class="item-list"></ul>
+      <div id="modalBadgeRow" class="badge-row"></div>
 
-      <div id="paymentLinkWrap"></div>
+      <div id="modalTitle" class="detail-title">-</div>
 
-      <div class="notice" id="noticeText">
-        系統提醒：若尾款賣場開放後，請於期限內完成下單。
+      <div class="mini-grid">
+        <div class="mini-box">
+          <div class="mini-label">預計出貨</div>
+          <div id="modalEta" class="mini-value">-</div>
+        </div>
+        <div class="mini-box">
+          <div class="mini-label">付款方式</div>
+          <div id="modalPaymentMethod" class="mini-value">-</div>
+        </div>
       </div>
 
-      <div class="footer-note">
-        目前為前端示範版本，資料寫在頁面內，尚未連接真實訂單資料來源。
+      <div class="section-title">購買清單</div>
+      <div class="item-box">
+        <div id="modalItems"></div>
+      </div>
+
+      <div class="section-title">金額結算</div>
+      <div class="money-box">
+        <div class="money-row">
+          <span>商品總額</span>
+          <strong id="modalProductAmount">$0</strong>
+        </div>
+        <div class="money-row">
+          <span>應付訂金</span>
+          <span id="modalDepositPaid">- $0</span>
+        </div>
+        <div class="money-divider"></div>
+        <div class="money-total">
+          <div class="money-total-label">應補尾款</div>
+          <div id="modalBalanceDue" class="money-total-value">$0</div>
+        </div>
+      </div>
+
+      <div class="action-row">
+        <button id="copyBtn" class="action-btn action-copy" type="button">複製格式</button>
+        <a id="contactBtn" class="action-btn action-contact" href="#" target="_blank" rel="noopener noreferrer">聯絡客服</a>
       </div>
     </div>
   </div>
 
   <script>
-    const demoOrders = [
-      {
-        orderNo: "KG20260326001",
-        customerName: "王小明",
-        phoneLast3: "123",
-        status: "waiting_balance",
-        statusText: "待付尾款",
-        deposit: 500,
-        balance: 1280,
-        total: 1780,
-        deadline: "2026-03-31 23:59",
-        canPay: true,
-        paymentUrl: "https://example.com/pay/order-001",
-        items: [
-          "進擊的巨人壓克力立牌 x1",
-          "進擊的巨人吊飾 x2"
-        ]
-      },
-      {
-        orderNo: "KG20260326002",
-        customerName: "陳小華",
-        phoneLast3: "456",
-        status: "paid",
-        statusText: "尾款已付款",
-        deposit: 300,
-        balance: 950,
-        total: 1250,
-        deadline: "2026-03-28 23:59",
-        canPay: false,
-        paymentUrl: "",
-        items: [
-          "角色徽章組 x1",
-          "壓克力色紙 x1"
-        ]
-      }
-    ];
+    let allOrders = [];
+    let currentDetail = null;
 
-    const customerNameInput = document.getElementById("customerNameInput");
-    const phoneLast3Input = document.getElementById("phoneLast3");
+    const socialNameInput = document.getElementById("socialNameInput");
     const searchBtn = document.getElementById("searchBtn");
     const resetBtn = document.getElementById("resetBtn");
     const messageBox = document.getElementById("messageBox");
-    const resultCard = document.getElementById("resultCard");
-
-    function formatMoney(amount) {
-      return "NT$ " + amount.toLocaleString("zh-TW");
-    }
+    const resultList = document.getElementById("resultList");
+    const modalOverlay = document.getElementById("modalOverlay");
+    const closeModalBtn = document.getElementById("closeModalBtn");
+    const copyBtn = document.getElementById("copyBtn");
+    const contactBtn = document.getElementById("contactBtn");
 
     function normalizeText(text) {
-      return text.trim().replace(/\s+/g, "").toLowerCase();
+      return String(text || "").trim().replace(/\s+/g, "").toLowerCase();
+    }
+
+    function formatMoney(num) {
+      const value = Number(num || 0);
+      return "$" + value.toLocaleString("zh-TW");
     }
 
     function showMessage(text, type) {
@@ -451,112 +637,187 @@
       messageBox.className = "message hidden";
     }
 
-    function getBadgeClass(status) {
-      if (status === "waiting_balance") return "badge ready";
-      if (status === "paid") return "badge paid";
-      if (status === "shipped") return "badge shipped";
-      return "badge pending";
+    function getBadgeHtml(badgeText) {
+      const map = {
+        "已出貨": "badge badge-teal",
+        "已抵台": "badge badge-yellow",
+        "已付訂金": "badge badge-cream"
+      };
+      const className = map[badgeText] || "badge badge-teal";
+      return `<span class="${className}">${badgeText}</span>`;
     }
 
-    function getStatusLabel(statusText) {
-      return statusText || "處理中";
-    }
-
-    function renderResult(order) {
-      document.getElementById("resultOrderTitle").textContent =
-        "查詢結果";
-      document.getElementById("orderNoText").textContent = order.orderNo;
-
-      const statusBadge = document.getElementById("statusBadge");
-      statusBadge.className = getBadgeClass(order.status);
-      statusBadge.textContent = getStatusLabel(order.statusText);
-
-      document.getElementById("customerName").textContent = order.customerName;
-      document.getElementById("orderStatusText").textContent = order.statusText;
-      document.getElementById("depositAmount").textContent = formatMoney(order.deposit);
-      document.getElementById("balanceAmount").textContent = formatMoney(order.balance);
-      document.getElementById("totalAmount").textContent = formatMoney(order.total);
-      document.getElementById("paymentDeadline").textContent = order.deadline;
-
-      const itemList = document.getElementById("itemList");
-      itemList.innerHTML = "";
-      order.items.forEach(item => {
-        const li = document.createElement("li");
-        li.textContent = item;
-        itemList.appendChild(li);
-      });
-
-      const paymentLinkWrap = document.getElementById("paymentLinkWrap");
-      paymentLinkWrap.innerHTML = "";
-
-      if (order.canPay && order.paymentUrl) {
-        const link = document.createElement("a");
-        link.href = order.paymentUrl;
-        link.target = "_blank";
-        link.rel = "noopener noreferrer";
-        link.className = "pay-link";
-        link.textContent = "前往尾款下單";
-        paymentLinkWrap.appendChild(link);
-      } else {
-        const p = document.createElement("p");
-        p.className = "muted";
-        p.textContent = "目前無需前往尾款下單，或系統尚未開放尾款。";
-        paymentLinkWrap.appendChild(p);
+    function renderCards(orders) {
+      if (!orders.length) {
+        resultList.innerHTML = "";
+        resultList.classList.add("hidden");
+        showMessage("查無符合的社群名，請再確認一次。", "error");
+        return;
       }
 
-      resultCard.classList.remove("hidden");
+      hideMessage();
+      resultList.classList.remove("hidden");
+
+      resultList.innerHTML = orders.map((order, index) => {
+        const badges = (order.statusBadges || []).map(getBadgeHtml).join("");
+        const itemCount = (order.items || []).reduce((sum, item) => sum + Number(item.qty || 0), 0);
+
+        return `
+          <article class="order-card" data-index="${index}">
+            <div class="badge-row">${badges}</div>
+
+            <div class="card-main">
+              <div>
+                <div class="card-title">${order.title || "未命名商品"}</div>
+                <div class="count-pill">共 ${itemCount} 件</div>
+              </div>
+
+              <div class="card-right">
+                <div class="amount-label">商品總額</div>
+                <div class="amount-value">${formatMoney(order.productAmount)}</div>
+              </div>
+            </div>
+          </article>
+        `;
+      }).join("");
+
+      document.querySelectorAll(".order-card").forEach((card, index) => {
+        card.addEventListener("click", () => openDetail(orders[index]));
+      });
+
+      showMessage(`查詢成功，共找到 ${orders.length} 筆商品。`, "success");
+    }
+
+    function renderModalItems(items) {
+      if (!items || !items.length) {
+        return `
+          <div class="item-row">
+            <div class="item-name">目前沒有商品明細</div>
+            <div class="item-qty">x0</div>
+          </div>
+        `;
+      }
+
+      return items.map(item => `
+        <div class="item-row" style="margin-bottom: 10px;">
+          <div class="item-name">${item.name}</div>
+          <div class="item-qty">x${item.qty}</div>
+        </div>
+      `).join("");
+    }
+
+    function openDetail(order) {
+      currentDetail = order;
+
+      document.getElementById("modalSocialName").textContent = order.socialName || "-";
+      document.getElementById("modalBadgeRow").innerHTML =
+        (order.statusBadges || []).map(getBadgeHtml).join("");
+      document.getElementById("modalTitle").textContent = order.title || "-";
+      document.getElementById("modalEta").textContent = order.etaText || "-";
+      document.getElementById("modalPaymentMethod").textContent = order.paymentMethod || "-";
+      document.getElementById("modalItems").innerHTML = renderModalItems(order.items);
+      document.getElementById("modalProductAmount").textContent = formatMoney(order.productAmount);
+      document.getElementById("modalDepositPaid").textContent = "- " + formatMoney(order.depositPaid);
+      document.getElementById("modalBalanceDue").textContent = formatMoney(order.balanceDue);
+
+      if (order.contactUrl) {
+        contactBtn.href = order.contactUrl;
+        contactBtn.style.pointerEvents = "auto";
+        contactBtn.style.opacity = "1";
+      } else {
+        contactBtn.href = "#";
+        contactBtn.style.pointerEvents = "none";
+        contactBtn.style.opacity = "0.6";
+      }
+
+      modalOverlay.classList.add("show");
+    }
+
+    function closeDetail() {
+      modalOverlay.classList.remove("show");
+      currentDetail = null;
     }
 
     function handleSearch() {
-      const customerName = customerNameInput.value.trim();
-      const phoneLast3 = phoneLast3Input.value.trim();
+      const keyword = normalizeText(socialNameInput.value);
 
+      resultList.classList.add("hidden");
+      resultList.innerHTML = "";
       hideMessage();
-      resultCard.classList.add("hidden");
 
-      if (!customerName || !phoneLast3) {
-        showMessage("請完整輸入姓名與手機末三碼。", "error");
+      if (!keyword) {
+        showMessage("請輸入社群名。", "error");
         return;
       }
 
-      if (!/^\d{3}$/.test(phoneLast3)) {
-        showMessage("手機末三碼格式不正確，請輸入 3 位數字。", "error");
-        return;
-      }
-
-      const normalizedInputName = normalizeText(customerName);
-
-      const foundOrder = demoOrders.find(order =>
-        normalizeText(order.customerName) === normalizedInputName &&
-        order.phoneLast3 === phoneLast3
+      const matched = allOrders.filter(order =>
+        normalizeText(order.socialName).includes(keyword)
       );
 
-      if (!foundOrder) {
-        showMessage("查無符合資料，請確認姓名與手機末三碼是否正確。", "error");
-        return;
-      }
-
-      showMessage("查詢成功，以下為您的訂單資訊。", "success");
-      renderResult(foundOrder);
+      renderCards(matched);
     }
 
-    function resetForm() {
-      customerNameInput.value = "";
-      phoneLast3Input.value = "";
+    function resetSearch() {
+      socialNameInput.value = "";
       hideMessage();
-      resultCard.classList.add("hidden");
+      resultList.classList.add("hidden");
+      resultList.innerHTML = "";
     }
 
-    searchBtn.addEventListener("click", handleSearch);
-    resetBtn.addEventListener("click", resetForm);
+    async function loadOrders() {
+      try {
+        const response = await fetch("./orders.json");
+        if (!response.ok) throw new Error("無法讀取 orders.json");
+        allOrders = await response.json();
+      } catch (error) {
+        console.error(error);
+        showMessage("資料載入失敗，請確認 orders.json 是否存在。", "error");
+      }
+    }
 
-    customerNameInput.addEventListener("keydown", function (e) {
-      if (e.key === "Enter") handleSearch();
-    });
+    async function init() {
+      await loadOrders();
 
-    phoneLast3Input.addEventListener("keydown", function (e) {
-      if (e.key === "Enter") handleSearch();
-    });
+      searchBtn.addEventListener("click", handleSearch);
+      resetBtn.addEventListener("click", resetSearch);
+
+      socialNameInput.addEventListener("keydown", (e) => {
+        if (e.key === "Enter") handleSearch();
+      });
+
+      closeModalBtn.addEventListener("click", closeDetail);
+
+      modalOverlay.addEventListener("click", (e) => {
+        if (e.target === modalOverlay) {
+          closeDetail();
+        }
+      });
+
+      copyBtn.addEventListener("click", async () => {
+        if (!currentDetail) return;
+
+        const itemText = (currentDetail.items || [])
+          .map(item => `${item.name} x${item.qty}`)
+          .join("、");
+
+        const copyText =
+`社群名：${currentDetail.socialName}
+商品：${currentDetail.title}
+商品總額：${formatMoney(currentDetail.productAmount)}
+已付訂金：${formatMoney(currentDetail.depositPaid)}
+應補尾款：${formatMoney(currentDetail.balanceDue)}
+商品明細：${itemText}`;
+
+        try {
+          await navigator.clipboard.writeText(copyText);
+          alert("已複製格式！");
+        } catch (error) {
+          alert("複製失敗，請手動複製。");
+        }
+      });
+    }
+
+    init();
   </script>
 </body>
 </html>
