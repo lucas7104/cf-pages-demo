@@ -1,0 +1,452 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>管理版首頁｜獻出錢包！</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Arial, "Microsoft JhengHei", sans-serif;
+      background: #f6f4ee;
+      color: #111;
+    }
+    a { color: inherit; text-decoration: none; }
+    button { font: inherit; }
+    .container {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 24px 16px 56px;
+    }
+    .topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-bottom: 20px;
+    }
+    .brand {
+      font-size: 24px;
+      font-weight: 800;
+    }
+    .nav {
+      display: flex;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+    .nav a {
+      color: #555;
+      font-weight: 700;
+    }
+    .hero, .vip-card, .loading-box {
+      background: #fff;
+      border-radius: 24px;
+      box-shadow: 0 8px 28px rgba(0, 0, 0, 0.06);
+    }
+    .hero {
+      padding: 24px;
+      margin-bottom: 24px;
+    }
+    .hero h1 {
+      margin: 0 0 10px;
+      font-size: 30px;
+    }
+    .hero p {
+      margin: 0;
+      color: #666;
+      line-height: 1.8;
+    }
+    .hero-actions {
+      margin-top: 18px;
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    .mode-badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 999px;
+      padding: 6px 12px;
+      margin-bottom: 12px;
+      font-size: 14px;
+      font-weight: 800;
+      background: #e9e8ff;
+      color: #4a4fb9;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border: none;
+      border-radius: 14px;
+      padding: 14px 18px;
+      font-size: 16px;
+      font-weight: 800;
+      cursor: pointer;
+    }
+    .btn-primary {
+      background: #4ec7d0;
+      color: #fff;
+    }
+    .btn-secondary {
+      background: #ececec;
+      color: #333;
+    }
+    .loading-box {
+      padding: 18px 20px;
+      color: #666;
+      font-weight: 800;
+      margin-top: 10px;
+    }
+    .vip-app { display: none; }
+    .vip-toolbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-bottom: 14px;
+    }
+    .back-btn {
+      border: none;
+      background: #ececec;
+      color: #333;
+      border-radius: 999px;
+      padding: 10px 16px;
+      font-weight: 800;
+      cursor: pointer;
+    }
+    .back-btn.hidden { display: none; }
+    .breadcrumb {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      color: #666;
+      font-weight: 700;
+    }
+    .breadcrumb-link {
+      cursor: pointer;
+      color: #5c69c8;
+      font-weight: 800;
+    }
+    .section-title {
+      font-size: 28px;
+      font-weight: 900;
+      color: #5c69c8;
+      margin: 0 0 16px;
+    }
+    .nav-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 16px;
+      margin-bottom: 20px;
+    }
+    .nav-card {
+      background: #fff;
+      border: 4px solid #111;
+      border-radius: 24px;
+      padding: 18px;
+      cursor: pointer;
+      transition: transform 0.12s ease, box-shadow 0.12s ease;
+    }
+    .nav-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 10px 22px rgba(0, 0, 0, 0.08);
+    }
+    .nav-card-title {
+      font-size: 22px;
+      font-weight: 900;
+      color: #5c69c8;
+      line-height: 1.4;
+    }
+    .nav-card-sub {
+      margin-top: 8px;
+      color: #777;
+      font-weight: 700;
+      font-size: 14px;
+    }
+    .vip-card {
+      padding: 20px;
+    }
+    .vip-card-title {
+      margin: 0 0 14px;
+      font-size: 22px;
+      font-weight: 900;
+      color: #5c69c8;
+    }
+    .vip-list {
+      display: grid;
+      gap: 10px;
+    }
+    .vip-row {
+      display: grid;
+      grid-template-columns: 44px 1fr auto;
+      align-items: center;
+      gap: 12px;
+      padding: 12px 14px;
+      border-radius: 16px;
+      background: #f7f7f7;
+    }
+    .vip-rank {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      background: #ef9eee;
+      color: #fff;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 14px;
+      font-weight: 900;
+    }
+    .vip-name {
+      font-size: 16px;
+      font-weight: 800;
+      line-height: 1.5;
+      word-break: break-word;
+    }
+    .vip-amount {
+      font-size: 16px;
+      font-weight: 900;
+      color: #f08dde;
+      white-space: nowrap;
+    }
+    .empty-text {
+      color: #777;
+      line-height: 1.8;
+      font-weight: 700;
+    }
+    .hint {
+      margin-top: 12px;
+      color: #777;
+      line-height: 1.8;
+      font-size: 14px;
+      font-weight: 700;
+    }
+    @media (max-width: 800px) {
+      .nav-grid { grid-template-columns: 1fr; }
+    }
+    @media (max-width: 640px) {
+      .vip-row { grid-template-columns: 40px 1fr; }
+      .vip-amount { grid-column: 2 / 3; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="topbar">
+      <div class="brand">獻出錢包！ 訂單平台 Demo｜管理版</div>
+      <div class="nav">
+        <a href="./index.html">管理首頁</a>
+        <a href="./search.html">管理查詢</a>
+        <a href="../index.html">公開首頁</a>
+      </div>
+    </div>
+
+    <div class="hero">
+      <div class="mode-badge">管理版</div>
+      <h1>VIP 排行總覽</h1>
+      <p>
+        此頁僅提供給已通過 Cloudflare Access 驗證的特定帳號。<br>
+        這裡會顯示各月份 VIP、2025VIP、2026VIP、全部的VIP。
+      </p>
+
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="./search.html">前往管理查詢</a>
+        <a class="btn btn-secondary" href="../search.html">查看公開查詢</a>
+      </div>
+
+      <div class="hint">
+        台北動漫節資料仍會保留在管理查詢訂單中，但不會列入 VIP 排行。
+      </div>
+    </div>
+
+    <div id="loadingBox" class="loading-box">VIP 資料載入中...</div>
+
+    <div id="vipApp" class="vip-app">
+      <div class="vip-toolbar">
+        <button id="backBtn" class="back-btn hidden" type="button">← 返回上一層</button>
+        <div id="breadcrumb" class="breadcrumb"></div>
+      </div>
+
+      <h2 id="sectionTitle" class="section-title">全部的VIP</h2>
+
+      <div id="navGrid" class="nav-grid"></div>
+
+      <section class="vip-card">
+        <h3 id="vipCardTitle" class="vip-card-title">全部的VIP 前 10 名</h3>
+        <div id="vipList" class="vip-list"></div>
+      </section>
+    </div>
+  </div>
+
+  <script>
+    const loadingBox = document.getElementById("loadingBox");
+    const vipApp = document.getElementById("vipApp");
+    const backBtn = document.getElementById("backBtn");
+    const breadcrumb = document.getElementById("breadcrumb");
+    const sectionTitle = document.getElementById("sectionTitle");
+    const navGrid = document.getElementById("navGrid");
+    const vipCardTitle = document.getElementById("vipCardTitle");
+    const vipList = document.getElementById("vipList");
+
+    let vipData = null;
+    let currentSectionKey = "root";
+
+    function formatMoney(num) {
+      const value = Number(num || 0);
+      return "$" + value.toLocaleString("zh-TW");
+    }
+
+    function getSection(sectionKey) {
+      return vipData?.sections?.[sectionKey] || null;
+    }
+
+    function getPath(sectionKey) {
+      const path = [];
+      let cursor = sectionKey;
+
+      while (cursor) {
+        path.unshift(cursor);
+        const current = getSection(cursor);
+        cursor = current?.parent || null;
+      }
+
+      return path;
+    }
+
+    function renderBreadcrumb(sectionKey) {
+      const path = getPath(sectionKey);
+
+      breadcrumb.innerHTML = path.map((key, index) => {
+        const section = getSection(key);
+        if (!section) return "";
+
+        if (index === path.length - 1) {
+          return `<span>${section.label}</span>`;
+        }
+
+        return `
+          <span class="breadcrumb-link" data-section="${key}">${section.label}</span>
+          <span>›</span>
+        `;
+      }).join("");
+    }
+
+    function renderNavCards(sectionKey) {
+      const section = getSection(sectionKey);
+      const children = section?.children || [];
+
+      if (!children.length) {
+        navGrid.style.display = "none";
+        navGrid.innerHTML = "";
+        return;
+      }
+
+      navGrid.style.display = "grid";
+      navGrid.innerHTML = children.map((key) => {
+        const child = getSection(key);
+        if (!child) return "";
+
+        return `
+          <article class="nav-card" data-section="${key}">
+            <div class="nav-card-title">${child.label}</div>
+            <div class="nav-card-sub">點擊查看排行</div>
+          </article>
+        `;
+      }).join("");
+    }
+
+    function renderVipList(sectionKey) {
+      const section = getSection(sectionKey);
+      const topTen = section?.topTen || [];
+
+      if (!section) return;
+
+      vipCardTitle.textContent = `${section.label} 前 10 名`;
+
+      if (!topTen.length) {
+        vipList.innerHTML = `<div class="empty-text">目前無資料</div>`;
+        return;
+      }
+
+      vipList.innerHTML = topTen.map((item, index) => `
+        <div class="vip-row">
+          <div class="vip-rank">${index + 1}</div>
+          <div class="vip-name">${item.name}</div>
+          <div class="vip-amount">${formatMoney(item.amount)}</div>
+        </div>
+      `).join("");
+    }
+
+    function renderSection(sectionKey) {
+      const section = getSection(sectionKey);
+      if (!section) return;
+
+      currentSectionKey = sectionKey;
+      sectionTitle.textContent = section.label;
+
+      renderBreadcrumb(sectionKey);
+      renderNavCards(sectionKey);
+      renderVipList(sectionKey);
+
+      if (section.parent) {
+        backBtn.classList.remove("hidden");
+      } else {
+        backBtn.classList.add("hidden");
+      }
+    }
+
+    async function init() {
+      try {
+        const response = await fetch("./vip.json");
+        if (!response.ok) {
+          throw new Error("無法讀取 vip.json");
+        }
+
+        vipData = await response.json();
+
+        loadingBox.style.display = "none";
+        vipApp.style.display = "block";
+        renderSection("root");
+      } catch (error) {
+        console.error(error);
+        loadingBox.textContent = "VIP 資料載入失敗，請確認 vip.json 是否存在。";
+      }
+    }
+
+    navGrid.addEventListener("click", (e) => {
+      const card = e.target.closest(".nav-card");
+      if (!card) return;
+
+      const sectionKey = card.dataset.section;
+      if (!getSection(sectionKey)) return;
+
+      renderSection(sectionKey);
+    });
+
+    breadcrumb.addEventListener("click", (e) => {
+      const link = e.target.closest(".breadcrumb-link");
+      if (!link) return;
+
+      const sectionKey = link.dataset.section;
+      if (!getSection(sectionKey)) return;
+
+      renderSection(sectionKey);
+    });
+
+    backBtn.addEventListener("click", () => {
+      const current = getSection(currentSectionKey);
+      const parent = current?.parent;
+      if (!parent) return;
+      renderSection(parent);
+    });
+
+    init();
+  </script>
+</body>
+</html>

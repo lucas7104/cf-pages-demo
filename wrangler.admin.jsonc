@@ -1,0 +1,7 @@
+{
+  "name": "cf-pages-demo-admin",
+  "compatibility_date": "2026-04-18",
+  "assets": {
+    "directory": "./site-admin"
+  }
+}

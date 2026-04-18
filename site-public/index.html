@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>獻出錢包！首頁</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Arial, "Microsoft JhengHei", sans-serif;
+      background: #f6f4ee;
+      color: #111;
+    }
+    a { color: inherit; text-decoration: none; }
+    .container {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 24px 16px 56px;
+    }
+    .topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-bottom: 20px;
+    }
+    .brand { font-size: 24px; font-weight: 800; }
+    .nav {
+      display: flex;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+    .nav a {
+      color: #555;
+      font-weight: 700;
+    }
+    .hero, .info-card {
+      background: #fff;
+      border-radius: 24px;
+      padding: 24px;
+      box-shadow: 0 8px 28px rgba(0, 0, 0, 0.06);
+      margin-bottom: 20px;
+    }
+    .hero h1 {
+      margin: 0 0 10px;
+      font-size: 30px;
+    }
+    .hero p,
+    .info-card p {
+      margin: 0;
+      color: #666;
+      line-height: 1.8;
+    }
+    .hero-actions {
+      margin-top: 18px;
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border: none;
+      border-radius: 14px;
+      padding: 14px 18px;
+      font-size: 16px;
+      font-weight: 800;
+      cursor: pointer;
+    }
+    .btn-primary {
+      background: #4ec7d0;
+      color: #fff;
+    }
+    .info-title {
+      margin: 0 0 10px;
+      font-size: 22px;
+      font-weight: 900;
+      color: #5c69c8;
+    }
+    .note {
+      margin-top: 10px;
+      font-size: 14px;
+      color: #777;
+      font-weight: 700;
+      line-height: 1.8;
+    }
+    code {
+      background: #f3f3f3;
+      padding: 2px 6px;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="topbar">
+      <div class="brand">獻出錢包！ 訂單平台 Demo</div>
+      <div class="nav">
+        <a href="./index.html">首頁</a>
+        <a href="./search.html">訂單查詢</a>
+      </div>
+    </div>
+
+    <section class="hero">
+      <h1>歡迎來到訂單平台</h1>
+      <p>
+        這裡提供一般查詢入口。<br>
+        若要查詢自己的訂單，請前往訂單查詢頁面輸入社群名。
+      </p>
+
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="./search.html">前往訂單查詢</a>
+      </div>
+    </section>
+
+    <section class="info-card">
+      <h2 class="info-title">公開版說明</h2>
+      <p>
+        公開版僅提供一般訂單查詢功能。<br>
+        管理資訊（例如目前所買金額、各月份 VIP、2025VIP、2026VIP、全部的VIP）
+        會放在管理版，並由 Cloudflare Access 保護。
+      </p>
+      <div class="note">
+        若你是管理者，可直接前往 <code>/admin/</code>，系統會要求先通過 Access 驗證。
+      </div>
+    </section>
+  </div>
+</body>
+</html>

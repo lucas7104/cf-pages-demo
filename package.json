@@ -1,0 +1,17 @@
+{
+  "name": "cf-pages-demo-split-workers",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "node ./scripts/sync-google-sheet.mjs",
+    "deploy:public": "wrangler deploy -c wrangler.public.jsonc",
+    "deploy:admin": "wrangler deploy -c wrangler.admin.jsonc",
+    "deploy:all": "npm run deploy:public && npm run deploy:admin"
+  },
+  "devDependencies": {
+    "wrangler": "^4.68.0"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}

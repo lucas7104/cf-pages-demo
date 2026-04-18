@@ -1,0 +1,936 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>訂單查詢｜獻出錢包！ 訂單平台 Demo</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, "Microsoft JhengHei", sans-serif;
+      background: #f6f4ee;
+      color: #111;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .container {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 24px 16px 56px;
+    }
+
+    .topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-bottom: 20px;
+    }
+
+    .brand {
+      font-size: 24px;
+      font-weight: 800;
+    }
+
+    .nav {
+      display: flex;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+
+    .nav a {
+      color: #555;
+      font-weight: 700;
+    }
+
+    .panel {
+      background: #fff;
+      border-radius: 22px;
+      padding: 22px;
+      box-shadow: 0 8px 28px rgba(0, 0, 0, 0.06);
+      margin-bottom: 18px;
+    }
+
+    .mode-badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 999px;
+      padding: 6px 12px;
+      margin-bottom: 12px;
+      font-size: 14px;
+      font-weight: 800;
+      background: #ececec;
+      color: #333;
+    }
+
+    h1 {
+      margin: 0 0 10px;
+      font-size: 30px;
+    }
+
+    .desc {
+      margin: 0;
+      color: #666;
+      line-height: 1.8;
+    }
+
+    .search-row {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-top: 16px;
+    }
+
+    input[type="text"] {
+      flex: 1;
+      min-width: 220px;
+      padding: 14px 16px;
+      border: 2px solid #ddd;
+      border-radius: 14px;
+      font-size: 16px;
+      outline: none;
+      background: #fff;
+    }
+
+    input[type="text"]:focus {
+      border-color: #7f7fff;
+    }
+
+    button {
+      border: none;
+      cursor: pointer;
+      border-radius: 14px;
+      padding: 14px 18px;
+      font-size: 16px;
+      font-weight: 800;
+    }
+
+    .btn-primary {
+      background: #4ec7d0;
+      color: #fff;
+    }
+
+    .btn-secondary {
+      background: #ececec;
+      color: #333;
+    }
+
+    .tip {
+      margin-top: 12px;
+      color: #777;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    .message {
+      margin-top: 14px;
+      border-radius: 14px;
+      padding: 14px 16px;
+      font-weight: 800;
+    }
+
+    .message.hidden {
+      display: none;
+    }
+
+    .message.error {
+      background: #fee2e2;
+      color: #a11b1b;
+    }
+
+    .message.success {
+      background: #dcfce7;
+      color: #166534;
+    }
+
+    .message-content {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .message-total {
+      white-space: nowrap;
+    }
+
+    @media (max-width: 640px) {
+      .message-content {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    }
+
+    .result-list {
+      display: grid;
+      gap: 18px;
+      margin-top: 22px;
+    }
+
+    .result-list.hidden {
+      display: none;
+    }
+
+    .order-card {
+      background: #f7f7f7;
+      border: 4px solid #111;
+      border-radius: 28px;
+      padding: 18px 18px 16px;
+      cursor: pointer;
+      transition: transform 0.12s ease, box-shadow 0.12s ease;
+    }
+
+    .order-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 10px 22px rgba(0, 0, 0, 0.08);
+    }
+
+    .badge-row {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 16px;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 7px 14px;
+      border-radius: 999px;
+      font-size: 14px;
+      font-weight: 800;
+      white-space: nowrap;
+    }
+
+    .badge-teal {
+      background: #49c5ca;
+      color: #fff;
+    }
+
+    .badge-yellow {
+      background: #f0dd63;
+      color: #333;
+    }
+
+    .badge-cream {
+      background: #f6f3e8;
+      color: #55cfd2;
+    }
+
+    .card-main {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      gap: 18px;
+    }
+
+    .card-title {
+      flex: 1;
+      font-size: 22px;
+      font-weight: 900;
+      line-height: 1.45;
+    }
+
+    .card-right {
+      text-align: right;
+      min-width: 120px;
+    }
+
+    .amount-label {
+      font-size: 12px;
+      color: #999;
+      margin-bottom: 4px;
+      font-weight: 700;
+    }
+
+    .amount-value {
+      font-size: 30px;
+      font-weight: 900;
+      color: #f1a6ef;
+    }
+
+    .count-pill {
+      display: inline-block;
+      margin-top: 18px;
+      border: 3px solid #111;
+      border-radius: 999px;
+      padding: 6px 14px;
+      font-size: 14px;
+      font-weight: 800;
+      background: #fff;
+    }
+
+    .modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.35);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 18px;
+      z-index: 999;
+    }
+
+    .modal-overlay.show {
+      display: flex;
+    }
+
+    .modal {
+      width: min(100%, 520px);
+      max-height: 92vh;
+      overflow-y: auto;
+      background: #fff;
+      border-radius: 26px;
+      padding: 18px 18px 22px;
+      position: relative;
+    }
+
+    .modal-close {
+      position: absolute;
+      top: 14px;
+      right: 14px;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: #f0f0f0;
+      color: #666;
+      font-size: 24px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0;
+    }
+
+    .modal-title-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+
+    .diamond {
+      width: 14px;
+      height: 14px;
+      border: 2px solid #f1a6ef;
+      transform: rotate(45deg);
+      margin-left: 4px;
+    }
+
+    .modal-title {
+      font-size: 24px;
+      font-weight: 900;
+    }
+
+    .profile-card {
+      background: #f7f7f7;
+      border-radius: 20px;
+      padding: 16px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 18px;
+    }
+
+    .avatar {
+      width: 52px;
+      height: 52px;
+      border-radius: 50%;
+      background: #ef9eee;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 24px;
+      font-weight: 900;
+      flex-shrink: 0;
+    }
+
+    .profile-label {
+      color: #aaa;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .profile-name {
+      font-size: 18px;
+      font-weight: 900;
+      margin-top: 2px;
+    }
+
+    .detail-title {
+      margin: 16px 0 18px;
+      font-size: 22px;
+      font-weight: 900;
+      color: #5c69c8;
+      border-left: 5px solid #f1a6ef;
+      padding-left: 14px;
+      line-height: 1.5;
+    }
+
+    .mini-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+      margin-bottom: 18px;
+    }
+
+    .mini-box {
+      background: #f7f7f7;
+      border-radius: 18px;
+      padding: 16px;
+    }
+
+    .mini-label {
+      color: #a8adb7;
+      font-size: 14px;
+      font-weight: 800;
+      margin-bottom: 6px;
+    }
+
+    .mini-value {
+      font-size: 16px;
+      font-weight: 900;
+      color: #222;
+      line-height: 1.5;
+    }
+
+    .section-title {
+      color: #b8bcc7;
+      font-size: 16px;
+      font-weight: 900;
+      margin: 20px 0 10px;
+    }
+
+    .item-box {
+      background: #f7f7f7;
+      border-radius: 20px;
+      padding: 16px;
+    }
+
+    .item-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      background: #fff;
+      border-radius: 16px;
+      padding: 14px 16px;
+    }
+
+    .item-name {
+      font-size: 16px;
+      font-weight: 800;
+      line-height: 1.6;
+    }
+
+    .item-qty {
+      background: #ef9eee;
+      color: #fff;
+      border-radius: 999px;
+      padding: 6px 12px;
+      font-size: 14px;
+      font-weight: 900;
+      white-space: nowrap;
+    }
+
+    .money-box {
+      background: #f7f7f7;
+      border-radius: 22px;
+      padding: 18px;
+    }
+
+    .money-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      padding: 10px 0;
+      color: #666;
+      font-size: 16px;
+    }
+
+    .second-payment-breakdown {
+      margin-top: -2px;
+      margin-bottom: 8px;
+      padding: 2px 0 4px;
+    }
+
+    .second-payment-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      padding: 4px 0 4px 14px;
+      color: #8a8a8a;
+      font-size: 14px;
+    }
+
+    .second-payment-row span:last-child {
+      white-space: nowrap;
+    }
+
+    .money-row strong {
+      color: #111;
+    }
+
+    .money-divider {
+      border-top: 2px dashed #ddd;
+      margin: 8px 0 10px;
+    }
+
+    .money-total {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      gap: 14px;
+      margin-top: 4px;
+    }
+
+    .money-total-label {
+      font-size: 20px;
+      font-weight: 900;
+    }
+
+    .money-total-value {
+      font-size: 28px;
+      font-weight: 900;
+      color: #f1a6ef;
+    }
+
+    .action-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+      margin-top: 20px;
+    }
+
+    .action-btn {
+      height: 54px;
+      border-radius: 999px;
+      font-size: 16px;
+      font-weight: 900;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+    }
+
+    .action-copy {
+      background: #ececec;
+      color: #555;
+    }
+
+    .action-contact {
+      background: #49c5ca;
+      color: #fff;
+    }
+
+    @media (max-width: 640px) {
+      .card-main {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .card-right {
+        text-align: left;
+      }
+
+      .amount-value {
+        font-size: 26px;
+      }
+
+      .mini-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .action-row {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="topbar">
+      <div class="brand">獻出錢包！ 訂單平台 Demo</div>
+      <div class="nav">
+        <a href="./index.html">首頁</a>
+        <a href="./search.html">訂單查詢</a>
+        
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="mode-badge">公開版</div>
+      <h1>社群名查詢</h1>
+      <p class="desc">
+        請輸入你的社群名。<br>
+        系統會列出該社群名底下的所有商品卡片，點擊後可查看詳細內容。
+      </p>
+
+      <div class="search-row">
+        <input id="socialNameInput" type="text" placeholder="例如：CM闆闆" />
+        <button id="searchBtn" class="btn-primary">查詢</button>
+        <button id="resetBtn" class="btn-secondary" type="button">清除</button>
+      </div>
+
+      <div class="tip">
+        公開版不顯示「目前所買金額」，若需管理資訊請使用管理版。
+      </div>
+
+      <div id="messageBox" class="message hidden"></div>
+    </div>
+
+    <div id="resultList" class="result-list hidden"></div>
+  </div>
+
+  <div id="modalOverlay" class="modal-overlay">
+    <div class="modal">
+      <button id="closeModalBtn" class="modal-close" type="button">×</button>
+
+      <div class="modal-title-row">
+        <div class="diamond"></div>
+        <div class="modal-title">訂單詳情</div>
+      </div>
+
+      <div class="profile-card">
+        <div class="avatar">⍟</div>
+        <div>
+          <div class="profile-label">社群暱稱（請核對）</div>
+          <div id="modalSocialName" class="profile-name">-</div>
+        </div>
+      </div>
+
+      <div id="modalBadgeRow" class="badge-row"></div>
+
+      <div id="modalTitle" class="detail-title">-</div>
+
+      <div class="mini-grid">
+        <div class="mini-box">
+          <div class="mini-label">預計出貨</div>
+          <div id="modalEta" class="mini-value">-</div>
+        </div>
+        <div class="mini-box">
+          <div class="mini-label">付款方式</div>
+          <div id="modalPaymentMethod" class="mini-value">-</div>
+        </div>
+      </div>
+
+      <div class="section-title">購買清單</div>
+      <div class="item-box">
+        <div id="modalItems"></div>
+      </div>
+
+      <div class="section-title">金額結算</div>
+      <div class="money-box">
+        <div class="money-row">
+          <span>商品總額</span>
+          <strong id="modalProductAmount">$0</strong>
+        </div>
+        <div class="money-row">
+          <span>應付訂金</span>
+          <span id="modalDepositPaid">- $0</span>
+        </div>
+        <div class="money-row">
+          <span>二補</span>
+          <span id="modalSecondPayment">$0</span>
+        </div>
+        <div id="modalSecondPaymentBreakdown" class="second-payment-breakdown"></div>
+        <div class="money-divider"></div>
+        <div class="money-total">
+          <div class="money-total-label">應補尾款</div>
+          <div id="modalBalanceDue" class="money-total-value">$0</div>
+        </div>
+      </div>
+
+      <div class="action-row">
+        <button id="copyBtn" class="action-btn action-copy" type="button">複製格式</button>
+        <a id="contactBtn" class="action-btn action-contact" href="#" target="_blank" rel="noopener noreferrer">聯絡客服</a>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const ORDERS_URL = "./orders-public.json";
+    const SHOW_TOTAL_AMOUNT = false;
+    let allOrders = [];
+    let currentDetail = null;
+    let currentRenderedOrders = [];
+
+    const socialNameInput = document.getElementById("socialNameInput");
+    const searchBtn = document.getElementById("searchBtn");
+    const resetBtn = document.getElementById("resetBtn");
+    const messageBox = document.getElementById("messageBox");
+    const resultList = document.getElementById("resultList");
+    const modalOverlay = document.getElementById("modalOverlay");
+    const closeModalBtn = document.getElementById("closeModalBtn");
+    const copyBtn = document.getElementById("copyBtn");
+    const contactBtn = document.getElementById("contactBtn");
+
+    function normalizeText(text) {
+      return String(text || "").trim().replace(/\s+/g, "").toLowerCase();
+    }
+
+    function formatMoney(num) {
+      const value = Number(num || 0);
+      return "$" + value.toLocaleString("zh-TW");
+    }
+
+    function showMessage(text, type, totalAmount = null) {
+      messageBox.className = `message ${type}`;
+
+      if (type === "success" && SHOW_TOTAL_AMOUNT && totalAmount !== null) {
+        messageBox.innerHTML = `
+          <div class="message-content">
+            <span>${text}</span>
+            <span class="message-total">目前所買金額：${formatMoney(totalAmount)}</span>
+          </div>
+        `;
+        return;
+      }
+
+      messageBox.textContent = text;
+    }
+
+    function hideMessage() {
+      messageBox.textContent = "";
+      messageBox.className = "message hidden";
+    }
+
+    function getBadgeHtml(badgeText) {
+      const map = {
+        "已出貨": "badge badge-teal",
+        "已抵台": "badge badge-yellow",
+        "已付訂金": "badge badge-cream"
+      };
+      const className = map[badgeText] || "badge badge-teal";
+      return `<span class="${className}">${badgeText}</span>`;
+    }
+
+    function renderCards(orders) {
+      if (!orders.length) {
+        currentRenderedOrders = [];
+        resultList.innerHTML = "";
+        resultList.classList.add("hidden");
+        showMessage("查無符合的社群名，請再確認一次。", "error");
+        return;
+      }
+
+      currentRenderedOrders = orders;
+
+      hideMessage();
+      resultList.classList.remove("hidden");
+
+      resultList.innerHTML = orders.map((order, index) => {
+        const badges = (order.statusBadges || []).map(getBadgeHtml).join("");
+        const itemCount = (order.items || []).reduce((sum, item) => sum + Number(item.qty || 0), 0);
+
+        return `
+          <article class="order-card" data-index="${index}">
+            <div class="badge-row">${badges}</div>
+
+            <div class="card-main">
+              <div>
+                <div class="card-title">${order.title || "未命名商品"}</div>
+                <div class="count-pill">共 ${itemCount} 件</div>
+              </div>
+
+              <div class="card-right">
+                <div class="amount-label">商品總額</div>
+                <div class="amount-value">${formatMoney(order.productAmount)}</div>
+              </div>
+            </div>
+          </article>
+        `;
+      }).join("");
+
+      const totalAmount = orders.reduce((sum, order) => {
+        return sum + Number(order.productAmount || 0);
+      }, 0);
+
+      showMessage(`查詢成功，共找到 ${orders.length} 筆商品。`, "success", totalAmount);
+    }
+
+    function renderModalItems(items) {
+      if (!items || !items.length) {
+        return `
+          <div class="item-row">
+            <div class="item-name">目前沒有商品明細</div>
+            <div class="item-qty">x0</div>
+          </div>
+        `;
+      }
+
+      return items.map(item => `
+        <div class="item-row" style="margin-bottom: 10px;">
+          <div class="item-name">${item.name}</div>
+          <div class="item-qty">x${item.qty}</div>
+        </div>
+      `).join("");
+    }
+
+    function renderSecondPaymentBreakdown(breakdown = {}) {
+      const rows = [
+        ["境內運費", breakdown.domesticShipping],
+        ["國際運費", breakdown.internationalShipping],
+        ["刷卡手續費", breakdown.cardFee],
+        ["包材", breakdown.packagingFee]
+      ];
+
+      return rows.map(([label, value]) => `
+        <div class="second-payment-row">
+          <span>${label}</span>
+          <span>${formatMoney(value)}</span>
+        </div>
+      `).join("");
+    }
+
+    function openDetail(order) {
+      currentDetail = order;
+
+      document.getElementById("modalSocialName").textContent = order.socialName || "-";
+      document.getElementById("modalBadgeRow").innerHTML =
+        (order.statusBadges || []).map(getBadgeHtml).join("");
+      document.getElementById("modalTitle").textContent = order.title || "-";
+      document.getElementById("modalEta").textContent = order.etaText || "-";
+      document.getElementById("modalPaymentMethod").textContent = order.paymentMethod || "-";
+      document.getElementById("modalItems").innerHTML = renderModalItems(order.items);
+      document.getElementById("modalProductAmount").textContent = formatMoney(order.productAmount);
+      document.getElementById("modalDepositPaid").textContent = "- " + formatMoney(order.depositPaid);
+      document.getElementById("modalSecondPayment").textContent = formatMoney(order.secondPayment);
+      document.getElementById("modalSecondPaymentBreakdown").innerHTML =
+        renderSecondPaymentBreakdown(order.secondPaymentBreakdown);
+      document.getElementById("modalBalanceDue").textContent = formatMoney(order.balanceDue);
+
+      if (order.contactUrl) {
+        contactBtn.href = order.contactUrl;
+        contactBtn.style.pointerEvents = "auto";
+        contactBtn.style.opacity = "1";
+      } else {
+        contactBtn.href = "#";
+        contactBtn.style.pointerEvents = "none";
+        contactBtn.style.opacity = "0.6";
+      }
+
+      modalOverlay.classList.add("show");
+    }
+
+    function closeDetail() {
+      modalOverlay.classList.remove("show");
+      currentDetail = null;
+    }
+
+    function handleSearch() {
+      const keyword = normalizeText(socialNameInput.value);
+
+      resultList.classList.add("hidden");
+      resultList.innerHTML = "";
+      hideMessage();
+
+      if (!keyword) {
+        showMessage("請輸入社群名。", "error");
+        return;
+      }
+
+      const matched = allOrders.filter(order =>
+        normalizeText(order.socialName) === keyword
+      );
+
+      renderCards(matched);
+    }
+
+    function resetSearch() {
+      socialNameInput.value = "";
+      hideMessage();
+      resultList.classList.add("hidden");
+      resultList.innerHTML = "";
+    }
+
+    async function loadOrders() {
+      try {
+        const response = await fetch(ORDERS_URL);
+        if (!response.ok) throw new Error(`無法讀取 ${ORDERS_URL}`);
+        allOrders = await response.json();
+      } catch (error) {
+        console.error(error);
+        showMessage(`資料載入失敗，請確認 ${ORDERS_URL} 是否存在。`, "error");
+      }
+    }
+
+    async function init() {
+      await loadOrders();
+
+      searchBtn.addEventListener("click", handleSearch);
+      resetBtn.addEventListener("click", resetSearch);
+
+      resultList.addEventListener("click", (e) => {
+        const card = e.target.closest(".order-card");
+        if (!card) return;
+
+        const index = Number(card.dataset.index);
+        const order = currentRenderedOrders[index];
+        if (!order) return;
+
+        openDetail(order);
+      });
+
+      socialNameInput.addEventListener("keydown", (e) => {
+        if (e.key === "Enter") handleSearch();
+      });
+
+      closeModalBtn.addEventListener("click", closeDetail);
+
+      modalOverlay.addEventListener("click", (e) => {
+        if (e.target === modalOverlay) {
+          closeDetail();
+        }
+      });
+
+      copyBtn.addEventListener("click", async () => {
+        if (!currentDetail) return;
+
+        const itemText = (currentDetail.items || [])
+          .map(item => `${item.name} x${item.qty}`)
+          .join("、");
+
+        const breakdown = currentDetail.secondPaymentBreakdown || {};
+
+        const copyText =
+`社群名：${currentDetail.socialName}
+商品：${currentDetail.title}
+商品總額：${formatMoney(currentDetail.productAmount)}
+已付訂金：${formatMoney(currentDetail.depositPaid)}
+二補：${formatMoney(currentDetail.secondPayment)}
+　- 境內運費：${formatMoney(breakdown.domesticShipping)}
+　- 國際運費：${formatMoney(breakdown.internationalShipping)}
+　- 刷卡手續費：${formatMoney(breakdown.cardFee)}
+　- 包材：${formatMoney(breakdown.packagingFee)}
+應補尾款：${formatMoney(currentDetail.balanceDue)}
+商品明細：${itemText}`;
+
+        try {
+          await navigator.clipboard.writeText(copyText);
+          alert("已複製格式！");
+        } catch (error) {
+          alert("複製失敗，請手動複製。");
+        }
+      });
+    }
+
+    init();
+  </script>
+</body>
+</html>
