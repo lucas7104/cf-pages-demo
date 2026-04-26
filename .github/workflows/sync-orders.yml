@@ -1,0 +1,44 @@
+name: Sync order data from Google Sheets
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  sync-orders:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate JSON files
+        run: node scripts/sync-google-sheet.mjs
+        env:
+          GOOGLE_SHEETS_CONFIG: ${{ vars.GOOGLE_SHEETS_CONFIG }}
+          CONTACT_URL: ${{ secrets.CONTACT_URL }}
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet -- site-public/orders-public.json site-admin/orders.json site-admin/vip.json; then
+            echo "資料沒有變更，結束。"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site-public/orders-public.json site-admin/orders.json site-admin/vip.json
+          git commit -m "chore: sync order data from Google Sheets"
+          git push
