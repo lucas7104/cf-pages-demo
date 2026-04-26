@@ -3,8 +3,8 @@ name: Sync order data from Google Sheets
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"
-
+    - cron: "0 */12 * * *"
+    
 permissions:
   contents: write
 
