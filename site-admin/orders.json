@@ -409,6 +409,35 @@
   },
   {
     "socialName": "🐟❤️",
+    "title": "0317咒術 雨ver.",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1160,
+    "depositPaid": 1160,
+    "secondPayment": 16,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 16,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 16,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立體模型立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0317咒術 雨ver.",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "🐟❤️",
     "title": "0323咒術 JUMP情緒立牌再受注",
     "statusBadges": [
       "已付訂金"
@@ -754,6 +783,43 @@
   },
   {
     "socialName": "13",
+    "title": "0317銀魂 吉原大炎上 pop up",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1275,
+    "depositPaid": 1275,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "神威立牌",
+        "qty": 1
+      },
+      {
+        "name": "銀時立牌",
+        "qty": 1
+      },
+      {
+        "name": "土方立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0317銀魂 吉原大炎上 pop up",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "13",
     "title": "0330Jump Festa 2026獨家商品",
     "statusBadges": [
       "已付訂金"
@@ -789,7 +855,7 @@
     "socialName": "13",
     "title": "0402 北海道連線",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1140,
@@ -802,7 +868,7 @@
       "packagingFee": 0
     },
     "balanceDue": 20,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -821,6 +887,35 @@
       }
     ],
     "sourceSheet": "0402 北海道連線",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "13",
+    "title": "0418鬼滅 Jump閃卡收藏 Vol. 1",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 215,
+    "depositPaid": 215,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "一抽",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0418鬼滅 Jump閃卡收藏 Vol. 1",
     "sourceMonth": "2026-04"
   },
   {
@@ -968,6 +1063,43 @@
       }
     ],
     "sourceSheet": "0320進巨 冬季動物",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "乃",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 614,
+    "depositPaid": 614,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "貼紙 艾連",
+        "qty": 1
+      },
+      {
+        "name": "艾連透明海報",
+        "qty": 1
+      },
+      {
+        "name": "Q版立牌拆盒艾連",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
     "sourceMonth": "2026-03"
   },
   {
@@ -1172,7 +1304,7 @@
     "socialName": "十🐟",
     "title": "1003 iFace波奇塔耳機殼",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1720,
@@ -1185,7 +1317,7 @@
       "packagingFee": 0
     },
     "balanceDue": 92,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "AirPods Pro第二代",
@@ -1689,7 +1821,7 @@
     "socialName": "小呱",
     "title": "0402 北海道連線",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 555,
@@ -1702,17 +1834,46 @@
       "packagingFee": 0
     },
     "balanceDue": 20,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "Jump 咒術原畫相卡盲抽",
+        "name": "Jump 咒術原畫貼紙盲抽",
         "qty": 3
       }
     ],
     "sourceSheet": "0402 北海道連線",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "小呱",
+    "title": "0411咒術 死滅洄游麻糬娃",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 320,
+    "depositPaid": 320,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "五條娃娃",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0411咒術 死滅洄游麻糬娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -2104,7 +2265,7 @@
     "socialName": "勾8️⃣林",
     "title": "0402 北海道連線",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 930,
@@ -2117,7 +2278,7 @@
       "packagingFee": 0
     },
     "balanceDue": 20,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -2774,7 +2935,7 @@
     "socialName": "江蘇菲",
     "title": "1118 咒術mappa",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 3160,
@@ -2787,7 +2948,7 @@
       "packagingFee": 0
     },
     "balanceDue": 343,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -2866,7 +3027,7 @@
     "socialName": "江蘇菲",
     "title": "1203 咒術 安美Chugai萬聖節",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 265,
@@ -2879,7 +3040,7 @@
       "packagingFee": 0
     },
     "balanceDue": 8,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -3059,7 +3220,7 @@
     "socialName": "江蘇菲",
     "title": "1227 咒術 動畫5週年紀念",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 515,
@@ -3072,7 +3233,7 @@
       "packagingFee": 0
     },
     "balanceDue": 55,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -3109,7 +3270,7 @@
     "socialName": "江蘇菲",
     "title": "私人委託",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1245,
@@ -3122,7 +3283,7 @@
       "packagingFee": 0
     },
     "balanceDue": 232,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "含運費",
@@ -3188,7 +3349,7 @@
     "socialName": "江蘇菲",
     "title": "0108咒術 Jump GIGA 2026冬季刊",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 360,
@@ -3201,7 +3362,7 @@
       "packagingFee": 0
     },
     "balanceDue": 350,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -3578,6 +3739,43 @@
     ],
     "sourceSheet": "★1118 咒術mappa",
     "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "羊羊羊",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1395,
+    "depositPaid": 1395,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "貼紙 艾連",
+        "qty": 2
+      },
+      {
+        "name": "貼紙 里維",
+        "qty": 2
+      },
+      {
+        "name": "Q版立牌 BOX",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
+    "sourceMonth": "2026-03"
   },
   {
     "socialName": "肉雞",
@@ -4980,6 +5178,35 @@
   },
   {
     "socialName": "君",
+    "title": "0411咒術 死滅洄游麻糬娃",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 320,
+    "depositPaid": 320,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "五條娃娃",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0411咒術 死滅洄游麻糬娃",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "君",
     "title": "0411咒術 懷玉玉折麻糬娃",
     "statusBadges": [
       "已付訂金"
@@ -6341,9 +6568,11 @@
   {
     "socialName": "每天都想退休",
     "title": "0410咒術 幻影夜行Fanpare Mart",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 1800,
-    "depositPaid": 0,
+    "depositPaid": 1800,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -6351,9 +6580,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 1800,
+    "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "v",
     "items": [
@@ -6370,10 +6599,39 @@
     "sourceMonth": "2026-04"
   },
   {
+    "socialName": "每天都想退休",
+    "title": "0418鬼滅 Jump閃卡收藏 Vol. 1",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1935,
+    "depositPaid": 1935,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "一抽",
+        "qty": 9
+      }
+    ],
+    "sourceSheet": "0418鬼滅 Jump閃卡收藏 Vol. 1",
+    "sourceMonth": "2026-04"
+  },
+  {
     "socialName": "良",
     "title": "1118 咒術mappa",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 540,
@@ -6386,7 +6644,7 @@
       "packagingFee": 0
     },
     "balanceDue": 74,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -6436,7 +6694,7 @@
     "socialName": "良",
     "title": "1223 進巨 完結篇BD藍光DVD",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 4755,
@@ -6449,7 +6707,7 @@
       "packagingFee": 0
     },
     "balanceDue": 349,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "12/28下第二單",
@@ -6791,6 +7049,35 @@
     "sourceMonth": "2026-01"
   },
   {
+    "socialName": "佳蓉",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 400,
+    "depositPaid": 400,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 里維",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
+    "sourceMonth": "2026-03"
+  },
+  {
     "socialName": "呱..",
     "title": "0120 咒術 ensky",
     "statusBadges": [
@@ -6896,6 +7183,35 @@
       }
     ],
     "sourceSheet": "0309 我英 jump再受注(重開0115記事本)",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "妮娜",
+    "title": "0317咒術 雨ver.",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 465,
+    "depositPaid": 465,
+    "secondPayment": 16,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 16,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 16,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "乙骨立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0317咒術 雨ver.",
     "sourceMonth": "2026-03"
   },
   {
@@ -8038,7 +8354,7 @@
     "socialName": "承",
     "title": "0402 北海道連線",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 525,
@@ -8051,7 +8367,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -8182,6 +8498,39 @@
       }
     ],
     "sourceSheet": "0410咒術  幻影夜行Fanpare Mart",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "拉拉",
+    "title": "0411咒術 死滅洄游麻糬娃",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 530,
+    "depositPaid": 530,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "高校虎杖髮圈",
+        "qty": 1
+      },
+      {
+        "name": "脹相髮圈",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0411咒術 死滅洄游麻糬娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -8319,7 +8668,7 @@
     "socialName": "芭樂",
     "title": "1118 咒術mappa",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 3410,
@@ -8332,7 +8681,7 @@
       "packagingFee": 0
     },
     "balanceDue": 335,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -8399,7 +8748,7 @@
     "socialName": "芭樂",
     "title": "1203 咒術 安美Chugai萬聖節",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 740,
@@ -8412,7 +8761,7 @@
       "packagingFee": 0
     },
     "balanceDue": 28,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -8660,7 +9009,7 @@
     "socialName": "芭樂",
     "title": "1227 咒術 動畫5週年紀念",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 405,
@@ -8673,7 +9022,7 @@
       "packagingFee": 0
     },
     "balanceDue": 62,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -8765,7 +9114,7 @@
     "socialName": "芭樂",
     "title": "0112 多ip JPshop咒術數據卡",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 3030,
@@ -8778,7 +9127,7 @@
       "packagingFee": 0
     },
     "balanceDue": 356,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -9171,6 +9520,43 @@
   },
   {
     "socialName": "芭樂",
+    "title": "0411咒術 死滅洄游麻糬娃",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1170,
+    "depositPaid": 1170,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "五條娃娃",
+        "qty": 2
+      },
+      {
+        "name": "五條髮圈 (無墨鏡款)",
+        "qty": 1
+      },
+      {
+        "name": "五條髮圈 (有墨鏡款)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0411咒術 死滅洄游麻糬娃",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "芭樂",
     "title": "0411咒術 懷玉玉折麻糬娃",
     "statusBadges": [
       "已付訂金"
@@ -9346,6 +9732,39 @@
     "sourceMonth": "2026-03"
   },
   {
+    "socialName": "哞吉",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1220,
+    "depositPaid": 1220,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "透卡A",
+        "qty": 1
+      },
+      {
+        "name": "Q版立牌 BOX",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
+    "sourceMonth": "2026-03"
+  },
+  {
     "socialName": "宣",
     "title": "0120進巨 星座",
     "statusBadges": [
@@ -9415,7 +9834,7 @@
     "socialName": "某天",
     "title": "0402 北海道連線",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 465,
@@ -9428,7 +9847,7 @@
       "packagingFee": 0
     },
     "balanceDue": 20,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -9504,6 +9923,35 @@
     ],
     "sourceSheet": "★1203 咒術 安美Chugai萬聖節",
     "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "柯吟霓",
+    "title": "0329相反的你和我 抽賞",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 925,
+    "depositPaid": 925,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "徽章 /山田",
+    "items": [
+      {
+        "name": "五抽",
+        "qty": 5
+      }
+    ],
+    "sourceSheet": "0329相反的你和我 抽賞",
+    "sourceMonth": "2026-03"
   },
   {
     "socialName": "歪歪",
@@ -9685,7 +10133,7 @@
     "socialName": "紅茶拿鐵微微",
     "title": "1010 鬼滅拆信刀",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 700,
@@ -9698,7 +10146,7 @@
       "packagingFee": 0
     },
     "balanceDue": 119,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -9745,7 +10193,7 @@
     "socialName": "紅茶拿鐵微微",
     "title": "1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 620,
@@ -9758,7 +10206,7 @@
       "packagingFee": 0
     },
     "balanceDue": 52,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -10387,6 +10835,7 @@
     "socialName": "涓",
     "title": "0328韓國Photoism 空白拍立得代言",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 230,
@@ -10399,7 +10848,7 @@
       "packagingFee": 0
     },
     "balanceDue": -5,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -10410,6 +10859,39 @@
       }
     ],
     "sourceSheet": "0328韓國Photoism 空白拍立得代言",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "破產的人",
+    "title": "0317咒術 雨ver.",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 625,
+    "depositPaid": 625,
+    "secondPayment": 16,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 16,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 16,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "插畫卡套組",
+        "qty": 1
+      },
+      {
+        "name": "直哉立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0317咒術 雨ver.",
     "sourceMonth": "2026-03"
   },
   {
@@ -11817,6 +12299,35 @@
   },
   {
     "socialName": "崔西",
+    "title": "0317咒術 雨ver.",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 465,
+    "depositPaid": 465,
+    "secondPayment": 16,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 16,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 16,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "乙骨立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0317咒術 雨ver.",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "崔西",
     "title": "0417gachiakuta 公主咖啡廳",
     "statusBadges": [
       "已付訂金"
@@ -12312,6 +12823,39 @@
   },
   {
     "socialName": "淺花",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 955,
+    "depositPaid": 955,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "Q版徽章 BOX",
+        "qty": 1
+      },
+      {
+        "name": "透明收納袋",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "淺花",
     "title": "0328銀魂 AnimeJapan2026",
     "statusBadges": [
       "已付訂金"
@@ -12338,6 +12882,50 @@
     ],
     "sourceSheet": "0328銀魂 AnimeJapan2026",
     "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "第二車",
+    "title": "0217咒術 ensky-2",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [],
+    "sourceSheet": "0217咒術 ensky-2",
+    "sourceMonth": "2026-02"
+  },
+  {
+    "socialName": "第二車",
+    "title": "0411咒術 懷玉玉折麻糬娃",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [],
+    "sourceSheet": "0411咒術 懷玉玉折麻糬娃",
+    "sourceMonth": "2026-04"
   },
   {
     "socialName": "絈",
@@ -12380,7 +12968,7 @@
     "socialName": "絈",
     "title": "1030 fav’s room進巨香氛",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1060,
@@ -12393,7 +12981,7 @@
       "packagingFee": 0
     },
     "balanceDue": 184,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -12410,7 +12998,7 @@
     "socialName": "絈",
     "title": "1111 進巨東京車站",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1690,
@@ -12423,7 +13011,7 @@
       "packagingFee": 0
     },
     "balanceDue": 110,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -12522,7 +13110,7 @@
     "socialName": "絈",
     "title": "1128進巨 滑板",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1750,
@@ -12535,7 +13123,7 @@
       "packagingFee": 0
     },
     "balanceDue": 80,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -12768,6 +13356,47 @@
   },
   {
     "socialName": "莎拉拉",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 2890,
+    "depositPaid": 2890,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 里維",
+        "qty": 1
+      },
+      {
+        "name": "里維透明海報",
+        "qty": 1
+      },
+      {
+        "name": "Q版立牌 BOX",
+        "qty": 1
+      },
+      {
+        "name": "吊飾抱盒",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "莎拉拉",
     "title": "0410咒術 幻影夜行Fanpare Mart",
     "statusBadges": [
       "已付訂金"
@@ -12803,7 +13432,7 @@
     "socialName": "蛋塔",
     "title": "0402 北海道連線",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 470,
@@ -12816,7 +13445,7 @@
       "packagingFee": 0
     },
     "balanceDue": 20,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -13001,6 +13630,39 @@
     "sourceMonth": "2026-03"
   },
   {
+    "socialName": "陳。",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 665,
+    "depositPaid": 665,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 米卡莎",
+        "qty": 1
+      },
+      {
+        "name": "透卡B",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
+    "sourceMonth": "2026-03"
+  },
+  {
     "socialName": "陳安",
     "title": "1017 進巨絢爛菊花飯店",
     "statusBadges": [
@@ -13121,6 +13783,35 @@
   },
   {
     "socialName": "雪雪",
+    "title": "0217咒術 ensky-2",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 530,
+    "depositPaid": 530,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "娃娃 (脹相)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0217咒術 ensky-2",
+    "sourceMonth": "2026-02"
+  },
+  {
+    "socialName": "雪雪",
     "title": "0312 排少咒術 AnimeJapan2026",
     "statusBadges": [
       "已付訂金"
@@ -13150,10 +13841,12 @@
   },
   {
     "socialName": "雪雪",
-    "title": "0330咒術迴戰x TUMUGI戒指",
-    "statusBadges": [],
+    "title": "0330咒術 TUMUGI戒指",
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 3600,
-    "depositPaid": 0,
+    "depositPaid": 3600,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -13161,9 +13854,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 3600,
+    "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -13172,7 +13865,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0330咒術迴戰x TUMUGI戒指",
+    "sourceSheet": "0330咒術 TUMUGI戒指",
     "sourceMonth": "2026-03"
   },
   {
@@ -13836,6 +14529,43 @@
   },
   {
     "socialName": "婷婷",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 2650,
+    "depositPaid": 2650,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "Q版立牌 BOX",
+        "qty": 1
+      },
+      {
+        "name": "正比徽章 BOX",
+        "qty": 1
+      },
+      {
+        "name": "Q版徽章 BOX",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "婷婷",
     "title": "0328芙莉蓮 Ani-art",
     "statusBadges": [
       "已付訂金"
@@ -13962,7 +14692,7 @@
     "socialName": "婷婷",
     "title": "0402 北海道連線",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 38900,
@@ -13975,7 +14705,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -14031,6 +14761,97 @@
       }
     ],
     "sourceSheet": "0408銀魂 燈籠",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "婷婷",
+    "title": "0418鬼滅 Jump閃卡收藏 Vol. 1",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1075,
+    "depositPaid": 1075,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "一抽",
+        "qty": 5
+      }
+    ],
+    "sourceSheet": "0418鬼滅 Jump閃卡收藏 Vol. 1",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "婷婷",
+    "title": "0418JUMP生日受注 8月份",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 810,
+    "depositPaid": 810,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "渡我徽章",
+        "qty": 3
+      },
+      {
+        "name": "時透徽章",
+        "qty": 3
+      }
+    ],
+    "sourceSheet": "0418JUMP生日受注 8月份",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "婷婷",
+    "title": "0421咒術 死滅迴游徽章個人池",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 635,
+    "depositPaid": 635,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "乙骨",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0421咒術 死滅迴游徽章個人池",
     "sourceMonth": "2026-04"
   },
   {
@@ -14185,7 +15006,7 @@
     "socialName": "減佐",
     "title": "1212鏈鋸人graniph",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 945,
@@ -14198,7 +15019,7 @@
       "packagingFee": 0
     },
     "balanceDue": 36,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "優惠券",
@@ -14243,19 +15064,21 @@
   {
     "socialName": "減佐",
     "title": "0407我英 OPED",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 795,
-    "depositPaid": 0,
-    "secondPayment": 0,
+    "depositPaid": 795,
+    "secondPayment": 146,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 146,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 795,
+    "balanceDue": 146,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -14413,6 +15236,35 @@
     ],
     "sourceSheet": "0130進巨 貓貓",
     "sourceMonth": "2026-01"
+  },
+  {
+    "socialName": "翔",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 239,
+    "depositPaid": 239,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "Q版立牌拆盒米卡莎",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
+    "sourceMonth": "2026-03"
   },
   {
     "socialName": "舒芙蕾",
@@ -14578,6 +15430,35 @@
       }
     ],
     "sourceSheet": "0310我英 Airtwokyo & 0324討論串",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "舒芙蕾",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 265,
+    "depositPaid": 265,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "里維透明海報",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
     "sourceMonth": "2026-03"
   },
   {
@@ -15253,6 +16134,37 @@
   },
   {
     "socialName": "華",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [],
+    "productAmount": 510,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 510,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 米卡莎",
+        "qty": 1
+      },
+      {
+        "name": "資料夾 米卡莎",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "華",
     "title": "2026 台北動漫節",
     "statusBadges": [
       "已出貨"
@@ -15656,6 +16568,39 @@
   },
   {
     "socialName": "暈",
+    "title": "0217咒術 ensky-2",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1060,
+    "depositPaid": 1060,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "娃娃 (脹相)",
+        "qty": 1
+      },
+      {
+        "name": "娃娃 (宿儺)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0217咒術 ensky-2",
+    "sourceMonth": "2026-02"
+  },
+  {
+    "socialName": "暈",
     "title": "0329咒術 KOTOWARI仙台",
     "statusBadges": [
       "已付訂金"
@@ -15855,6 +16800,39 @@
   },
   {
     "socialName": "楚翔",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1325,
+    "depositPaid": 1325,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "艾連透明海報",
+        "qty": 2
+      },
+      {
+        "name": "里維透明海報",
+        "qty": 3
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "楚翔",
     "title": "0328芙莉蓮 Ani-art",
     "statusBadges": [
       "已付訂金"
@@ -15912,6 +16890,35 @@
       }
     ],
     "sourceSheet": "0328芙莉蓮 Ani-art",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "楨",
+    "title": "0330咒術 TUMUGI戒指",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 3600,
+    "depositPaid": 3600,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "乙骨set",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0330咒術 TUMUGI戒指",
     "sourceMonth": "2026-03"
   },
   {
@@ -16041,7 +17048,7 @@
     "socialName": "瑞斯",
     "title": "1022 鏈鋸人金屬徽章",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1510,
@@ -16054,7 +17061,7 @@
       "packagingFee": 0
     },
     "balanceDue": 209,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16161,7 +17168,7 @@
     "socialName": "瑞斯",
     "title": "1118 咒術mappa",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 3190,
@@ -16174,7 +17181,7 @@
       "packagingFee": 0
     },
     "balanceDue": 605,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16617,7 +17624,7 @@
     "socialName": "瑞斯",
     "title": "0402 北海道連線",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1180,
@@ -16630,7 +17637,7 @@
       "packagingFee": 0
     },
     "balanceDue": 20,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16653,6 +17660,33 @@
       }
     ],
     "sourceSheet": "0402 北海道連線",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "瑞斯",
+    "title": "0424airtwokyo 脹相小房子",
+    "statusBadges": [],
+    "productAmount": 750,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 750,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "脹相哭哭立體模型",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0424airtwokyo 脹相小房子",
     "sourceMonth": "2026-04"
   },
   {
@@ -16781,7 +17815,7 @@
     "socialName": "廖姵熏",
     "title": "1010 鬼滅拆信刀",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1500,
@@ -16794,7 +17828,7 @@
       "packagingFee": 0
     },
     "balanceDue": 42,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16810,6 +17844,35 @@
     ],
     "sourceSheet": "★1010 鬼滅拆信刀",
     "sourceMonth": "2025_09_10"
+  },
+  {
+    "socialName": "漉",
+    "title": "0414咒術 COSPA第三季",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 800,
+    "depositPaid": 800,
+    "secondPayment": 142,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 142,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 142,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "乙骨卡套",
+        "qty": 2
+      }
+    ],
+    "sourceSheet": "0414咒術 COSPA第三季",
+    "sourceMonth": "2026-04"
   },
   {
     "socialName": "甄噠",
@@ -16843,6 +17906,33 @@
     ],
     "sourceSheet": "0320進巨 冬季動物",
     "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "甄噠",
+    "title": "0408家庭教師 一番賞",
+    "statusBadges": [],
+    "productAmount": 1800,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 1800,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "一抽",
+        "qty": 10
+      }
+    ],
+    "sourceSheet": "0408家庭教師 一番賞",
+    "sourceMonth": "2026-04"
   },
   {
     "socialName": "管芸生",
@@ -17594,10 +18684,39 @@
     "sourceMonth": "2026-02"
   },
   {
+    "socialName": "豬子",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 240,
+    "depositPaid": 240,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "Q版立牌 單抽",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
+    "sourceMonth": "2026-03"
+  },
+  {
     "socialName": "鴨",
     "title": "1118 咒術mappa",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 270,
@@ -17610,7 +18729,7 @@
       "packagingFee": 0
     },
     "balanceDue": 44,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -17810,7 +18929,7 @@
     "socialName": "鴨",
     "title": "1227 咒術 動畫5週年紀念",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 295,
@@ -17823,7 +18942,7 @@
       "packagingFee": 0
     },
     "balanceDue": 85,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -18402,7 +19521,7 @@
     "socialName": "臉書 洪玄穎",
     "title": "1108進巨放鬆系列",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 240,
@@ -18415,7 +19534,7 @@
       "packagingFee": 0
     },
     "balanceDue": 166,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20144,6 +21263,33 @@
     "sourceMonth": "2026-03"
   },
   {
+    "socialName": "鬆餅",
+    "title": "0424airtwokyo 脹相小房子",
+    "statusBadges": [],
+    "productAmount": 750,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 750,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "脹相哭哭立體模型",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0424airtwokyo 脹相小房子",
+    "sourceMonth": "2026-04"
+  },
+  {
     "socialName": "鬆餅🥞",
     "title": "1129咒術 TOHO澀谷事變x死滅洄游",
     "statusBadges": [
@@ -20442,6 +21588,35 @@
   },
   {
     "socialName": "蘋果麵包",
+    "title": "0317咒術 雨ver.",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 465,
+    "depositPaid": 465,
+    "secondPayment": 16,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 16,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 16,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "乙骨立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0317咒術 雨ver.",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "蘋果麵包",
     "title": "0323咒術 JUMP情緒立牌再受注",
     "statusBadges": [
       "已付訂金"
@@ -20473,7 +21648,7 @@
     "socialName": "蘋果麵包",
     "title": "0402 北海道連線",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 370,
@@ -20486,7 +21661,7 @@
       "packagingFee": 0
     },
     "balanceDue": 20,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20498,6 +21673,35 @@
     ],
     "sourceSheet": "0402 北海道連線",
     "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "鹹酥雞、米血、百頁豆腐，要洋蔥不要辣",
+    "title": "0217咒術 ensky-2",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 530,
+    "depositPaid": 530,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "娃娃 (脹相)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0217咒術 ensky-2",
+    "sourceMonth": "2026-02"
   },
   {
     "socialName": "櫻桃",
@@ -20754,6 +21958,47 @@
     ],
     "sourceSheet": "1228進巨 Zogankin",
     "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "A-Joe",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1015,
+    "depositPaid": 1015,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 里維",
+        "qty": 1
+      },
+      {
+        "name": "貼紙 里維",
+        "qty": 1
+      },
+      {
+        "name": "透卡A",
+        "qty": 1
+      },
+      {
+        "name": "Q版立牌 單抽",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
+    "sourceMonth": "2026-03"
   },
   {
     "socialName": "Abby",
@@ -21362,6 +22607,47 @@
     "sourceMonth": "2026-02"
   },
   {
+    "socialName": "Ally",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1310,
+    "depositPaid": 1310,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 阿爾敏",
+        "qty": 1
+      },
+      {
+        "name": "正比立牌 艾連",
+        "qty": 1
+      },
+      {
+        "name": "正比立牌 米卡莎",
+        "qty": 1
+      },
+      {
+        "name": "貼紙 阿爾敏",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
+    "sourceMonth": "2026-03"
+  },
+  {
     "socialName": "amo",
     "title": "1017鬼滅抽賞色紙",
     "statusBadges": [
@@ -21924,6 +23210,47 @@
   },
   {
     "socialName": "An",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 440,
+    "depositPaid": 440,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "貼紙 阿爾敏",
+        "qty": 1
+      },
+      {
+        "name": "貼紙 艾連",
+        "qty": 1
+      },
+      {
+        "name": "貼紙 里維",
+        "qty": 1
+      },
+      {
+        "name": "貼紙 米卡莎",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "An",
     "title": "0330Mappa AnimeJapan2026",
     "statusBadges": [
       "已付訂金"
@@ -22078,10 +23405,37 @@
     "sourceMonth": "2026-04"
   },
   {
+    "socialName": "Ara",
+    "title": "0411芙莉蓮 COMIXYZ",
+    "statusBadges": [],
+    "productAmount": 585,
+    "depositPaid": 0,
+    "secondPayment": 72,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 72,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 657,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "葛納烏",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0411芙莉蓮 COMIXYZ",
+    "sourceMonth": "2026-04"
+  },
+  {
     "socialName": "Ari",
     "title": "1030 fav’s room進巨香氛",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1060,
@@ -22094,7 +23448,7 @@
       "packagingFee": 0
     },
     "balanceDue": 84,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -22204,6 +23558,43 @@
       }
     ],
     "sourceSheet": "0312吉伊卡哇 9090",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "Ari",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 878,
+    "depositPaid": 878,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "艾連：乃",
+    "items": [
+      {
+        "name": "正比立牌 阿爾敏",
+        "qty": 1
+      },
+      {
+        "name": "Q版立牌拆盒阿爾敏",
+        "qty": 1
+      },
+      {
+        "name": "Q版立牌拆盒里維",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
     "sourceMonth": "2026-03"
   },
   {
@@ -22371,7 +23762,7 @@
     "socialName": "cc",
     "title": "1118 咒術mappa",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 4920,
@@ -22384,7 +23775,7 @@
       "packagingFee": 0
     },
     "balanceDue": 1722,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "懷玉海報3張已出貨，二補未算",
@@ -22863,7 +24254,7 @@
     "socialName": "cc",
     "title": "0108咒術 Jump GIGA 2026冬季刊",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 360,
@@ -22876,7 +24267,7 @@
       "packagingFee": 0
     },
     "balanceDue": 350,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -22977,6 +24368,33 @@
     "sourceMonth": "2026-03"
   },
   {
+    "socialName": "cc",
+    "title": "0424airtwokyo 脹相小房子",
+    "statusBadges": [],
+    "productAmount": 750,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 750,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "脹相哭哭立體模型",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0424airtwokyo 脹相小房子",
+    "sourceMonth": "2026-04"
+  },
+  {
     "socialName": "cc77",
     "title": "0310我英 Airtwokyo & 0324討論串",
     "statusBadges": [
@@ -23052,6 +24470,95 @@
       }
     ],
     "sourceSheet": "0320進巨 冬季動物",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "cc77",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 3540,
+    "depositPaid": 3540,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 阿爾敏",
+        "qty": 1
+      },
+      {
+        "name": "正比立牌 艾連",
+        "qty": 1
+      },
+      {
+        "name": "正比立牌 米卡莎",
+        "qty": 1
+      },
+      {
+        "name": "正比立牌 里維",
+        "qty": 1
+      },
+      {
+        "name": "艾連透明海報",
+        "qty": 1
+      },
+      {
+        "name": "里維透明海報",
+        "qty": 1
+      },
+      {
+        "name": "透卡A",
+        "qty": 1
+      },
+      {
+        "name": "透卡B",
+        "qty": 1
+      },
+      {
+        "name": "資料夾 阿爾敏",
+        "qty": 1
+      },
+      {
+        "name": "資料夾 艾連",
+        "qty": 1
+      },
+      {
+        "name": "資料夾 米卡莎",
+        "qty": 1
+      },
+      {
+        "name": "資料夾 里維",
+        "qty": 1
+      },
+      {
+        "name": "明信片套裝 里維",
+        "qty": 1
+      },
+      {
+        "name": "明信片套裝 艾蓮",
+        "qty": 1
+      },
+      {
+        "name": "明信片套裝 米卡莎",
+        "qty": 1
+      },
+      {
+        "name": "明信片套裝 阿爾敏",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
     "sourceMonth": "2026-03"
   },
   {
@@ -23145,6 +24652,35 @@
     ],
     "sourceSheet": "1017 進巨絢爛菊花飯店",
     "sourceMonth": "2025_09_10"
+  },
+  {
+    "socialName": "chiiiii",
+    "title": "0411芙莉蓮 COMIXYZ",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 530,
+    "depositPaid": 530,
+    "secondPayment": 72,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 72,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 72,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "迷你壓克力磚",
+        "qty": 2
+      }
+    ],
+    "sourceSheet": "0411芙莉蓮 COMIXYZ",
+    "sourceMonth": "2026-04"
   },
   {
     "socialName": "Ching Kao",
@@ -23344,9 +24880,11 @@
   {
     "socialName": "CICC",
     "title": "0411咒術 懷玉玉折麻糬娃",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 320,
-    "depositPaid": 0,
+    "depositPaid": 320,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -23354,9 +24892,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 320,
+    "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -23483,6 +25021,43 @@
       }
     ],
     "sourceSheet": "0320咒術 幻影夜行 童年死滅迴游ver.",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "DABU",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 2515,
+    "depositPaid": 2515,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "Q版立牌 BOX",
+        "qty": 1
+      },
+      {
+        "name": "Q版徽章 BOX",
+        "qty": 1
+      },
+      {
+        "name": "T-shirt",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
     "sourceMonth": "2026-03"
   },
   {
@@ -23712,6 +25287,35 @@
     ],
     "sourceSheet": "1228進巨 Zogankin",
     "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "efa",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 955,
+    "depositPaid": 955,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "Q版立牌 BOX",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
+    "sourceMonth": "2026-03"
   },
   {
     "socialName": "Eilish",
@@ -24490,6 +26094,59 @@
   },
   {
     "socialName": "FLOWDY",
+    "title": "0411咒術 死滅洄游麻糬娃",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 2605,
+    "depositPaid": 2605,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "五條娃娃",
+        "qty": 2
+      },
+      {
+        "name": "五條鑰匙圈 (無墨鏡款)",
+        "qty": 2
+      },
+      {
+        "name": "五條鑰匙圈 (有墨鏡款)",
+        "qty": 2
+      },
+      {
+        "name": "五條徽章 (無墨鏡款)",
+        "qty": 2
+      },
+      {
+        "name": "五條徽章 (有墨鏡款)",
+        "qty": 3
+      },
+      {
+        "name": "五條貼紙 (無墨鏡款)",
+        "qty": 2
+      },
+      {
+        "name": "五條貼紙 (有墨鏡款)",
+        "qty": 3
+      }
+    ],
+    "sourceSheet": "0411咒術 死滅洄游麻糬娃",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "FLOWDY",
     "title": "0411咒術 懷玉玉折麻糬娃",
     "statusBadges": [
       "已付訂金"
@@ -25246,6 +26903,35 @@
     "sourceMonth": "2026-03"
   },
   {
+    "socialName": "H",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 265,
+    "depositPaid": 265,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "里維透明海報",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
+    "sourceMonth": "2026-03"
+  },
+  {
     "socialName": "h_h",
     "title": "1010 鬼滅拆信刀",
     "statusBadges": [
@@ -25564,7 +27250,7 @@
     "socialName": "Han",
     "title": "0402 北海道連線",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 555,
@@ -25577,7 +27263,7 @@
       "packagingFee": 0
     },
     "balanceDue": 10,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26029,8 +27715,46 @@
   },
   {
     "socialName": "Ichika",
+    "title": "0317咒術 雨ver.",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1090,
+    "depositPaid": 1090,
+    "secondPayment": 16,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 16,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 16,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "插畫卡套組",
+        "qty": 1
+      },
+      {
+        "name": "乙骨立牌",
+        "qty": 1
+      },
+      {
+        "name": "直哉立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0317咒術 雨ver.",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "Ichika",
     "title": "0328韓國Photoism 空白拍立得代言",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 230,
@@ -26043,7 +27767,7 @@
       "packagingFee": 0
     },
     "balanceDue": -5,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26060,7 +27784,7 @@
     "socialName": "its_midada",
     "title": "1104 咒術ensky周邊",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1290,
@@ -26073,7 +27797,7 @@
       "packagingFee": 0
     },
     "balanceDue": 142,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26094,7 +27818,7 @@
     "socialName": "its_midada",
     "title": "1118 咒術mappa",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1630,
@@ -26107,7 +27831,7 @@
       "packagingFee": 0
     },
     "balanceDue": 286,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26190,6 +27914,7 @@
     "socialName": "its_midada",
     "title": "0328韓國Photoism 空白拍立得代言",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 525,
@@ -26202,7 +27927,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26318,6 +28043,39 @@
     ],
     "sourceSheet": "★1023進巨蘑菇娃",
     "sourceMonth": "2025_09_10"
+  },
+  {
+    "socialName": "jennylin640",
+    "title": "0411咒術 懷玉玉折麻糬娃",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 640,
+    "depositPaid": 640,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "五條",
+        "qty": 1
+      },
+      {
+        "name": "夏油",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0411咒術 懷玉玉折麻糬娃",
+    "sourceMonth": "2026-04"
   },
   {
     "socialName": "Jhan",
@@ -26500,6 +28258,35 @@
     ],
     "sourceSheet": "★1118 咒術mappa",
     "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "Jiayu",
+    "title": "0317咒術 雨ver.",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 530,
+    "depositPaid": 530,
+    "secondPayment": 16,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 16,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 16,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "迷你相卡 BOX",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0317咒術 雨ver.",
+    "sourceMonth": "2026-03"
   },
   {
     "socialName": "Jiayu",
@@ -26697,6 +28484,7 @@
     "socialName": "K",
     "title": "1019 鬼滅 Amnibus無限城",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 160,
@@ -26709,7 +28497,7 @@
       "packagingFee": 0
     },
     "balanceDue": 16,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26726,7 +28514,7 @@
     "socialName": "K",
     "title": "1118 咒術mappa",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 270,
@@ -26739,7 +28527,7 @@
       "packagingFee": 0
     },
     "balanceDue": 44,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -27425,6 +29213,35 @@
     "sourceMonth": "2026-02"
   },
   {
+    "socialName": "Koa",
+    "title": "0421咒術 死滅迴游徽章個人池",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 635,
+    "depositPaid": 635,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "乙骨",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0421咒術 死滅迴游徽章個人池",
+    "sourceMonth": "2026-04"
+  },
+  {
     "socialName": "Leila",
     "title": "1228鬼滅 Ufotable多角色抽賞",
     "statusBadges": [],
@@ -27566,6 +29383,64 @@
     ],
     "sourceSheet": "0208 鬼滅 Metalbox無限城編",
     "sourceMonth": "2026-02"
+  },
+  {
+    "socialName": "Leila",
+    "title": "0418鬼滅 Jump閃卡收藏 Vol. 1",
+    "statusBadges": [],
+    "productAmount": 1075,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 1075,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "一抽",
+        "qty": 5
+      }
+    ],
+    "sourceSheet": "0418鬼滅 Jump閃卡收藏 Vol. 1",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "Leila",
+    "title": "0418JUMP生日受注 8月份",
+    "statusBadges": [],
+    "productAmount": 615,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 615,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "時透徽章",
+        "qty": 1
+      },
+      {
+        "name": "時透立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0418JUMP生日受注 8月份",
+    "sourceMonth": "2026-04"
   },
   {
     "socialName": "Li lee",
@@ -28030,6 +29905,39 @@
       }
     ],
     "sourceSheet": "0312進巨 FEST",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "lin",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 665,
+    "depositPaid": 665,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 里維",
+        "qty": 1
+      },
+      {
+        "name": "透卡A",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
     "sourceMonth": "2026-03"
   },
   {
@@ -28645,6 +30553,55 @@
   },
   {
     "socialName": "lpp_ss",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 2630,
+    "depositPaid": 2630,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "艾連透明海報",
+        "qty": 1
+      },
+      {
+        "name": "里維透明海報",
+        "qty": 1
+      },
+      {
+        "name": "Q版立牌 BOX",
+        "qty": 1
+      },
+      {
+        "name": "T-shirt",
+        "qty": 1
+      },
+      {
+        "name": "明信片套裝 里維",
+        "qty": 1
+      },
+      {
+        "name": "明信片套裝 艾蓮",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "lpp_ss",
     "title": "0328芙莉蓮 Ani-art",
     "statusBadges": [
       "已付訂金"
@@ -28704,6 +30661,64 @@
     ],
     "sourceSheet": "0330Jump Festa 2026獨家商品",
     "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "lpp_ss",
+    "title": "0411咒術 死滅洄游麻糬娃",
+    "statusBadges": [],
+    "productAmount": 590,
+    "depositPaid": 0,
+    "secondPayment": 66,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 66,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 656,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "狗卷娃娃",
+        "qty": 1
+      },
+      {
+        "name": "五條娃娃",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0411咒術 死滅洄游麻糬娃",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "lpp_ss",
+    "title": "0411咒術 懷玉玉折麻糬娃",
+    "statusBadges": [],
+    "productAmount": 320,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 320,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "五條",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0411咒術 懷玉玉折麻糬娃",
+    "sourceMonth": "2026-04"
   },
   {
     "socialName": "Lulu",
@@ -29751,6 +31766,35 @@
   },
   {
     "socialName": "nako",
+    "title": "0317咒術 雨ver.",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 465,
+    "depositPaid": 465,
+    "secondPayment": 16,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 16,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 16,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "乙骨立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0317咒術 雨ver.",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "nako",
     "title": "0323咒術 JUMP情緒立牌再受注",
     "statusBadges": [
       "已付訂金"
@@ -30018,9 +32062,63 @@
     "sourceMonth": "2025_09_10"
   },
   {
+    "socialName": "Pa",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1680,
+    "depositPaid": 1680,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 里維",
+        "qty": 1
+      },
+      {
+        "name": "貼紙 里維",
+        "qty": 1
+      },
+      {
+        "name": "里維透明海報",
+        "qty": 1
+      },
+      {
+        "name": "透卡A",
+        "qty": 1
+      },
+      {
+        "name": "透卡B",
+        "qty": 1
+      },
+      {
+        "name": "Q版立牌 單抽",
+        "qty": 1
+      },
+      {
+        "name": "正比徽章 單抽",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
+    "sourceMonth": "2026-03"
+  },
+  {
     "socialName": "Pancake",
     "title": "0328韓國Photoism 空白拍立得代言",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 335,
@@ -30033,7 +32131,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -30907,6 +33005,39 @@
   },
   {
     "socialName": "Peggy佩姬",
+    "title": "0411咒術 死滅洄游麻糬娃",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 590,
+    "depositPaid": 640,
+    "secondPayment": 66,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 66,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 16,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "狗卷娃娃",
+        "qty": 1
+      },
+      {
+        "name": "虎杖娃娃",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0411咒術 死滅洄游麻糬娃",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "Peggy佩姬",
     "title": "0411咒術 懷玉玉折麻糬娃",
     "statusBadges": [
       "已付訂金"
@@ -31016,7 +33147,7 @@
     "socialName": "pei",
     "title": "1111 進巨東京車站",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 950,
@@ -31029,7 +33160,7 @@
       "packagingFee": 0
     },
     "balanceDue": 16,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -31046,7 +33177,7 @@
     "socialName": "pei",
     "title": "1118 咒術mappa",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 735,
@@ -31059,7 +33190,7 @@
       "packagingFee": 0
     },
     "balanceDue": 57,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "香港巨人展代購-20",
@@ -31088,7 +33219,7 @@
     "socialName": "pei",
     "title": "1203 咒術 安美Chugai萬聖節",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1325,
@@ -31101,7 +33232,7 @@
       "packagingFee": 0
     },
     "balanceDue": 31,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -31281,6 +33412,7 @@
     "socialName": "piao",
     "title": "1019 鬼滅 Amnibus無限城",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 190,
@@ -31293,7 +33425,7 @@
       "packagingFee": 0
     },
     "balanceDue": 151,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -31782,7 +33914,7 @@
     "socialName": "Poki",
     "title": "1118 咒術mappa",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1620,
@@ -31795,7 +33927,7 @@
       "packagingFee": 0
     },
     "balanceDue": 130,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -32649,6 +34781,39 @@
     "sourceMonth": "2026-03"
   },
   {
+    "socialName": "R.O.N.G",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 220,
+    "depositPaid": 270,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": -50,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "明信片套裝 里維",
+        "qty": 1
+      },
+      {
+        "name": "明信片套裝 艾蓮",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
+    "sourceMonth": "2026-03"
+  },
+  {
     "socialName": "Rea",
     "title": "0319咒術 COSPA",
     "statusBadges": [
@@ -32743,6 +34908,7 @@
     "socialName": "Rea",
     "title": "0328韓國Photoism 空白拍立得代言",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 460,
@@ -32755,7 +34921,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -32809,10 +34975,11 @@
     "socialName": "Rea",
     "title": "0402 北海道連線",
     "statusBadges": [
-      "已抵台"
+      "已出貨",
+      "已付訂金"
     ],
     "productAmount": 1335,
-    "depositPaid": 0,
+    "depositPaid": 1315,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -32820,9 +34987,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 1335,
-    "etaText": "已抵台",
-    "paymentMethod": "未填",
+    "balanceDue": 20,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -32882,9 +35049,11 @@
   {
     "socialName": "Rea",
     "title": "0410咒術 幻影夜行Fanpare Mart",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 1440,
-    "depositPaid": 0,
+    "depositPaid": 1440,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -32892,9 +35061,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 1440,
+    "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "v",
     "items": [
@@ -32904,6 +35073,33 @@
       }
     ],
     "sourceSheet": "0410咒術  幻影夜行Fanpare Mart",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "Rea",
+    "title": "0424airtwokyo 脹相小房子",
+    "statusBadges": [],
+    "productAmount": 750,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 750,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "脹相哭哭立體模型",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0424airtwokyo 脹相小房子",
     "sourceMonth": "2026-04"
   },
   {
@@ -33937,6 +36133,35 @@
       }
     ],
     "sourceSheet": "0410咒術  幻影夜行Fanpare Mart",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "Sabrina",
+    "title": "0421咒術 死滅迴游徽章個人池",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 635,
+    "depositPaid": 635,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "乙骨",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0421咒術 死滅迴游徽章個人池",
     "sourceMonth": "2026-04"
   },
   {
@@ -38779,7 +41004,7 @@
       "已付訂金"
     ],
     "productAmount": 1850,
-    "depositPaid": 900,
+    "depositPaid": 1800,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -38787,7 +41012,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 950,
+    "balanceDue": 50,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -39272,7 +41497,7 @@
     "socialName": "Xuan lin",
     "title": "1108進巨放鬆系列",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 465,
@@ -39285,7 +41510,7 @@
       "packagingFee": 0
     },
     "balanceDue": 38,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -39331,7 +41556,7 @@
     "socialName": "yan",
     "title": "1111 進巨東京車站",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1900,
@@ -39344,7 +41569,7 @@
       "packagingFee": 0
     },
     "balanceDue": 32,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -39890,7 +42115,7 @@
     "socialName": "Zihan",
     "title": "1118 咒術mappa",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 270,
@@ -39903,7 +42128,7 @@
       "packagingFee": 0
     },
     "balanceDue": -226,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -39978,7 +42203,7 @@
     "socialName": "ziz",
     "title": "1118 咒術mappa",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 270,
@@ -39991,7 +42216,7 @@
       "packagingFee": 0
     },
     "balanceDue": -226,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -40159,10 +42384,39 @@
     "sourceMonth": "2026-02"
   },
   {
+    "socialName": "쮸",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 400,
+    "depositPaid": 400,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "無卡",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 艾連",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
+    "sourceMonth": "2026-03"
+  },
+  {
     "socialName": "챠우뚱이",
     "title": "1003 iFace波奇塔耳機殼",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1720,
@@ -40175,7 +42429,7 @@
       "packagingFee": 0
     },
     "balanceDue": 172,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "AirPods Pro第二代",
@@ -40252,7 +42506,7 @@
     "socialName": "챠우뚱이",
     "title": "1212鏈鋸人graniph",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 945,
@@ -40265,7 +42519,7 @@
       "packagingFee": 0
     },
     "balanceDue": 36,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -40410,12 +42664,49 @@
   },
   {
     "socialName": "ゲンーガ",
+    "title": "0317咒術 雨ver.",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1155,
+    "depositPaid": 1155,
+    "secondPayment": 16,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 16,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 16,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "插畫卡套組",
+        "qty": 1
+      },
+      {
+        "name": "迷你相卡 BOX",
+        "qty": 1
+      },
+      {
+        "name": "脹相立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0317咒術 雨ver.",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "ゲンーガ",
     "title": "0320咒術 幻影夜行 童年死滅迴游ver.",
     "statusBadges": [
       "已付訂金"
     ],
     "productAmount": 1595,
-    "depositPaid": 1595,
+    "depositPaid": 1645,
     "secondPayment": 30,
     "secondPaymentBreakdown": {
       "domesticShipping": 30,
@@ -40423,7 +42714,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 30,
+    "balanceDue": -20,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -40480,6 +42771,63 @@
       }
     ],
     "sourceSheet": "0320咒術 Neowing",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "ゲンーガ",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 2055,
+    "depositPaid": 2055,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 艾連",
+        "qty": 1
+      },
+      {
+        "name": "正比立牌 里維",
+        "qty": 1
+      },
+      {
+        "name": "貼紙 艾連",
+        "qty": 1
+      },
+      {
+        "name": "貼紙 里維",
+        "qty": 1
+      },
+      {
+        "name": "艾連透明海報",
+        "qty": 1
+      },
+      {
+        "name": "里維透明海報",
+        "qty": 1
+      },
+      {
+        "name": "透卡A",
+        "qty": 1
+      },
+      {
+        "name": "Q版立牌 單抽",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
     "sourceMonth": "2026-03"
   },
   {
@@ -40785,6 +43133,64 @@
     "sourceMonth": "2026台北動漫節"
   },
   {
+    "socialName": "セン(璇）",
+    "title": "0411咒術 死滅洄游麻糬娃",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 320,
+    "depositPaid": 320,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "五條娃娃",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0411咒術 死滅洄游麻糬娃",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "セン(璇）",
+    "title": "0411咒術 懷玉玉折麻糬娃",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 320,
+    "depositPaid": 320,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "五條",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0411咒術 懷玉玉折麻糬娃",
+    "sourceMonth": "2026-04"
+  },
+  {
     "socialName": "てて",
     "title": "0313銀魂 回眸",
     "statusBadges": [
@@ -40827,6 +43233,39 @@
       }
     ],
     "sourceSheet": "0313銀魂 回眸",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "よう",
+    "title": "0325進巨 一起去看海吧",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1220,
+    "depositPaid": 1220,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "里維透明海報",
+        "qty": 1
+      },
+      {
+        "name": "Q版立牌 BOX",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0325進巨 一起去看海吧",
     "sourceMonth": "2026-03"
   }
 ]

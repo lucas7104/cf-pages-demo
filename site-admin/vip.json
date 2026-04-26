@@ -1,0 +1,488 @@
+{
+  "generatedAt": "2026-04-26T16:26:07.236Z",
+  "note": "VIP 不含台北動漫節資料",
+  "sections": {
+    "root": {
+      "label": "全部的VIP",
+      "parent": null,
+      "children": [
+        "y2025",
+        "y2026"
+      ],
+      "topTen": [
+        {
+          "name": "婷婷",
+          "amount": 85450
+        },
+        {
+          "name": "TYT",
+          "amount": 48690
+        },
+        {
+          "name": "芭樂",
+          "amount": 39325
+        },
+        {
+          "name": "瑞斯",
+          "amount": 35220
+        },
+        {
+          "name": "高八毛",
+          "amount": 34015
+        },
+        {
+          "name": "君",
+          "amount": 33605
+        },
+        {
+          "name": "cc",
+          "amount": 30300
+        },
+        {
+          "name": "每天都想退休",
+          "amount": 25904
+        },
+        {
+          "name": "vivian_lai372",
+          "amount": 25745
+        },
+        {
+          "name": "季",
+          "amount": 24545
+        }
+      ]
+    },
+    "y2025": {
+      "label": "2025VIP",
+      "parent": "root",
+      "children": [
+        "m2025-09-10",
+        "m2025-11",
+        "m2025-12"
+      ],
+      "topTen": [
+        {
+          "name": "瑞斯",
+          "amount": 23540
+        },
+        {
+          "name": "vivian_lai372",
+          "amount": 19580
+        },
+        {
+          "name": "Vivian_lai372",
+          "amount": 17900
+        },
+        {
+          "name": "cc",
+          "amount": 17600
+        },
+        {
+          "name": "絈",
+          "amount": 17435
+        },
+        {
+          "name": "GU搭",
+          "amount": 17249
+        },
+        {
+          "name": "每天都想退休",
+          "amount": 16580
+        },
+        {
+          "name": "Eilish",
+          "amount": 15845
+        },
+        {
+          "name": "TYT",
+          "amount": 15185
+        },
+        {
+          "name": "芭樂",
+          "amount": 14545
+        }
+      ]
+    },
+    "y2026": {
+      "label": "2026VIP",
+      "parent": "root",
+      "children": [
+        "m2026-01",
+        "m2026-02",
+        "m2026-03",
+        "m2026-04"
+      ],
+      "topTen": [
+        {
+          "name": "婷婷",
+          "amount": 85450
+        },
+        {
+          "name": "TYT",
+          "amount": 33505
+        },
+        {
+          "name": "君",
+          "amount": 25650
+        },
+        {
+          "name": "高八毛",
+          "amount": 25205
+        },
+        {
+          "name": "芭樂",
+          "amount": 24780
+        },
+        {
+          "name": "季",
+          "amount": 22885
+        },
+        {
+          "name": "Sabrina",
+          "amount": 22610
+        },
+        {
+          "name": "良",
+          "amount": 15355
+        },
+        {
+          "name": "Peggy",
+          "amount": 15035
+        },
+        {
+          "name": "力卡",
+          "amount": 12860
+        }
+      ]
+    },
+    "m2025-09-10": {
+      "label": "9/10月VIP",
+      "parent": "y2025",
+      "children": [],
+      "topTen": [
+        {
+          "name": "Feiiii",
+          "amount": 9770
+        },
+        {
+          "name": "Eilish",
+          "amount": 8430
+        },
+        {
+          "name": "GU搭",
+          "amount": 7754
+        },
+        {
+          "name": "Abby❤️",
+          "amount": 6565
+        },
+        {
+          "name": "ling",
+          "amount": 6550
+        },
+        {
+          "name": "TYT",
+          "amount": 6440
+        },
+        {
+          "name": "涓",
+          "amount": 6150
+        },
+        {
+          "name": "Saki蒼",
+          "amount": 5750
+        },
+        {
+          "name": "小咪",
+          "amount": 5450
+        },
+        {
+          "name": "我逃兵",
+          "amount": 5450
+        }
+      ]
+    },
+    "m2025-11": {
+      "label": "11月VIP",
+      "parent": "y2025",
+      "children": [],
+      "topTen": [
+        {
+          "name": "瑞斯",
+          "amount": 10405
+        },
+        {
+          "name": "cc",
+          "amount": 10340
+        },
+        {
+          "name": "絈",
+          "amount": 7875
+        },
+        {
+          "name": "GU搭",
+          "amount": 7570
+        },
+        {
+          "name": "lpp_ss",
+          "amount": 7205
+        },
+        {
+          "name": "每天都想退休",
+          "amount": 6980
+        },
+        {
+          "name": "華",
+          "amount": 5490
+        },
+        {
+          "name": "Eilish",
+          "amount": 5490
+        },
+        {
+          "name": "又双叒",
+          "amount": 4940
+        },
+        {
+          "name": "Saki蒼",
+          "amount": 4940
+        }
+      ]
+    },
+    "m2025-12": {
+      "label": "12月VIP",
+      "parent": "y2025",
+      "children": [],
+      "topTen": [
+        {
+          "name": "vivian_lai372",
+          "amount": 15950
+        },
+        {
+          "name": "Vivian_lai372",
+          "amount": 14395
+        },
+        {
+          "name": "芭樂",
+          "amount": 10010
+        },
+        {
+          "name": "瑞斯",
+          "amount": 9035
+        },
+        {
+          "name": "高八毛",
+          "amount": 7520
+        },
+        {
+          "name": "良",
+          "amount": 7435
+        },
+        {
+          "name": "cc",
+          "amount": 7260
+        },
+        {
+          "name": "絈",
+          "amount": 7200
+        },
+        {
+          "name": "君",
+          "amount": 7015
+        },
+        {
+          "name": "Peggy",
+          "amount": 6755
+        }
+      ]
+    },
+    "m2026-01": {
+      "label": "1月VIP",
+      "parent": "y2026",
+      "children": [],
+      "topTen": [
+        {
+          "name": "高八毛",
+          "amount": 14860
+        },
+        {
+          "name": "婷婷",
+          "amount": 10265
+        },
+        {
+          "name": "君",
+          "amount": 9450
+        },
+        {
+          "name": "TYT",
+          "amount": 9245
+        },
+        {
+          "name": "Peggy",
+          "amount": 9175
+        },
+        {
+          "name": "芭樂",
+          "amount": 7315
+        },
+        {
+          "name": "鴨",
+          "amount": 6820
+        },
+        {
+          "name": "vivian_lai372",
+          "amount": 6165
+        },
+        {
+          "name": "Feiiii",
+          "amount": 5940
+        },
+        {
+          "name": "良",
+          "amount": 5690
+        }
+      ]
+    },
+    "m2026-02": {
+      "label": "2月VIP",
+      "parent": "y2026",
+      "children": [],
+      "topTen": [
+        {
+          "name": "TYT",
+          "amount": 12890
+        },
+        {
+          "name": "An",
+          "amount": 10305
+        },
+        {
+          "name": "芭樂",
+          "amount": 9030
+        },
+        {
+          "name": "力卡",
+          "amount": 8520
+        },
+        {
+          "name": "婷婷",
+          "amount": 7960
+        },
+        {
+          "name": "江蘇菲",
+          "amount": 6815
+        },
+        {
+          "name": "良",
+          "amount": 5690
+        },
+        {
+          "name": "Chloe Lin",
+          "amount": 4865
+        },
+        {
+          "name": "涓",
+          "amount": 4330
+        },
+        {
+          "name": "豬子",
+          "amount": 3420
+        }
+      ]
+    },
+    "m2026-03": {
+      "label": "3月VIP",
+      "parent": "y2026",
+      "children": [],
+      "topTen": [
+        {
+          "name": "婷婷",
+          "amount": 24485
+        },
+        {
+          "name": "季",
+          "amount": 14815
+        },
+        {
+          "name": "Sabrina",
+          "amount": 12145
+        },
+        {
+          "name": "楚翔",
+          "amount": 10090
+        },
+        {
+          "name": "君",
+          "amount": 10070
+        },
+        {
+          "name": "cc",
+          "amount": 9800
+        },
+        {
+          "name": "高八毛",
+          "amount": 8985
+        },
+        {
+          "name": "ゲンーガ",
+          "amount": 8445
+        },
+        {
+          "name": "TYT",
+          "amount": 7170
+        },
+        {
+          "name": "R",
+          "amount": 7005
+        }
+      ]
+    },
+    "m2026-04": {
+      "label": "4月VIP",
+      "parent": "y2026",
+      "children": [],
+      "topTen": [
+        {
+          "name": "婷婷",
+          "amount": 42740
+        },
+        {
+          "name": "Sabrina",
+          "amount": 8110
+        },
+        {
+          "name": "FLOWDY",
+          "amount": 6305
+        },
+        {
+          "name": "君",
+          "amount": 5915
+        },
+        {
+          "name": "芭樂",
+          "amount": 4790
+        },
+        {
+          "name": "Rea",
+          "amount": 4450
+        },
+        {
+          "name": "TYT",
+          "amount": 4200
+        },
+        {
+          "name": "季",
+          "amount": 3765
+        },
+        {
+          "name": "每天都想退休",
+          "amount": 3735
+        },
+        {
+          "name": "拉拉",
+          "amount": 3620
+        }
+      ]
+    }
+  }
+}
