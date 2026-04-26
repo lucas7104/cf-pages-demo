@@ -133,6 +133,12 @@
       color: #5c69c8;
       font-weight: 800;
     }
+    .section-title {
+      font-size: 28px;
+      font-weight: 900;
+      color: #5c69c8;
+      margin: 0 0 16px;
+    }
     .nav-grid {
       display: grid;
       grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -235,9 +241,9 @@
     <div class="topbar">
       <div class="brand">獻出錢包！ 訂單平台 Demo｜管理版</div>
       <div class="nav">
-        <a href="https://cf-pages-demo-admin.lucas7104.workers.dev/">管理首頁</a>
-        <a href="https://cf-pages-demo-admin.lucas7104.workers.dev/search.html">管理查詢</a>
-        <a href="https://cf-pages-demo.lucas7104.workers.dev/">公開首頁</a>
+        <a href="./index.html">管理首頁</a>
+        <a href="./search.html">管理查詢</a>
+        <a href="../index.html">公開首頁</a>
       </div>
     </div>
 
@@ -250,8 +256,8 @@
       </p>
 
       <div class="hero-actions">
-        <a class="btn btn-primary" href="https://cf-pages-demo-admin.lucas7104.workers.dev/search.html">前往管理查詢</a>
-        <a class="btn btn-secondary" href="https://cf-pages-demo.lucas7104.workers.dev/search.html">查看公開查詢</a>
+        <a class="btn btn-primary" href="./search.html">前往管理查詢</a>
+        <a class="btn btn-secondary" href="../search.html">查看公開查詢</a>
       </div>
 
       <div class="hint">
@@ -267,6 +273,7 @@
         <div id="breadcrumb" class="breadcrumb"></div>
       </div>
 
+      <h2 id="sectionTitle" class="section-title">全部的VIP</h2>
 
       <div id="navGrid" class="nav-grid"></div>
 
@@ -282,11 +289,12 @@
     const vipApp = document.getElementById("vipApp");
     const backBtn = document.getElementById("backBtn");
     const breadcrumb = document.getElementById("breadcrumb");
+    const sectionTitle = document.getElementById("sectionTitle");
     const navGrid = document.getElementById("navGrid");
     const vipCardTitle = document.getElementById("vipCardTitle");
     const vipList = document.getElementById("vipList");
 
-    let allOrders = [];
+    let vipData = null;
     let currentSectionKey = "root";
 
     function formatMoney(num) {
@@ -294,100 +302,8 @@
       return "$" + value.toLocaleString("zh-TW");
     }
 
-    function normalizeSourceMonth(value) {
-      return String(value || "").trim().replace(/_/g, "-");
-    }
-
-    function isVipEligible(order) {
-      const sourceSheet = String(order.sourceSheet || "");
-      const title = String(order.title || "");
-      return !sourceSheet.includes("台北動漫節") && !title.includes("台北動漫節");
-    }
-
-    const sectionMap = {
-      root: {
-        label: "全部的VIP",
-        parent: null,
-        children: ["y2025", "y2026"],
-        match: (order) => true
-      },
-      y2025: {
-        label: "2025VIP",
-        parent: "root",
-        children: ["m2025-09-10", "m2025-11", "m2025-12"],
-        match: (order) => normalizeSourceMonth(order.sourceMonth).startsWith("2025")
-      },
-      y2026: {
-        label: "2026VIP",
-        parent: "root",
-        children: ["m2026-01", "m2026-02", "m2026-03", "m2026-04"],
-        match: (order) => normalizeSourceMonth(order.sourceMonth).startsWith("2026")
-      },
-      "m2025-09-10": {
-        label: "9/10月VIP",
-        parent: "y2025",
-        children: [],
-        match: (order) => normalizeSourceMonth(order.sourceMonth) === "2025-09-10"
-      },
-      "m2025-11": {
-        label: "11月VIP",
-        parent: "y2025",
-        children: [],
-        match: (order) => normalizeSourceMonth(order.sourceMonth) === "2025-11"
-      },
-      "m2025-12": {
-        label: "12月VIP",
-        parent: "y2025",
-        children: [],
-        match: (order) => normalizeSourceMonth(order.sourceMonth) === "2025-12"
-      },
-      "m2026-01": {
-        label: "1月VIP",
-        parent: "y2026",
-        children: [],
-        match: (order) => normalizeSourceMonth(order.sourceMonth) === "2026-01"
-      },
-      "m2026-02": {
-        label: "2月VIP",
-        parent: "y2026",
-        children: [],
-        match: (order) => normalizeSourceMonth(order.sourceMonth) === "2026-02"
-      },
-      "m2026-03": {
-        label: "3月VIP",
-        parent: "y2026",
-        children: [],
-        match: (order) => normalizeSourceMonth(order.sourceMonth) === "2026-03"
-      },
-      "m2026-04": {
-        label: "4月VIP",
-        parent: "y2026",
-        children: [],
-        match: (order) => normalizeSourceMonth(order.sourceMonth) === "2026-04"
-      }
-    };
-
-    function buildTopTen(orders, matcher) {
-      const memberMap = new Map();
-
-      for (const order of orders) {
-        if (!matcher(order)) continue;
-        if (!isVipEligible(order)) continue;
-
-        const name = String(order.socialName || "").trim();
-        if (!name) continue;
-
-        const amount = Number(order.productAmount || 0);
-        memberMap.set(name, (memberMap.get(name) || 0) + amount);
-      }
-
-      return Array.from(memberMap.entries())
-        .map(([name, amount]) => ({ name, amount }))
-        .sort((a, b) => {
-          if (b.amount !== a.amount) return b.amount - a.amount;
-          return a.name.localeCompare(b.name, "zh-Hant");
-        })
-        .slice(0, 10);
+    function getSection(sectionKey) {
+      return vipData?.sections?.[sectionKey] || null;
     }
 
     function getPath(sectionKey) {
@@ -396,7 +312,8 @@
 
       while (cursor) {
         path.unshift(cursor);
-        cursor = sectionMap[cursor].parent;
+        const current = getSection(cursor);
+        cursor = current?.parent || null;
       }
 
       return path;
@@ -406,21 +323,23 @@
       const path = getPath(sectionKey);
 
       breadcrumb.innerHTML = path.map((key, index) => {
-        const label = sectionMap[key].label;
+        const section = getSection(key);
+        if (!section) return "";
 
         if (index === path.length - 1) {
-          return `<span>${label}</span>`;
+          return `<span>${section.label}</span>`;
         }
 
         return `
-          <span class="breadcrumb-link" data-section="${key}">${label}</span>
+          <span class="breadcrumb-link" data-section="${key}">${section.label}</span>
           <span>›</span>
         `;
       }).join("");
     }
 
     function renderNavCards(sectionKey) {
-      const children = sectionMap[sectionKey].children || [];
+      const section = getSection(sectionKey);
+      const children = section?.children || [];
 
       if (!children.length) {
         navGrid.style.display = "none";
@@ -429,17 +348,24 @@
       }
 
       navGrid.style.display = "grid";
-      navGrid.innerHTML = children.map((key) => `
-        <article class="nav-card" data-section="${key}">
-          <div class="nav-card-title">${sectionMap[key].label}</div>
-          <div class="nav-card-sub">點擊查看排行</div>
-        </article>
-      `).join("");
+      navGrid.innerHTML = children.map((key) => {
+        const child = getSection(key);
+        if (!child) return "";
+
+        return `
+          <article class="nav-card" data-section="${key}">
+            <div class="nav-card-title">${child.label}</div>
+            <div class="nav-card-sub">點擊查看排行</div>
+          </article>
+        `;
+      }).join("");
     }
 
     function renderVipList(sectionKey) {
-      const section = sectionMap[sectionKey];
-      const topTen = buildTopTen(allOrders, section.match);
+      const section = getSection(sectionKey);
+      const topTen = section?.topTen || [];
+
+      if (!section) return;
 
       vipCardTitle.textContent = `${section.label} 前 10 名`;
 
@@ -458,7 +384,11 @@
     }
 
     function renderSection(sectionKey) {
+      const section = getSection(sectionKey);
+      if (!section) return;
+
       currentSectionKey = sectionKey;
+      sectionTitle.textContent = section.label;
 
       renderBreadcrumb(sectionKey);
       renderNavCards(sectionKey);
@@ -473,19 +403,19 @@
 
     async function init() {
       try {
-        const response = await fetch("./orders.json");
+        const response = await fetch("./vip.json");
         if (!response.ok) {
-          throw new Error("無法讀取 orders.json");
+          throw new Error("無法讀取 vip.json");
         }
 
-        allOrders = await response.json();
+        vipData = await response.json();
 
         loadingBox.style.display = "none";
         vipApp.style.display = "block";
         renderSection("root");
       } catch (error) {
         console.error(error);
-        loadingBox.textContent = "VIP 資料載入失敗，請確認 orders.json 是否存在。";
+        loadingBox.textContent = "VIP 資料載入失敗，請確認 vip.json 是否存在。";
       }
     }
 
@@ -494,7 +424,7 @@
       if (!card) return;
 
       const sectionKey = card.dataset.section;
-      if (!sectionMap[sectionKey]) return;
+      if (!getSection(sectionKey)) return;
 
       renderSection(sectionKey);
     });
@@ -504,13 +434,14 @@
       if (!link) return;
 
       const sectionKey = link.dataset.section;
-      if (!sectionMap[sectionKey]) return;
+      if (!getSection(sectionKey)) return;
 
       renderSection(sectionKey);
     });
 
     backBtn.addEventListener("click", () => {
-      const parent = sectionMap[currentSectionKey].parent;
+      const current = getSection(currentSectionKey);
+      const parent = current?.parent;
       if (!parent) return;
       renderSection(parent);
     });
