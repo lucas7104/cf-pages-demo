@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T16:26:07.236Z",
+  "generatedAt": "2026-04-26T17:56:58.812Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -12,7 +12,7 @@
       "topTen": [
         {
           "name": "婷婷",
-          "amount": 85450
+          "amount": 86775
         },
         {
           "name": "TYT",
@@ -20,7 +20,7 @@
         },
         {
           "name": "芭樂",
-          "amount": 39325
+          "amount": 38920
         },
         {
           "name": "瑞斯",
@@ -32,19 +32,19 @@
         },
         {
           "name": "君",
-          "amount": 33605
+          "amount": 33045
         },
         {
           "name": "cc",
           "amount": 30300
         },
         {
-          "name": "每天都想退休",
-          "amount": 25904
+          "name": "vivian_lai372",
+          "amount": 28715
         },
         {
-          "name": "vivian_lai372",
-          "amount": 25745
+          "name": "每天都想退休",
+          "amount": 25904
         },
         {
           "name": "季",
@@ -67,7 +67,7 @@
         },
         {
           "name": "vivian_lai372",
-          "amount": 19580
+          "amount": 22550
         },
         {
           "name": "Vivian_lai372",
@@ -115,23 +115,23 @@
       "topTen": [
         {
           "name": "婷婷",
-          "amount": 85450
+          "amount": 86775
         },
         {
           "name": "TYT",
           "amount": 33505
         },
         {
-          "name": "君",
-          "amount": 25650
-        },
-        {
           "name": "高八毛",
           "amount": 25205
         },
         {
+          "name": "君",
+          "amount": 25090
+        },
+        {
           "name": "芭樂",
-          "amount": 24780
+          "amount": 24375
         },
         {
           "name": "季",
@@ -256,7 +256,7 @@
       "topTen": [
         {
           "name": "vivian_lai372",
-          "amount": 15950
+          "amount": 18920
         },
         {
           "name": "Vivian_lai372",
@@ -310,10 +310,6 @@
           "amount": 10265
         },
         {
-          "name": "君",
-          "amount": 9450
-        },
-        {
           "name": "TYT",
           "amount": 9245
         },
@@ -322,12 +318,16 @@
           "amount": 9175
         },
         {
+          "name": "君",
+          "amount": 8890
+        },
+        {
           "name": "芭樂",
-          "amount": 7315
+          "amount": 6910
         },
         {
           "name": "鴨",
-          "amount": 6820
+          "amount": 6525
         },
         {
           "name": "vivian_lai372",
@@ -444,7 +444,7 @@
       "topTen": [
         {
           "name": "婷婷",
-          "amount": 42740
+          "amount": 44065
         },
         {
           "name": "Sabrina",

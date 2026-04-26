@@ -1196,9 +1196,11 @@
   {
     "socialName": "力卡",
     "title": "0417gachiakuta 公主咖啡廳",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 615,
-    "depositPaid": 0,
+    "depositPaid": 600,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -1206,9 +1208,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 615,
+    "balanceDue": 15,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -3102,53 +3104,6 @@
   },
   {
     "socialName": "江蘇菲",
-    "title": "0103咒術 動畫5週年紀念",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 515,
-    "depositPaid": 515,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "明信片套裝",
-        "qty": 1
-      },
-      {
-        "name": "燙金票券式卡片 (五條)",
-        "qty": 1
-      },
-      {
-        "name": "資料夾 (五條)",
-        "qty": 1
-      },
-      {
-        "name": "資料夾 (虎杖)",
-        "qty": 1
-      },
-      {
-        "name": "資料夾 (釘崎)",
-        "qty": 1
-      },
-      {
-        "name": "資料夾 (伏黑)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "江蘇菲",
     "title": "0108咒術 Jump GIGA 2026冬季刊",
     "statusBadges": [
       "已出貨",
@@ -4099,37 +4054,6 @@
     "items": [
       {
         "name": "立牌 (坂本B)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "君",
-    "title": "0103咒術 動畫5週年紀念",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 560,
-    "depositPaid": 560,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌 (五條)",
-        "qty": 1
-      },
-      {
-        "name": "明信片套裝",
         "qty": 1
       }
     ]
@@ -8529,41 +8453,6 @@
   },
   {
     "socialName": "芭樂",
-    "title": "0103咒術 動畫5週年紀念",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 405,
-    "depositPaid": 405,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "明信片套裝",
-        "qty": 1
-      },
-      {
-        "name": "燙金票券式卡片 (五條)",
-        "qty": 1
-      },
-      {
-        "name": "資料夾 (五條)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "芭樂",
     "title": "0112 多ip JPshop咒術數據卡",
     "statusBadges": [
       "已出貨",
@@ -12953,9 +12842,9 @@
     ],
     "productAmount": 530,
     "depositPaid": 530,
-    "secondPayment": 0,
+    "secondPayment": 39,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 39,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
@@ -13861,6 +13750,37 @@
     "items": [
       {
         "name": "徽章抱盒",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "婷婷",
+    "title": "0416排少 下雨系列",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1325,
+    "depositPaid": 1325,
+    "secondPayment": 161,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 161,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 161,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "徽章抱盒",
+        "qty": 1
+      },
+      {
+        "name": "月島立牌",
         "qty": 1
       }
     ]
@@ -15560,9 +15480,9 @@
     ],
     "productAmount": 1060,
     "depositPaid": 1060,
-    "secondPayment": 0,
+    "secondPayment": 39,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 39,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
@@ -17847,37 +17767,6 @@
     "items": [
       {
         "name": "搖滾樂團海報 (all)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "鴨",
-    "title": "0103咒術 動畫5週年紀念",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 295,
-    "depositPaid": 295,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "明信片套裝",
-        "qty": 1
-      },
-      {
-        "name": "燙金票券式卡片 (五條)",
         "qty": 1
       }
     ]
@@ -20350,9 +20239,9 @@
     ],
     "productAmount": 530,
     "depositPaid": 530,
-    "secondPayment": 0,
+    "secondPayment": 39,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 39,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
@@ -26338,14 +26227,14 @@
     ],
     "productAmount": 640,
     "depositPaid": 640,
-    "secondPayment": 0,
+    "secondPayment": 42,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 42,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 42,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28820,19 +28709,21 @@
   {
     "socialName": "lpp_ss",
     "title": "0411咒術 懷玉玉折麻糬娃",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 320,
-    "depositPaid": 0,
-    "secondPayment": 0,
+    "depositPaid": 320,
+    "secondPayment": 42,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 42,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 320,
+    "balanceDue": 42,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -37893,6 +37784,31 @@
     "socialName": "vivian_lai372",
     "title": "私人委託",
     "statusBadges": [],
+    "productAmount": 2970,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 2970,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "我英三小隻11cm貓貓",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "vivian_lai372",
+    "title": "私人委託",
+    "statusBadges": [],
     "productAmount": 1735,
     "depositPaid": 0,
     "secondPayment": 0,
@@ -38412,60 +38328,6 @@
       },
       {
         "name": "搖滾樂團插畫卡 (抱盒)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "Vivian_lai372",
-    "title": "0103咒術 動畫5週年紀念",
-    "statusBadges": [],
-    "productAmount": 850,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 850,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "壓克力杯墊 (五條)",
-        "qty": 1
-      },
-      {
-        "name": "紀念透卡",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "vivian_lai373",
-    "title": "私人委託",
-    "statusBadges": [],
-    "productAmount": 2970,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 2970,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "我英三小隻11cm貓貓",
         "qty": 1
       }
     ]
@@ -40541,14 +40403,14 @@
     ],
     "productAmount": 320,
     "depositPaid": 320,
-    "secondPayment": 0,
+    "secondPayment": 42,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 42,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 42,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
