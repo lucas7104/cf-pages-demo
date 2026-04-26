@@ -1,15 +1,15 @@
-name: Sync order data from Google Sheets
+name: Sync and deploy order data
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */12 * * *"
-    
+    - cron: "*/10 * * * *"
+
 permissions:
   contents: write
 
 jobs:
-  sync-orders:
+  sync-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
@@ -30,15 +30,26 @@ jobs:
           GOOGLE_SHEETS_CONFIG: ${{ vars.GOOGLE_SHEETS_CONFIG }}
           CONTACT_URL: ${{ secrets.CONTACT_URL }}
 
-      - name: Commit and push if changed
+      - name: Commit and push JSON if changed
         run: |
           if git diff --quiet -- site-public/orders-public.json site-admin/orders.json site-admin/vip.json; then
-            echo "資料沒有變更，結束。"
-            exit 0
+            echo "資料沒有變更。"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add site-public/orders-public.json site-admin/orders.json site-admin/vip.json
+            git commit -m "chore: sync order data from Google Sheets"
+            git push
           fi
 
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add site-public/orders-public.json site-admin/orders.json site-admin/vip.json
-          git commit -m "chore: sync order data from Google Sheets"
-          git push
+      - name: Deploy public worker
+        run: npx wrangler deploy -c wrangler.public.jsonc
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+
+      - name: Deploy admin worker
+        run: npx wrangler deploy -c wrangler.admin.jsonc
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
