@@ -208,7 +208,7 @@
     "socialName": "++",
     "title": "0402 北海道連線",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1180,
@@ -221,7 +221,7 @@
       "packagingFee": 0
     },
     "balanceDue": 20,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -14310,6 +14310,42 @@
   },
   {
     "socialName": "舒芙蕾",
+    "title": "1108進巨放鬆系列",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 1145,
+    "depositPaid": 1045,
+    "secondPayment": 61,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 18,
+      "internationalShipping": 27,
+      "cardFee": 16,
+      "packagingFee": 0
+    },
+    "balanceDue": -424,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "退款424保留折抵其他商品",
+    "items": [
+      {
+        "name": "正比立牌 (里維) ￥1,925",
+        "qty": 1
+      },
+      {
+        "name": "壓克力鑰匙圈 (里維) ￥990",
+        "qty": 1
+      },
+      {
+        "name": "壓克力磚(里漢) ￥1,815",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "舒芙蕾",
     "title": "1228進巨 Zogankin",
     "statusBadges": [
       "已付訂金"
@@ -14343,7 +14379,7 @@
     "socialName": "舒芙蕾",
     "title": "(1月重開)0928 進巨 GIGO第二車-18下單",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 528,
@@ -14356,7 +14392,7 @@
       "packagingFee": 0
     },
     "balanceDue": 22,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -18535,42 +18571,6 @@
       },
       {
         "name": "正比立牌 (艾爾文)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "臉書 游苡婕",
-    "title": "1108進巨放鬆系列",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 1145,
-    "depositPaid": 1045,
-    "secondPayment": 61,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 18,
-      "internationalShipping": 27,
-      "cardFee": 16,
-      "packagingFee": 0
-    },
-    "balanceDue": -424,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "退款424保留折抵其他商品",
-    "items": [
-      {
-        "name": "正比立牌 (里維) ￥1,925",
-        "qty": 1
-      },
-      {
-        "name": "壓克力鑰匙圈 (里維) ￥990",
-        "qty": 1
-      },
-      {
-        "name": "壓克力磚(里漢) ￥1,815",
         "qty": 1
       }
     ]
@@ -26504,7 +26504,7 @@
     "socialName": "Jiayu",
     "title": "1118 咒術mappa",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 540,
@@ -26517,7 +26517,7 @@
       "packagingFee": 0
     },
     "balanceDue": 74,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -31664,7 +31664,7 @@
     "socialName": "piao",
     "title": "0108咒術 Jump GIGA 2026冬季刊",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 360,
@@ -31677,7 +31677,7 @@
       "packagingFee": 0
     },
     "balanceDue": 350,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -31692,7 +31692,7 @@
     "socialName": "piao",
     "title": "0109咒術 AIZO限定專輯",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 840,
@@ -31705,7 +31705,7 @@
       "packagingFee": 0
     },
     "balanceDue": 285,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36282,7 +36282,7 @@
     "socialName": "TYT",
     "title": "1014 進巨 Q版吊飾",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 475,
@@ -36295,7 +36295,7 @@
       "packagingFee": 0
     },
     "balanceDue": 15,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36399,7 +36399,7 @@
     "socialName": "TYT",
     "title": "1022 鏈鋸人金屬徽章",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 600,
@@ -36412,7 +36412,7 @@
       "packagingFee": 0
     },
     "balanceDue": 205,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36510,7 +36510,7 @@
     "socialName": "TYT",
     "title": "1114 Movic進巨壓克力磚",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1480,
@@ -36523,7 +36523,7 @@
       "packagingFee": 0
     },
     "balanceDue": 232,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36573,7 +36573,7 @@
     "socialName": "TYT",
     "title": "1203 咒術 安美Chugai萬聖節",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 265,
@@ -36586,7 +36586,7 @@
       "packagingFee": 0
     },
     "balanceDue": 8,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36742,7 +36742,7 @@
     "socialName": "TYT",
     "title": "(1月重開) 0930 進巨WIT線稿-1022下單",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1145,
@@ -36755,7 +36755,7 @@
       "packagingFee": 0
     },
     "balanceDue": 207,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36805,7 +36805,7 @@
     "socialName": "TYT",
     "title": "0108咒術 Jump GIGA 2026冬季刊",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 360,
@@ -36818,7 +36818,7 @@
       "packagingFee": 0
     },
     "balanceDue": 350,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36833,7 +36833,7 @@
     "socialName": "TYT",
     "title": "0122進巨 Airtwokyo",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1285,
@@ -36846,7 +36846,7 @@
       "packagingFee": 0
     },
     "balanceDue": 67,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -37471,7 +37471,7 @@
     "socialName": "TYT",
     "title": "0402 北海道連線",
     "statusBadges": [
-      "已抵台"
+      "已出貨"
     ],
     "productAmount": 3400,
     "depositPaid": 0,
@@ -37483,7 +37483,7 @@
       "packagingFee": 0
     },
     "balanceDue": 3400,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
