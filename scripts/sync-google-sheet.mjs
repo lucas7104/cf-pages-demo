@@ -211,6 +211,57 @@ function normalizeSourceMonth(value) {
   return cleanText(value).replace(/_/g, "-");
 }
 
+function parseSourceMonthForSort(value) {
+  const normalized = normalizeSourceMonth(value);
+
+  // 例：2026-01
+  let match = normalized.match(/^(\d{4})-(\d{2})$/);
+  if (match) {
+    return {
+      year: Number(match[1]),
+      month: Number(match[2]),
+      day: 0
+    };
+  }
+
+  // 例：2025-09-10（你這種 9/10 月合併標記）
+  match = normalized.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+  if (match) {
+    return {
+      year: Number(match[1]),
+      month: Number(match[2]),
+      day: 0
+    };
+  }
+
+  return {
+    year: 9999,
+    month: 99,
+    day: 99
+  };
+}
+
+function parseTitleDateForSort(title) {
+  const text = cleanText(title);
+
+  // 取標題開頭 4 碼，例如：
+  // 0103膳大黨 -> 01/03
+  // 1123 咒術pochimart -> 11/23
+  const match = text.match(/^(\d{2})(\d{2})/);
+
+  if (!match) {
+    return {
+      month: 99,
+      day: 99
+    };
+  }
+
+  return {
+    month: Number(match[1]),
+    day: Number(match[2])
+  };
+}
+
 function parseSheet(sheetName, sheet, sourceMonthLabel) {
   const rows = xlsx.utils.sheet_to_json(sheet, {
     header: 1,
@@ -442,12 +493,32 @@ async function main() {
   }
 
   orders.sort((a, b) => {
-    const socialCompare = a.socialName.localeCompare(b.socialName, "zh-Hant");
-    if (socialCompare !== 0) return socialCompare;
+    const aMonth = parseSourceMonthForSort(a.sourceMonth);
+    const bMonth = parseSourceMonthForSort(b.sourceMonth);
 
-    const monthCompare = (a.sourceMonth || "").localeCompare(b.sourceMonth || "", "zh-Hant");
-    if (monthCompare !== 0) return monthCompare;
+    // 先依年份排序
+    if (aMonth.year !== bMonth.year) {
+      return aMonth.year - bMonth.year;
+    }
 
+    // 再依月份排序
+    if (aMonth.month !== bMonth.month) {
+      return aMonth.month - bMonth.month;
+    }
+
+    // 同月份內，再看標題前 4 碼的月日，例如 0103 / 1123
+    const aTitleDate = parseTitleDateForSort(a.title);
+    const bTitleDate = parseTitleDateForSort(b.title);
+
+    if (aTitleDate.month !== bTitleDate.month) {
+      return aTitleDate.month - bTitleDate.month;
+    }
+
+    if (aTitleDate.day !== bTitleDate.day) {
+      return aTitleDate.day - bTitleDate.day;
+    }
+
+    // 最後再用標題文字補排序
     return a.title.localeCompare(b.title, "zh-Hant");
   });
 
