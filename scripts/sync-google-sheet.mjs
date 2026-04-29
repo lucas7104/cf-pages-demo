@@ -238,7 +238,8 @@ function parseSheet(sheetName, sheet, sourceMonthLabel) {
     return top.includes("二補") && !sub;
   });
 
-  const balanceDueIndex = findIndex(combinedHeaders, ["賣貨便尾款", "尾款"]);
+  //const balanceDueIndex = findIndex(combinedHeaders, ["賣貨便尾款", "尾款"]);
+
   const paymentMethodIndex = findIndex(combinedHeaders, ["付訂方式", "付款方式"]);
   const statusIndex = findIndex(combinedHeaders, ["出貨狀況"]);
   const noteIndex = findIndex(combinedHeaders, ["備註"]);
@@ -272,7 +273,8 @@ function parseSheet(sheetName, sheet, sourceMonthLabel) {
         ? toNumber(row[explicitSecondPaymentIndex])
         : domesticShipping + internationalShipping + cardFee + packagingFee;
 
-    const balanceDue = balanceDueIndex !== -1 ? toNumber(row[balanceDueIndex]) : 0;
+    const balanceDueRaw = productAmount - depositPaid - secondPayment;
+    const balanceDue = Math.max(0, Number(balanceDueRaw.toFixed(2)));
     const paymentMethod =
       paymentMethodIndex !== -1 ? cleanText(row[paymentMethodIndex]) || "未填" : "未填";
     const statusText = statusIndex !== -1 ? cleanText(row[statusIndex]) : "";
