@@ -273,7 +273,7 @@ function parseSheet(sheetName, sheet, sourceMonthLabel) {
         ? toNumber(row[explicitSecondPaymentIndex])
         : domesticShipping + internationalShipping + cardFee + packagingFee;
 
-    const balanceDueRaw = productAmount - depositPaid - secondPayment;
+    const balanceDueRaw = productAmount - depositPaid + secondPayment;
     const balanceDue = Math.max(0, Number(balanceDueRaw.toFixed(2)));
     const paymentMethod =
       paymentMethodIndex !== -1 ? cleanText(row[paymentMethodIndex]) || "未填" : "未填";
