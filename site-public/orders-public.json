@@ -74,7 +74,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -102,7 +102,7 @@
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 84,
+    "balanceDue": 16,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -259,7 +259,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 14,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -287,7 +287,7 @@
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 119,
+    "balanceDue": 81,
     "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -315,7 +315,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 57,
+    "balanceDue": 53,
     "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -343,7 +343,7 @@
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 84,
+    "balanceDue": 16,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -398,7 +398,7 @@
       "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 114,
+    "balanceDue": 66,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -425,7 +425,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 16,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -500,7 +500,7 @@
       "cardFee": 31,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 37,
     "etaText": "已抵台",
     "paymentMethod": "未知",
     "contactUrl": "https://example.com/contact",
@@ -536,7 +536,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 186,
+    "balanceDue": 14,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -622,7 +622,7 @@
       "cardFee": 20,
       "packagingFee": 0
     },
-    "balanceDue": 274,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -907,7 +907,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 172,
+    "balanceDue": 28,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -935,7 +935,7 @@
       "cardFee": 0,
       "packagingFee": 110
     },
-    "balanceDue": 110,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1076,7 +1076,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 135,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -1235,7 +1235,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 39,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1267,7 +1267,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 92,
+    "balanceDue": 28,
     "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -1322,7 +1322,7 @@
       "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 241,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1354,7 +1354,7 @@
       "cardFee": 45,
       "packagingFee": 0
     },
-    "balanceDue": 616,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1448,7 +1448,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 43,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1627,7 +1627,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": -466,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1838,7 +1838,7 @@
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 84,
+    "balanceDue": 16,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1866,7 +1866,7 @@
       "cardFee": 80,
       "packagingFee": 0
     },
-    "balanceDue": 250,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1894,7 +1894,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 46,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1979,7 +1979,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 30,
+    "balanceDue": 680,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -2042,7 +2042,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 147,
+    "balanceDue": 53,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -2097,7 +2097,7 @@
       "cardFee": 27,
       "packagingFee": 0
     },
-    "balanceDue": 229,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -2239,7 +2239,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 67,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -2271,7 +2271,7 @@
       "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 48,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -2303,7 +2303,7 @@
       "cardFee": 0,
       "packagingFee": 110
     },
-    "balanceDue": 110,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -2330,7 +2330,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -2358,7 +2358,7 @@
       "cardFee": 4,
       "packagingFee": 10
     },
-    "balanceDue": 54,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -2443,7 +2443,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 12,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -2522,7 +2522,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -2558,7 +2558,7 @@
       "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 49,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -2617,7 +2617,7 @@
       "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 250,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -2796,7 +2796,7 @@
       "cardFee": 42,
       "packagingFee": 0
     },
-    "balanceDue": 343,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -2836,7 +2836,7 @@
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 316,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -2884,7 +2884,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 8,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -3069,7 +3069,7 @@
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 55,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -3117,7 +3117,7 @@
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 232,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -3145,7 +3145,7 @@
       "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 350,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -3347,7 +3347,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 480,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -3375,7 +3375,7 @@
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 84,
+    "balanceDue": 16,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -3403,7 +3403,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 46,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -3431,7 +3431,7 @@
       "cardFee": 4,
       "packagingFee": 10
     },
-    "balanceDue": 24,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -3486,7 +3486,7 @@
       "cardFee": 4,
       "packagingFee": 10
     },
-    "balanceDue": 54,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -3580,7 +3580,7 @@
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 19,
+    "balanceDue": 81,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -3661,7 +3661,7 @@
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 739,
+    "balanceDue": 491,
     "etaText": "已出貨",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -3762,7 +3762,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": -20,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -3794,7 +3794,7 @@
       "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 92,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -3834,7 +3834,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 8,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -3862,7 +3862,7 @@
       "cardFee": 30,
       "packagingFee": 0
     },
-    "balanceDue": 350,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -3917,7 +3917,7 @@
       "cardFee": 37,
       "packagingFee": 0
     },
-    "balanceDue": 162,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -4042,7 +4042,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 33,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -4101,7 +4101,7 @@
       "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 350,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -4129,7 +4129,7 @@
       "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 285,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -4559,7 +4559,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 30,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -4656,7 +4656,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 12,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -4683,7 +4683,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 54,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -4714,7 +4714,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 42,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -4741,7 +4741,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 62,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -4795,7 +4795,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 19,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -4888,7 +4888,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 14,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -4915,7 +4915,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 10,
+    "balanceDue": 680,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -4950,7 +4950,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 670,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -5102,7 +5102,7 @@
       "cardFee": 80,
       "packagingFee": 0
     },
-    "balanceDue": 350,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -5160,7 +5160,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -5187,7 +5187,7 @@
       "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 105,
+    "balanceDue": 95,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -5250,7 +5250,7 @@
       "cardFee": 17,
       "packagingFee": 0
     },
-    "balanceDue": 169,
+    "balanceDue": 31,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -5278,7 +5278,7 @@
       "cardFee": 0,
       "packagingFee": 40
     },
-    "balanceDue": 140,
+    "balanceDue": 60,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -5305,7 +5305,7 @@
       "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 232,
+    "balanceDue": 88,
     "etaText": "已出貨",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -5333,7 +5333,7 @@
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 163,
+    "balanceDue": 37,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -5361,7 +5361,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 130,
+    "balanceDue": 70,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -5401,7 +5401,7 @@
       "cardFee": 36,
       "packagingFee": 0
     },
-    "balanceDue": 93,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -5468,7 +5468,7 @@
       "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 279,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -5585,7 +5585,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 40,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -5625,7 +5625,7 @@
       "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 177,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -5657,7 +5657,7 @@
       "cardFee": 30,
       "packagingFee": 0
     },
-    "balanceDue": 192,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -5766,7 +5766,7 @@
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 72,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -5856,7 +5856,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 20,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -5942,7 +5942,7 @@
       "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 350,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -6024,7 +6024,7 @@
       "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 194,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -6160,7 +6160,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 19,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -6219,7 +6219,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 74,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -6278,7 +6278,7 @@
       "cardFee": 61,
       "packagingFee": 0
     },
-    "balanceDue": 349,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -6417,7 +6417,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 24,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -6444,7 +6444,7 @@
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 1007,
+    "balanceDue": 903,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -6530,7 +6530,7 @@
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 84,
+    "balanceDue": 16,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -6670,7 +6670,7 @@
       "cardFee": 4,
       "packagingFee": 10
     },
-    "balanceDue": 54,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -6740,7 +6740,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 16,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -6799,7 +6799,7 @@
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 23,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -7184,7 +7184,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 30,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -7347,7 +7347,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 12,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -7523,7 +7523,7 @@
       "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 113,
+    "balanceDue": 77,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -7948,7 +7948,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 19,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -8011,7 +8011,7 @@
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 70,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -8043,7 +8043,7 @@
       "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 112,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -8070,7 +8070,7 @@
       "cardFee": 0,
       "packagingFee": 10
     },
-    "balanceDue": 10,
+    "balanceDue": 240,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -8106,7 +8106,7 @@
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 104,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -8134,7 +8134,7 @@
       "cardFee": 46,
       "packagingFee": 0
     },
-    "balanceDue": 335,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -8174,7 +8174,7 @@
       "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 230,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -8210,7 +8210,7 @@
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 28,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -8316,7 +8316,7 @@
       "cardFee": 37,
       "packagingFee": 0
     },
-    "balanceDue": 134,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -8457,7 +8457,7 @@
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 62,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -8493,7 +8493,7 @@
       "cardFee": 13,
       "packagingFee": 0
     },
-    "balanceDue": 222,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -8521,7 +8521,7 @@
       "cardFee": 49,
       "packagingFee": 0
     },
-    "balanceDue": 356,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -8844,7 +8844,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 54,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -8871,7 +8871,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 19,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -8996,7 +8996,7 @@
       "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 242,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9024,7 +9024,7 @@
       "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 123,
+    "balanceDue": 77,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9227,7 +9227,7 @@
       "cardFee": 17,
       "packagingFee": 0
     },
-    "balanceDue": 272,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9259,7 +9259,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 8,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9314,7 +9314,7 @@
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 16,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9342,7 +9342,7 @@
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 84,
+    "balanceDue": 16,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9450,7 +9450,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": -351,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9478,7 +9478,7 @@
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 119,
+    "balanceDue": 81,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9506,7 +9506,7 @@
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 163,
+    "balanceDue": 37,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9534,7 +9534,7 @@
       "cardFee": 27,
       "packagingFee": 0
     },
-    "balanceDue": 52,
+    "balanceDue": 48,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9707,7 +9707,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 42,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9738,7 +9738,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 62,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9766,7 +9766,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": -226,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9848,7 +9848,7 @@
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 27,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9996,7 +9996,7 @@
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 119,
+    "balanceDue": 81,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -10024,7 +10024,7 @@
       "cardFee": 80,
       "packagingFee": 0
     },
-    "balanceDue": 350,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -10052,7 +10052,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 47,
+    "balanceDue": 53,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -10134,7 +10134,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": -5,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -10161,7 +10161,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 16,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -10240,7 +10240,7 @@
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 78,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -10268,7 +10268,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": -226,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -10296,7 +10296,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 200,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -10359,7 +10359,7 @@
       "cardFee": 16,
       "packagingFee": 0
     },
-    "balanceDue": 142,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -10387,7 +10387,7 @@
       "cardFee": 28,
       "packagingFee": 0
     },
-    "balanceDue": 135,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -10570,7 +10570,7 @@
       "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 350,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -11004,7 +11004,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": -70,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -11121,7 +11121,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -11148,7 +11148,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 12,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -11202,7 +11202,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 310,
+    "balanceDue": 350,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -11238,7 +11238,7 @@
       "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 89,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -11511,7 +11511,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 16,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -11538,7 +11538,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 24,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -11566,7 +11566,7 @@
       "cardFee": 0,
       "packagingFee": 100
     },
-    "balanceDue": 100,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -11648,7 +11648,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 66,
+    "balanceDue": 74,
     "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -11676,7 +11676,7 @@
       "cardFee": 76,
       "packagingFee": 0
     },
-    "balanceDue": 338,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -11707,7 +11707,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": -10,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -11735,7 +11735,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 54,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -11763,7 +11763,7 @@
       "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -11791,7 +11791,7 @@
       "cardFee": 30,
       "packagingFee": 0
     },
-    "balanceDue": 186,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -11818,7 +11818,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 65,
+    "balanceDue": 0,
     "etaText": "待補，二補已付",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -11970,7 +11970,7 @@
       "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 241,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12135,7 +12135,7 @@
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 184,
+    "balanceDue": 16,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12163,7 +12163,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 110,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12269,7 +12269,7 @@
       "cardFee": 25,
       "packagingFee": 0
     },
-    "balanceDue": 80,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12541,7 +12541,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 19,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12605,7 +12605,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 108,
+    "balanceDue": 12,
     "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -12633,7 +12633,7 @@
       "cardFee": 16,
       "packagingFee": 0
     },
-    "balanceDue": -169,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12819,7 +12819,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 110,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -12847,7 +12847,7 @@
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 47,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12985,7 +12985,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 144,
+    "balanceDue": 56,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -13017,7 +13017,7 @@
       "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 170,
+    "balanceDue": 30,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -13044,7 +13044,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -13071,7 +13071,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -13725,7 +13725,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 12,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -13823,7 +13823,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 161,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -13967,7 +13967,7 @@
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 80,
+    "balanceDue": 20,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14022,7 +14022,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 147,
+    "balanceDue": 53,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14050,7 +14050,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": -286,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -14078,7 +14078,7 @@
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 36,
+    "balanceDue": 14,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14132,7 +14132,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 146,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14160,7 +14160,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": -196,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14242,7 +14242,7 @@
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 84,
+    "balanceDue": 16,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14324,7 +14324,7 @@
       "cardFee": 16,
       "packagingFee": 0
     },
-    "balanceDue": -424,
+    "balanceDue": 39,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14391,7 +14391,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 22,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14542,7 +14542,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 42,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14578,7 +14578,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": -202,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14636,7 +14636,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": -300,
+    "balanceDue": 0,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14663,7 +14663,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": -85,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14775,7 +14775,7 @@
       "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 167,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14803,7 +14803,7 @@
       "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 310,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -14831,7 +14831,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 1801,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -14862,7 +14862,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 1320,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -14889,7 +14889,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 314,
+    "balanceDue": 226,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -15198,7 +15198,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": -10,
+    "balanceDue": 490,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -15261,7 +15261,7 @@
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 15,
+    "balanceDue": 100,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -15346,7 +15346,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 12,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -15389,7 +15389,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 14,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -15444,7 +15444,7 @@
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 122,
+    "balanceDue": 78,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -15472,7 +15472,7 @@
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 52,
+    "balanceDue": 48,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -15663,7 +15663,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": -466,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -15940,7 +15940,7 @@
       "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 7,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16055,7 +16055,7 @@
       "cardFee": 20,
       "packagingFee": 0
     },
-    "balanceDue": 209,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16086,7 +16086,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16125,7 +16125,7 @@
       "cardFee": 69,
       "packagingFee": 0
     },
-    "balanceDue": 751,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16169,7 +16169,7 @@
       "cardFee": 42,
       "packagingFee": 0
     },
-    "balanceDue": 605,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16201,7 +16201,7 @@
       "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 88,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16569,7 +16569,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16662,7 +16662,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": -196,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16690,7 +16690,7 @@
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 40,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16776,7 +16776,7 @@
       "cardFee": 20,
       "packagingFee": 0
     },
-    "balanceDue": 42,
+    "balanceDue": 58,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16807,7 +16807,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 142,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16891,7 +16891,7 @@
       "cardFee": 31,
       "packagingFee": 0
     },
-    "balanceDue": 77,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16935,7 +16935,7 @@
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 167,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16967,7 +16967,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 293,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -17139,7 +17139,7 @@
       "cardFee": 0,
       "packagingFee": 40
     },
-    "balanceDue": 140,
+    "balanceDue": 60,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -17166,7 +17166,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -17248,7 +17248,7 @@
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 43,
+    "balanceDue": 57,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -17338,7 +17338,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 69,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -17397,7 +17397,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 172,
+    "balanceDue": 28,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -17424,7 +17424,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -17452,7 +17452,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 47,
+    "balanceDue": 53,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -17619,7 +17619,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 44,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -17647,7 +17647,7 @@
       "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 177,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -17818,7 +17818,7 @@
       "cardFee": 13,
       "packagingFee": 0
     },
-    "balanceDue": 85,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18043,7 +18043,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 30,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18230,7 +18230,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 268,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18257,7 +18257,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18343,7 +18343,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 166,
+    "balanceDue": 74,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18371,7 +18371,7 @@
       "cardFee": 7,
       "packagingFee": 5
     },
-    "balanceDue": 20,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18399,7 +18399,7 @@
       "cardFee": 7,
       "packagingFee": 5
     },
-    "balanceDue": 20,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18532,7 +18532,7 @@
       "cardFee": 27,
       "packagingFee": 0
     },
-    "balanceDue": 72,
+    "balanceDue": 48,
     "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -18591,7 +18591,7 @@
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 168,
+    "balanceDue": 32,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18623,7 +18623,7 @@
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 137,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18840,7 +18840,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18899,7 +18899,7 @@
       "cardFee": 6,
       "packagingFee": 10
     },
-    "balanceDue": 55,
+    "balanceDue": 70,
     "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -18927,7 +18927,7 @@
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 134,
+    "balanceDue": 66,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18955,7 +18955,7 @@
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 122,
+    "balanceDue": 78,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18983,7 +18983,7 @@
       "cardFee": 17,
       "packagingFee": 0
     },
-    "balanceDue": 169,
+    "balanceDue": 31,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -19011,7 +19011,7 @@
       "cardFee": 17,
       "packagingFee": 0
     },
-    "balanceDue": 169,
+    "balanceDue": 31,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -19039,7 +19039,7 @@
       "cardFee": 17,
       "packagingFee": 10
     },
-    "balanceDue": 179,
+    "balanceDue": 21,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -19067,7 +19067,7 @@
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 122,
+    "balanceDue": 78,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -19094,7 +19094,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 1440,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -19157,7 +19157,7 @@
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 184,
+    "balanceDue": 16,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -19185,7 +19185,7 @@
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 101,
+    "balanceDue": 64,
     "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -19213,7 +19213,7 @@
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 37,
+    "balanceDue": 63,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -19241,7 +19241,7 @@
       "cardFee": 2,
       "packagingFee": 10
     },
-    "balanceDue": 260,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -19269,7 +19269,7 @@
       "cardFee": 7,
       "packagingFee": 5
     },
-    "balanceDue": 100,
+    "balanceDue": 60,
     "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -19297,7 +19297,7 @@
       "cardFee": 2,
       "packagingFee": 10
     },
-    "balanceDue": 220,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -19496,7 +19496,7 @@
       "cardFee": 19,
       "packagingFee": 10
     },
-    "balanceDue": 414,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -19602,7 +19602,7 @@
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 140,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -19629,7 +19629,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 40,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -19657,7 +19657,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 12,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -19685,7 +19685,7 @@
       "cardFee": 61,
       "packagingFee": 0
     },
-    "balanceDue": 349,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -19767,7 +19767,7 @@
       "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 350,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -19967,7 +19967,7 @@
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 52,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -20048,7 +20048,7 @@
       "cardFee": 0,
       "packagingFee": 10
     },
-    "balanceDue": 40,
+    "balanceDue": 670,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -20131,7 +20131,7 @@
       "cardFee": 28,
       "packagingFee": 0
     },
-    "balanceDue": 168,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -20163,7 +20163,7 @@
       "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 250,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -20191,7 +20191,7 @@
       "cardFee": 19,
       "packagingFee": 0
     },
-    "balanceDue": 135,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -20245,7 +20245,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 16,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -20382,7 +20382,7 @@
       "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 216,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -20410,7 +20410,7 @@
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 112,
+    "balanceDue": 88,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -20442,7 +20442,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 147,
+    "balanceDue": 53,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -20470,7 +20470,7 @@
       "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 179,
+    "balanceDue": 21,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -20687,7 +20687,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -20719,7 +20719,7 @@
       "cardFee": 80,
       "packagingFee": 0
     },
-    "balanceDue": 250,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -20747,7 +20747,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 73,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -20922,7 +20922,7 @@
       "cardFee": 30,
       "packagingFee": 0
     },
-    "balanceDue": 175,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -20954,7 +20954,7 @@
       "cardFee": 7,
       "packagingFee": 5
     },
-    "balanceDue": 20,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -20982,7 +20982,7 @@
       "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 11,
+    "balanceDue": 89,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -21037,7 +21037,7 @@
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 72,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -21294,7 +21294,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 330,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -21338,7 +21338,7 @@
       "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 70,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -21366,7 +21366,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 130,
+    "balanceDue": 70,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -21519,7 +21519,7 @@
       "cardFee": 24,
       "packagingFee": 0
     },
-    "balanceDue": 88,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -21547,7 +21547,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 11,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -21808,7 +21808,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -21864,7 +21864,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 412,
+    "balanceDue": 388,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -21951,7 +21951,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 657,
+    "balanceDue": 513,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -21979,7 +21979,7 @@
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 84,
+    "balanceDue": 16,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -22165,7 +22165,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 24,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -22252,7 +22252,7 @@
       "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 236,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -22288,7 +22288,7 @@
       "cardFee": 69,
       "packagingFee": 0
     },
-    "balanceDue": 1722,
+    "balanceDue": 338,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -22433,7 +22433,7 @@
       "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -22461,7 +22461,7 @@
       "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 92,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -22489,7 +22489,7 @@
       "cardFee": 16,
       "packagingFee": 0
     },
-    "balanceDue": 142,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -22517,7 +22517,7 @@
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 54,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -22750,7 +22750,7 @@
       "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 350,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -23045,7 +23045,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 178,
+    "balanceDue": 22,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -23130,7 +23130,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 72,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -23286,7 +23286,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 44,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -23422,7 +23422,7 @@
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 47,
+    "balanceDue": 78,
     "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -23449,7 +23449,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": -20,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -23512,7 +23512,7 @@
       "cardFee": 44,
       "packagingFee": 0
     },
-    "balanceDue": 260,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -23633,7 +23633,7 @@
       "cardFee": 61,
       "packagingFee": 0
     },
-    "balanceDue": 2052,
+    "balanceDue": 298,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -23839,7 +23839,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -23906,7 +23906,7 @@
       "cardFee": 17,
       "packagingFee": 0
     },
-    "balanceDue": 189,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -23987,7 +23987,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "未知",
     "contactUrl": "https://example.com/contact",
@@ -24012,7 +24012,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 320,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -24040,7 +24040,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": -466,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -24094,7 +24094,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -24122,7 +24122,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 146,
+    "balanceDue": 54,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -24208,7 +24208,7 @@
       "cardFee": 27,
       "packagingFee": 0
     },
-    "balanceDue": 152,
+    "balanceDue": 48,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -24448,7 +24448,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 19,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -24561,7 +24561,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 14,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -24632,7 +24632,7 @@
       "cardFee": 24,
       "packagingFee": 0
     },
-    "balanceDue": 163,
+    "balanceDue": 37,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -24684,7 +24684,7 @@
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 152,
+    "balanceDue": 48,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -24715,7 +24715,7 @@
       "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 811,
+    "balanceDue": 79,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -24809,7 +24809,7 @@
       "cardFee": 107,
       "packagingFee": 0
     },
-    "balanceDue": 782,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -24909,7 +24909,7 @@
       "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 1134,
+    "balanceDue": 1066,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -24974,7 +24974,7 @@
       "cardFee": 25,
       "packagingFee": 0
     },
-    "balanceDue": -298,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25304,7 +25304,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 146,
+    "balanceDue": 54,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25336,7 +25336,7 @@
       "cardFee": 24,
       "packagingFee": 0
     },
-    "balanceDue": 490,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25368,7 +25368,7 @@
       "cardFee": 27,
       "packagingFee": 0
     },
-    "balanceDue": 152,
+    "balanceDue": 48,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25481,7 +25481,7 @@
       "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 333,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25509,7 +25509,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 368,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25567,7 +25567,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 72,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25768,7 +25768,7 @@
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 133,
+    "balanceDue": 67,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25803,7 +25803,7 @@
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 193,
+    "balanceDue": 127,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25831,7 +25831,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 46,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25947,7 +25947,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 75,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -25975,7 +25975,7 @@
       "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 84,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26035,7 +26035,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 16,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26071,7 +26071,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": -5,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26099,7 +26099,7 @@
       "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 142,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26131,7 +26131,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 286,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26291,7 +26291,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 12,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26319,7 +26319,7 @@
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 122,
+    "balanceDue": 78,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26346,7 +26346,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 42,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26378,7 +26378,7 @@
       "cardFee": 13,
       "packagingFee": 0
     },
-    "balanceDue": 258,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26406,7 +26406,7 @@
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 42,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26434,7 +26434,7 @@
       "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 97,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26516,7 +26516,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 74,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26547,7 +26547,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 16,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26602,7 +26602,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 172,
+    "balanceDue": 28,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26657,7 +26657,7 @@
       "cardFee": 20,
       "packagingFee": 0
     },
-    "balanceDue": 209,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26755,7 +26755,7 @@
       "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 16,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26783,7 +26783,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 44,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26885,7 +26885,7 @@
       "cardFee": 33,
       "packagingFee": 0
     },
-    "balanceDue": 314,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26929,7 +26929,7 @@
       "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 9,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -27213,7 +27213,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -27244,7 +27244,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 12,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -27303,7 +27303,7 @@
       "cardFee": 4,
       "packagingFee": 10
     },
-    "balanceDue": 124,
+    "balanceDue": 16,
     "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -27358,7 +27358,7 @@
       "cardFee": 24,
       "packagingFee": 0
     },
-    "balanceDue": 254,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -27386,7 +27386,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": -226,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -27659,7 +27659,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": -223,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -27799,7 +27799,7 @@
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 54,
+    "balanceDue": 46,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28125,7 +28125,7 @@
       "cardFee": 31,
       "packagingFee": 0
     },
-    "balanceDue": 165,
+    "balanceDue": 35,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28188,7 +28188,7 @@
       "cardFee": 43,
       "packagingFee": 0
     },
-    "balanceDue": 205,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28243,7 +28243,7 @@
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 171,
+    "balanceDue": 29,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28271,7 +28271,7 @@
       "cardFee": 20,
       "packagingFee": 0
     },
-    "balanceDue": 166,
+    "balanceDue": 34,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28338,7 +28338,7 @@
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 190,
+    "balanceDue": 10,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28369,7 +28369,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 12,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28397,7 +28397,7 @@
       "cardFee": 17,
       "packagingFee": 0
     },
-    "balanceDue": 169,
+    "balanceDue": 31,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28425,7 +28425,7 @@
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 222,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28453,7 +28453,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 30,
+    "balanceDue": 70,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28524,7 +28524,7 @@
       "cardFee": 62,
       "packagingFee": 0
     },
-    "balanceDue": 448,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28802,7 +28802,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 656,
+    "balanceDue": 524,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -28833,7 +28833,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 42,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28860,7 +28860,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 119,
+    "balanceDue": 81,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28888,7 +28888,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 147,
+    "balanceDue": 53,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28913,7 +28913,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 1099,
+    "balanceDue": 1061,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -29056,7 +29056,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": -95,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -29083,7 +29083,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 114,
+    "balanceDue": 81,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -29138,7 +29138,7 @@
       "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 121,
+    "balanceDue": 79,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29165,7 +29165,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29193,7 +29193,7 @@
       "cardFee": 34,
       "packagingFee": 10
     },
-    "balanceDue": 219,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29387,7 +29387,7 @@
       "cardFee": 7,
       "packagingFee": 5
     },
-    "balanceDue": 20,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29496,7 +29496,7 @@
       "cardFee": 20,
       "packagingFee": 0
     },
-    "balanceDue": 115,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29548,7 +29548,7 @@
       "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 52,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29579,7 +29579,7 @@
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 86,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29840,7 +29840,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 16,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29980,7 +29980,7 @@
       "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 169,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30062,7 +30062,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": -226,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30090,7 +30090,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 172,
+    "balanceDue": 28,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30201,7 +30201,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 74,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30233,7 +30233,7 @@
       "cardFee": 30,
       "packagingFee": 0
     },
-    "balanceDue": 198,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30288,7 +30288,7 @@
       "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 82,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30552,7 +30552,7 @@
       "cardFee": 30,
       "packagingFee": 0
     },
-    "balanceDue": 269,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30920,7 +30920,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30947,7 +30947,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 12,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30974,7 +30974,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 19,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31001,7 +31001,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 16,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31059,7 +31059,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 789,
+    "balanceDue": 350,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31134,7 +31134,7 @@
       "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 16,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31162,7 +31162,7 @@
       "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 57,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31202,7 +31202,7 @@
       "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 31,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31265,7 +31265,7 @@
       "cardFee": 17,
       "packagingFee": 0
     },
-    "balanceDue": 169,
+    "balanceDue": 31,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31320,7 +31320,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 413,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -31383,7 +31383,7 @@
       "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 151,
+    "balanceDue": 49,
     "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -31411,7 +31411,7 @@
       "cardFee": 17,
       "packagingFee": 0
     },
-    "balanceDue": 169,
+    "balanceDue": 31,
     "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -31439,7 +31439,7 @@
       "cardFee": 34,
       "packagingFee": 0
     },
-    "balanceDue": 677,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -31676,7 +31676,7 @@
       "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 350,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -31704,7 +31704,7 @@
       "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 285,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -31731,7 +31731,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 180,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -31759,7 +31759,7 @@
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 89,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31798,7 +31798,7 @@
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 37,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31853,7 +31853,7 @@
       "cardFee": 24,
       "packagingFee": 0
     },
-    "balanceDue": 130,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31885,7 +31885,7 @@
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": -196,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31921,7 +31921,7 @@
       "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 89,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31976,7 +31976,7 @@
       "cardFee": 36,
       "packagingFee": 0
     },
-    "balanceDue": 433,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -32067,7 +32067,7 @@
       "cardFee": 13,
       "packagingFee": 0
     },
-    "balanceDue": 439,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32122,7 +32122,7 @@
       "cardFee": 23,
       "packagingFee": 0
     },
-    "balanceDue": 191,
+    "balanceDue": 9,
     "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -32293,7 +32293,7 @@
       "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 124,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32325,7 +32325,7 @@
       "cardFee": 50,
       "packagingFee": 0
     },
-    "balanceDue": 633,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32508,7 +32508,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 12,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32561,7 +32561,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 10,
+    "balanceDue": 350,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32596,7 +32596,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 30,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32670,7 +32670,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": -50,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32728,7 +32728,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 30,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32818,7 +32818,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 12,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32893,7 +32893,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 30,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32920,7 +32920,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 19,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32947,7 +32947,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 14,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -33027,7 +33027,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 141,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -33121,7 +33121,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 60,
+    "balanceDue": 40,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -33149,7 +33149,7 @@
       "cardFee": 16,
       "packagingFee": 0
     },
-    "balanceDue": 105,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -33193,7 +33193,7 @@
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 10,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -33221,7 +33221,7 @@
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 121,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -33478,7 +33478,7 @@
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 70,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -33546,7 +33546,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 505,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -33655,7 +33655,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 30,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -33858,7 +33858,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 30,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -33939,7 +33939,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 19,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -33974,7 +33974,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 14,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34082,7 +34082,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 30,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34165,7 +34165,7 @@
       "cardFee": 89,
       "packagingFee": 0
     },
-    "balanceDue": 251,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34201,7 +34201,7 @@
       "cardFee": 27,
       "packagingFee": 0
     },
-    "balanceDue": 152,
+    "balanceDue": 48,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34233,7 +34233,7 @@
       "cardFee": 42,
       "packagingFee": 0
     },
-    "balanceDue": 605,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34358,7 +34358,7 @@
       "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 350,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34501,7 +34501,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": -40,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34563,7 +34563,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 54,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34707,7 +34707,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 14,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34735,7 +34735,7 @@
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 20,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35080,7 +35080,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 960,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35201,7 +35201,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 67,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35376,7 +35376,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": -137,
+    "balanceDue": 100,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35404,7 +35404,7 @@
       "cardFee": 57,
       "packagingFee": 0
     },
-    "balanceDue": 182,
+    "balanceDue": 18,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35486,7 +35486,7 @@
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 112,
+    "balanceDue": 88,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35545,7 +35545,7 @@
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 157,
+    "balanceDue": 43,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35768,7 +35768,7 @@
       "cardFee": 4,
       "packagingFee": 10
     },
-    "balanceDue": 54,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35796,7 +35796,7 @@
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 57,
+    "balanceDue": 43,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35856,7 +35856,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 320,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -35996,7 +35996,7 @@
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 33,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36028,7 +36028,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 20,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36083,7 +36083,7 @@
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 72,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36138,7 +36138,7 @@
       "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 132,
+    "balanceDue": 68,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36170,7 +36170,7 @@
       "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 134,
+    "balanceDue": 66,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36206,7 +36206,7 @@
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 134,
+    "balanceDue": 66,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36238,7 +36238,7 @@
       "cardFee": 0,
       "packagingFee": 110
     },
-    "balanceDue": 110,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36266,7 +36266,7 @@
       "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 170,
+    "balanceDue": 30,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36294,7 +36294,7 @@
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 15,
+    "balanceDue": 100,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36321,7 +36321,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 340,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36383,7 +36383,7 @@
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 7,
+    "balanceDue": 93,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36411,7 +36411,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 205,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36439,7 +36439,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 368,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36467,7 +36467,7 @@
       "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 15,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36522,7 +36522,7 @@
       "cardFee": 19,
       "packagingFee": 0
     },
-    "balanceDue": 232,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36585,7 +36585,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 8,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36644,7 +36644,7 @@
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 72,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36754,7 +36754,7 @@
       "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 207,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36817,7 +36817,7 @@
       "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 350,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36845,7 +36845,7 @@
       "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 67,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -37362,7 +37362,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 30,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -37455,7 +37455,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -37552,7 +37552,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": -95,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -37633,7 +37633,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -37664,7 +37664,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -37692,7 +37692,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 68,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -37723,7 +37723,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -37775,7 +37775,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 2925,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -37961,7 +37961,7 @@
       "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 1861,
+    "balanceDue": 1739,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -38195,7 +38195,7 @@
       "cardFee": 31,
       "packagingFee": 0
     },
-    "balanceDue": 2106,
+    "balanceDue": 1964,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -38234,7 +38234,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 865,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38261,7 +38261,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 624,
+    "balanceDue": 386,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -38292,7 +38292,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 265,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -38319,7 +38319,7 @@
       "cardFee": 92,
       "packagingFee": 0
     },
-    "balanceDue": 7913,
+    "balanceDue": 6487,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -38344,7 +38344,7 @@
       "cardFee": 58,
       "packagingFee": 0
     },
-    "balanceDue": 4346,
+    "balanceDue": 3874,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -38451,7 +38451,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 817,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -38540,7 +38540,7 @@
       "cardFee": 27,
       "packagingFee": 0
     },
-    "balanceDue": 339,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38599,7 +38599,7 @@
       "cardFee": 56,
       "packagingFee": 0
     },
-    "balanceDue": 283,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38638,7 +38638,7 @@
       "cardFee": 0,
       "packagingFee": 10
     },
-    "balanceDue": 35,
+    "balanceDue": 240,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38763,7 +38763,7 @@
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 184,
+    "balanceDue": 16,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38791,7 +38791,7 @@
       "cardFee": 25,
       "packagingFee": 0
     },
-    "balanceDue": 179,
+    "balanceDue": 21,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38858,7 +38858,7 @@
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 19,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38913,7 +38913,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 74,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39002,7 +39002,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 30,
+    "balanceDue": 350,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39038,7 +39038,7 @@
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 38,
+    "balanceDue": 62,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39093,7 +39093,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 32,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39121,7 +39121,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 74,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39152,7 +39152,7 @@
       "cardFee": 0,
       "packagingFee": 10
     },
-    "balanceDue": 10,
+    "balanceDue": 340,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39297,7 +39297,7 @@
       "cardFee": 4,
       "packagingFee": 10
     },
-    "balanceDue": 54,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39360,7 +39360,7 @@
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 184,
+    "balanceDue": 16,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39387,7 +39387,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39496,7 +39496,7 @@
       "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 122,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39550,7 +39550,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 320,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39590,7 +39590,7 @@
       "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 205,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39618,7 +39618,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": -226,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39700,7 +39700,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": -226,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39786,7 +39786,7 @@
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 84,
+    "balanceDue": 16,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39813,7 +39813,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": -75,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -39899,7 +39899,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 172,
+    "balanceDue": 28,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39983,7 +39983,7 @@
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 36,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -40010,7 +40010,7 @@
       "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 232,
+    "balanceDue": 88,
     "etaText": "已出貨",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -40038,7 +40038,7 @@
       "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 3,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -40066,7 +40066,7 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 46,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -40132,7 +40132,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 16,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -40167,7 +40167,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": -20,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -40323,7 +40323,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 12,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -40405,7 +40405,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -40487,7 +40487,7 @@
       "cardFee": 13,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -40541,7 +40541,7 @@
       "cardFee": 0,
       "packagingFee": 10
     },
-    "balanceDue": 20,
+    "balanceDue": 670,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -40603,7 +40603,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 42,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
