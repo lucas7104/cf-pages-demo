@@ -40927,6 +40927,116 @@
     ]
   },
   {
+    "socialName": "Sabrina",
+    "title": "0425咒術 MOVIC動畫五週年",
+    "statusBadges": [],
+    "productAmount": 400,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 400,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "壓克力板 乙骨",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "Kaho",
+    "title": "0425咒術 MOVIC動畫五週年",
+    "statusBadges": [],
+    "productAmount": 400,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 400,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "壓克力板 五條",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "nako",
+    "title": "0425咒術 MOVIC動畫五週年",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": []
+  },
+  {
+    "socialName": "jennylin640",
+    "title": "0425咒術 MOVIC動畫五週年",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": []
+  },
+  {
+    "socialName": "FLOWDY",
+    "title": "0425咒術 MOVIC動畫五週年",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": []
+  },
+  {
     "socialName": "Xiu han",
     "title": "2026 台北動漫節",
     "statusBadges": [
