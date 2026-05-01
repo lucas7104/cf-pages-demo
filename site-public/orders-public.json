@@ -40197,9 +40197,11 @@
   {
     "socialName": "DABU",
     "title": "0423進巨 TAPIOCA-2",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 3280,
-    "depositPaid": 0,
+    "depositPaid": 3280,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -40207,9 +40209,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 3280,
+    "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
