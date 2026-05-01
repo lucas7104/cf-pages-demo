@@ -23852,9 +23852,11 @@
   {
     "socialName": "高八毛",
     "title": "0120鏈鋸人 太陽城王子飯店",
-    "statusBadges": [],
-    "productAmount": 0,
-    "depositPaid": 0,
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 850,
+    "depositPaid": 850,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -23867,7 +23869,12 @@
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "盲抽小卡",
+        "qty": 10
+      }
+    ],
     "sourceSheet": "0120鏈鋸人 太陽城王子飯店",
     "sourceMonth": "2026-01"
   },
@@ -23875,7 +23882,7 @@
     "socialName": "Peggy佩姬",
     "title": "0120鏈鋸人 太陽城王子飯店",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 220,
     "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -23884,12 +23891,21 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 220,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "早川秋資料夾",
+        "qty": 1
+      },
+      {
+        "name": "天使惡魔資料夾",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0120鏈鋸人 太陽城王子飯店",
     "sourceMonth": "2026-01"
   },
@@ -23897,7 +23913,7 @@
     "socialName": "Saki蒼",
     "title": "0120鏈鋸人 太陽城王子飯店",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 2730,
     "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -23906,12 +23922,41 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 2730,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "盲抽小卡",
+        "qty": 4
+      },
+      {
+        "name": "早川秋立牌",
+        "qty": 1
+      },
+      {
+        "name": "蕾潔 立牌",
+        "qty": 1
+      },
+      {
+        "name": "天使惡魔立牌",
+        "qty": 1
+      },
+      {
+        "name": "淀治立牌",
+        "qty": 1
+      },
+      {
+        "name": "瑪琪瑪立牌",
+        "qty": 1
+      },
+      {
+        "name": "束口袋",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0120鏈鋸人 太陽城王子飯店",
     "sourceMonth": "2026-01"
   },
@@ -23919,7 +23964,7 @@
     "socialName": "每天都想退休",
     "title": "0120鏈鋸人 太陽城王子飯店",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 550,
     "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -23928,12 +23973,33 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 550,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "早川秋資料夾",
+        "qty": 1
+      },
+      {
+        "name": "蕾潔資料夾",
+        "qty": 1
+      },
+      {
+        "name": "天使惡魔資料夾",
+        "qty": 1
+      },
+      {
+        "name": "淀治資料夾",
+        "qty": 1
+      },
+      {
+        "name": "瑪琪瑪資料夾",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0120鏈鋸人 太陽城王子飯店",
     "sourceMonth": "2026-01"
   },
@@ -23941,7 +24007,7 @@
     "socialName": "櫻桃🍒",
     "title": "0120鏈鋸人 太陽城王子飯店",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 425,
     "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -23950,12 +24016,17 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 425,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "蕾潔 立牌",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0120鏈鋸人 太陽城王子飯店",
     "sourceMonth": "2026-01"
   },
@@ -23963,7 +24034,7 @@
     "socialName": "🌧️",
     "title": "0120鏈鋸人 太陽城王子飯店",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 425,
     "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -23972,21 +24043,28 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 425,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "早川秋立牌",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0120鏈鋸人 太陽城王子飯店",
     "sourceMonth": "2026-01"
   },
   {
     "socialName": "₍⸍⸌̣ʷ̣̫⸍̣⸌₎",
     "title": "0120鏈鋸人 太陽城王子飯店",
-    "statusBadges": [],
-    "productAmount": 0,
-    "depositPaid": 0,
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 425,
+    "depositPaid": 425,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -23996,10 +24074,15 @@
     },
     "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "早川秋立牌",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0120鏈鋸人 太陽城王子飯店",
     "sourceMonth": "2026-01"
   },
@@ -24007,7 +24090,7 @@
     "socialName": "雪雪",
     "title": "0120鏈鋸人 太陽城王子飯店",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 425,
     "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -24016,12 +24099,17 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 425,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "蕾潔 立牌",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0120鏈鋸人 太陽城王子飯店",
     "sourceMonth": "2026-01"
   },
@@ -24029,7 +24117,7 @@
     "socialName": "容",
     "title": "0120鏈鋸人 太陽城王子飯店",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 425,
     "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -24038,12 +24126,17 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 425,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "早川秋立牌",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0120鏈鋸人 太陽城王子飯店",
     "sourceMonth": "2026-01"
   },
