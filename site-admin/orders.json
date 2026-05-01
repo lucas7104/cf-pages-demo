@@ -42808,7 +42808,7 @@
     "socialName": "DABU",
     "title": "0423進巨 TAPIOCA-2",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 3280,
     "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -42817,12 +42817,25 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 3280,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "兔耳斗篷娃 艾連",
+        "qty": 1
+      },
+      {
+        "name": "兔耳斗篷娃 里維",
+        "qty": 1
+      },
+      {
+        "name": "寶寶娃",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0423進巨 TAPIOCA-2",
     "sourceMonth": "2026-04"
   },
@@ -42830,7 +42843,7 @@
     "socialName": "A-Joe",
     "title": "0423進巨 TAPIOCA-2",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 1060,
     "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -42839,12 +42852,21 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 1060,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "超大寶寶娃 超巨",
+        "qty": 1
+      },
+      {
+        "name": "超大寶寶娃 獸巨",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0423進巨 TAPIOCA-2",
     "sourceMonth": "2026-04"
   },
@@ -42852,7 +42874,7 @@
     "socialName": "kaia",
     "title": "0423進巨 TAPIOCA-2",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 530,
     "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -42861,12 +42883,17 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 530,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "超大寶寶娃 獸巨",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0423進巨 TAPIOCA-2",
     "sourceMonth": "2026-04"
   },
@@ -42876,7 +42903,7 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 0,
+    "productAmount": 530,
     "depositPaid": 530,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -42890,7 +42917,12 @@
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "超大寶寶娃 超巨",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0423進巨 TAPIOCA-2",
     "sourceMonth": "2026-04"
   },
@@ -42898,7 +42930,7 @@
     "socialName": "ccc",
     "title": "0423進巨 TAPIOCA-2",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 530,
     "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -42907,12 +42939,17 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 530,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "超大寶寶娃 超巨",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0423進巨 TAPIOCA-2",
     "sourceMonth": "2026-04"
   },
@@ -42920,7 +42957,7 @@
     "socialName": "小咪",
     "title": "0423進巨 TAPIOCA-2",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 400,
     "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -42929,12 +42966,17 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 400,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "娃包A",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0423進巨 TAPIOCA-2",
     "sourceMonth": "2026-04"
   },
@@ -42942,7 +42984,7 @@
     "socialName": "RY",
     "title": "0423進巨 TAPIOCA-2",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 1850,
     "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -42951,12 +42993,17 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 1850,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "狐狸娃抱盒",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0423進巨 TAPIOCA-2",
     "sourceMonth": "2026-04"
   },
@@ -42964,7 +43011,7 @@
     "socialName": "lpp_ss",
     "title": "0423進巨 TAPIOCA-2",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 1460,
     "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -42973,12 +43020,33 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 1460,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "超大寶寶娃 超巨",
+        "qty": 1
+      },
+      {
+        "name": "超大寶寶娃 獸巨",
+        "qty": 1
+      },
+      {
+        "name": "娃包A",
+        "qty": 1
+      },
+      {
+        "name": "娃包B",
+        "qty": 1
+      },
+      {
+        "name": "大娃包",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0423進巨 TAPIOCA-2",
     "sourceMonth": "2026-04"
   },
