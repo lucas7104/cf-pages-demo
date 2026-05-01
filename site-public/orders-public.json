@@ -40985,9 +40985,11 @@
   {
     "socialName": "nako",
     "title": "0425咒術 MOVIC動畫五週年",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 400,
-    "depositPaid": 0,
+    "depositPaid": 400,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -40995,9 +40997,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 400,
+    "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -41010,9 +41012,11 @@
   {
     "socialName": "jennylin640",
     "title": "0425咒術 MOVIC動畫五週年",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 1600,
-    "depositPaid": 0,
+    "depositPaid": 1600,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -41020,9 +41024,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 1600,
+    "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
