@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T16:31:37.095Z",
+  "generatedAt": "2026-05-01T16:41:42.277Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -43,12 +43,12 @@
           "amount": 28715
         },
         {
-          "name": "每天都想退休",
-          "amount": 25904
+          "name": "季",
+          "amount": 26170
         },
         {
-          "name": "季",
-          "amount": 24545
+          "name": "每天都想退休",
+          "amount": 25904
         }
       ]
     },
@@ -130,16 +130,16 @@
           "amount": 25205
         },
         {
+          "name": "季",
+          "amount": 24510
+        },
+        {
           "name": "芭樂",
           "amount": 24375
         },
         {
           "name": "Sabrina",
           "amount": 23775
-        },
-        {
-          "name": "季",
-          "amount": 22885
         },
         {
           "name": "良",
@@ -463,16 +463,16 @@
           "amount": 5615
         },
         {
+          "name": "季",
+          "amount": 5390
+        },
+        {
           "name": "芭樂",
           "amount": 4790
         },
         {
           "name": "TYT",
           "amount": 4200
-        },
-        {
-          "name": "季",
-          "amount": 3765
         },
         {
           "name": "每天都想退休",

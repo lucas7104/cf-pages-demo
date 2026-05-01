@@ -43176,21 +43176,30 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 0,
+    "productAmount": 590,
     "depositPaid": 590,
-    "secondPayment": 0,
+    "secondPayment": 49,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 49,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 49,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "伏黑相卡明信片組",
+        "qty": 1
+      },
+      {
+        "name": "五條相卡明信片組",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0425咒術 五條悟、伏黑惠生日紀念圖周邊",
     "sourceMonth": "2026-04"
   },
@@ -43200,21 +43209,30 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 0,
+    "productAmount": 380,
     "depositPaid": 380,
-    "secondPayment": 0,
+    "secondPayment": 49,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 49,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 49,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "伏黑資料夾",
+        "qty": 1
+      },
+      {
+        "name": "五條資料夾",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0425咒術 五條悟、伏黑惠生日紀念圖周邊",
     "sourceMonth": "2026-04"
   },
@@ -43224,21 +43242,34 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 0,
+    "productAmount": 1625,
     "depositPaid": 1625,
-    "secondPayment": 0,
+    "secondPayment": 49,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 49,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 49,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "伏黑相卡明信片組",
+        "qty": 1
+      },
+      {
+        "name": "五條相卡明信片組",
+        "qty": 1
+      },
+      {
+        "name": "伏黑惠壓克力磚",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0425咒術 五條悟、伏黑惠生日紀念圖周邊",
     "sourceMonth": "2026-04"
   },
