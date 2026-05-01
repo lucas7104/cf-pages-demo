@@ -19762,8 +19762,8 @@
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 21,
+      "cardFee": 11,
       "packagingFee": 0
     },
     "balanceDue": 0,
@@ -19781,7 +19781,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1231進巨 Emotional wind",
+    "sourceSheet": "★1231進巨 Emotional wind",
     "sourceMonth": "2025_12"
   },
   {
@@ -19795,8 +19795,8 @@
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 34,
+      "cardFee": 21,
       "packagingFee": 0
     },
     "balanceDue": 0,
@@ -19814,7 +19814,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1231進巨 Emotional wind",
+    "sourceSheet": "★1231進巨 Emotional wind",
     "sourceMonth": "2025_12"
   },
   {
@@ -19828,8 +19828,8 @@
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 48,
+      "cardFee": 22,
       "packagingFee": 0
     },
     "balanceDue": 0,
@@ -19851,7 +19851,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1231進巨 Emotional wind",
+    "sourceSheet": "★1231進巨 Emotional wind",
     "sourceMonth": "2025_12"
   },
   {
