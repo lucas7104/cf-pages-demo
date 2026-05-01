@@ -42805,6 +42805,72 @@
     "sourceMonth": "2026-04"
   },
   {
+    "socialName": "DABU",
+    "title": "0423進巨 TAPIOCA-2",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [],
+    "sourceSheet": "0423進巨 TAPIOCA-2",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "A-Joe",
+    "title": "0423進巨 TAPIOCA-2",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [],
+    "sourceSheet": "0423進巨 TAPIOCA-2",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "kaia",
+    "title": "0423進巨 TAPIOCA-2",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [],
+    "sourceSheet": "0423進巨 TAPIOCA-2",
+    "sourceMonth": "2026-04"
+  },
+  {
     "socialName": "Hoh",
     "title": "0423進巨 TAPIOCA-2",
     "statusBadges": [
@@ -42812,6 +42878,94 @@
     ],
     "productAmount": 0,
     "depositPaid": 530,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [],
+    "sourceSheet": "0423進巨 TAPIOCA-2",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "ccc",
+    "title": "0423進巨 TAPIOCA-2",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [],
+    "sourceSheet": "0423進巨 TAPIOCA-2",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "小咪",
+    "title": "0423進巨 TAPIOCA-2",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [],
+    "sourceSheet": "0423進巨 TAPIOCA-2",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "RY",
+    "title": "0423進巨 TAPIOCA-2",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [],
+    "sourceSheet": "0423進巨 TAPIOCA-2",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "lpp_ss",
+    "title": "0423進巨 TAPIOCA-2",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
