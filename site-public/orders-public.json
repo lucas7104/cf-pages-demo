@@ -40774,9 +40774,11 @@
   {
     "socialName": "cc",
     "title": "0424airtwokyo 脹相小房子",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 750,
-    "depositPaid": 0,
+    "depositPaid": 750,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -40784,9 +40786,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 750,
+    "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
