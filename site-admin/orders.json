@@ -41493,6 +41493,126 @@
     "sourceMonth": "2026-04"
   },
   {
+    "socialName": "Bao",
+    "title": "0410gachiakuta 公主咖啡廳",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 240,
+    "depositPaid": 240,
+    "secondPayment": 24,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 24,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 24,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "盲抽小卡",
+        "qty": 3
+      }
+    ],
+    "sourceSheet": "0410gachiakuta 公主咖啡廳",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "赤羽業",
+    "title": "0410gachiakuta 公主咖啡廳",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 370,
+    "depositPaid": 370,
+    "secondPayment": 24,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 24,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 24,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "恩琴貼紙套裝",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0410gachiakuta 公主咖啡廳",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "崔西",
+    "title": "0410gachiakuta 公主咖啡廳",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 480,
+    "depositPaid": 480,
+    "secondPayment": 24,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 24,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 24,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "塔姆吉立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0410gachiakuta 公主咖啡廳",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "力卡",
+    "title": "0410gachiakuta 公主咖啡廳",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 615,
+    "depositPaid": 600,
+    "secondPayment": 24,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 24,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 39,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "路德立牌",
+        "qty": 1
+      },
+      {
+        "name": "路德徽章",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0410gachiakuta 公主咖啡廳",
+    "sourceMonth": "2026-04"
+  },
+  {
     "socialName": "小呱",
     "title": "0411咒術 死滅洄游麻糬娃",
     "statusBadges": [
@@ -42417,126 +42537,6 @@
       }
     ],
     "sourceSheet": "0416排少 下雨系列",
-    "sourceMonth": "2026-04"
-  },
-  {
-    "socialName": "Bao",
-    "title": "0417gachiakuta 公主咖啡廳",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 240,
-    "depositPaid": 240,
-    "secondPayment": 24,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 24,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 24,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "盲抽小卡",
-        "qty": 3
-      }
-    ],
-    "sourceSheet": "0417gachiakuta 公主咖啡廳",
-    "sourceMonth": "2026-04"
-  },
-  {
-    "socialName": "赤羽業",
-    "title": "0417gachiakuta 公主咖啡廳",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 370,
-    "depositPaid": 370,
-    "secondPayment": 24,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 24,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 24,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "恩琴貼紙套裝",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0417gachiakuta 公主咖啡廳",
-    "sourceMonth": "2026-04"
-  },
-  {
-    "socialName": "崔西",
-    "title": "0417gachiakuta 公主咖啡廳",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 480,
-    "depositPaid": 480,
-    "secondPayment": 24,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 24,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 24,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "塔姆吉立牌",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0417gachiakuta 公主咖啡廳",
-    "sourceMonth": "2026-04"
-  },
-  {
-    "socialName": "力卡",
-    "title": "0417gachiakuta 公主咖啡廳",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 615,
-    "depositPaid": 600,
-    "secondPayment": 24,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 24,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 39,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "路德立牌",
-        "qty": 1
-      },
-      {
-        "name": "路德徽章",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0417gachiakuta 公主咖啡廳",
     "sourceMonth": "2026-04"
   },
   {
