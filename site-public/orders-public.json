@@ -22394,7 +22394,7 @@
     },
     "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -22407,9 +22407,11 @@
   {
     "socialName": "Peggy佩姬",
     "title": "0120鏈鋸人 太陽城王子飯店",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 220,
-    "depositPaid": 0,
+    "depositPaid": 220,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -22417,9 +22419,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 220,
+    "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -22436,9 +22438,11 @@
   {
     "socialName": "Saki蒼",
     "title": "0120鏈鋸人 太陽城王子飯店",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 2730,
-    "depositPaid": 0,
+    "depositPaid": 2730,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -22446,9 +22450,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 2730,
+    "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
