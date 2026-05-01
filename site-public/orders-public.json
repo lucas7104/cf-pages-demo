@@ -18517,8 +18517,8 @@
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 41,
+      "cardFee": 12,
       "packagingFee": 0
     },
     "balanceDue": 0,
