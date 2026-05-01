@@ -40232,9 +40232,11 @@
   {
     "socialName": "A-Joe",
     "title": "0423進巨 TAPIOCA-2",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 1060,
-    "depositPaid": 0,
+    "depositPaid": 1060,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -40242,9 +40244,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 1060,
+    "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -40261,9 +40263,11 @@
   {
     "socialName": "kaia",
     "title": "0423進巨 TAPIOCA-2",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 530,
-    "depositPaid": 0,
+    "depositPaid": 530,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -40271,9 +40275,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 530,
+    "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -40300,7 +40304,7 @@
     },
     "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -40313,9 +40317,11 @@
   {
     "socialName": "ccc",
     "title": "0423進巨 TAPIOCA-2",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 530,
-    "depositPaid": 0,
+    "depositPaid": 530,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -40323,9 +40329,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 530,
+    "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -40338,9 +40344,11 @@
   {
     "socialName": "小咪",
     "title": "0423進巨 TAPIOCA-2",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 400,
-    "depositPaid": 0,
+    "depositPaid": 400,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -40348,9 +40356,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 400,
+    "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -40363,9 +40371,11 @@
   {
     "socialName": "RY",
     "title": "0423進巨 TAPIOCA-2",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 1850,
-    "depositPaid": 0,
+    "depositPaid": 1900,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -40373,9 +40383,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 1850,
+    "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
