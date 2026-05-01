@@ -40195,6 +40195,28 @@
     ]
   },
   {
+    "socialName": "Hoh",
+    "title": "0423進巨 TAPIOCA-2",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 0,
+    "depositPaid": 530,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": []
+  },
+  {
     "socialName": "鬆餅",
     "title": "0424airtwokyo 脹相小房子",
     "statusBadges": [],
