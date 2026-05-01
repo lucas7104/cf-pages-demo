@@ -43588,7 +43588,7 @@
     "socialName": "Sabrina",
     "title": "0425咒術 MOVIC動畫五週年",
     "statusBadges": [],
-    "productAmount": 400,
+    "productAmount": 800,
     "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -43597,7 +43597,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 400,
+    "balanceDue": 800,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -43605,6 +43605,10 @@
     "items": [
       {
         "name": "壓克力板 乙骨",
+        "qty": 1
+      },
+      {
+        "name": "壓克力鑰匙圈 乙骨狗卷款",
         "qty": 1
       }
     ],
@@ -43614,9 +43618,11 @@
   {
     "socialName": "Kaho",
     "title": "0425咒術 MOVIC動畫五週年",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 400,
-    "depositPaid": 0,
+    "depositPaid": 400,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -43624,9 +43630,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 400,
+    "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -43642,7 +43648,7 @@
     "socialName": "nako",
     "title": "0425咒術 MOVIC動畫五週年",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 400,
     "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -43651,12 +43657,17 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 400,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "壓克力鑰匙圈 五條夏油款",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0425咒術 MOVIC動畫五週年",
     "sourceMonth": "2026-04"
   },
@@ -43664,7 +43675,7 @@
     "socialName": "jennylin640",
     "title": "0425咒術 MOVIC動畫五週年",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 1600,
     "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -43673,21 +43684,40 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 1600,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "壓克力板 五條",
+        "qty": 1
+      },
+      {
+        "name": "壓克力板 雨傘五條",
+        "qty": 1
+      },
+      {
+        "name": "壓克力板 雨傘夏油",
+        "qty": 1
+      },
+      {
+        "name": "壓克力鑰匙圈 五條夏油款",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0425咒術 MOVIC動畫五週年",
     "sourceMonth": "2026-04"
   },
   {
     "socialName": "FLOWDY",
     "title": "0425咒術 MOVIC動畫五週年",
-    "statusBadges": [],
-    "productAmount": 0,
-    "depositPaid": 0,
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 4560,
+    "depositPaid": 4560,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -43697,10 +43727,35 @@
     },
     "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "壓克力板 五條",
+        "qty": 1
+      },
+      {
+        "name": "壓克力板 雨傘五條",
+        "qty": 1
+      },
+      {
+        "name": "壓克力板 雨傘夏油",
+        "qty": 1
+      },
+      {
+        "name": "壓克力鑰匙圈 五條夏油款",
+        "qty": 1
+      },
+      {
+        "name": "懷玉磁鐵抱盒",
+        "qty": 1
+      },
+      {
+        "name": "涉谷事變抱盒",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0425咒術 MOVIC動畫五週年",
     "sourceMonth": "2026-04"
   },

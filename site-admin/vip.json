@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T19:11:29.341Z",
+  "generatedAt": "2026-05-01T19:21:28.586Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -130,6 +130,10 @@
           "amount": 26055
         },
         {
+          "name": "Sabrina",
+          "amount": 24575
+        },
+        {
           "name": "季",
           "amount": 24510
         },
@@ -138,8 +142,8 @@
           "amount": 24375
         },
         {
-          "name": "Sabrina",
-          "amount": 24175
+          "name": "FLOWDY",
+          "amount": 15530
         },
         {
           "name": "良",
@@ -148,10 +152,6 @@
         {
           "name": "Peggy",
           "amount": 15035
-        },
-        {
-          "name": "力卡",
-          "amount": 12860
         }
       ]
     },
@@ -447,12 +447,12 @@
           "amount": 44065
         },
         {
-          "name": "Sabrina",
-          "amount": 9675
+          "name": "FLOWDY",
+          "amount": 13195
         },
         {
-          "name": "FLOWDY",
-          "amount": 8635
+          "name": "Sabrina",
+          "amount": 10075
         },
         {
           "name": "君",
