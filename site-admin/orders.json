@@ -33682,6 +33682,35 @@
     "sourceMonth": "2026-03"
   },
   {
+    "socialName": "Jean",
+    "title": "0317銀魂 吉原大炎上 pop up",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1200,
+    "depositPaid": 1200,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "盲抽色紙",
+        "qty": 6
+      }
+    ],
+    "sourceSheet": "0317銀魂 吉原大炎上 pop up",
+    "sourceMonth": "2026-03"
+  },
+  {
     "socialName": "FLOWDY",
     "title": "0319咒術 COSPA",
     "statusBadges": [
