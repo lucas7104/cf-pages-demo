@@ -16033,6 +16033,126 @@
     ]
   },
   {
+    "socialName": "Ivii",
+    "title": "1219 多ip Airtwokyo",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 2820,
+    "depositPaid": 2820,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "返台中",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "白色freedom衣 M",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "socialName": "TYT",
+    "title": "1219 多ip Airtwokyo",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 585,
+    "depositPaid": 575,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 10,
+    "etaText": "返台中",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "芙莉蓮 相框磁鐵",
+        "qty": 1
+      },
+      {
+        "name": "五條悟和貓 液體鑰匙圈",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "良",
+    "title": "1219 多ip Airtwokyo",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1880,
+    "depositPaid": 1840,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 40,
+    "etaText": "返台中",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "米卡莎圍巾",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "nako",
+    "title": "1219 多ip Airtwokyo",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1520,
+    "depositPaid": 1495,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 25,
+    "etaText": "返台中",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立體模型 （速食店）",
+        "qty": 1
+      },
+      {
+        "name": "立體模型 （遊戲中心）",
+        "qty": 1
+      },
+      {
+        "name": "蒼 鑰匙圈",
+        "qty": 1
+      }
+    ]
+  },
+  {
     "socialName": "絈",
     "title": "1219 進巨 憤怒系列",
     "statusBadges": [
@@ -16059,126 +16179,6 @@
       },
       {
         "name": "正比立牌 (里維)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "Ivii",
-    "title": "1219多ip Airtwokyo",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 2820,
-    "depositPaid": 2820,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "白色freedom衣 M",
-        "qty": 3
-      }
-    ]
-  },
-  {
-    "socialName": "TYT",
-    "title": "1219多ip Airtwokyo",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 585,
-    "depositPaid": 575,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 10,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "芙莉蓮 相框磁鐵",
-        "qty": 1
-      },
-      {
-        "name": "五條悟和貓 液體鑰匙圈",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "良",
-    "title": "1219多ip Airtwokyo",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1880,
-    "depositPaid": 1840,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 40,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "米卡莎圍巾",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "nako",
-    "title": "1219多ip Airtwokyo",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1520,
-    "depositPaid": 1495,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 25,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立體模型 （速食店）",
-        "qty": 1
-      },
-      {
-        "name": "立體模型 （遊戲中心）",
-        "qty": 1
-      },
-      {
-        "name": "蒼 鑰匙圈",
         "qty": 1
       }
     ]
