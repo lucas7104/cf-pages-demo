@@ -17007,6 +17007,39 @@
     "sourceMonth": "2025_12"
   },
   {
+    "socialName": "絈",
+    "title": "1219 進巨 憤怒系列",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 800,
+    "depositPaid": 800,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 41,
+      "cardFee": 12,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "返台中",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "里維閃徽",
+        "qty": 1
+      },
+      {
+        "name": "里維正比立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1219 進巨 憤怒系列",
+    "sourceMonth": "2025_12"
+  },
+  {
     "socialName": "Ivii",
     "title": "1219多ip Airtwokyo",
     "statusBadges": [
@@ -18015,11 +18048,12 @@
     "socialName": "Ruan",
     "title": "1224進巨 Emotional wind",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
-    "productAmount": 615,
+    "productAmount": 0,
     "depositPaid": 615,
-    "secondPayment": 0,
+    "secondPayment": 32,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
       "internationalShipping": 21,
@@ -18027,7 +18061,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -18048,11 +18082,12 @@
     "socialName": "絈",
     "title": "1224進巨 Emotional wind",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
-    "productAmount": 1540,
+    "productAmount": 0,
     "depositPaid": 1540,
-    "secondPayment": 0,
+    "secondPayment": 55,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
       "internationalShipping": 34,
@@ -18060,7 +18095,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -18081,11 +18116,12 @@
     "socialName": "TYT",
     "title": "1224進巨 Emotional wind",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
-    "productAmount": 1415,
+    "productAmount": 0,
     "depositPaid": 1415,
-    "secondPayment": 0,
+    "secondPayment": 70,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
       "internationalShipping": 48,
@@ -18093,7 +18129,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20049,39 +20085,6 @@
       }
     ],
     "sourceSheet": "1229里維生日茶套組",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "絈",
-    "title": "1231 進巨 憤怒系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 800,
-    "depositPaid": 800,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 41,
-      "cardFee": 12,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "里維閃徽",
-        "qty": 1
-      },
-      {
-        "name": "里維正比立牌",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "★1231 進巨 憤怒系列",
     "sourceMonth": "2025_12"
   },
   {
@@ -28219,6 +28222,7 @@
     "socialName": "婷婷",
     "title": "0211膽大黨 賽博龐克",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 3570,
@@ -28231,7 +28235,7 @@
       "packagingFee": 0
     },
     "balanceDue": 301,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -28252,6 +28256,7 @@
     "socialName": "臉書 王榮𣿰",
     "title": "0211膽大黨 賽博龐克",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 450,
@@ -28264,7 +28269,7 @@
       "packagingFee": 0
     },
     "balanceDue": 83,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -28285,6 +28290,7 @@
     "socialName": "臉書 Hii Ragi",
     "title": "0211膽大黨 賽博龐克",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 795,
@@ -28297,7 +28303,7 @@
       "packagingFee": 0
     },
     "balanceDue": 79,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -28314,6 +28320,7 @@
     "socialName": "臉書 許翔盛",
     "title": "0211膽大黨 賽博龐克",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 360,
@@ -28326,7 +28333,7 @@
       "packagingFee": 0
     },
     "balanceDue": 151,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -28355,6 +28362,7 @@
     "socialName": "臉書 是為仁而馥",
     "title": "0211膽大黨 賽博龐克",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1890,
@@ -28367,7 +28375,7 @@
       "packagingFee": 0
     },
     "balanceDue": 171,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
