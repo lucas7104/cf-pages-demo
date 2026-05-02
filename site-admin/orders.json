@@ -23695,7 +23695,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -23736,7 +23736,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -23769,7 +23769,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -23798,7 +23798,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -23831,7 +23831,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -23864,7 +23864,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -23897,7 +23897,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -23926,7 +23926,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -23959,7 +23959,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -27641,19 +27641,17 @@
   {
     "socialName": "Lulumi",
     "title": "0208 鏈鋸人 波奇塔可動鑰匙圈",
-    "statusBadges": [
-      "已付訂金"
-    ],
+    "statusBadges": [],
     "productAmount": 715,
-    "depositPaid": 92,
-    "secondPayment": 29,
+    "depositPaid": 0,
+    "secondPayment": 121,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 92,
       "internationalShipping": 19,
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 652,
+    "balanceDue": 836,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -27674,17 +27672,17 @@
       "已付訂金"
     ],
     "productAmount": 715,
-    "depositPaid": 92,
-    "secondPayment": 29,
+    "depositPaid": 715,
+    "secondPayment": 121,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 92,
       "internationalShipping": 19,
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 652,
+    "balanceDue": 121,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -27703,17 +27701,17 @@
       "已付訂金"
     ],
     "productAmount": 715,
-    "depositPaid": 92,
-    "secondPayment": 29,
+    "depositPaid": 715,
+    "secondPayment": 121,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 92,
       "internationalShipping": 19,
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 652,
+    "balanceDue": 121,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -27732,17 +27730,17 @@
       "已付訂金"
     ],
     "productAmount": 715,
-    "depositPaid": 92,
-    "secondPayment": 29,
+    "depositPaid": 725,
+    "secondPayment": 121,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 92,
       "internationalShipping": 19,
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 652,
+    "balanceDue": 111,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -27761,17 +27759,17 @@
       "已付訂金"
     ],
     "productAmount": 715,
-    "depositPaid": 92,
-    "secondPayment": 29,
+    "depositPaid": 725,
+    "secondPayment": 121,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 92,
       "internationalShipping": 19,
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 652,
+    "balanceDue": 111,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -27790,46 +27788,17 @@
       "已付訂金"
     ],
     "productAmount": 715,
-    "depositPaid": 92,
-    "secondPayment": 29,
+    "depositPaid": 715,
+    "secondPayment": 121,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 92,
       "internationalShipping": 19,
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 652,
+    "balanceDue": 121,
     "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "波奇塔可動鑰匙圈",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0208 鏈鋸人 波奇塔可動鑰匙圈",
-    "sourceMonth": "2026-02"
-  },
-  {
-    "socialName": "50",
-    "title": "0208 鏈鋸人 波奇塔可動鑰匙圈",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 715,
-    "depositPaid": 92,
-    "secondPayment": 29,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 19,
-      "cardFee": 10,
-      "packagingFee": 0
-    },
-    "balanceDue": 652,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
