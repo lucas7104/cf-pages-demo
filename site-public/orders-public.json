@@ -14083,6 +14083,116 @@
     ]
   },
   {
+    "socialName": "減佐",
+    "title": "1211 鏈鋸人graniph",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 945,
+    "depositPaid": 895,
+    "secondPayment": 36,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 24,
+      "cardFee": 12,
+      "packagingFee": 0
+    },
+    "balanceDue": 86,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "優惠券",
+    "items": [
+      {
+        "name": "鴨舌帽",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "챠우뚱이",
+    "title": "1211 鏈鋸人graniph",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 945,
+    "depositPaid": 945,
+    "secondPayment": 36,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 24,
+      "cardFee": 12,
+      "packagingFee": 0
+    },
+    "balanceDue": 36,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "鴨舌帽",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "菊米",
+    "title": "1211 鏈鋸人graniph",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1665,
+    "depositPaid": 1965,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "官方未發貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "襪子缺貨",
+    "items": [
+      {
+        "name": "抓絨長T (白、L)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "Purin",
+    "title": "1211 鏈鋸人graniph",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 850,
+    "depositPaid": 850,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "官方未發貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "短T (白、ss)",
+        "qty": 1
+      }
+    ]
+  },
+  {
     "socialName": "00240",
     "title": "1211多ip TOHO 10週年紀念",
     "statusBadges": [
@@ -14875,116 +14985,6 @@
     "items": [
       {
         "name": "盲抽透卡 (抱盒)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "減佐",
-    "title": "1212鏈鋸人graniph",
-    "statusBadges": [
-      "已出貨",
-      "已付訂金"
-    ],
-    "productAmount": 945,
-    "depositPaid": 895,
-    "secondPayment": 36,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 24,
-      "cardFee": 12,
-      "packagingFee": 0
-    },
-    "balanceDue": 86,
-    "etaText": "已出貨",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "優惠券",
-    "items": [
-      {
-        "name": "鴨舌帽 ￥3,900",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "챠우뚱이",
-    "title": "1212鏈鋸人graniph",
-    "statusBadges": [
-      "已出貨",
-      "已付訂金"
-    ],
-    "productAmount": 945,
-    "depositPaid": 945,
-    "secondPayment": 36,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 24,
-      "cardFee": 12,
-      "packagingFee": 0
-    },
-    "balanceDue": 36,
-    "etaText": "已出貨",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "鴨舌帽 ￥3,900",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "菊米",
-    "title": "1212鏈鋸人graniph",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1665,
-    "depositPaid": 1965,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "官方未發貨",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "襪子缺貨",
-    "items": [
-      {
-        "name": "抓絨長T (白、L)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "Purin",
-    "title": "1212鏈鋸人graniph",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 850,
-    "depositPaid": 850,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "官方未發貨",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "短T (白、ss)",
         "qty": 1
       }
     ]
