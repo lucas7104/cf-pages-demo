@@ -20993,107 +20993,6 @@
     "sourceMonth": "2026-01"
   },
   {
-    "socialName": "瑞斯",
-    "title": "0102鏈鋸人 王座",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 2435,
-    "depositPaid": 2435,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌 (蕾潔)",
-        "qty": 1
-      },
-      {
-        "name": "立牌 (淀治)",
-        "qty": 1
-      },
-      {
-        "name": "短T (蕾潔XL)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0102鏈鋸人 王座",
-    "sourceMonth": "2026-01"
-  },
-  {
-    "socialName": "vivian_lai372",
-    "title": "0102鏈鋸人 王座",
-    "statusBadges": [],
-    "productAmount": 1645,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 1645,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌 (蕾潔)",
-        "qty": 1
-      },
-      {
-        "name": "立牌 (鯊魚)",
-        "qty": 1
-      },
-      {
-        "name": "遠景徽章",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0102鏈鋸人 王座",
-    "sourceMonth": "2026-01"
-  },
-  {
-    "socialName": "Jimmy C",
-    "title": "0102鏈鋸人 王座",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 425,
-    "depositPaid": 425,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌 (蕾潔)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0102鏈鋸人 王座",
-    "sourceMonth": "2026-01"
-  },
-  {
     "socialName": "Vivian_lai372",
     "title": "0103坂本日常 黑色和服",
     "statusBadges": [],
@@ -26978,7 +26877,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -27035,7 +26934,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -27068,7 +26967,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -27097,7 +26996,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -27138,7 +27037,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -27171,7 +27070,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
