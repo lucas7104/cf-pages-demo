@@ -30664,14 +30664,14 @@
     ],
     "productAmount": 1000,
     "depositPaid": 1000,
-    "secondPayment": 35,
+    "secondPayment": 20,
     "secondPaymentBreakdown": {
       "domesticShipping": 20,
       "internationalShipping": 0,
-      "cardFee": 15,
+      "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 35,
+    "balanceDue": 20,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
