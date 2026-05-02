@@ -12938,7 +12938,7 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 725,
+    "productAmount": 540,
     "depositPaid": 725,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -12951,7 +12951,7 @@
     "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "PETANT貼紙缺貨",
     "items": [
       {
         "name": "貼紙 (里維)",
@@ -12967,10 +12967,6 @@
       },
       {
         "name": "貼紙 (米卡莎)",
-        "qty": 1
-      },
-      {
-        "name": "貼紙 (PETANT)",
         "qty": 1
       }
     ],
