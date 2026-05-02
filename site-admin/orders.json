@@ -14635,6 +14635,80 @@
     "sourceMonth": "2025_12"
   },
   {
+    "socialName": "佩佩",
+    "title": "1209 進巨 DIY",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 545,
+    "depositPaid": 545,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "返台中",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 (阿爾敏)",
+        "qty": 1
+      },
+      {
+        "name": "正比方徽 (阿爾敏)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1209 進巨 DIY",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "TYT",
+    "title": "1209 進巨 DIY",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1100,
+    "depositPaid": 1100,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "返台中",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比壓克力杯墊 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "Q版玻璃磁鐵 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "Q版立牌 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "正比壓克力卡 (里維)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1209 進巨 DIY",
+    "sourceMonth": "2025_12"
+  },
+  {
     "socialName": "Zihan",
     "title": "1209咒術 五條悟生日",
     "statusBadges": [
@@ -27562,6 +27636,195 @@
       }
     ],
     "sourceSheet": "0208 鬼滅 Metalbox無限城編",
+    "sourceMonth": "2026-02"
+  },
+  {
+    "socialName": "Lulumi",
+    "title": "0208 鏈鋸人 波奇塔可動鑰匙圈",
+    "statusBadges": [],
+    "productAmount": 715,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 715,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "波奇塔可動鑰匙圈",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0208 鏈鋸人 波奇塔可動鑰匙圈",
+    "sourceMonth": "2026-02"
+  },
+  {
+    "socialName": "超級海星",
+    "title": "0208 鏈鋸人 波奇塔可動鑰匙圈",
+    "statusBadges": [],
+    "productAmount": 715,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 715,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "波奇塔可動鑰匙圈",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0208 鏈鋸人 波奇塔可動鑰匙圈",
+    "sourceMonth": "2026-02"
+  },
+  {
+    "socialName": "婷婷",
+    "title": "0208 鏈鋸人 波奇塔可動鑰匙圈",
+    "statusBadges": [],
+    "productAmount": 715,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 715,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "波奇塔可動鑰匙圈",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0208 鏈鋸人 波奇塔可動鑰匙圈",
+    "sourceMonth": "2026-02"
+  },
+  {
+    "socialName": "大山",
+    "title": "0208 鏈鋸人 波奇塔可動鑰匙圈",
+    "statusBadges": [],
+    "productAmount": 715,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 715,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "波奇塔可動鑰匙圈",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0208 鏈鋸人 波奇塔可動鑰匙圈",
+    "sourceMonth": "2026-02"
+  },
+  {
+    "socialName": "Echo",
+    "title": "0208 鏈鋸人 波奇塔可動鑰匙圈",
+    "statusBadges": [],
+    "productAmount": 715,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 715,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "波奇塔可動鑰匙圈",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0208 鏈鋸人 波奇塔可動鑰匙圈",
+    "sourceMonth": "2026-02"
+  },
+  {
+    "socialName": "Troy",
+    "title": "0208 鏈鋸人 波奇塔可動鑰匙圈",
+    "statusBadges": [],
+    "productAmount": 715,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 715,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "波奇塔可動鑰匙圈",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0208 鏈鋸人 波奇塔可動鑰匙圈",
+    "sourceMonth": "2026-02"
+  },
+  {
+    "socialName": "50",
+    "title": "0208 鏈鋸人 波奇塔可動鑰匙圈",
+    "statusBadges": [],
+    "productAmount": 715,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 715,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "波奇塔可動鑰匙圈",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0208 鏈鋸人 波奇塔可動鑰匙圈",
     "sourceMonth": "2026-02"
   },
   {
