@@ -24198,14 +24198,14 @@
     ],
     "productAmount": 960,
     "depositPaid": 960,
-    "secondPayment": 0,
+    "secondPayment": 144,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 144,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 144,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
