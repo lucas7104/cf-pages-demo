@@ -25817,7 +25817,7 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 4365,
+    "productAmount": 5555,
     "depositPaid": 2115,
     "secondPayment": 218,
     "secondPaymentBreakdown": {
@@ -25826,7 +25826,7 @@
       "cardFee": 74,
       "packagingFee": 0
     },
-    "balanceDue": 2468,
+    "balanceDue": 3658,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
