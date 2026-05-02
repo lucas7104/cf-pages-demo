@@ -6231,7 +6231,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "10月生日優惠券 $20",
@@ -6258,7 +6258,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -6289,7 +6289,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -6316,7 +6316,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -6343,7 +6343,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -6382,7 +6382,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -6413,7 +6413,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -6440,7 +6440,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -6467,7 +6467,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16194,6 +16194,85 @@
     "items": [
       {
         "name": "一組",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "每天都想退休",
+    "title": "1220 鬼滅Relo Hotels &Resorts",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 135,
+    "depositPaid": 135,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "A4文件夾",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "vivian_lai372",
+    "title": "1220 鬼滅Relo Hotels &Resorts",
+    "statusBadges": [],
+    "productAmount": 665,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 665,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "角色徽章 (抱盒)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "承",
+    "title": "1220 鬼滅Relo Hotels &Resorts",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 135,
+    "depositPaid": 135,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "A4文件夾",
         "qty": 1
       }
     ]
