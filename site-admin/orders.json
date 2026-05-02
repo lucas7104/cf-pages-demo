@@ -25818,7 +25818,7 @@
       "已付訂金"
     ],
     "productAmount": 5555,
-    "depositPaid": 2115,
+    "depositPaid": 5555,
     "secondPayment": 218,
     "secondPaymentBreakdown": {
       "domesticShipping": 144,
@@ -25826,7 +25826,7 @@
       "cardFee": 74,
       "packagingFee": 0
     },
-    "balanceDue": 3658,
+    "balanceDue": 218,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
