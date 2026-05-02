@@ -25817,7 +25817,7 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 3305,
+    "productAmount": 4365,
     "depositPaid": 2115,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -25826,14 +25826,14 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 1190,
+    "balanceDue": 2250,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "A3複製原畫",
+        "name": "A5複製原畫",
         "qty": 1
       },
       {
@@ -25842,6 +25842,10 @@
       },
       {
         "name": "壓克力磚 欣梅爾",
+        "qty": 1
+      },
+      {
+        "name": "手風琴畫作 淺藍款",
         "qty": 1
       }
     ],
