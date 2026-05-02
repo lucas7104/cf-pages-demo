@@ -16902,6 +16902,103 @@
     ]
   },
   {
+    "socialName": "Ruan",
+    "title": "1224進巨 Emotional wind",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 615,
+    "depositPaid": 615,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 21,
+      "cardFee": 11,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "資料夾",
+        "qty": 1
+      },
+      {
+        "name": "里維正比立牌",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "絈",
+    "title": "1224進巨 Emotional wind",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1540,
+    "depositPaid": 1540,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 34,
+      "cardFee": 21,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "壓克力立牌 里維調查兵團服",
+        "qty": 1
+      },
+      {
+        "name": "超大壓克力立牌 里維調查兵團服",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "TYT",
+    "title": "1224進巨 Emotional wind",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1415,
+    "depositPaid": 1415,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 48,
+      "cardFee": 22,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "資料夾",
+        "qty": 1
+      },
+      {
+        "name": "壓克力立牌 里維調查兵團服",
+        "qty": 1
+      },
+      {
+        "name": "幹部組壓克力板",
+        "qty": 1
+      }
+    ]
+  },
+  {
     "socialName": "cc",
     "title": "1226咒術 旅遊系列",
     "statusBadges": [
@@ -18747,103 +18844,6 @@
       },
       {
         "name": "里維正比立牌",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "Ruan",
-    "title": "1231進巨 Emotional wind",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 615,
-    "depositPaid": 615,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 21,
-      "cardFee": 11,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "資料夾",
-        "qty": 1
-      },
-      {
-        "name": "里維正比立牌",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "絈",
-    "title": "1231進巨 Emotional wind",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1540,
-    "depositPaid": 1540,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 34,
-      "cardFee": 21,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "壓克力立牌 里維調查兵團服",
-        "qty": 1
-      },
-      {
-        "name": "超大壓克力立牌 里維調查兵團服",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "TYT",
-    "title": "1231進巨 Emotional wind",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1415,
-    "depositPaid": 1415,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 48,
-      "cardFee": 22,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "資料夾",
-        "qty": 1
-      },
-      {
-        "name": "壓克力立牌 里維調查兵團服",
-        "qty": 1
-      },
-      {
-        "name": "幹部組壓克力板",
         "qty": 1
       }
     ]
@@ -26590,7 +26590,7 @@
         "qty": 1
       },
       {
-        "name": "資料夾 (外婆跟高速婆婆)",
+        "name": "資料夾 (星子&高速婆婆)",
         "qty": 1
       }
     ]
