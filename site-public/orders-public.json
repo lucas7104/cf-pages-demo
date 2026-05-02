@@ -4085,6 +4085,145 @@
     ]
   },
   {
+    "socialName": "Yumi",
+    "title": "1025 鬼滅movic豆豆娃",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 345,
+    "depositPaid": 245,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "返台中",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "義勇豆豆娃",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "惠",
+    "title": "1025 鬼滅movic豆豆娃",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 345,
+    "depositPaid": 245,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "返台中",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "義勇豆豆娃",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": ".ゆん ☘︎ ˖",
+    "title": "1025 鬼滅movic豆豆娃",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 345,
+    "depositPaid": 245,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "返台中",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "義勇豆豆娃",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "Feiiii",
+    "title": "1025 鬼滅movic豆豆娃",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 345,
+    "depositPaid": 245,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "返台中",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "義勇豆豆娃",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "Eilish",
+    "title": "1025 鬼滅movic豆豆娃",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 690,
+    "depositPaid": 590,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "返台中",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "義勇豆豆娃",
+        "qty": 1
+      },
+      {
+        "name": "胡蝶豆豆娃",
+        "qty": 1
+      }
+    ]
+  },
+  {
     "socialName": "Han",
     "title": "1027野獸巨人我來解決",
     "statusBadges": [
