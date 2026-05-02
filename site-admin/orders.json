@@ -15082,7 +15082,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "官方未發貨",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "襪子缺貨",
@@ -15111,7 +15111,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "官方未發貨",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -30601,7 +30601,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
