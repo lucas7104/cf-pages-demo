@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T09:21:43.921Z",
+  "generatedAt": "2026-05-02T09:31:41.074Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -40,11 +40,11 @@
         },
         {
           "name": "vivian_lai372",
-          "amount": 29380
+          "amount": 28715
         },
         {
           "name": "每天都想退休",
-          "amount": 26589
+          "amount": 26454
         },
         {
           "name": "季",
@@ -330,16 +330,16 @@
           "amount": 6525
         },
         {
-          "name": "vivian_lai372",
-          "amount": 6165
-        },
-        {
           "name": "Feiiii",
           "amount": 5940
         },
         {
           "name": "良",
           "amount": 5690
+        },
+        {
+          "name": "vivian_lai372",
+          "amount": 5500
         }
       ]
     },
