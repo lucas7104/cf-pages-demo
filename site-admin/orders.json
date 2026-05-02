@@ -24852,14 +24852,14 @@
     ],
     "productAmount": 2650,
     "depositPaid": 2650,
-    "secondPayment": 0,
+    "secondPayment": 228,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 132,
+      "internationalShipping": 62,
+      "cardFee": 34,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 228,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -24870,7 +24870,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0127 咒術 figunity 公仔",
+    "sourceSheet": "★0127 咒術 figunity 公仔",
     "sourceMonth": "2026-01"
   },
   {
