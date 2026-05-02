@@ -12779,7 +12779,6 @@
     "socialName": "絈",
     "title": "1128 進巨賽德龐克",
     "statusBadges": [
-      "已抵台",
       "已付訂金"
     ],
     "productAmount": 815,
@@ -12792,7 +12791,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "已抵台",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -12829,13 +12828,13 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "Q立 (B)",
+        "name": "Q版立牌組 (B)",
         "qty": 1
       }
     ],
@@ -12858,13 +12857,13 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "Q立 (B)",
+        "name": "Q版立牌組 (B)",
         "qty": 1
       }
     ],
@@ -12887,7 +12886,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -12920,7 +12919,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -12949,7 +12948,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -13694,208 +13693,6 @@
     ],
     "sourceSheet": "1130進巨 荷官",
     "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "絈",
-    "title": "1202進巨賽德龐克",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 815,
-    "depositPaid": 815,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "正比立牌 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "正比吊飾 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "貼紙 (里維)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1202進巨賽德龐克",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "00240",
-    "title": "1202進巨賽德龐克",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 900,
-    "depositPaid": 900,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "Q立 (B)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1202進巨賽德龐克",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "A-Joe",
-    "title": "1202進巨賽德龐克",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 900,
-    "depositPaid": 900,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "Q立 (B)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1202進巨賽德龐克",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "susu",
-    "title": "1202進巨賽德龐克",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 930,
-    "depositPaid": 930,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "正比立牌 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "正比立牌 (艾連)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1202進巨賽德龐克",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "盤子",
-    "title": "1202進巨賽德龐克",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 320,
-    "depositPaid": 320,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "Q版吊飾 (吉克萊納皮克)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1202進巨賽德龐克",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "An",
-    "title": "1202進巨賽德龐克",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 725,
-    "depositPaid": 725,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "貼紙 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "貼紙 (艾連)",
-        "qty": 1
-      },
-      {
-        "name": "貼紙 (漢吉)",
-        "qty": 1
-      },
-      {
-        "name": "貼紙 (米卡莎)",
-        "qty": 1
-      },
-      {
-        "name": "貼紙 (PETANT)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1202進巨賽德龐克",
-    "sourceMonth": "2025_12"
   },
   {
     "socialName": "Vivian_lai372",
