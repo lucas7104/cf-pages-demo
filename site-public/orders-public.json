@@ -19242,21 +19242,21 @@
     ],
     "productAmount": 800,
     "depositPaid": 800,
-    "secondPayment": 0,
+    "secondPayment": 230,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 206,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 24,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 230,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "缺一張補蹲",
     "items": [
       {
-        "name": "思想實驗展海報",
+        "name": "思想實驗展海報 ￥1650",
         "qty": 4
       }
     ]
