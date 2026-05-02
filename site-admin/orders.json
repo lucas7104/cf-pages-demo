@@ -6640,6 +6640,287 @@
     "sourceMonth": "2025_11"
   },
   {
+    "socialName": "챠우뚱이",
+    "title": "1107 鏈鋸人 PochiMart",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 680,
+    "depositPaid": 580,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "10月生日優惠券 $20",
+    "items": [
+      {
+        "name": "黑色波奇塔束口袋",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1107 鏈鋸人 PochiMart",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "vivian_lai372",
+    "title": "1107 鏈鋸人 PochiMart",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1310,
+    "depositPaid": 1210,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "黑色波奇塔玩偶",
+        "qty": 1
+      },
+      {
+        "name": "黑色波奇塔吊飾",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1107 鏈鋸人 PochiMart",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "TYT",
+    "title": "1107 鏈鋸人 PochiMart",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 515,
+    "depositPaid": 415,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "黑色波奇塔吊飾",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1107 鏈鋸人 PochiMart",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "JimmyC",
+    "title": "1107 鏈鋸人 PochiMart",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 795,
+    "depositPaid": 695,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "黑色波奇塔玩偶",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1107 鏈鋸人 PochiMart",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "瑞斯",
+    "title": "1107 鏈鋸人 PochiMart",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 2275,
+    "depositPaid": 2175,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "黑色波奇塔束口袋",
+        "qty": 1
+      },
+      {
+        "name": "黑色波奇塔玩偶",
+        "qty": 1
+      },
+      {
+        "name": "海報貼紙 (秋)",
+        "qty": 1
+      },
+      {
+        "name": "海報貼紙 (帕瓦)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1107 鏈鋸人 PochiMart",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "lpp_ss",
+    "title": "1107 鏈鋸人 PochiMart",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 735,
+    "depositPaid": 635,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "黑色波奇塔吊飾",
+        "qty": 1
+      },
+      {
+        "name": "早川家方巾",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1107 鏈鋸人 PochiMart",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "麥香魚堡",
+    "title": "1107 鏈鋸人 PochiMart",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 515,
+    "depositPaid": 415,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "黑色波奇塔吊飾",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1107 鏈鋸人 PochiMart",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "超級海星",
+    "title": "1107 鏈鋸人 PochiMart",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 680,
+    "depositPaid": 580,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "黑色波奇塔束口袋",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1107 鏈鋸人 PochiMart",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "Meoooooow",
+    "title": "1107 鏈鋸人 PochiMart",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 680,
+    "depositPaid": 580,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "黑色波奇塔束口袋",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1107 鏈鋸人 PochiMart",
+    "sourceMonth": "2025_11"
+  },
+  {
     "socialName": "Lulu",
     "title": "1108 鬼滅 太陽城傳說",
     "statusBadges": [
@@ -7891,287 +8172,6 @@
       }
     ],
     "sourceSheet": "★1108進巨放鬆系列",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "챠우뚱이",
-    "title": "1108鏈鋸人PLAZA",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 680,
-    "depositPaid": 580,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "10月生日優惠券 $20",
-    "items": [
-      {
-        "name": "黑色波奇塔束口袋",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1108鏈鋸人PLAZA",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "vivian_lai372",
-    "title": "1108鏈鋸人PLAZA",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1310,
-    "depositPaid": 1210,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "黑色波奇塔玩偶",
-        "qty": 1
-      },
-      {
-        "name": "黑色波奇塔吊飾",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1108鏈鋸人PLAZA",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "TYT",
-    "title": "1108鏈鋸人PLAZA",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 515,
-    "depositPaid": 415,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "黑色波奇塔吊飾",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1108鏈鋸人PLAZA",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "JimmyC",
-    "title": "1108鏈鋸人PLAZA",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 795,
-    "depositPaid": 695,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "黑色波奇塔玩偶",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1108鏈鋸人PLAZA",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "瑞斯",
-    "title": "1108鏈鋸人PLAZA",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 2275,
-    "depositPaid": 2175,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "黑色波奇塔束口袋",
-        "qty": 1
-      },
-      {
-        "name": "黑色波奇塔玩偶",
-        "qty": 1
-      },
-      {
-        "name": "海報貼紙 (秋)",
-        "qty": 1
-      },
-      {
-        "name": "海報貼紙 (帕瓦)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1108鏈鋸人PLAZA",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "lpp_ss",
-    "title": "1108鏈鋸人PLAZA",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 735,
-    "depositPaid": 635,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "黑色波奇塔吊飾",
-        "qty": 1
-      },
-      {
-        "name": "早川家方巾",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1108鏈鋸人PLAZA",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "麥香魚堡",
-    "title": "1108鏈鋸人PLAZA",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 515,
-    "depositPaid": 415,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "黑色波奇塔吊飾",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1108鏈鋸人PLAZA",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "超級海星",
-    "title": "1108鏈鋸人PLAZA",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 680,
-    "depositPaid": 580,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "黑色波奇塔束口袋",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1108鏈鋸人PLAZA",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "Meoooooow",
-    "title": "1108鏈鋸人PLAZA",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 680,
-    "depositPaid": 580,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "黑色波奇塔束口袋",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1108鏈鋸人PLAZA",
     "sourceMonth": "2025_11"
   },
   {
