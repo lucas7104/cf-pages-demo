@@ -17274,13 +17274,13 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "A4文件夾",
+        "name": "A4文件夾 ￥550",
         "qty": 1
       }
     ],
@@ -17301,13 +17301,13 @@
       "packagingFee": 0
     },
     "balanceDue": 665,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "角色徽章 (抱盒)",
+        "name": "角色徽章(抱盒) ￥2,750",
         "qty": 1
       }
     ],
@@ -17336,7 +17336,7 @@
     "note": "",
     "items": [
       {
-        "name": "A4文件夾",
+        "name": "A4文件夾 ￥550",
         "qty": 1
       }
     ],
