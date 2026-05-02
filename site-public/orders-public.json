@@ -28200,6 +28200,114 @@
     ]
   },
   {
+    "socialName": "Leila",
+    "title": "0226鬼滅 明治村",
+    "statusBadges": [],
+    "productAmount": 450,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 450,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "時透立牌",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "承",
+    "title": "0226鬼滅 明治村",
+    "statusBadges": [],
+    "productAmount": 450,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 450,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "炭治郎立牌",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "Saki蒼",
+    "title": "0226鬼滅 明治村",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1850,
+    "depositPaid": 1850,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "胡蝶大立牌",
+        "qty": 1
+      },
+      {
+        "name": "義勇大立牌",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "66",
+    "title": "0226鬼滅 明治村",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 925,
+    "depositPaid": 925,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "義勇大立牌",
+        "qty": 1
+      }
+    ]
+  },
+  {
     "socialName": "良",
     "title": "(2月重開)1029 鬼滅 look up-26下單",
     "statusBadges": [
@@ -28250,114 +28358,6 @@
       {
         "name": "桌曆",
         "qty": 2
-      }
-    ]
-  },
-  {
-    "socialName": "Leila",
-    "title": "「0220多ip Airtwokyo」的副本",
-    "statusBadges": [],
-    "productAmount": 450,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 450,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "時透立牌",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "承",
-    "title": "「0220多ip Airtwokyo」的副本",
-    "statusBadges": [],
-    "productAmount": 450,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 450,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "炭治郎立牌",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "Saki蒼",
-    "title": "「0220多ip Airtwokyo」的副本",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1850,
-    "depositPaid": 1850,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "胡蝶大立牌",
-        "qty": 1
-      },
-      {
-        "name": "義勇大立牌",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "66",
-    "title": "「0220多ip Airtwokyo」的副本",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 925,
-    "depositPaid": 925,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "義勇大立牌",
-        "qty": 1
       }
     ]
   },
@@ -28764,14 +28764,14 @@
     ],
     "productAmount": 1000,
     "depositPaid": 1000,
-    "secondPayment": 0,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 20,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 35,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28791,14 +28791,14 @@
     ],
     "productAmount": 2000,
     "depositPaid": 2000,
-    "secondPayment": 0,
+    "secondPayment": 50,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 20,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 30,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 50,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28818,14 +28818,14 @@
     ],
     "productAmount": 2200,
     "depositPaid": 2200,
-    "secondPayment": 0,
+    "secondPayment": 53,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 20,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 33,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 53,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28845,14 +28845,14 @@
     ],
     "productAmount": 1000,
     "depositPaid": 1000,
-    "secondPayment": 0,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 20,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 35,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28872,14 +28872,14 @@
     ],
     "productAmount": 210,
     "depositPaid": 200,
-    "secondPayment": 0,
+    "secondPayment": 23,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 20,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 10,
+    "balanceDue": 33,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -28899,14 +28899,14 @@
     ],
     "productAmount": 6800,
     "depositPaid": 6800,
-    "secondPayment": 0,
+    "secondPayment": 122,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 20,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 102,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 122,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28926,14 +28926,14 @@
     ],
     "productAmount": 1200,
     "depositPaid": 1200,
-    "secondPayment": 0,
+    "secondPayment": 38,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 20,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 38,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
