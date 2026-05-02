@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T14:41:55.414Z",
+  "generatedAt": "2026-05-02T14:51:50.134Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -16,7 +16,7 @@
         },
         {
           "name": "TYT",
-          "amount": 49525
+          "amount": 50940
         },
         {
           "name": "芭樂",
@@ -78,6 +78,10 @@
           "amount": 17600
         },
         {
+          "name": "絈",
+          "amount": 17435
+        },
+        {
           "name": "GU搭",
           "amount": 17249
         },
@@ -90,16 +94,12 @@
           "amount": 16535
         },
         {
-          "name": "絈",
-          "amount": 15895
+          "name": "TYT",
+          "amount": 15185
         },
         {
           "name": "芭樂",
           "amount": 14545
-        },
-        {
-          "name": "TYT",
-          "amount": 13770
         }
       ]
     },
@@ -291,8 +291,8 @@
           "amount": 6755
         },
         {
-          "name": "涼白開",
-          "amount": 5880
+          "name": "絈",
+          "amount": 6385
         }
       ]
     },

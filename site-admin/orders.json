@@ -14417,6 +14417,134 @@
     "sourceMonth": "2025_12"
   },
   {
+    "socialName": "瑞斯",
+    "title": "1207 鏈鋸人MAPPA",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 3740,
+    "depositPaid": 3740,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "返台中",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "海報 (花香)",
+        "qty": 1
+      },
+      {
+        "name": "海報 (海灘)",
+        "qty": 1
+      },
+      {
+        "name": "海報 (約會)",
+        "qty": 1
+      },
+      {
+        "name": "原聲帶",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1207 鏈鋸人MAPPA",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "🎀sujin",
+    "title": "1207 鏈鋸人MAPPA",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 265,
+    "depositPaid": 265,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "返台中",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "明信片組",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1207 鏈鋸人MAPPA",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "鴨",
+    "title": "1207 鏈鋸人MAPPA",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 610,
+    "depositPaid": 610,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "返台中",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "明信片盒op款",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1207 鏈鋸人MAPPA",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "piao",
+    "title": "1207 鏈鋸人MAPPA",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 875,
+    "depositPaid": 875,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "返台中",
+    "paymentMethod": "無卡",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "原創壓克力鑰匙圈盲抽",
+        "qty": 5
+      }
+    ],
+    "sourceSheet": "1207 鏈鋸人MAPPA",
+    "sourceMonth": "2025_12"
+  },
+  {
     "socialName": "00240",
     "title": "1207多ip 食玩",
     "statusBadges": [
@@ -16813,134 +16941,6 @@
     "sourceMonth": "2025_12"
   },
   {
-    "socialName": "瑞斯",
-    "title": "1216 鏈鋸人MAPPA",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 3740,
-    "depositPaid": 3740,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "海報 (花香)",
-        "qty": 1
-      },
-      {
-        "name": "海報 (海灘)",
-        "qty": 1
-      },
-      {
-        "name": "海報 (約會)",
-        "qty": 1
-      },
-      {
-        "name": "原聲帶",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1216 鏈鋸人MAPPA",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "🎀sujin",
-    "title": "1216 鏈鋸人MAPPA",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 265,
-    "depositPaid": 265,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "明信片組",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1216 鏈鋸人MAPPA",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "鴨",
-    "title": "1216 鏈鋸人MAPPA",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 610,
-    "depositPaid": 610,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "明信片盒op款",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1216 鏈鋸人MAPPA",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "piao",
-    "title": "1216 鏈鋸人MAPPA",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 875,
-    "depositPaid": 875,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "無卡",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "原創壓克力鑰匙圈盲抽",
-        "qty": 5
-      }
-    ],
-    "sourceSheet": "1216 鏈鋸人MAPPA",
-    "sourceMonth": "2025_12"
-  },
-  {
     "socialName": "每天都想退休",
     "title": "1217鬼滅 食堂",
     "statusBadges": [
@@ -17028,11 +17028,11 @@
     "note": "",
     "items": [
       {
-        "name": "里維閃徽",
+        "name": "閃徽 (里維)",
         "qty": 1
       },
       {
-        "name": "里維正比立牌",
+        "name": "正比立牌 (里維)",
         "qty": 1
       }
     ],
@@ -18051,7 +18051,7 @@
       "已抵台",
       "已付訂金"
     ],
-    "productAmount": 0,
+    "productAmount": 615,
     "depositPaid": 615,
     "secondPayment": 32,
     "secondPaymentBreakdown": {
@@ -18060,7 +18060,7 @@
       "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 32,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18085,7 +18085,7 @@
       "已抵台",
       "已付訂金"
     ],
-    "productAmount": 0,
+    "productAmount": 1540,
     "depositPaid": 1540,
     "secondPayment": 55,
     "secondPaymentBreakdown": {
@@ -18094,7 +18094,7 @@
       "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 55,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18119,7 +18119,7 @@
       "已抵台",
       "已付訂金"
     ],
-    "productAmount": 0,
+    "productAmount": 1415,
     "depositPaid": 1415,
     "secondPayment": 70,
     "secondPaymentBreakdown": {
@@ -18128,7 +18128,7 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 70,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -24851,6 +24851,7 @@
     "socialName": "江蘇菲",
     "title": "0127 咒術 figunity 公仔",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2650,
@@ -24863,7 +24864,7 @@
       "packagingFee": 0
     },
     "balanceDue": 228,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
