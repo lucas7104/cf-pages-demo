@@ -16854,7 +16854,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16887,7 +16887,7 @@
       "packagingFee": 0
     },
     "balanceDue": 1645,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16897,7 +16897,7 @@
         "qty": 1
       },
       {
-        "name": "立牌 (鯊魚)",
+        "name": "立牌 (比姆)",
         "qty": 1
       },
       {
@@ -16922,7 +16922,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
