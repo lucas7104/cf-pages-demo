@@ -20416,21 +20416,21 @@
     ],
     "productAmount": 430,
     "depositPaid": 430,
-    "secondPayment": 0,
+    "secondPayment": 138,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 132,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 138,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "不含運費",
     "items": [
       {
-        "name": "咒術Q版吊飾娃 (五條)",
+        "name": "咒術Q版吊飾娃 (五條) ￥1,780",
         "qty": 1
       }
     ],
