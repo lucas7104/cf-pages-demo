@@ -28474,14 +28474,14 @@
     ],
     "productAmount": 3570,
     "depositPaid": 3570,
-    "secondPayment": 301,
+    "secondPayment": 235,
     "secondPaymentBreakdown": {
       "domesticShipping": 187,
-      "internationalShipping": 66,
+      "internationalShipping": 0,
       "cardFee": 48,
       "packagingFee": 0
     },
-    "balanceDue": 301,
+    "balanceDue": 235,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28508,14 +28508,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 83,
+    "secondPayment": 93,
     "secondPaymentBreakdown": {
       "domesticShipping": 51,
       "internationalShipping": 25,
       "cardFee": 7,
-      "packagingFee": 0
+      "packagingFee": 10
     },
-    "balanceDue": 83,
+    "balanceDue": 93,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28572,14 +28572,14 @@
     ],
     "productAmount": 360,
     "depositPaid": 300,
-    "secondPayment": 91,
+    "secondPayment": 101,
     "secondPaymentBreakdown": {
       "domesticShipping": 51,
       "internationalShipping": 32,
       "cardFee": 8,
-      "packagingFee": 0
+      "packagingFee": 10
     },
-    "balanceDue": 151,
+    "balanceDue": 161,
     "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -28614,14 +28614,14 @@
     ],
     "productAmount": 1890,
     "depositPaid": 1890,
-    "secondPayment": 171,
+    "secondPayment": 181,
     "secondPaymentBreakdown": {
       "domesticShipping": 51,
       "internationalShipping": 93,
       "cardFee": 27,
-      "packagingFee": 0
+      "packagingFee": 10
     },
-    "balanceDue": 171,
+    "balanceDue": 181,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
