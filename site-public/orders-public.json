@@ -38861,7 +38861,7 @@
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "折抵其他周邊",
     "items": [
       {
         "name": "日車T恤L",
@@ -41336,9 +41336,11 @@
   {
     "socialName": "Sabrina",
     "title": "0425咒術 MOVIC動畫五週年",
-    "statusBadges": [],
-    "productAmount": 800,
-    "depositPaid": 0,
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1200,
+    "depositPaid": 1200,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -41346,14 +41348,18 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 800,
+    "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "壓克力板 乙骨",
+        "name": "壓克力板 (乙骨)",
+        "qty": 1
+      },
+      {
+        "name": "壓克力板 (狗卷)",
         "qty": 1
       },
       {
@@ -41384,7 +41390,7 @@
     "note": "",
     "items": [
       {
-        "name": "壓克力板 五條",
+        "name": "壓克力板 (五條)",
         "qty": 1
       }
     ]
@@ -41438,7 +41444,7 @@
     "note": "",
     "items": [
       {
-        "name": "壓克力板 五條",
+        "name": "壓克力板 (五條)",
         "qty": 1
       },
       {
@@ -41477,7 +41483,7 @@
     "note": "",
     "items": [
       {
-        "name": "壓克力板 五條",
+        "name": "壓克力板 (五條)",
         "qty": 1
       },
       {
