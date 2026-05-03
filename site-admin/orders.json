@@ -20445,21 +20445,21 @@
     ],
     "productAmount": 405,
     "depositPaid": 500,
-    "secondPayment": 0,
+    "secondPayment": 108,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 102,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 13,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "不含運費",
     "items": [
       {
-        "name": "咒術Q版吊飾娃 (宿儺)",
+        "name": "咒術Q版吊飾娃 (宿儺) ￥1,683",
         "qty": 1
       }
     ],
