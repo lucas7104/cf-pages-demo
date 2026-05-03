@@ -41061,9 +41061,11 @@
   {
     "socialName": "lpp_ss",
     "title": "0423進巨 TAPIOCA-2",
-    "statusBadges": [],
-    "productAmount": 1460,
-    "depositPaid": 0,
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 2390,
+    "depositPaid": 2390,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -41071,9 +41073,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 1460,
+    "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
