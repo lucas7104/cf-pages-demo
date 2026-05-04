@@ -39219,6 +39219,35 @@
     "sourceMonth": "2026-03"
   },
   {
+    "socialName": "Mica Zhu",
+    "title": "0329相反的你和我 抽賞",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 190,
+    "depositPaid": 190,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "一抽",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0329相反的你和我 抽賞",
+    "sourceMonth": "2026-03"
+  },
+  {
     "socialName": "雪雪",
     "title": "0330咒術 TUMUGI戒指",
     "statusBadges": [
