@@ -164,7 +164,7 @@ function buildStatusBadges(statusText, depositPaid) {
 
   if (statusText.includes("已出貨")) badges.push("已出貨");
   if (statusText.includes("已抵台")) badges.push("已抵台");
-  if (statusText.includes("抵台中")) badges.push("抵台中");
+  if (statusText.includes("返台中")) badges.push("返台中");
   if (depositPaid > 0) badges.push("已付訂金");
 
   return [...new Set(badges)];
