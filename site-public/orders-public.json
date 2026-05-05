@@ -28697,19 +28697,20 @@
     "socialName": "Sabrina",
     "title": "0301咒術 乙骨生日",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 4230,
     "depositPaid": 4230,
-    "secondPayment": 398,
+    "secondPayment": 663,
     "secondPaymentBreakdown": {
       "domesticShipping": 184,
       "internationalShipping": 214,
-      "cardFee": 0,
+      "cardFee": 265,
       "packagingFee": 0
     },
-    "balanceDue": 398,
-    "etaText": "返台中",
+    "balanceDue": 663,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
