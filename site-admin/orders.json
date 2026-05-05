@@ -30593,14 +30593,14 @@
     ],
     "productAmount": 4230,
     "depositPaid": 4230,
-    "secondPayment": 0,
+    "secondPayment": 398,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 184,
+      "internationalShipping": 214,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 398,
     "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
