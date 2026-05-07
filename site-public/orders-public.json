@@ -12028,7 +12028,7 @@
     "socialName": "絈",
     "title": "1128 進巨賽德龐克",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 815,
@@ -12041,7 +12041,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -12064,7 +12064,7 @@
     "socialName": "00240",
     "title": "1128 進巨賽德龐克",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 900,
@@ -12077,7 +12077,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -12092,7 +12092,7 @@
     "socialName": "A-Joe",
     "title": "1128 進巨賽德龐克",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 900,
@@ -12105,7 +12105,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -12120,7 +12120,7 @@
     "socialName": "susu",
     "title": "1128 進巨賽德龐克",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 930,
@@ -12133,7 +12133,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -12152,7 +12152,7 @@
     "socialName": "盤子",
     "title": "1128 進巨賽德龐克",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 320,
@@ -12165,7 +12165,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -12180,7 +12180,7 @@
     "socialName": "An",
     "title": "1128 進巨賽德龐克",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 540,
@@ -12193,7 +12193,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "PETANT貼紙缺貨",
@@ -28777,7 +28777,7 @@
     "socialName": "Sabrina",
     "title": "0301咒術 乙骨生日",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 4230,
@@ -28790,10 +28790,10 @@
       "packagingFee": 0
     },
     "balanceDue": 663,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "5/7二補瑀後面訂單合併",
     "items": [
       {
         "name": "生日徽章",
