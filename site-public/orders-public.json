@@ -1346,14 +1346,14 @@
     ],
     "productAmount": 475,
     "depositPaid": 375,
-    "secondPayment": 0,
+    "secondPayment": 15,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
       "internationalShipping": 8,
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 115,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1374,14 +1374,14 @@
     ],
     "productAmount": 475,
     "depositPaid": 375,
-    "secondPayment": 0,
+    "secondPayment": 15,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
       "internationalShipping": 8,
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 115,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1397,6 +1397,7 @@
     "socialName": "Feiiii",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 8170,
@@ -1409,7 +1410,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -1424,6 +1425,7 @@
     "socialName": "嘿嘿哈哈",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 880,
@@ -1436,7 +1438,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -1451,6 +1453,7 @@
     "socialName": "maki__",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 4085,
@@ -1463,7 +1466,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -1478,6 +1481,7 @@
     "socialName": "amo",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1290,
@@ -1490,7 +1494,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -1505,6 +1509,7 @@
     "socialName": "ling",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2150,
@@ -1517,7 +1522,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -1532,6 +1537,7 @@
     "socialName": "欸K",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1075,
@@ -1544,7 +1550,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "臉書通知",
@@ -1559,6 +1565,7 @@
     "socialName": "惠",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1075,
@@ -1571,7 +1578,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -1586,6 +1593,7 @@
     "socialName": "每天都想退休",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1075,
@@ -1598,7 +1606,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -1613,6 +1621,7 @@
     "socialName": "小熊餅乾",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1505,
@@ -1625,7 +1634,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -1640,6 +1649,7 @@
     "socialName": "Eilish",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 6450,
@@ -1652,7 +1662,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -1667,6 +1677,7 @@
     "socialName": "TYT",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 430,
@@ -1679,7 +1690,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "(收Eilish音柱各2)",
@@ -1694,6 +1705,7 @@
     "socialName": "Saki蒼",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2150,
@@ -1706,7 +1718,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "霞音蛇給Huh?",
@@ -1721,6 +1733,7 @@
     "socialName": "Piao",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2580,
@@ -1733,7 +1746,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "A水換Saki猗窩座",
@@ -1748,6 +1761,7 @@
     "socialName": "Huh?",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1075,
@@ -1760,7 +1774,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "戀岩炎給Saki蒼",
@@ -1775,6 +1789,7 @@
     "socialName": "Snailll",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2580,
@@ -1787,7 +1802,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -12033,14 +12048,14 @@
     ],
     "productAmount": 815,
     "depositPaid": 815,
-    "secondPayment": 27,
+    "secondPayment": 38,
     "secondPaymentBreakdown": {
       "domesticShipping": 27,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 27,
+    "balanceDue": 38,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12069,14 +12084,14 @@
     ],
     "productAmount": 900,
     "depositPaid": 900,
-    "secondPayment": 27,
+    "secondPayment": 39,
     "secondPaymentBreakdown": {
       "domesticShipping": 27,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 27,
+    "balanceDue": 39,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12097,14 +12112,14 @@
     ],
     "productAmount": 900,
     "depositPaid": 900,
-    "secondPayment": 27,
+    "secondPayment": 39,
     "secondPaymentBreakdown": {
       "domesticShipping": 27,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 27,
+    "balanceDue": 39,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12125,14 +12140,14 @@
     ],
     "productAmount": 930,
     "depositPaid": 930,
-    "secondPayment": 27,
+    "secondPayment": 39,
     "secondPaymentBreakdown": {
       "domesticShipping": 27,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 27,
+    "balanceDue": 39,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12157,14 +12172,14 @@
     ],
     "productAmount": 320,
     "depositPaid": 320,
-    "secondPayment": 27,
+    "secondPayment": 32,
     "secondPaymentBreakdown": {
       "domesticShipping": 27,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 27,
+    "balanceDue": 32,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12185,11 +12200,11 @@
     ],
     "productAmount": 540,
     "depositPaid": 725,
-    "secondPayment": 27,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
       "domesticShipping": 27,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 8,
       "packagingFee": 0
     },
     "balanceDue": 0,
