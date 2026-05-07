@@ -26231,14 +26231,14 @@
     ],
     "productAmount": 725,
     "depositPaid": 700,
-    "secondPayment": 0,
+    "secondPayment": 69,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 42,
+      "internationalShipping": 16,
+      "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 94,
     "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -26253,7 +26253,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0130進巨 調查兵團貓貓",
+    "sourceSheet": "★0130進巨 調查兵團貓貓",
     "sourceMonth": "2026-01"
   },
   {
@@ -26265,14 +26265,14 @@
     ],
     "productAmount": 265,
     "depositPaid": 265,
-    "secondPayment": 0,
+    "secondPayment": 51,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 42,
+      "internationalShipping": 5,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 51,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26283,7 +26283,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0130進巨 調查兵團貓貓",
+    "sourceSheet": "★0130進巨 調查兵團貓貓",
     "sourceMonth": "2026-01"
   },
   {
@@ -26295,14 +26295,14 @@
     ],
     "productAmount": 800,
     "depositPaid": 800,
-    "secondPayment": 0,
+    "secondPayment": 69,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 42,
+      "internationalShipping": 15,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 69,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26325,7 +26325,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0130進巨 調查兵團貓貓",
+    "sourceSheet": "★0130進巨 調查兵團貓貓",
     "sourceMonth": "2026-01"
   },
   {
