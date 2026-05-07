@@ -1494,14 +1494,14 @@
     ],
     "productAmount": 8170,
     "depositPaid": 8070,
-    "secondPayment": 0,
+    "secondPayment": 749,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 27,
+      "internationalShipping": 608,
+      "cardFee": 114,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 849,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1512,7 +1512,7 @@
         "qty": 38
       }
     ],
-    "sourceSheet": "1015鬼滅抽賞色紙",
+    "sourceSheet": "★1015鬼滅抽賞色紙",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -1524,14 +1524,14 @@
     ],
     "productAmount": 880,
     "depositPaid": 780,
-    "secondPayment": 0,
+    "secondPayment": 103,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 27,
+      "internationalShipping": 64,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 203,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1542,7 +1542,7 @@
         "qty": 4
       }
     ],
-    "sourceSheet": "1015鬼滅抽賞色紙",
+    "sourceSheet": "★1015鬼滅抽賞色紙",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -1554,14 +1554,14 @@
     ],
     "productAmount": 4085,
     "depositPaid": 3985,
-    "secondPayment": 0,
+    "secondPayment": 388,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 27,
+      "internationalShipping": 304,
+      "cardFee": 57,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 488,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1572,7 +1572,7 @@
         "qty": 19
       }
     ],
-    "sourceSheet": "1015鬼滅抽賞色紙",
+    "sourceSheet": "★1015鬼滅抽賞色紙",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -1584,14 +1584,14 @@
     ],
     "productAmount": 1290,
     "depositPaid": 1190,
-    "secondPayment": 0,
+    "secondPayment": 141,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 27,
+      "internationalShipping": 96,
+      "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 241,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1602,7 +1602,7 @@
         "qty": 6
       }
     ],
-    "sourceSheet": "1015鬼滅抽賞色紙",
+    "sourceSheet": "★1015鬼滅抽賞色紙",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -1614,14 +1614,14 @@
     ],
     "productAmount": 2150,
     "depositPaid": 2050,
-    "secondPayment": 0,
+    "secondPayment": 217,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 27,
+      "internationalShipping": 160,
+      "cardFee": 30,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 317,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1632,7 +1632,7 @@
         "qty": 10
       }
     ],
-    "sourceSheet": "1015鬼滅抽賞色紙",
+    "sourceSheet": "★1015鬼滅抽賞色紙",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -1644,14 +1644,14 @@
     ],
     "productAmount": 1075,
     "depositPaid": 975,
-    "secondPayment": 0,
+    "secondPayment": 122,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 27,
+      "internationalShipping": 80,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 222,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1662,7 +1662,7 @@
         "qty": 5
       }
     ],
-    "sourceSheet": "1015鬼滅抽賞色紙",
+    "sourceSheet": "★1015鬼滅抽賞色紙",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -1674,14 +1674,14 @@
     ],
     "productAmount": 1075,
     "depositPaid": 975,
-    "secondPayment": 0,
+    "secondPayment": 122,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 27,
+      "internationalShipping": 80,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 222,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1692,7 +1692,7 @@
         "qty": 5
       }
     ],
-    "sourceSheet": "1015鬼滅抽賞色紙",
+    "sourceSheet": "★1015鬼滅抽賞色紙",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -1704,14 +1704,14 @@
     ],
     "productAmount": 1075,
     "depositPaid": 975,
-    "secondPayment": 0,
+    "secondPayment": 122,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 27,
+      "internationalShipping": 80,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 222,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1722,7 +1722,7 @@
         "qty": 5
       }
     ],
-    "sourceSheet": "1015鬼滅抽賞色紙",
+    "sourceSheet": "★1015鬼滅抽賞色紙",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -1734,14 +1734,14 @@
     ],
     "productAmount": 1505,
     "depositPaid": 1405,
-    "secondPayment": 0,
+    "secondPayment": 160,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 27,
+      "internationalShipping": 112,
+      "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 260,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1752,7 +1752,7 @@
         "qty": 7
       }
     ],
-    "sourceSheet": "1015鬼滅抽賞色紙",
+    "sourceSheet": "★1015鬼滅抽賞色紙",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -1764,14 +1764,14 @@
     ],
     "productAmount": 6450,
     "depositPaid": 6350,
-    "secondPayment": 0,
+    "secondPayment": 597,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 27,
+      "internationalShipping": 480,
+      "cardFee": 90,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 697,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1782,7 +1782,7 @@
         "qty": 30
       }
     ],
-    "sourceSheet": "1015鬼滅抽賞色紙",
+    "sourceSheet": "★1015鬼滅抽賞色紙",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -1794,14 +1794,14 @@
     ],
     "productAmount": 430,
     "depositPaid": 330,
-    "secondPayment": 0,
+    "secondPayment": 65,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 27,
+      "internationalShipping": 32,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 165,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1812,7 +1812,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "1015鬼滅抽賞色紙",
+    "sourceSheet": "★1015鬼滅抽賞色紙",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -1824,14 +1824,14 @@
     ],
     "productAmount": 2150,
     "depositPaid": 2050,
-    "secondPayment": 0,
+    "secondPayment": 217,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 27,
+      "internationalShipping": 160,
+      "cardFee": 30,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 317,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1842,7 +1842,7 @@
         "qty": 10
       }
     ],
-    "sourceSheet": "1015鬼滅抽賞色紙",
+    "sourceSheet": "★1015鬼滅抽賞色紙",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -1854,14 +1854,14 @@
     ],
     "productAmount": 2580,
     "depositPaid": 2480,
-    "secondPayment": 0,
+    "secondPayment": 255,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 27,
+      "internationalShipping": 192,
+      "cardFee": 36,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 355,
     "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -1872,7 +1872,7 @@
         "qty": 12
       }
     ],
-    "sourceSheet": "1015鬼滅抽賞色紙",
+    "sourceSheet": "★1015鬼滅抽賞色紙",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -1884,14 +1884,14 @@
     ],
     "productAmount": 1075,
     "depositPaid": 975,
-    "secondPayment": 0,
+    "secondPayment": 122,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 27,
+      "internationalShipping": 80,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 222,
     "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -1902,7 +1902,7 @@
         "qty": 5
       }
     ],
-    "sourceSheet": "1015鬼滅抽賞色紙",
+    "sourceSheet": "★1015鬼滅抽賞色紙",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -1914,14 +1914,14 @@
     ],
     "productAmount": 2580,
     "depositPaid": 2480,
-    "secondPayment": 0,
+    "secondPayment": 255,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 27,
+      "internationalShipping": 192,
+      "cardFee": 36,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 355,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -1932,7 +1932,7 @@
         "qty": 12
       }
     ],
-    "sourceSheet": "1015鬼滅抽賞色紙",
+    "sourceSheet": "★1015鬼滅抽賞色紙",
     "sourceMonth": "2025_09_10"
   },
   {
