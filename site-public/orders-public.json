@@ -12033,14 +12033,14 @@
     ],
     "productAmount": 815,
     "depositPaid": 815,
-    "secondPayment": 0,
+    "secondPayment": 27,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 27,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12069,21 +12069,21 @@
     ],
     "productAmount": 900,
     "depositPaid": 900,
-    "secondPayment": 0,
+    "secondPayment": 27,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 27,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "Q版立牌組 (B)",
+        "name": "Q版盲抽立牌組 (B)",
         "qty": 1
       }
     ]
@@ -12097,21 +12097,21 @@
     ],
     "productAmount": 900,
     "depositPaid": 900,
-    "secondPayment": 0,
+    "secondPayment": 27,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 27,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "Q版立牌組 (B)",
+        "name": "Q版盲抽立牌組 (B)",
         "qty": 1
       }
     ]
@@ -12125,14 +12125,14 @@
     ],
     "productAmount": 930,
     "depositPaid": 930,
-    "secondPayment": 0,
+    "secondPayment": 27,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 27,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12157,14 +12157,14 @@
     ],
     "productAmount": 320,
     "depositPaid": 320,
-    "secondPayment": 0,
+    "secondPayment": 27,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 27,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12185,9 +12185,9 @@
     ],
     "productAmount": 540,
     "depositPaid": 725,
-    "secondPayment": 0,
+    "secondPayment": 27,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
