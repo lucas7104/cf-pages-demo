@@ -26226,6 +26226,7 @@
     "socialName": "宣",
     "title": "0130進巨 貓貓",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 725,
@@ -26238,7 +26239,7 @@
       "packagingFee": 0
     },
     "balanceDue": 25,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26259,6 +26260,7 @@
     "socialName": "翔",
     "title": "0130進巨 貓貓",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 265,
@@ -26271,7 +26273,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26288,6 +26290,7 @@
     "socialName": "Ru",
     "title": "0130進巨 貓貓",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 800,
@@ -26300,7 +26303,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -27736,7 +27739,9 @@
   {
     "socialName": "Lulumi",
     "title": "0208 鏈鋸人 波奇塔可動鑰匙圈",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 715,
     "depositPaid": 0,
     "secondPayment": 121,
@@ -27747,7 +27752,7 @@
       "packagingFee": 0
     },
     "balanceDue": 836,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -27757,13 +27762,14 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0208 鏈鋸人 波奇塔可動鑰匙圈",
+    "sourceSheet": "★0208 鏈鋸人 波奇塔可動鑰匙圈",
     "sourceMonth": "2026-02"
   },
   {
     "socialName": "超級海星",
     "title": "0208 鏈鋸人 波奇塔可動鑰匙圈",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 715,
@@ -27776,7 +27782,7 @@
       "packagingFee": 0
     },
     "balanceDue": 121,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -27786,13 +27792,14 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0208 鏈鋸人 波奇塔可動鑰匙圈",
+    "sourceSheet": "★0208 鏈鋸人 波奇塔可動鑰匙圈",
     "sourceMonth": "2026-02"
   },
   {
     "socialName": "婷婷",
     "title": "0208 鏈鋸人 波奇塔可動鑰匙圈",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 715,
@@ -27805,7 +27812,7 @@
       "packagingFee": 0
     },
     "balanceDue": 121,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -27815,13 +27822,14 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0208 鏈鋸人 波奇塔可動鑰匙圈",
+    "sourceSheet": "★0208 鏈鋸人 波奇塔可動鑰匙圈",
     "sourceMonth": "2026-02"
   },
   {
     "socialName": "大山",
     "title": "0208 鏈鋸人 波奇塔可動鑰匙圈",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 715,
@@ -27834,7 +27842,7 @@
       "packagingFee": 0
     },
     "balanceDue": 111,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -27844,13 +27852,14 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0208 鏈鋸人 波奇塔可動鑰匙圈",
+    "sourceSheet": "★0208 鏈鋸人 波奇塔可動鑰匙圈",
     "sourceMonth": "2026-02"
   },
   {
     "socialName": "Echo",
     "title": "0208 鏈鋸人 波奇塔可動鑰匙圈",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 715,
@@ -27863,7 +27872,7 @@
       "packagingFee": 0
     },
     "balanceDue": 111,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -27873,13 +27882,14 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0208 鏈鋸人 波奇塔可動鑰匙圈",
+    "sourceSheet": "★0208 鏈鋸人 波奇塔可動鑰匙圈",
     "sourceMonth": "2026-02"
   },
   {
     "socialName": "Troy",
     "title": "0208 鏈鋸人 波奇塔可動鑰匙圈",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 715,
@@ -27892,7 +27902,7 @@
       "packagingFee": 0
     },
     "balanceDue": 121,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -27902,7 +27912,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0208 鏈鋸人 波奇塔可動鑰匙圈",
+    "sourceSheet": "★0208 鏈鋸人 波奇塔可動鑰匙圈",
     "sourceMonth": "2026-02"
   },
   {
@@ -30719,7 +30729,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0301咒術 乙骨生日",
+    "sourceSheet": "★0301咒術 乙骨生日",
     "sourceMonth": "2026-03"
   },
   {
