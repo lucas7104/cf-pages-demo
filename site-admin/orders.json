@@ -14701,14 +14701,14 @@
     ],
     "productAmount": 545,
     "depositPaid": 545,
-    "secondPayment": 0,
+    "secondPayment": 21,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 12,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 21,
     "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14723,7 +14723,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1209 進巨 DIY",
+    "sourceSheet": "★1209 進巨 DIY",
     "sourceMonth": "2025_12"
   },
   {
@@ -14735,14 +14735,14 @@
     ],
     "productAmount": 1100,
     "depositPaid": 1100,
-    "secondPayment": 0,
+    "secondPayment": 44,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 26,
+      "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 44,
     "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14765,7 +14765,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1209 進巨 DIY",
+    "sourceSheet": "★1209 進巨 DIY",
     "sourceMonth": "2025_12"
   },
   {
