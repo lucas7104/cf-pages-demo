@@ -27263,8 +27263,12 @@
     "note": "",
     "items": [
       {
-        "name": "立牌",
-        "qty": 2
+        "name": "立牌 (輝耀)",
+        "qty": 1
+      },
+      {
+        "name": "立牌 (酒寄彩葉)",
+        "qty": 1
       }
     ],
     "sourceSheet": "0202超時空輝耀姬 Anicraft",
@@ -40351,14 +40355,14 @@
     ],
     "productAmount": 3445,
     "depositPaid": 3445,
-    "secondPayment": 184,
+    "secondPayment": 297,
     "secondPaymentBreakdown": {
       "domesticShipping": 184,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 61,
+      "cardFee": 52,
       "packagingFee": 0
     },
-    "balanceDue": 184,
+    "balanceDue": 297,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
