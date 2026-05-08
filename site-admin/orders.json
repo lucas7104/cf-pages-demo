@@ -15457,6 +15457,206 @@
     "sourceMonth": "2025_12"
   },
   {
+    "socialName": "00240",
+    "title": "1211 多ip TOHO 10週年紀念",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 550,
+    "depositPaid": 550,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "燙金書籤組 (排球少年)",
+        "qty": 1
+      },
+      {
+        "name": "燙金書籤組 (我英)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1211 多ip TOHO 10週年紀念",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "芭樂",
+    "title": "1211 多ip TOHO 10週年紀念",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 775,
+    "depositPaid": 775,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "磁鐵帆布畫架 (五條)",
+        "qty": 1
+      },
+      {
+        "name": "徽章 (五條)",
+        "qty": 1
+      },
+      {
+        "name": "明信片 (葬送的芙莉蓮)",
+        "qty": 1
+      },
+      {
+        "name": "收藏閃卡 (五條)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1211 多ip TOHO 10週年紀念",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "H",
+    "title": "1211 多ip TOHO 10週年紀念",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 170,
+    "depositPaid": 170,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "收藏閃卡 (五條)",
+        "qty": 1
+      },
+      {
+        "name": "收藏閃卡 (明海玄)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1211 多ip TOHO 10週年紀念",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "江蘇菲",
+    "title": "1211 多ip TOHO 10週年紀念",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 2045,
+    "depositPaid": 2045,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "收藏閃卡 (五條)",
+        "qty": 1
+      },
+      {
+        "name": "收藏閃卡 (日向)",
+        "qty": 1
+      },
+      {
+        "name": "收藏閃卡 (影山)",
+        "qty": 1
+      },
+      {
+        "name": "收藏閃卡 (虎杖)",
+        "qty": 1
+      },
+      {
+        "name": "收藏閃卡 (壬氏)",
+        "qty": 1
+      },
+      {
+        "name": "收藏閃卡 (貓貓)",
+        "qty": 1
+      },
+      {
+        "name": "明信片 (排少)",
+        "qty": 1
+      },
+      {
+        "name": "明信片 (咒術)",
+        "qty": 1
+      },
+      {
+        "name": "明信片 (藥師少女)",
+        "qty": 1
+      },
+      {
+        "name": "小收納袋 (間諜家家酒)",
+        "qty": 1
+      },
+      {
+        "name": "A4資料夾 (安妮亞)",
+        "qty": 1
+      },
+      {
+        "name": "A4資料夾 (壬氏)",
+        "qty": 1
+      },
+      {
+        "name": "A4資料夾 (日向)",
+        "qty": 1
+      },
+      {
+        "name": "A4資料夾 (影山)",
+        "qty": 1
+      },
+      {
+        "name": "A4資料夾 (虎杖)",
+        "qty": 1
+      },
+      {
+        "name": "A4資料夾 (五條)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1211 多ip TOHO 10週年紀念",
+    "sourceMonth": "2025_12"
+  },
+  {
     "socialName": "減佐",
     "title": "1211 鏈鋸人graniph",
     "statusBadges": [
@@ -15574,206 +15774,6 @@
       }
     ],
     "sourceSheet": "1211 鏈鋸人graniph ",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "00240",
-    "title": "1211多ip TOHO 10週年紀念",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 550,
-    "depositPaid": 550,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "燙金書籤組 (排球少年)",
-        "qty": 1
-      },
-      {
-        "name": "燙金書籤組 (我英)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1211多ip TOHO 10週年紀念",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "芭樂",
-    "title": "1211多ip TOHO 10週年紀念",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 775,
-    "depositPaid": 775,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "磁鐵帆布畫架 (五條)",
-        "qty": 1
-      },
-      {
-        "name": "徽章 (五條)",
-        "qty": 1
-      },
-      {
-        "name": "明信片 (葬送的芙莉蓮)",
-        "qty": 1
-      },
-      {
-        "name": "收藏閃卡 (五條)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1211多ip TOHO 10週年紀念",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "H",
-    "title": "1211多ip TOHO 10週年紀念",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 170,
-    "depositPaid": 170,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "收藏閃卡 (五條)",
-        "qty": 1
-      },
-      {
-        "name": "收藏閃卡 (明海玄)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1211多ip TOHO 10週年紀念",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "江蘇菲",
-    "title": "1211多ip TOHO 10週年紀念",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 2045,
-    "depositPaid": 2045,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "收藏閃卡 (五條)",
-        "qty": 1
-      },
-      {
-        "name": "收藏閃卡 (日向)",
-        "qty": 1
-      },
-      {
-        "name": "收藏閃卡 (影山)",
-        "qty": 1
-      },
-      {
-        "name": "收藏閃卡 (虎杖)",
-        "qty": 1
-      },
-      {
-        "name": "收藏閃卡 (壬氏)",
-        "qty": 1
-      },
-      {
-        "name": "收藏閃卡 (貓貓)",
-        "qty": 1
-      },
-      {
-        "name": "明信片 (排少)",
-        "qty": 1
-      },
-      {
-        "name": "明信片 (咒術)",
-        "qty": 1
-      },
-      {
-        "name": "明信片 (藥師少女)",
-        "qty": 1
-      },
-      {
-        "name": "小收納袋 (間諜家家酒)",
-        "qty": 1
-      },
-      {
-        "name": "A4資料夾 (安妮亞)",
-        "qty": 1
-      },
-      {
-        "name": "A4資料夾 (壬氏)",
-        "qty": 1
-      },
-      {
-        "name": "A4資料夾 (日向)",
-        "qty": 1
-      },
-      {
-        "name": "A4資料夾 (影山)",
-        "qty": 1
-      },
-      {
-        "name": "A4資料夾 (虎杖)",
-        "qty": 1
-      },
-      {
-        "name": "A4資料夾 (五條)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1211多ip TOHO 10週年紀念",
     "sourceMonth": "2025_12"
   },
   {
@@ -32457,7 +32457,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceSheet": "★0311 膽大黨 原畫展",
     "sourceMonth": "2026-03"
   },
   {
@@ -32487,7 +32487,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceSheet": "★0311 膽大黨 原畫展",
     "sourceMonth": "2026-03"
   },
   {
@@ -32529,7 +32529,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceSheet": "★0311 膽大黨 原畫展",
     "sourceMonth": "2026-03"
   },
   {
@@ -32541,14 +32541,14 @@
     ],
     "productAmount": 3975,
     "depositPaid": 795,
-    "secondPayment": 162,
+    "secondPayment": 346,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 184,
       "internationalShipping": 108,
       "cardFee": 54,
       "packagingFee": 0
     },
-    "balanceDue": 3342,
+    "balanceDue": 3526,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32563,7 +32563,7 @@
         "qty": 3
       }
     ],
-    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceSheet": "★0311 膽大黨 原畫展",
     "sourceMonth": "2026-03"
   },
   {
@@ -32593,7 +32593,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceSheet": "★0311 膽大黨 原畫展",
     "sourceMonth": "2026-03"
   },
   {
@@ -32635,7 +32635,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceSheet": "★0311 膽大黨 原畫展",
     "sourceMonth": "2026-03"
   },
   {
@@ -32665,7 +32665,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceSheet": "★0311 膽大黨 原畫展",
     "sourceMonth": "2026-03"
   },
   {
@@ -32699,7 +32699,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceSheet": "★0311 膽大黨 原畫展",
     "sourceMonth": "2026-03"
   },
   {
@@ -32729,7 +32729,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceSheet": "★0311 膽大黨 原畫展",
     "sourceMonth": "2026-03"
   },
   {
@@ -32759,7 +32759,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceSheet": "★0311 膽大黨 原畫展",
     "sourceMonth": "2026-03"
   },
   {
@@ -32805,7 +32805,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceSheet": "★0311 膽大黨 原畫展",
     "sourceMonth": "2026-03"
   },
   {
@@ -32839,7 +32839,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceSheet": "★0311 膽大黨 原畫展",
     "sourceMonth": "2026-03"
   },
   {
@@ -32851,14 +32851,14 @@
     ],
     "productAmount": 265,
     "depositPaid": 265,
-    "secondPayment": 18,
+    "secondPayment": 202,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 184,
       "internationalShipping": 14,
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 18,
+    "balanceDue": 202,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32869,7 +32869,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceSheet": "★0311 膽大黨 原畫展",
     "sourceMonth": "2026-03"
   },
   {
