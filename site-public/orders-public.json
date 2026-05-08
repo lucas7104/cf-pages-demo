@@ -25569,19 +25569,20 @@
     "socialName": "紅茶拿鐵微微",
     "title": "0202超時空輝耀姬 Anicraft",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 540,
     "depositPaid": 540,
-    "secondPayment": 0,
+    "secondPayment": 128,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 102,
+      "internationalShipping": 18,
+      "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "待公告",
+    "balanceDue": 128,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
