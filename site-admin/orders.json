@@ -29068,6 +29068,104 @@
     "sourceMonth": "2026-02"
   },
   {
+    "socialName": "Alia",
+    "title": "0217 Gachiakuta 私服",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 480,
+    "depositPaid": 480,
+    "secondPayment": 25,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 18,
+      "cardFee": 7,
+      "packagingFee": 0
+    },
+    "balanceDue": 25,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (恩琴)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★0217 Gachiakuta 私服",
+    "sourceMonth": "2026-02"
+  },
+  {
+    "socialName": "婷婷",
+    "title": "0217 Gachiakuta 私服",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 530,
+    "depositPaid": 530,
+    "secondPayment": 25,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 18,
+      "cardFee": 7,
+      "packagingFee": 0
+    },
+    "balanceDue": 25,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "徽章 抱盒",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★0217 Gachiakuta 私服",
+    "sourceMonth": "2026-02"
+  },
+  {
+    "socialName": "力卡",
+    "title": "0217 Gachiakuta 私服",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 2180,
+    "depositPaid": 2180,
+    "secondPayment": 110,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 80,
+      "cardFee": 30,
+      "packagingFee": 0
+    },
+    "balanceDue": 110,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (路德)",
+        "qty": 1
+      },
+      {
+        "name": "資料夾 (路德)",
+        "qty": 1
+      },
+      {
+        "name": "徽章 抱盒",
+        "qty": 3
+      }
+    ],
+    "sourceSheet": "★0217 Gachiakuta 私服",
+    "sourceMonth": "2026-02"
+  },
+  {
     "socialName": "婷婷",
     "title": "0217坂本 神獸",
     "statusBadges": [
@@ -29752,104 +29850,6 @@
       }
     ],
     "sourceSheet": "0217進巨 ShopNui坐姿毛絨娃",
-    "sourceMonth": "2026-02"
-  },
-  {
-    "socialName": "Alia",
-    "title": "0217gachiakuta 私服",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 480,
-    "depositPaid": 480,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌 (恩琴)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0217gachiakuta 私服",
-    "sourceMonth": "2026-02"
-  },
-  {
-    "socialName": "婷婷",
-    "title": "0217gachiakuta 私服",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 530,
-    "depositPaid": 530,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "徽章",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0217gachiakuta 私服",
-    "sourceMonth": "2026-02"
-  },
-  {
-    "socialName": "力卡",
-    "title": "0217gachiakuta 私服",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 2180,
-    "depositPaid": 2180,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌 (路德)",
-        "qty": 1
-      },
-      {
-        "name": "資料夾 (路德)",
-        "qty": 1
-      },
-      {
-        "name": "徽章",
-        "qty": 3
-      }
-    ],
-    "sourceSheet": "0217gachiakuta 私服",
     "sourceMonth": "2026-02"
   },
   {
