@@ -15465,14 +15465,14 @@
     ],
     "productAmount": 550,
     "depositPaid": 550,
-    "secondPayment": 0,
+    "secondPayment": 41,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 41,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 41,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -15499,14 +15499,14 @@
     ],
     "productAmount": 775,
     "depositPaid": 775,
-    "secondPayment": 0,
+    "secondPayment": 41,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 41,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 41,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -15541,14 +15541,14 @@
     ],
     "productAmount": 170,
     "depositPaid": 170,
-    "secondPayment": 0,
+    "secondPayment": 41,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 41,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 41,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -15559,7 +15559,7 @@
         "qty": 1
       },
       {
-        "name": "收藏閃卡 (明海玄)",
+        "name": "收藏閃卡 (鳴海玄)",
         "qty": 1
       }
     ],
@@ -15575,14 +15575,14 @@
     ],
     "productAmount": 2045,
     "depositPaid": 2045,
-    "secondPayment": 0,
+    "secondPayment": 41,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 41,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 41,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
