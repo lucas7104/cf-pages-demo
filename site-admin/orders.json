@@ -32396,6 +32396,456 @@
     "sourceMonth": "2026-03"
   },
   {
+    "socialName": "婷婷",
+    "title": "0311 膽大黨 原畫展",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 6350,
+    "depositPaid": 6350,
+    "secondPayment": 252,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 168,
+      "cardFee": 84,
+      "packagingFee": 0
+    },
+    "balanceDue": 252,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "防水海報",
+        "qty": 2
+      },
+      {
+        "name": "光柵海報",
+        "qty": 3
+      },
+      {
+        "name": "徽章抱盒",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "臉書An Nyia",
+    "title": "0311 膽大黨 原畫展",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 1060,
+    "depositPaid": 1060,
+    "secondPayment": 36,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 22,
+      "cardFee": 14,
+      "packagingFee": 0
+    },
+    "balanceDue": 36,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "光柵海報",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "力卡",
+    "title": "0311 膽大黨 原畫展",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 3325,
+    "depositPaid": 3325,
+    "secondPayment": 143,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 99,
+      "cardFee": 44,
+      "packagingFee": 0
+    },
+    "balanceDue": 143,
+    "etaText": "已抵台",
+    "paymentMethod": "無卡",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "徽章抱盒",
+        "qty": 1
+      },
+      {
+        "name": "愛羅明信片",
+        "qty": 1
+      },
+      {
+        "name": "愛羅資料夾",
+        "qty": 1
+      },
+      {
+        "name": "愛羅立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "良",
+    "title": "0311 膽大黨 原畫展",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 3975,
+    "depositPaid": 795,
+    "secondPayment": 162,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 108,
+      "cardFee": 54,
+      "packagingFee": 0
+    },
+    "balanceDue": 3342,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "防水海報",
+        "qty": 3
+      },
+      {
+        "name": "光柵海報",
+        "qty": 3
+      }
+    ],
+    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "Li lee",
+    "title": "0311 膽大黨 原畫展",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 265,
+    "depositPaid": 265,
+    "secondPayment": 18,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 14,
+      "cardFee": 4,
+      "packagingFee": 0
+    },
+    "balanceDue": 18,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "防水海報",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "00240",
+    "title": "0311 膽大黨 原畫展",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 280,
+    "depositPaid": 280,
+    "secondPayment": 12,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 8,
+      "cardFee": 4,
+      "packagingFee": 0
+    },
+    "balanceDue": 12,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "全員明信片",
+        "qty": 1
+      },
+      {
+        "name": "厄+吉 明信片",
+        "qty": 1
+      },
+      {
+        "name": "厄+桃 明信片",
+        "qty": 1
+      },
+      {
+        "name": "不認識的人+桃 明信片",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "臉書王士緯",
+    "title": "0311 膽大黨 原畫展",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 265,
+    "depositPaid": 265,
+    "secondPayment": 18,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 14,
+      "cardFee": 4,
+      "packagingFee": 0
+    },
+    "balanceDue": 18,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "防水海報",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "臉書Abby wang",
+    "title": "0311 膽大黨 原畫展",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 640,
+    "depositPaid": 640,
+    "secondPayment": 21,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 12,
+      "cardFee": 9,
+      "packagingFee": 0
+    },
+    "balanceDue": 21,
+    "etaText": "已抵台",
+    "paymentMethod": "無卡",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "愛羅場景立牌",
+        "qty": 1
+      },
+      {
+        "name": "第七卷吊飾",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "楚翔",
+    "title": "0311 膽大黨 原畫展",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 530,
+    "depositPaid": 530,
+    "secondPayment": 36,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 28,
+      "cardFee": 8,
+      "packagingFee": 0
+    },
+    "balanceDue": 36,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "防水海報",
+        "qty": 2
+      }
+    ],
+    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "臉書Chi Chi",
+    "title": "0311 膽大黨 原畫展",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 70,
+    "depositPaid": 70,
+    "secondPayment": 3,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 2,
+      "cardFee": 1,
+      "packagingFee": 0
+    },
+    "balanceDue": 3,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "寺仁明信片",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "臉書Mm my",
+    "title": "0311 膽大黨 原畫展",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 1005,
+    "depositPaid": 1005,
+    "secondPayment": 54,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 39,
+      "cardFee": 15,
+      "packagingFee": 0
+    },
+    "balanceDue": 54,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "防水海報",
+        "qty": 1
+      },
+      {
+        "name": "小桃明信片",
+        "qty": 1
+      },
+      {
+        "name": "愛羅資料夾",
+        "qty": 1
+      },
+      {
+        "name": "旋轉卡",
+        "qty": 1
+      },
+      {
+        "name": "第四卷吊飾",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "臉書 日文名字",
+    "title": "0311 膽大黨 原畫展",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 745,
+    "depositPaid": 745,
+    "secondPayment": 25,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 14,
+      "cardFee": 11,
+      "packagingFee": 0
+    },
+    "balanceDue": 25,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "愛羅立牌",
+        "qty": 1
+      },
+      {
+        "name": "愛羅場景立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "高八毛",
+    "title": "0311 膽大黨 原畫展",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 265,
+    "depositPaid": 265,
+    "secondPayment": 18,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 14,
+      "cardFee": 4,
+      "packagingFee": 0
+    },
+    "balanceDue": 18,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "防水海報",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0311 膽大黨 原畫展",
+    "sourceMonth": "2026-03"
+  },
+  {
     "socialName": "cc",
     "title": "0311我英 一番賞",
     "statusBadges": [
@@ -32509,456 +32959,6 @@
       }
     ],
     "sourceSheet": "0311我英 一番賞",
-    "sourceMonth": "2026-03"
-  },
-  {
-    "socialName": "婷婷",
-    "title": "0311膽大黨 原畫展",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 6350,
-    "depositPaid": 6350,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "防水海報",
-        "qty": 2
-      },
-      {
-        "name": "光柵海報",
-        "qty": 3
-      },
-      {
-        "name": "徽章抱盒",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0311膽大黨 原畫展",
-    "sourceMonth": "2026-03"
-  },
-  {
-    "socialName": "臉書An Nyia",
-    "title": "0311膽大黨 原畫展",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 1060,
-    "depositPaid": 1060,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "光柵海報",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0311膽大黨 原畫展",
-    "sourceMonth": "2026-03"
-  },
-  {
-    "socialName": "力卡",
-    "title": "0311膽大黨 原畫展",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 3325,
-    "depositPaid": 3325,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "無卡",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "徽章抱盒",
-        "qty": 1
-      },
-      {
-        "name": "愛羅明信片",
-        "qty": 1
-      },
-      {
-        "name": "愛羅資料夾",
-        "qty": 1
-      },
-      {
-        "name": "愛羅立牌",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0311膽大黨 原畫展",
-    "sourceMonth": "2026-03"
-  },
-  {
-    "socialName": "良",
-    "title": "0311膽大黨 原畫展",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 3975,
-    "depositPaid": 795,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 3180,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "防水海報",
-        "qty": 3
-      },
-      {
-        "name": "光柵海報",
-        "qty": 3
-      }
-    ],
-    "sourceSheet": "0311膽大黨 原畫展",
-    "sourceMonth": "2026-03"
-  },
-  {
-    "socialName": "Li lee",
-    "title": "0311膽大黨 原畫展",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 265,
-    "depositPaid": 265,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "防水海報",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0311膽大黨 原畫展",
-    "sourceMonth": "2026-03"
-  },
-  {
-    "socialName": "00240",
-    "title": "0311膽大黨 原畫展",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 280,
-    "depositPaid": 280,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "全員明信片",
-        "qty": 1
-      },
-      {
-        "name": "厄+吉 明信片",
-        "qty": 1
-      },
-      {
-        "name": "厄+桃 明信片",
-        "qty": 1
-      },
-      {
-        "name": "不認識的人+桃 明信片",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0311膽大黨 原畫展",
-    "sourceMonth": "2026-03"
-  },
-  {
-    "socialName": "臉書王士緯",
-    "title": "0311膽大黨 原畫展",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 265,
-    "depositPaid": 265,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "防水海報",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0311膽大黨 原畫展",
-    "sourceMonth": "2026-03"
-  },
-  {
-    "socialName": "臉書Abby wang",
-    "title": "0311膽大黨 原畫展",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 640,
-    "depositPaid": 640,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "無卡",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "愛羅場景立牌",
-        "qty": 1
-      },
-      {
-        "name": "第七卷吊飾",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0311膽大黨 原畫展",
-    "sourceMonth": "2026-03"
-  },
-  {
-    "socialName": "楚翔",
-    "title": "0311膽大黨 原畫展",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 530,
-    "depositPaid": 530,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "防水海報",
-        "qty": 2
-      }
-    ],
-    "sourceSheet": "0311膽大黨 原畫展",
-    "sourceMonth": "2026-03"
-  },
-  {
-    "socialName": "臉書Chi Chi",
-    "title": "0311膽大黨 原畫展",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 70,
-    "depositPaid": 70,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "寺仁明信片",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0311膽大黨 原畫展",
-    "sourceMonth": "2026-03"
-  },
-  {
-    "socialName": "臉書Mm my",
-    "title": "0311膽大黨 原畫展",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 1005,
-    "depositPaid": 1005,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "防水海報",
-        "qty": 1
-      },
-      {
-        "name": "小桃明信片",
-        "qty": 1
-      },
-      {
-        "name": "愛羅資料夾",
-        "qty": 1
-      },
-      {
-        "name": "旋轉卡",
-        "qty": 1
-      },
-      {
-        "name": "第四卷吊飾",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0311膽大黨 原畫展",
-    "sourceMonth": "2026-03"
-  },
-  {
-    "socialName": "臉書 日文名字",
-    "title": "0311膽大黨 原畫展",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 745,
-    "depositPaid": 745,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "愛羅立牌",
-        "qty": 1
-      },
-      {
-        "name": "愛羅場景立牌",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0311膽大黨 原畫展",
-    "sourceMonth": "2026-03"
-  },
-  {
-    "socialName": "高八毛",
-    "title": "0311膽大黨 原畫展",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 265,
-    "depositPaid": 265,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "防水海報",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0311膽大黨 原畫展",
     "sourceMonth": "2026-03"
   },
   {
