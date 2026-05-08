@@ -7007,8 +7007,9 @@
   },
   {
     "socialName": "小熊餅乾",
-    "title": "1108富江xHello Kitty",
+    "title": "1108 富江xHello Kitty",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 3220,
@@ -7021,7 +7022,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -7034,8 +7035,9 @@
   },
   {
     "socialName": "Ni",
-    "title": "1108富江xHello Kitty",
+    "title": "1108 富江xHello Kitty",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1150,
@@ -7048,7 +7050,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
