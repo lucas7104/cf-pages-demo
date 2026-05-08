@@ -7488,14 +7488,14 @@
     ],
     "productAmount": 3220,
     "depositPaid": 3120,
-    "secondPayment": 0,
+    "secondPayment": 123,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 81,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 42,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 223,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -7518,18 +7518,18 @@
     ],
     "productAmount": 1150,
     "depositPaid": 1050,
-    "secondPayment": 0,
+    "secondPayment": 96,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 81,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 196,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "B黑、Ｃ黑、D白、E圈*2",
     "items": [
       {
         "name": "一抽",
