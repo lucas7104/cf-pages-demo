@@ -14481,14 +14481,14 @@
     ],
     "productAmount": 1585,
     "depositPaid": 1585,
-    "secondPayment": 0,
+    "secondPayment": 137,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 115,
+      "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 137,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14511,7 +14511,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceSheet": "★1207 蝶之芙莉蓮",
     "sourceMonth": "2025_12"
   },
   {
@@ -14523,14 +14523,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 0,
+    "secondPayment": 18,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 12,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 18,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14541,7 +14541,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceSheet": "★1207 蝶之芙莉蓮",
     "sourceMonth": "2025_12"
   },
   {
@@ -14553,14 +14553,14 @@
     ],
     "productAmount": 1090,
     "depositPaid": 1090,
-    "secondPayment": 0,
+    "secondPayment": 44,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 29,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 44,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14575,7 +14575,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceSheet": "★1207 蝶之芙莉蓮",
     "sourceMonth": "2025_12"
   },
   {
@@ -14587,14 +14587,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 0,
+    "secondPayment": 18,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 12,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 18,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14605,7 +14605,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceSheet": "★1207 蝶之芙莉蓮",
     "sourceMonth": "2025_12"
   },
   {
@@ -14617,14 +14617,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 0,
+    "secondPayment": 18,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 12,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 18,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14635,7 +14635,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceSheet": "★1207 蝶之芙莉蓮",
     "sourceMonth": "2025_12"
   },
   {
@@ -14647,14 +14647,14 @@
     ],
     "productAmount": 1355,
     "depositPaid": 1355,
-    "secondPayment": 0,
+    "secondPayment": 58,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 39,
+      "cardFee": 19,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 58,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14669,7 +14669,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceSheet": "★1207 蝶之芙莉蓮",
     "sourceMonth": "2025_12"
   },
   {
@@ -14681,14 +14681,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 0,
+    "secondPayment": 18,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 12,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 18,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14699,7 +14699,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceSheet": "★1207 蝶之芙莉蓮",
     "sourceMonth": "2025_12"
   },
   {
@@ -14711,14 +14711,14 @@
     ],
     "productAmount": 1355,
     "depositPaid": 1355,
-    "secondPayment": 0,
+    "secondPayment": 58,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 39,
+      "cardFee": 19,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 58,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14733,7 +14733,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceSheet": "★1207 蝶之芙莉蓮",
     "sourceMonth": "2025_12"
   },
   {
@@ -14745,14 +14745,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 0,
+    "secondPayment": 18,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 12,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 18,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14763,7 +14763,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceSheet": "★1207 蝶之芙莉蓮",
     "sourceMonth": "2025_12"
   },
   {
@@ -14775,14 +14775,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 0,
+    "secondPayment": 18,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 12,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 18,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14793,7 +14793,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceSheet": "★1207 蝶之芙莉蓮",
     "sourceMonth": "2025_12"
   },
   {
@@ -14805,14 +14805,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 0,
+    "secondPayment": 18,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 12,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 18,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14823,7 +14823,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceSheet": "★1207 蝶之芙莉蓮",
     "sourceMonth": "2025_12"
   },
   {
@@ -14835,14 +14835,14 @@
     ],
     "productAmount": 1355,
     "depositPaid": 1355,
-    "secondPayment": 0,
+    "secondPayment": 58,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 39,
+      "cardFee": 19,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 58,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14857,7 +14857,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceSheet": "★1207 蝶之芙莉蓮",
     "sourceMonth": "2025_12"
   },
   {
