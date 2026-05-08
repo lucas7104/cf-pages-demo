@@ -4377,21 +4377,21 @@
   },
   {
     "socialName": "Yumi",
-    "title": "1025 鬼滅movic豆豆娃",
+    "title": "1025 鬼滅movic豆豆",
     "statusBadges": [
       "返台中",
       "已付訂金"
     ],
     "productAmount": 345,
     "depositPaid": 245,
-    "secondPayment": 0,
+    "secondPayment": 13,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 8,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 113,
     "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -4402,26 +4402,26 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1025 鬼滅movic豆豆娃",
+    "sourceSheet": "★1025 鬼滅movic豆豆",
     "sourceMonth": "2025_09_10"
   },
   {
     "socialName": "惠",
-    "title": "1025 鬼滅movic豆豆娃",
+    "title": "1025 鬼滅movic豆豆",
     "statusBadges": [
       "返台中",
       "已付訂金"
     ],
     "productAmount": 345,
     "depositPaid": 245,
-    "secondPayment": 0,
+    "secondPayment": 13,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 8,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 113,
     "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -4432,26 +4432,26 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1025 鬼滅movic豆豆娃",
+    "sourceSheet": "★1025 鬼滅movic豆豆",
     "sourceMonth": "2025_09_10"
   },
   {
     "socialName": ".ゆん ☘︎ ˖",
-    "title": "1025 鬼滅movic豆豆娃",
+    "title": "1025 鬼滅movic豆豆",
     "statusBadges": [
       "返台中",
       "已付訂金"
     ],
     "productAmount": 345,
     "depositPaid": 245,
-    "secondPayment": 0,
+    "secondPayment": 13,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 8,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 113,
     "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -4462,26 +4462,26 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1025 鬼滅movic豆豆娃",
+    "sourceSheet": "★1025 鬼滅movic豆豆",
     "sourceMonth": "2025_09_10"
   },
   {
     "socialName": "Feiiii",
-    "title": "1025 鬼滅movic豆豆娃",
+    "title": "1025 鬼滅movic豆豆",
     "statusBadges": [
       "返台中",
       "已付訂金"
     ],
     "productAmount": 345,
     "depositPaid": 245,
-    "secondPayment": 0,
+    "secondPayment": 13,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 8,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 113,
     "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -4492,26 +4492,26 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1025 鬼滅movic豆豆娃",
+    "sourceSheet": "★1025 鬼滅movic豆豆",
     "sourceMonth": "2025_09_10"
   },
   {
     "socialName": "Eilish",
-    "title": "1025 鬼滅movic豆豆娃",
+    "title": "1025 鬼滅movic豆豆",
     "statusBadges": [
       "返台中",
       "已付訂金"
     ],
     "productAmount": 690,
     "depositPaid": 590,
-    "secondPayment": 0,
+    "secondPayment": 26,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 16,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 126,
     "etaText": "返台中",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -4526,7 +4526,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1025 鬼滅movic豆豆娃",
+    "sourceSheet": "★1025 鬼滅movic豆豆",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -14473,6 +14473,394 @@
     "sourceMonth": "2025_12"
   },
   {
+    "socialName": "snailll",
+    "title": "1207 蝶之芙莉蓮",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 1585,
+    "depositPaid": 1585,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "透明海報",
+        "qty": 1
+      },
+      {
+        "name": "馬克杯",
+        "qty": 1
+      },
+      {
+        "name": "資料夾",
+        "qty": 1
+      },
+      {
+        "name": "立牌 (欣梅爾)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "又双叒",
+    "title": "1207 蝶之芙莉蓮",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 400,
+    "depositPaid": 400,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "透明海報",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "ziz",
+    "title": "1207 蝶之芙莉蓮",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 1090,
+    "depositPaid": 1090,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "壓克力圖卡套組",
+        "qty": 1
+      },
+      {
+        "name": "芙莉蓮手機貼紙",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "高八毛",
+    "title": "1207 蝶之芙莉蓮",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 400,
+    "depositPaid": 400,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "透明海報",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "cc",
+    "title": "1207 蝶之芙莉蓮",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 400,
+    "depositPaid": 400,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "透明海報",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "瑞斯",
+    "title": "1207 蝶之芙莉蓮",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 1355,
+    "depositPaid": 1355,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "透明海報",
+        "qty": 1
+      },
+      {
+        "name": "壓克力圖卡套組",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "H",
+    "title": "1207 蝶之芙莉蓮",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 400,
+    "depositPaid": 400,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "透明海報",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "鴨",
+    "title": "1207 蝶之芙莉蓮",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 1355,
+    "depositPaid": 1355,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "透明海報",
+        "qty": 1
+      },
+      {
+        "name": "壓克力圖卡套組",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "青朗",
+    "title": "1207 蝶之芙莉蓮",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 400,
+    "depositPaid": 400,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "透明海報",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "Meoooooow",
+    "title": "1207 蝶之芙莉蓮",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 400,
+    "depositPaid": 400,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "透明海報",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "芭樂",
+    "title": "1207 蝶之芙莉蓮",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 400,
+    "depositPaid": 400,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "透明海報",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "R",
+    "title": "1207 蝶之芙莉蓮",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 1355,
+    "depositPaid": 1355,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "透明海報",
+        "qty": 1
+      },
+      {
+        "name": "壓克力圖卡套組",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1207 蝶之芙莉蓮",
+    "sourceMonth": "2025_12"
+  },
+  {
     "socialName": "瑞斯",
     "title": "1207 鏈鋸人MAPPA",
     "statusBadges": [
@@ -16700,382 +17088,6 @@
       }
     ],
     "sourceSheet": "1216 我英 貓咪八件套",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "snailll",
-    "title": "1216 蝶之芙莉蓮",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1585,
-    "depositPaid": 1585,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "透明海報",
-        "qty": 1
-      },
-      {
-        "name": "馬克杯",
-        "qty": 1
-      },
-      {
-        "name": "資料夾",
-        "qty": 1
-      },
-      {
-        "name": "立牌 (欣梅爾)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1216 蝶之芙莉蓮",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "又双叒",
-    "title": "1216 蝶之芙莉蓮",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 400,
-    "depositPaid": 400,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "透明海報",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1216 蝶之芙莉蓮",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "ziz",
-    "title": "1216 蝶之芙莉蓮",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1090,
-    "depositPaid": 1090,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "壓克力圖卡套組",
-        "qty": 1
-      },
-      {
-        "name": "芙莉蓮手機貼紙",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1216 蝶之芙莉蓮",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "高八毛",
-    "title": "1216 蝶之芙莉蓮",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 400,
-    "depositPaid": 400,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "透明海報",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1216 蝶之芙莉蓮",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "cc",
-    "title": "1216 蝶之芙莉蓮",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 400,
-    "depositPaid": 400,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "透明海報",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1216 蝶之芙莉蓮",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "瑞斯",
-    "title": "1216 蝶之芙莉蓮",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1355,
-    "depositPaid": 1355,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "透明海報",
-        "qty": 1
-      },
-      {
-        "name": "壓克力圖卡套組",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1216 蝶之芙莉蓮",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "H",
-    "title": "1216 蝶之芙莉蓮",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 400,
-    "depositPaid": 400,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "透明海報",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1216 蝶之芙莉蓮",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "鴨",
-    "title": "1216 蝶之芙莉蓮",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1355,
-    "depositPaid": 1355,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "透明海報",
-        "qty": 1
-      },
-      {
-        "name": "壓克力圖卡套組",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1216 蝶之芙莉蓮",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "青朗",
-    "title": "1216 蝶之芙莉蓮",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 400,
-    "depositPaid": 400,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "透明海報",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1216 蝶之芙莉蓮",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "Meoooooow",
-    "title": "1216 蝶之芙莉蓮",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 400,
-    "depositPaid": 400,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "透明海報",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1216 蝶之芙莉蓮",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "芭樂",
-    "title": "1216 蝶之芙莉蓮",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 400,
-    "depositPaid": 400,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "透明海報",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1216 蝶之芙莉蓮",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "R",
-    "title": "1216 蝶之芙莉蓮",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1355,
-    "depositPaid": 1355,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "透明海報",
-        "qty": 1
-      },
-      {
-        "name": "壓克力圖卡套組",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1216 蝶之芙莉蓮",
     "sourceMonth": "2025_12"
   },
   {
