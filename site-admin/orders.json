@@ -21882,14 +21882,14 @@
     ],
     "productAmount": 465,
     "depositPaid": 465,
-    "secondPayment": 46,
+    "secondPayment": 51,
     "secondPaymentBreakdown": {
       "domesticShipping": 34,
       "internationalShipping": 12,
-      "cardFee": 0,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 46,
+    "balanceDue": 51,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -21900,7 +21900,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0107坂本日常 戰鬥服",
+    "sourceSheet": "★0107坂本日常 戰鬥服",
     "sourceMonth": "2026-01"
   },
   {
@@ -21911,14 +21911,14 @@
     ],
     "productAmount": 1110,
     "depositPaid": 0,
-    "secondPayment": 66,
+    "secondPayment": 78,
     "secondPaymentBreakdown": {
       "domesticShipping": 34,
       "internationalShipping": 32,
-      "cardFee": 0,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 1176,
+    "balanceDue": 1188,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -21929,7 +21929,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0107坂本日常 戰鬥服",
+    "sourceSheet": "★0107坂本日常 戰鬥服",
     "sourceMonth": "2026-01"
   },
   {
@@ -21941,14 +21941,14 @@
     ],
     "productAmount": 465,
     "depositPaid": 463,
-    "secondPayment": 47,
+    "secondPayment": 52,
     "secondPaymentBreakdown": {
       "domesticShipping": 34,
       "internationalShipping": 13,
-      "cardFee": 0,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 49,
+    "balanceDue": 54,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -21959,7 +21959,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0107坂本日常 戰鬥服",
+    "sourceSheet": "★0107坂本日常 戰鬥服",
     "sourceMonth": "2026-01"
   },
   {
@@ -24491,7 +24491,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0121 坂本日常 正式戰鬥行動",
+    "sourceSheet": "★0121 坂本日常 正式戰鬥行動",
     "sourceMonth": "2026-01"
   },
   {
@@ -24521,7 +24521,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0121 坂本日常 正式戰鬥行動",
+    "sourceSheet": "★0121 坂本日常 正式戰鬥行動",
     "sourceMonth": "2026-01"
   },
   {
