@@ -21877,19 +21877,20 @@
     "socialName": "Ruan",
     "title": "0107坂本日常 戰鬥服",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 465,
     "depositPaid": 465,
-    "secondPayment": 0,
+    "secondPayment": 46,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 34,
+      "internationalShipping": 12,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "待公告",
+    "balanceDue": 46,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -21905,18 +21906,20 @@
   {
     "socialName": "vivian_lai372",
     "title": "0107坂本日常 戰鬥服",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 1110,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 66,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 34,
+      "internationalShipping": 32,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 1110,
-    "etaText": "待公告",
+    "balanceDue": 1176,
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -21933,19 +21936,20 @@
     "socialName": "Saki蒼",
     "title": "0107坂本日常 戰鬥服",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 465,
     "depositPaid": 463,
-    "secondPayment": 0,
+    "secondPayment": 47,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 34,
+      "internationalShipping": 13,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 2,
-    "etaText": "待公告",
+    "balanceDue": 49,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24464,19 +24468,20 @@
     "socialName": "Saki蒼",
     "title": "0121 坂本日常 正式戰鬥行動",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 370,
     "depositPaid": 370,
-    "secondPayment": 0,
+    "secondPayment": 74,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 51,
+      "internationalShipping": 18,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "待公告",
+    "balanceDue": 74,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24493,19 +24498,20 @@
     "socialName": "Sin",
     "title": "0121 坂本日常 正式戰鬥行動",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 370,
     "depositPaid": 370,
-    "secondPayment": 0,
+    "secondPayment": 74,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 51,
+      "internationalShipping": 18,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "待公告",
+    "balanceDue": 74,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
