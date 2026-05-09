@@ -20322,14 +20322,14 @@
     ],
     "productAmount": 1060,
     "depositPaid": 1060,
-    "secondPayment": 0,
+    "secondPayment": 144,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 130,
+      "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 144,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -20340,7 +20340,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1229里維生日茶套組",
+    "sourceSheet": "★1229里維生日茶套組",
     "sourceMonth": "2025_12"
   },
   {
@@ -20351,14 +20351,14 @@
     ],
     "productAmount": 1060,
     "depositPaid": 1060,
-    "secondPayment": 0,
+    "secondPayment": 144,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 130,
+      "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 144,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -20369,7 +20369,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1229里維生日茶套組",
+    "sourceSheet": "★1229里維生日茶套組",
     "sourceMonth": "2025_12"
   },
   {
@@ -21308,7 +21308,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0103坂本日常 搖滾樂園&四季更迭",
+    "sourceSheet": "★0103坂本日常 搖滾樂園&四季更迭",
     "sourceMonth": "2026-01"
   },
   {
@@ -21362,7 +21362,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0103坂本日常 搖滾樂園&四季更迭",
+    "sourceSheet": "★0103坂本日常 搖滾樂園&四季更迭",
     "sourceMonth": "2026-01"
   },
   {
@@ -21404,7 +21404,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0103坂本日常 搖滾樂園&四季更迭",
+    "sourceSheet": "★0103坂本日常 搖滾樂園&四季更迭",
     "sourceMonth": "2026-01"
   },
   {
@@ -21434,7 +21434,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0103坂本日常 搖滾樂園&四季更迭",
+    "sourceSheet": "★0103坂本日常 搖滾樂園&四季更迭",
     "sourceMonth": "2026-01"
   },
   {
@@ -21464,7 +21464,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0103坂本日常 搖滾樂園&四季更迭",
+    "sourceSheet": "★0103坂本日常 搖滾樂園&四季更迭",
     "sourceMonth": "2026-01"
   },
   {
