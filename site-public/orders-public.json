@@ -13495,6 +13495,58 @@
     ]
   },
   {
+    "socialName": "Meoooooow",
+    "title": "1206膽大黨公仔",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 610,
+    "depositPaid": 610,
+    "secondPayment": 160,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 103,
+      "internationalShipping": 49,
+      "cardFee": 8,
+      "packagingFee": 0
+    },
+    "balanceDue": 160,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "公仔抱盒B",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "vivian_lai372",
+    "title": "1206膽大黨公仔",
+    "statusBadges": [],
+    "productAmount": 610,
+    "depositPaid": 0,
+    "secondPayment": 160,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 103,
+      "internationalShipping": 49,
+      "cardFee": 8,
+      "packagingFee": 0
+    },
+    "balanceDue": 770,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "公仔抱盒B",
+        "qty": 1
+      }
+    ]
+  },
+  {
     "socialName": "Peggy",
     "title": "1207 多ip 食玩 第二團",
     "statusBadges": [
@@ -14500,58 +14552,6 @@
       {
         "name": "抱盒",
         "qty": 6
-      }
-    ]
-  },
-  {
-    "socialName": "Meoooooow",
-    "title": "1210膽大黨公仔",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 610,
-    "depositPaid": 610,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "公仔抱盒B",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "vivian_lai372",
-    "title": "1210膽大黨公仔",
-    "statusBadges": [],
-    "productAmount": 610,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 610,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "公仔抱盒B",
-        "qty": 1
       }
     ]
   },
@@ -22292,14 +22292,14 @@
     ],
     "productAmount": 760,
     "depositPaid": 760,
-    "secondPayment": 51,
+    "secondPayment": 115,
     "secondPaymentBreakdown": {
       "domesticShipping": 51,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 54,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 51,
+    "balanceDue": 115,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -22319,14 +22319,14 @@
     ],
     "productAmount": 760,
     "depositPaid": 760,
-    "secondPayment": 6,
+    "secondPayment": 115,
     "secondPaymentBreakdown": {
-      "domesticShipping": 6,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 51,
+      "internationalShipping": 54,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 6,
+    "balanceDue": 115,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
