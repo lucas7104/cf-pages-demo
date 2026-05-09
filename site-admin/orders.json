@@ -16437,14 +16437,14 @@
     ],
     "productAmount": 170,
     "depositPaid": 170,
-    "secondPayment": 11,
+    "secondPayment": 21,
     "secondPaymentBreakdown": {
       "domesticShipping": 11,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 7,
+      "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 11,
+    "balanceDue": 21,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16455,7 +16455,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1212咒術 Jump Festa 2026",
+    "sourceSheet": "★1212咒術 Jump Festa 2026",
     "sourceMonth": "2025_12"
   },
   {
@@ -16467,11 +16467,11 @@
     ],
     "productAmount": 1530,
     "depositPaid": 1880,
-    "secondPayment": 11,
+    "secondPayment": 87,
     "secondPaymentBreakdown": {
       "domesticShipping": 11,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 55,
+      "cardFee": 21,
       "packagingFee": 0
     },
     "balanceDue": 0,
@@ -16497,7 +16497,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1212咒術 Jump Festa 2026",
+    "sourceSheet": "★1212咒術 Jump Festa 2026",
     "sourceMonth": "2025_12"
   },
   {
@@ -16509,14 +16509,14 @@
     ],
     "productAmount": 1530,
     "depositPaid": 1530,
-    "secondPayment": 11,
+    "secondPayment": 88,
     "secondPaymentBreakdown": {
       "domesticShipping": 11,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 56,
+      "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 11,
+    "balanceDue": 88,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16539,7 +16539,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1212咒術 Jump Festa 2026",
+    "sourceSheet": "★1212咒術 Jump Festa 2026",
     "sourceMonth": "2025_12"
   },
   {
@@ -16551,14 +16551,14 @@
     ],
     "productAmount": 435,
     "depositPaid": 435,
-    "secondPayment": 11,
+    "secondPayment": 45,
     "secondPaymentBreakdown": {
       "domesticShipping": 11,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 28,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 11,
+    "balanceDue": 45,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16569,7 +16569,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1212咒術 Jump Festa 2026",
+    "sourceSheet": "★1212咒術 Jump Festa 2026",
     "sourceMonth": "2025_12"
   },
   {
@@ -16581,14 +16581,14 @@
     ],
     "productAmount": 1365,
     "depositPaid": 1365,
-    "secondPayment": 11,
+    "secondPayment": 104,
     "secondPaymentBreakdown": {
       "domesticShipping": 11,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 74,
+      "cardFee": 19,
       "packagingFee": 0
     },
-    "balanceDue": 11,
+    "balanceDue": 104,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16607,7 +16607,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1212咒術 Jump Festa 2026",
+    "sourceSheet": "★1212咒術 Jump Festa 2026",
     "sourceMonth": "2025_12"
   },
   {
@@ -16619,14 +16619,14 @@
     ],
     "productAmount": 170,
     "depositPaid": 170,
-    "secondPayment": 11,
+    "secondPayment": 21,
     "secondPaymentBreakdown": {
       "domesticShipping": 11,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 7,
+      "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 11,
+    "balanceDue": 21,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16637,7 +16637,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1212咒術 Jump Festa 2026",
+    "sourceSheet": "★1212咒術 Jump Festa 2026",
     "sourceMonth": "2025_12"
   },
   {
@@ -16649,14 +16649,14 @@
     ],
     "productAmount": 170,
     "depositPaid": 170,
-    "secondPayment": 11,
+    "secondPayment": 21,
     "secondPaymentBreakdown": {
       "domesticShipping": 11,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 7,
+      "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 11,
+    "balanceDue": 21,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16667,7 +16667,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1212咒術 Jump Festa 2026",
+    "sourceSheet": "★1212咒術 Jump Festa 2026",
     "sourceMonth": "2025_12"
   },
   {
@@ -16679,14 +16679,14 @@
     ],
     "productAmount": 1245,
     "depositPaid": 1245,
-    "secondPayment": 11,
+    "secondPayment": 92,
     "secondPaymentBreakdown": {
       "domesticShipping": 11,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 63,
+      "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 11,
+    "balanceDue": 92,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16713,7 +16713,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1212咒術 Jump Festa 2026",
+    "sourceSheet": "★1212咒術 Jump Festa 2026",
     "sourceMonth": "2025_12"
   },
   {
@@ -16724,14 +16724,14 @@
     ],
     "productAmount": 600,
     "depositPaid": 600,
-    "secondPayment": 161,
+    "secondPayment": 178,
     "secondPaymentBreakdown": {
       "domesticShipping": 161,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 161,
+    "balanceDue": 178,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16742,7 +16742,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1212咒術 Jump Festa 2026",
+    "sourceSheet": "★1212咒術 Jump Festa 2026",
     "sourceMonth": "2025_12"
   },
   {
