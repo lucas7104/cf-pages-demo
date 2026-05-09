@@ -14666,7 +14666,7 @@
       "已抵台",
       "已付訂金"
     ],
-    "productAmount": 2045,
+    "productAmount": 2095,
     "depositPaid": 2045,
     "secondPayment": 41,
     "secondPaymentBreakdown": {
@@ -14675,7 +14675,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 41,
+    "balanceDue": 91,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16290,6 +16290,114 @@
     "items": [
       {
         "name": "立牌 (坂本B)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "周蓁妮",
+    "title": "1218坂本日常 黑色和服",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 450,
+    "depositPaid": 450,
+    "secondPayment": 20,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 10,
+      "cardFee": 10,
+      "packagingFee": 0
+    },
+    "balanceDue": 20,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (坂本B)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "Ni Ni",
+    "title": "1218坂本日常 黑色和服",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 450,
+    "depositPaid": 450,
+    "secondPayment": 20,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 10,
+      "cardFee": 10,
+      "packagingFee": 0
+    },
+    "balanceDue": 20,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (大佛)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "陳奕君",
+    "title": "1218坂本日常 黑色和服",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 450,
+    "depositPaid": 450,
+    "secondPayment": 20,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 10,
+      "cardFee": 10,
+      "packagingFee": 0
+    },
+    "balanceDue": 20,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (大佛)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "穆晟宇",
+    "title": "1218坂本日常 黑色和服",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 450,
+    "depositPaid": 450,
+    "secondPayment": 20,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 10,
+      "cardFee": 10,
+      "packagingFee": 0
+    },
+    "balanceDue": 20,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (大佛)",
         "qty": 1
       }
     ]
