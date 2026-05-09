@@ -15235,7 +15235,9 @@
   {
     "socialName": "vivian_lai372",
     "title": "1209坂本日常寶石系列",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 1330,
     "depositPaid": 0,
     "secondPayment": 139,
@@ -15246,7 +15248,7 @@
       "packagingFee": 0
     },
     "balanceDue": 1469,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16161,6 +16163,7 @@
     "socialName": "菊米",
     "title": "1212咒術 Jump Festa 2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 170,
@@ -16173,7 +16176,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16190,6 +16193,7 @@
     "socialName": "淺",
     "title": "1212咒術 Jump Festa 2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1880,
@@ -16202,7 +16206,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16235,6 +16239,7 @@
     "socialName": "高八毛",
     "title": "1212咒術 Jump Festa 2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1530,
@@ -16247,7 +16252,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16276,6 +16281,7 @@
     "socialName": "cc",
     "title": "1212咒術 Jump Festa 2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 435,
@@ -16288,7 +16294,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16305,6 +16311,7 @@
     "socialName": "高雄酒吧有鏈鋸人海報",
     "title": "1212咒術 Jump Festa 2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1365,
@@ -16317,7 +16324,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16342,6 +16349,7 @@
     "socialName": "Peggy",
     "title": "1212咒術 Jump Festa 2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 170,
@@ -16354,7 +16362,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16371,6 +16379,7 @@
     "socialName": "鴨",
     "title": "1212咒術 Jump Festa 2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 170,
@@ -16383,7 +16392,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16400,6 +16409,7 @@
     "socialName": "江蘇菲",
     "title": "1212咒術 Jump Festa 2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1245,
@@ -16412,7 +16422,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -21781,6 +21791,7 @@
     "socialName": "Peggy",
     "title": "0105防風 甜點",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 525,
@@ -21793,7 +21804,7 @@
       "packagingFee": 0
     },
     "balanceDue": 121,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
