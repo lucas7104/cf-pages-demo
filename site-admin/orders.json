@@ -22449,6 +22449,60 @@
     "sourceMonth": "2026-01"
   },
   {
+    "socialName": "高八毛",
+    "title": "0109 咒術 伸展",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 2580,
+    "depositPaid": 2580,
+    "secondPayment": 105,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 67,
+      "cardFee": 38,
+      "packagingFee": 0
+    },
+    "balanceDue": 105,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (乙骨)",
+        "qty": 1
+      },
+      {
+        "name": "立牌 (九十九由基)",
+        "qty": 1
+      },
+      {
+        "name": "鑰匙圈 (乙骨)",
+        "qty": 1
+      },
+      {
+        "name": "貼紙 (乙骨)",
+        "qty": 1
+      },
+      {
+        "name": "磁鐵 (乙骨)",
+        "qty": 1
+      },
+      {
+        "name": "磁鐵 (九十九由基)",
+        "qty": 1
+      },
+      {
+        "name": "角色卡 (抱盒)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★0109 咒術 伸展",
+    "sourceMonth": "2026-01"
+  },
+  {
     "socialName": "vivian_lai372",
     "title": "0109我英 書法",
     "statusBadges": [],
@@ -22493,60 +22547,6 @@
       }
     ],
     "sourceSheet": "0109我英 書法",
-    "sourceMonth": "2026-01"
-  },
-  {
-    "socialName": "高八毛",
-    "title": "0109咒術 伸展",
-    "statusBadges": [
-      "返台中",
-      "已付訂金"
-    ],
-    "productAmount": 2580,
-    "depositPaid": 2580,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "返台中",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌 (乙骨)",
-        "qty": 1
-      },
-      {
-        "name": "立牌 (九十九由基)",
-        "qty": 1
-      },
-      {
-        "name": "鑰匙圈 (乙骨)",
-        "qty": 1
-      },
-      {
-        "name": "貼紙 (乙骨)",
-        "qty": 1
-      },
-      {
-        "name": "磁鐵 (乙骨)",
-        "qty": 1
-      },
-      {
-        "name": "磁鐵 (九十九由基)",
-        "qty": 1
-      },
-      {
-        "name": "角色卡 (抱盒)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0109咒術 伸展",
     "sourceMonth": "2026-01"
   },
   {
