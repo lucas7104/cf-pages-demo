@@ -15514,14 +15514,14 @@
     ],
     "productAmount": 550,
     "depositPaid": 550,
-    "secondPayment": 41,
+    "secondPayment": 59,
     "secondPaymentBreakdown": {
       "domesticShipping": 41,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 10,
+      "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 41,
+    "balanceDue": 59,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -15536,7 +15536,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1211 多ip TOHO 10週年紀念",
+    "sourceSheet": "★ 1211 多ip TOHO 10週年紀念",
     "sourceMonth": "2025_12"
   },
   {
@@ -15548,14 +15548,14 @@
     ],
     "productAmount": 775,
     "depositPaid": 775,
-    "secondPayment": 41,
+    "secondPayment": 77,
     "secondPaymentBreakdown": {
       "domesticShipping": 41,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 23,
+      "cardFee": 13,
       "packagingFee": 0
     },
-    "balanceDue": 41,
+    "balanceDue": 77,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -15578,7 +15578,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1211 多ip TOHO 10週年紀念",
+    "sourceSheet": "★ 1211 多ip TOHO 10週年紀念",
     "sourceMonth": "2025_12"
   },
   {
@@ -15590,14 +15590,14 @@
     ],
     "productAmount": 170,
     "depositPaid": 170,
-    "secondPayment": 41,
+    "secondPayment": 49,
     "secondPaymentBreakdown": {
       "domesticShipping": 41,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 4,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 41,
+    "balanceDue": 49,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -15612,7 +15612,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1211 多ip TOHO 10週年紀念",
+    "sourceSheet": "★ 1211 多ip TOHO 10週年紀念",
     "sourceMonth": "2025_12"
   },
   {
@@ -15624,14 +15624,14 @@
     ],
     "productAmount": 2095,
     "depositPaid": 2045,
-    "secondPayment": 41,
+    "secondPayment": 158,
     "secondPaymentBreakdown": {
       "domesticShipping": 41,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 81,
+      "cardFee": 36,
       "packagingFee": 0
     },
-    "balanceDue": 91,
+    "balanceDue": 208,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -15702,7 +15702,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1211 多ip TOHO 10週年紀念",
+    "sourceSheet": "★ 1211 多ip TOHO 10週年紀念",
     "sourceMonth": "2025_12"
   },
   {
