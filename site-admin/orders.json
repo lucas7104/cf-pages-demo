@@ -8899,14 +8899,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 6,
+    "secondPayment": 14,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 8,
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 6,
+    "balanceDue": 14,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -8917,7 +8917,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1117 進巨尊爵Dignified",
+    "sourceSheet": "★1117 進巨尊爵Dignified",
     "sourceMonth": "2025_11"
   },
   {
@@ -8929,14 +8929,14 @@
     ],
     "productAmount": 650,
     "depositPaid": 650,
-    "secondPayment": 9,
+    "secondPayment": 27,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 18,
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 9,
+    "balanceDue": 27,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -8951,7 +8951,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1117 進巨尊爵Dignified",
+    "sourceSheet": "★1117 進巨尊爵Dignified",
     "sourceMonth": "2025_11"
   },
   {
@@ -8963,14 +8963,14 @@
     ],
     "productAmount": 430,
     "depositPaid": 430,
-    "secondPayment": 6,
+    "secondPayment": 21,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 15,
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 6,
+    "balanceDue": 21,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -8981,7 +8981,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1117 進巨尊爵Dignified",
+    "sourceSheet": "★1117 進巨尊爵Dignified",
     "sourceMonth": "2025_11"
   },
   {
@@ -8993,14 +8993,14 @@
     ],
     "productAmount": 430,
     "depositPaid": 430,
-    "secondPayment": 6,
+    "secondPayment": 21,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 15,
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 6,
+    "balanceDue": 21,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9011,7 +9011,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1117 進巨尊爵Dignified",
+    "sourceSheet": "★1117 進巨尊爵Dignified",
     "sourceMonth": "2025_11"
   },
   {
@@ -9023,14 +9023,14 @@
     ],
     "productAmount": 2150,
     "depositPaid": 2150,
-    "secondPayment": 29,
+    "secondPayment": 101,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 72,
       "cardFee": 29,
       "packagingFee": 0
     },
-    "balanceDue": 29,
+    "balanceDue": 101,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9049,7 +9049,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1117 進巨尊爵Dignified",
+    "sourceSheet": "★1117 進巨尊爵Dignified",
     "sourceMonth": "2025_11"
   },
   {
@@ -9061,14 +9061,14 @@
     ],
     "productAmount": 650,
     "depositPaid": 650,
-    "secondPayment": 9,
+    "secondPayment": 27,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 18,
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 9,
+    "balanceDue": 27,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9083,7 +9083,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1117 進巨尊爵Dignified",
+    "sourceSheet": "★1117 進巨尊爵Dignified",
     "sourceMonth": "2025_11"
   },
   {
@@ -9095,14 +9095,14 @@
     ],
     "productAmount": 220,
     "depositPaid": 220,
-    "secondPayment": 3,
+    "secondPayment": 6,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 3,
       "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 3,
+    "balanceDue": 6,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9113,7 +9113,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1117 進巨尊爵Dignified",
+    "sourceSheet": "★1117 進巨尊爵Dignified",
     "sourceMonth": "2025_11"
   },
   {
@@ -9125,14 +9125,14 @@
     ],
     "productAmount": 460,
     "depositPaid": 460,
-    "secondPayment": 7,
+    "secondPayment": 14,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 7,
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 7,
+    "balanceDue": 14,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9147,7 +9147,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1117 進巨尊爵Dignified",
+    "sourceSheet": "★1117 進巨尊爵Dignified",
     "sourceMonth": "2025_11"
   },
   {
@@ -9159,14 +9159,14 @@
     ],
     "productAmount": 860,
     "depositPaid": 860,
-    "secondPayment": 12,
+    "secondPayment": 42,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 30,
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 12,
+    "balanceDue": 42,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9181,7 +9181,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1117 進巨尊爵Dignified",
+    "sourceSheet": "★1117 進巨尊爵Dignified",
     "sourceMonth": "2025_11"
   },
   {
@@ -9193,14 +9193,14 @@
     ],
     "productAmount": 220,
     "depositPaid": 220,
-    "secondPayment": 3,
+    "secondPayment": 6,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 3,
       "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 3,
+    "balanceDue": 6,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9211,7 +9211,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1117 進巨尊爵Dignified",
+    "sourceSheet": "★1117 進巨尊爵Dignified",
     "sourceMonth": "2025_11"
   },
   {
@@ -9223,14 +9223,14 @@
     ],
     "productAmount": 650,
     "depositPaid": 500,
-    "secondPayment": 9,
+    "secondPayment": 27,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 18,
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 159,
+    "balanceDue": 177,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9245,7 +9245,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1117 進巨尊爵Dignified",
+    "sourceSheet": "★1117 進巨尊爵Dignified",
     "sourceMonth": "2025_11"
   },
   {
@@ -9257,14 +9257,14 @@
     ],
     "productAmount": 220,
     "depositPaid": 220,
-    "secondPayment": 3,
+    "secondPayment": 6,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 3,
       "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 3,
+    "balanceDue": 6,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9275,7 +9275,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1117 進巨尊爵Dignified",
+    "sourceSheet": "★1117 進巨尊爵Dignified",
     "sourceMonth": "2025_11"
   },
   {
@@ -9287,14 +9287,14 @@
     ],
     "productAmount": 220,
     "depositPaid": 220,
-    "secondPayment": 3,
+    "secondPayment": 6,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 3,
       "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 3,
+    "balanceDue": 6,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9305,7 +9305,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1117 進巨尊爵Dignified",
+    "sourceSheet": "★1117 進巨尊爵Dignified",
     "sourceMonth": "2025_11"
   },
   {
@@ -9317,14 +9317,14 @@
     ],
     "productAmount": 220,
     "depositPaid": 220,
-    "secondPayment": 3,
+    "secondPayment": 6,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 3,
       "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 3,
+    "balanceDue": 6,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9335,7 +9335,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1117 進巨尊爵Dignified",
+    "sourceSheet": "★1117 進巨尊爵Dignified",
     "sourceMonth": "2025_11"
   },
   {
@@ -9347,14 +9347,14 @@
     ],
     "productAmount": 430,
     "depositPaid": 430,
-    "secondPayment": 6,
+    "secondPayment": 21,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 15,
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 6,
+    "balanceDue": 21,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9365,7 +9365,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1117 進巨尊爵Dignified",
+    "sourceSheet": "★1117 進巨尊爵Dignified",
     "sourceMonth": "2025_11"
   },
   {
@@ -9377,14 +9377,14 @@
     ],
     "productAmount": 1100,
     "depositPaid": 1100,
-    "secondPayment": 15,
+    "secondPayment": 50,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 35,
       "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 15,
+    "balanceDue": 50,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9411,7 +9411,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1117 進巨尊爵Dignified",
+    "sourceSheet": "★1117 進巨尊爵Dignified",
     "sourceMonth": "2025_11"
   },
   {
@@ -9423,14 +9423,14 @@
     ],
     "productAmount": 440,
     "depositPaid": 440,
-    "secondPayment": 6,
+    "secondPayment": 17,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 11,
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 6,
+    "balanceDue": 17,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9445,7 +9445,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1117 進巨尊爵Dignified",
+    "sourceSheet": "★1117 進巨尊爵Dignified",
     "sourceMonth": "2025_11"
   },
   {
@@ -9457,14 +9457,14 @@
     ],
     "productAmount": 440,
     "depositPaid": 440,
-    "secondPayment": 6,
+    "secondPayment": 17,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 11,
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 6,
+    "balanceDue": 17,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9479,7 +9479,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1117 進巨尊爵Dignified",
+    "sourceSheet": "★1117 進巨尊爵Dignified",
     "sourceMonth": "2025_11"
   },
   {
@@ -9491,14 +9491,14 @@
     ],
     "productAmount": 430,
     "depositPaid": 430,
-    "secondPayment": 6,
+    "secondPayment": 21,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 15,
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 6,
+    "balanceDue": 21,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -9509,7 +9509,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1117 進巨尊爵Dignified",
+    "sourceSheet": "★1117 進巨尊爵Dignified",
     "sourceMonth": "2025_11"
   },
   {
