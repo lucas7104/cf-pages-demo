@@ -7976,6 +7976,37 @@
     ]
   },
   {
+    "socialName": "Feiiii",
+    "title": "1111鬼滅Aniplex",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 600,
+    "depositPaid": 600,
+    "secondPayment": 182,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 138,
+      "internationalShipping": 28,
+      "cardFee": 16,
+      "packagingFee": 0
+    },
+    "balanceDue": 182,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "鐵盒貼紙組 ( 義勇)",
+        "qty": 1
+      },
+      {
+        "name": "鐵盒貼紙組 (實彌)",
+        "qty": 1
+      }
+    ]
+  },
+  {
     "socialName": "Alia",
     "title": "1114 咒術movic",
     "statusBadges": [
@@ -11051,37 +11082,6 @@
     "items": [
       {
         "name": "場景卡",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "Feiiii",
-    "title": "1120鬼滅Aniplex",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 600,
-    "depositPaid": 600,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "鐵盒貼紙組 ( 義勇)",
-        "qty": 1
-      },
-      {
-        "name": "鐵盒貼紙組 (實彌)",
         "qty": 1
       }
     ]
