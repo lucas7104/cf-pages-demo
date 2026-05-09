@@ -19973,18 +19973,20 @@
   {
     "socialName": "Vivian_lai372",
     "title": "0103坂本日常 搖滾樂園&四季更迭",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 2830,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 94,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 57,
+      "cardFee": 37,
       "packagingFee": 0
     },
-    "balanceDue": 2830,
-    "etaText": "待公告",
+    "balanceDue": 2924,
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20003,19 +20005,20 @@
     "socialName": "Ruan",
     "title": "0103坂本日常 搖滾樂園&四季更迭",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2480,
     "depositPaid": 2480,
-    "secondPayment": 46,
+    "secondPayment": 259,
     "secondPaymentBreakdown": {
       "domesticShipping": 46,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 192,
+      "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 46,
-    "etaText": "待公告",
+    "balanceDue": 259,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20054,19 +20057,20 @@
     "socialName": "Kaho",
     "title": "0103坂本日常 搖滾樂園&四季更迭",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 860,
     "depositPaid": 860,
-    "secondPayment": 46,
+    "secondPayment": 138,
     "secondPaymentBreakdown": {
       "domesticShipping": 46,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 80,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 46,
-    "etaText": "待公告",
+    "balanceDue": 138,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20093,19 +20097,20 @@
     "socialName": "又双叒",
     "title": "0103坂本日常 搖滾樂園&四季更迭",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 215,
     "depositPaid": 215,
-    "secondPayment": 46,
+    "secondPayment": 69,
     "secondPaymentBreakdown": {
       "domesticShipping": 46,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 20,
+      "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 46,
-    "etaText": "待公告",
+    "balanceDue": 69,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20120,19 +20125,20 @@
     "socialName": "鴨",
     "title": "0103坂本日常 搖滾樂園&四季更迭",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 215,
     "depositPaid": 215,
-    "secondPayment": 0,
+    "secondPayment": 23,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 20,
+      "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "待公告",
+    "balanceDue": 23,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
