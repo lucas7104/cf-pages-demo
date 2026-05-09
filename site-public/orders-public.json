@@ -19810,7 +19810,7 @@
     "socialName": "Vivian_lai372",
     "title": "0103坂本日常 黑色和服",
     "statusBadges": [],
-    "productAmount": 1025,
+    "productAmount": 1595,
     "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -19819,7 +19819,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 1025,
+    "balanceDue": 1595,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -19922,7 +19922,7 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 575,
+    "productAmount": 1145,
     "depositPaid": 575,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -19931,7 +19931,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 570,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
