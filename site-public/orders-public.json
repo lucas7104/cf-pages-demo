@@ -16131,6 +16131,170 @@
     ]
   },
   {
+    "socialName": "Vivian_lai372",
+    "title": "1218坂本日常 黑色和服",
+    "statusBadges": [],
+    "productAmount": 1025,
+    "depositPaid": 0,
+    "secondPayment": 33,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 19,
+      "cardFee": 14,
+      "packagingFee": 0
+    },
+    "balanceDue": 1058,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (大佛)",
+        "qty": 1
+      },
+      {
+        "name": "角色卡 (抱盒)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "Teresa",
+    "title": "1218坂本日常 黑色和服",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 450,
+    "depositPaid": 450,
+    "secondPayment": 20,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 10,
+      "cardFee": 10,
+      "packagingFee": 0
+    },
+    "balanceDue": 20,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (大佛)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "減佐",
+    "title": "1218坂本日常 黑色和服",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 450,
+    "depositPaid": 450,
+    "secondPayment": 20,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 10,
+      "cardFee": 10,
+      "packagingFee": 0
+    },
+    "balanceDue": 20,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (大佛)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "菊米",
+    "title": "1218坂本日常 黑色和服",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 135,
+    "depositPaid": 135,
+    "secondPayment": 16,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 8,
+      "cardFee": 8,
+      "packagingFee": 0
+    },
+    "balanceDue": 16,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "透明資料夾橘色",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "鴨",
+    "title": "1218坂本日常 黑色和服",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 575,
+    "depositPaid": 575,
+    "secondPayment": 18,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 9,
+      "cardFee": 9,
+      "packagingFee": 0
+    },
+    "balanceDue": 18,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "角色卡 (抱盒)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "君",
+    "title": "1218坂本日常 黑色和服",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 450,
+    "depositPaid": 450,
+    "secondPayment": 20,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 10,
+      "cardFee": 10,
+      "packagingFee": 0
+    },
+    "balanceDue": 20,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (坂本B)",
+        "qty": 1
+      }
+    ]
+  },
+  {
     "socialName": "Ivii",
     "title": "1219 多ip Airtwokyo",
     "statusBadges": [
@@ -18563,6 +18727,35 @@
     ]
   },
   {
+    "socialName": "vivian_lai372",
+    "title": "1227膽大黨 糖果甜點",
+    "statusBadges": [],
+    "productAmount": 1035,
+    "depositPaid": 0,
+    "secondPayment": 179,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 124,
+      "internationalShipping": 40,
+      "cardFee": 15,
+      "packagingFee": 0
+    },
+    "balanceDue": 1214,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "徽章 (一盒)",
+        "qty": 1
+      },
+      {
+        "name": "立牌 (高速婆婆-招財貓)",
+        "qty": 1
+      }
+    ]
+  },
+  {
     "socialName": "鬆餅",
     "title": "1228咒術 小娃",
     "statusBadges": [
@@ -19808,170 +20001,6 @@
   },
   {
     "socialName": "Vivian_lai372",
-    "title": "0103坂本日常 黑色和服",
-    "statusBadges": [],
-    "productAmount": 1025,
-    "depositPaid": 0,
-    "secondPayment": 33,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 19,
-      "cardFee": 14,
-      "packagingFee": 0
-    },
-    "balanceDue": 1058,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌 (大佛)",
-        "qty": 1
-      },
-      {
-        "name": "角色卡 (抱盒)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "Teresa",
-    "title": "0103坂本日常 黑色和服",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 450,
-    "depositPaid": 450,
-    "secondPayment": 20,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 10,
-      "cardFee": 10,
-      "packagingFee": 0
-    },
-    "balanceDue": 20,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌 (大佛)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "減佐",
-    "title": "0103坂本日常 黑色和服",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 450,
-    "depositPaid": 450,
-    "secondPayment": 20,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 10,
-      "cardFee": 10,
-      "packagingFee": 0
-    },
-    "balanceDue": 20,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌 (大佛)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "菊米",
-    "title": "0103坂本日常 黑色和服",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 135,
-    "depositPaid": 135,
-    "secondPayment": 16,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 8,
-      "cardFee": 8,
-      "packagingFee": 0
-    },
-    "balanceDue": 16,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "透明資料夾橘色",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "鴨",
-    "title": "0103坂本日常 黑色和服",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 575,
-    "depositPaid": 575,
-    "secondPayment": 18,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 9,
-      "cardFee": 9,
-      "packagingFee": 0
-    },
-    "balanceDue": 18,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "角色卡 (抱盒)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "君",
-    "title": "0103坂本日常 黑色和服",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 450,
-    "depositPaid": 450,
-    "secondPayment": 20,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 10,
-      "cardFee": 10,
-      "packagingFee": 0
-    },
-    "balanceDue": 20,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌 (坂本B)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "Vivian_lai372",
     "title": "0103坂本日常 搖滾樂園&四季更迭",
     "statusBadges": [
       "已抵台"
@@ -20298,35 +20327,6 @@
       },
       {
         "name": "收藏系列吊飾 (艾爾文)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "vivian_lai372",
-    "title": "0103膽大黨 糖果甜點",
-    "statusBadges": [],
-    "productAmount": 1035,
-    "depositPaid": 0,
-    "secondPayment": 124,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 124,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 1159,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "徽章 (一盒)",
-        "qty": 1
-      },
-      {
-        "name": "立牌 (高速婆婆-招財貓)",
         "qty": 1
       }
     ]
@@ -22292,14 +22292,14 @@
     ],
     "productAmount": 760,
     "depositPaid": 760,
-    "secondPayment": 0,
+    "secondPayment": 51,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 51,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 51,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -22319,14 +22319,14 @@
     ],
     "productAmount": 760,
     "depositPaid": 760,
-    "secondPayment": 0,
+    "secondPayment": 6,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 6,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 6,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
