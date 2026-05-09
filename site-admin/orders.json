@@ -16465,7 +16465,7 @@
       "已抵台",
       "已付訂金"
     ],
-    "productAmount": 1880,
+    "productAmount": 1530,
     "depositPaid": 1880,
     "secondPayment": 11,
     "secondPaymentBreakdown": {
@@ -16474,11 +16474,11 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 11,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "直哉徽章套缺貨",
     "items": [
       {
         "name": "立牌 (直哉)",
@@ -16490,10 +16490,6 @@
       },
       {
         "name": "卡套 (直哉)",
-        "qty": 1
-      },
-      {
-        "name": "徽章套 (直哉)",
         "qty": 1
       },
       {
