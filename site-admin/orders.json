@@ -30796,14 +30796,14 @@
     ],
     "productAmount": 430,
     "depositPaid": 215,
-    "secondPayment": 0,
+    "secondPayment": 38,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 27,
+      "internationalShipping": 5,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 215,
+    "balanceDue": 253,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30818,7 +30818,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0303芙莉蓮 AJ2026",
+    "sourceSheet": "★0303芙莉蓮 AJ2026",
     "sourceMonth": "2026-03"
   },
   {
@@ -30829,14 +30829,14 @@
     ],
     "productAmount": 430,
     "depositPaid": 430,
-    "secondPayment": 0,
+    "secondPayment": 38,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 27,
+      "internationalShipping": 5,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 38,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30851,7 +30851,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0303芙莉蓮 AJ2026",
+    "sourceSheet": "★0303芙莉蓮 AJ2026",
     "sourceMonth": "2026-03"
   },
   {
@@ -30862,14 +30862,14 @@
     ],
     "productAmount": 430,
     "depositPaid": 430,
-    "secondPayment": 0,
+    "secondPayment": 38,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 27,
+      "internationalShipping": 5,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 38,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30884,7 +30884,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0303芙莉蓮 AJ2026",
+    "sourceSheet": "★0303芙莉蓮 AJ2026",
     "sourceMonth": "2026-03"
   },
   {
@@ -30895,14 +30895,14 @@
     ],
     "productAmount": 480,
     "depositPaid": 480,
-    "secondPayment": 594,
+    "secondPayment": 49,
     "secondPaymentBreakdown": {
-      "domesticShipping": 594,
+      "domesticShipping": 42,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 594,
+    "balanceDue": 49,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30913,7 +30913,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0303芙莉蓮 AJ2026",
+    "sourceSheet": "★0303芙莉蓮 AJ2026",
     "sourceMonth": "2026-03"
   },
   {
@@ -30924,14 +30924,14 @@
     ],
     "productAmount": 590,
     "depositPaid": 590,
-    "secondPayment": 594,
+    "secondPayment": 86,
     "secondPaymentBreakdown": {
-      "domesticShipping": 594,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 69,
+      "internationalShipping": 8,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 594,
+    "balanceDue": 86,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30946,7 +30946,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0303芙莉蓮 AJ2026",
+    "sourceSheet": "★0303芙莉蓮 AJ2026",
     "sourceMonth": "2026-03"
   },
   {
@@ -30957,14 +30957,14 @@
     ],
     "productAmount": 480,
     "depositPaid": 480,
-    "secondPayment": 594,
+    "secondPayment": 49,
     "secondPaymentBreakdown": {
-      "domesticShipping": 594,
+      "domesticShipping": 42,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 594,
+    "balanceDue": 49,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30975,7 +30975,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0303芙莉蓮 AJ2026",
+    "sourceSheet": "★0303芙莉蓮 AJ2026",
     "sourceMonth": "2026-03"
   },
   {
@@ -30986,14 +30986,14 @@
     ],
     "productAmount": 1075,
     "depositPaid": 1075,
-    "secondPayment": 0,
+    "secondPayment": 57,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 27,
+      "internationalShipping": 15,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 57,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31008,7 +31008,7 @@
         "qty": 3
       }
     ],
-    "sourceSheet": "0303芙莉蓮 AJ2026",
+    "sourceSheet": "★0303芙莉蓮 AJ2026",
     "sourceMonth": "2026-03"
   },
   {
@@ -31019,14 +31019,14 @@
     ],
     "productAmount": 1075,
     "depositPaid": 1075,
-    "secondPayment": 0,
+    "secondPayment": 30,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 15,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 30,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31041,7 +31041,7 @@
         "qty": 3
       }
     ],
-    "sourceSheet": "0303芙莉蓮 AJ2026",
+    "sourceSheet": "★0303芙莉蓮 AJ2026",
     "sourceMonth": "2026-03"
   },
   {
@@ -31052,14 +31052,14 @@
     ],
     "productAmount": 110,
     "depositPaid": 110,
-    "secondPayment": 0,
+    "secondPayment": 37,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 27,
+      "internationalShipping": 8,
+      "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 37,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31070,7 +31070,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0303芙莉蓮 AJ2026",
+    "sourceSheet": "★0303芙莉蓮 AJ2026",
     "sourceMonth": "2026-03"
   },
   {
