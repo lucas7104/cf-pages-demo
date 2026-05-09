@@ -14249,6 +14249,35 @@
     ]
   },
   {
+    "socialName": "vivian_lai372",
+    "title": "1209坂本日常寶石系列",
+    "statusBadges": [],
+    "productAmount": 1330,
+    "depositPaid": 0,
+    "secondPayment": 139,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 102,
+      "internationalShipping": 23,
+      "cardFee": 14,
+      "packagingFee": 0
+    },
+    "balanceDue": 1469,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "盲抽閃卡 (抱盒)",
+        "qty": 1
+      },
+      {
+        "name": "立牌 (大佛)",
+        "qty": 1
+      }
+    ]
+  },
+  {
     "socialName": "Zihan",
     "title": "1209咒術 五條悟生日",
     "statusBadges": [
@@ -15435,35 +15464,6 @@
     "items": [
       {
         "name": "盲抽透卡 (抱盒)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "vivian_lai372",
-    "title": "1213坂本日常寶石系列",
-    "statusBadges": [],
-    "productAmount": 1330,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 1330,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "盲抽閃卡 (抱盒)",
-        "qty": 1
-      },
-      {
-        "name": "立牌 (大佛)",
         "qty": 1
       }
     ]
@@ -19257,7 +19257,7 @@
     "note": "",
     "items": [
       {
-        "name": "磁吸卡套(奪心魔) ￥4,620",
+        "name": "磁吸卡套(奪心魔)",
         "qty": 1
       }
     ]
@@ -19270,14 +19270,14 @@
     ],
     "productAmount": 430,
     "depositPaid": 430,
-    "secondPayment": 138,
+    "secondPayment": 150,
     "secondPaymentBreakdown": {
       "domesticShipping": 132,
-      "internationalShipping": 0,
+      "internationalShipping": 12,
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 138,
+    "balanceDue": 150,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -19297,21 +19297,21 @@
     ],
     "productAmount": 405,
     "depositPaid": 500,
-    "secondPayment": 108,
+    "secondPayment": 121,
     "secondPaymentBreakdown": {
       "domesticShipping": 102,
-      "internationalShipping": 0,
+      "internationalShipping": 13,
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 13,
+    "balanceDue": 26,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "不含運費",
     "items": [
       {
-        "name": "咒術Q版吊飾娃 (宿儺) ￥1,683",
+        "name": "咒術Q版吊飾娃 (宿儺)",
         "qty": 1
       }
     ]
