@@ -391,6 +391,570 @@
     ]
   },
   {
+    "socialName": "Charlotte Lee",
+    "title": "1002 進巨 絢爛菊花飯店",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 240,
+    "depositPaid": 140,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "明信片套組",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "江盈盈",
+    "title": "1002 進巨 絢爛菊花飯店",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 1200,
+    "depositPaid": 1100,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "已抵台",
+    "paymentMethod": "無卡",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "正比立牌 (艾爾文)",
+        "qty": 1
+      },
+      {
+        "name": "明信片套組",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "Abby Tsai",
+    "title": "1002 進巨 絢爛菊花飯店",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 480,
+    "depositPaid": 380,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 (里維)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "宋宣萱",
+    "title": "1002 進巨 絢爛菊花飯店",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 770,
+    "depositPaid": 670,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "已抵台",
+    "paymentMethod": "無卡",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "Q版立牌 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "Q版立牌 (米卡莎)",
+        "qty": 1
+      },
+      {
+        "name": "明信片套組",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "下不維力炸醬麵",
+    "title": "1002 進巨 絢爛菊花飯店",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 3320,
+    "depositPaid": 3220,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "徽章(抱盒)",
+        "qty": 2
+      },
+      {
+        "name": "正比立牌 (艾爾文)",
+        "qty": 2
+      },
+      {
+        "name": "明信片套組",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "披薩",
+    "title": "1002 進巨 絢爛菊花飯店",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 480,
+    "depositPaid": 380,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 (艾爾文)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "Ann Sj",
+    "title": "1002 進巨 絢爛菊花飯店",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 1540,
+    "depositPaid": 1440,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "徽章(抱盒)",
+        "qty": 1
+      },
+      {
+        "name": "正比立牌 (艾蓮)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "susu",
+    "title": "1002 進巨 絢爛菊花飯店",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 960,
+    "depositPaid": 860,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "正比立牌 (艾蓮)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "謝宇涵",
+    "title": "1002 進巨 絢爛菊花飯店",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 240,
+    "depositPaid": 140,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "已抵台",
+    "paymentMethod": "無卡",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "明信片套組",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "pei",
+    "title": "1002 進巨 絢爛菊花飯店",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 2260,
+    "depositPaid": 2160,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "徽章(抱盒)",
+        "qty": 1
+      },
+      {
+        "name": "正比立牌 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "正比立牌 (米卡莎)",
+        "qty": 1
+      },
+      {
+        "name": "明信片套組",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "陳安",
+    "title": "1002 進巨 絢爛菊花飯店",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 240,
+    "depositPaid": 140,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "明信片套組",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "TYT",
+    "title": "1002 進巨 絢爛菊花飯店",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 985,
+    "depositPaid": 885,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "Q版立牌 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "正比立牌 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "明信片套組",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "劉",
+    "title": "1002 進巨 絢爛菊花飯店",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 480,
+    "depositPaid": 380,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 (里維)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "喵",
+    "title": "1002 進巨 絢爛菊花飯店",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 480,
+    "depositPaid": 380,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 (里維)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "每天都想退休",
+    "title": "1002 進巨 絢爛菊花飯店",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 270,
+    "depositPaid": 170,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "資料夾(黑)",
+        "qty": 1
+      },
+      {
+        "name": "資料夾(紅)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "piao",
+    "title": "1002 進巨 絢爛菊花飯店",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 720,
+    "depositPaid": 620,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "已抵台",
+    "paymentMethod": "無卡",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "明信片套組",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "米卡莎的圍巾",
+    "title": "1002 進巨 絢爛菊花飯店",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 480,
+    "depositPaid": 380,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 (米卡莎)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "FB:蕭宜雯",
+    "title": "1002 進巨 絢爛菊花飯店",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 480,
+    "depositPaid": 380,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 (艾爾文)",
+        "qty": 1
+      }
+    ]
+  },
+  {
     "socialName": "臉書：布丁",
     "title": "1003 進巨WIT-Visual Art Series",
     "statusBadges": [
@@ -1810,552 +2374,6 @@
       {
         "name": "抽數>5",
         "qty": 12
-      }
-    ]
-  },
-  {
-    "socialName": "Charlotte Lee",
-    "title": "1017 進巨絢爛菊花飯店",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 240,
-    "depositPaid": 140,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "明信片套組",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "江盈盈",
-    "title": "1017 進巨絢爛菊花飯店",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1200,
-    "depositPaid": 1100,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "無卡",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "正比立牌 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "正比立牌 (艾爾文)",
-        "qty": 1
-      },
-      {
-        "name": "明信片套組",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "Abby Tsai",
-    "title": "1017 進巨絢爛菊花飯店",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 480,
-    "depositPaid": 380,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "正比立牌 (里維)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "宋宣萱",
-    "title": "1017 進巨絢爛菊花飯店",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 770,
-    "depositPaid": 670,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "無卡",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "Q版立牌 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "Q版立牌 (米卡莎)",
-        "qty": 1
-      },
-      {
-        "name": "明信片套組",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "下不維力炸醬麵",
-    "title": "1017 進巨絢爛菊花飯店",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 3320,
-    "depositPaid": 3220,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "徽章(抱盒)",
-        "qty": 2
-      },
-      {
-        "name": "正比立牌 (艾爾文)",
-        "qty": 2
-      },
-      {
-        "name": "明信片套組",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "披薩",
-    "title": "1017 進巨絢爛菊花飯店",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 480,
-    "depositPaid": 380,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "正比立牌 (艾爾文)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "Ann Sj",
-    "title": "1017 進巨絢爛菊花飯店",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1540,
-    "depositPaid": 1440,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "徽章(抱盒)",
-        "qty": 1
-      },
-      {
-        "name": "正比立牌 (艾蓮)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "susu",
-    "title": "1017 進巨絢爛菊花飯店",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 960,
-    "depositPaid": 860,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "正比立牌 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "正比立牌 (艾蓮)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "謝宇涵",
-    "title": "1017 進巨絢爛菊花飯店",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 240,
-    "depositPaid": 140,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "無卡",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "明信片套組",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "pei",
-    "title": "1017 進巨絢爛菊花飯店",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 2260,
-    "depositPaid": 2160,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "徽章(抱盒)",
-        "qty": 1
-      },
-      {
-        "name": "正比立牌 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "正比立牌 (米卡莎)",
-        "qty": 1
-      },
-      {
-        "name": "明信片套組",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "陳安",
-    "title": "1017 進巨絢爛菊花飯店",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 240,
-    "depositPaid": 140,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "明信片套組",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "TYT",
-    "title": "1017 進巨絢爛菊花飯店",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 985,
-    "depositPaid": 885,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "Q版立牌 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "正比立牌 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "明信片套組",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "劉",
-    "title": "1017 進巨絢爛菊花飯店",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 480,
-    "depositPaid": 380,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "正比立牌 (里維)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "喵",
-    "title": "1017 進巨絢爛菊花飯店",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 480,
-    "depositPaid": 380,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "正比立牌 (里維)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "每天都想退休",
-    "title": "1017 進巨絢爛菊花飯店",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 270,
-    "depositPaid": 170,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "資料夾(黑)",
-        "qty": 1
-      },
-      {
-        "name": "資料夾(紅)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "piao",
-    "title": "1017 進巨絢爛菊花飯店",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 720,
-    "depositPaid": 620,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "無卡",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "正比立牌 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "明信片套組",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "米卡莎的圍巾",
-    "title": "1017 進巨絢爛菊花飯店",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 480,
-    "depositPaid": 380,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "正比立牌 (米卡莎)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "FB:蕭宜雯",
-    "title": "1017 進巨絢爛菊花飯店",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 480,
-    "depositPaid": 380,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "正比立牌 (艾爾文)",
-        "qty": 1
       }
     ]
   },
@@ -6244,14 +6262,14 @@
     ],
     "productAmount": 680,
     "depositPaid": 580,
-    "secondPayment": 0,
+    "secondPayment": 39,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 30,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 139,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -6272,14 +6290,14 @@
     ],
     "productAmount": 1310,
     "depositPaid": 1210,
-    "secondPayment": 0,
+    "secondPayment": 81,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 63,
+      "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 181,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -6304,14 +6322,14 @@
     ],
     "productAmount": 515,
     "depositPaid": 415,
-    "secondPayment": 0,
+    "secondPayment": 26,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 19,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 126,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -6332,14 +6350,14 @@
     ],
     "productAmount": 795,
     "depositPaid": 695,
-    "secondPayment": 0,
+    "secondPayment": 55,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 44,
+      "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 155,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -6360,14 +6378,14 @@
     ],
     "productAmount": 2275,
     "depositPaid": 2175,
-    "secondPayment": 0,
+    "secondPayment": 116,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 84,
+      "cardFee": 32,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 216,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -6400,14 +6418,14 @@
     ],
     "productAmount": 735,
     "depositPaid": 635,
-    "secondPayment": 0,
+    "secondPayment": 41,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 31,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 141,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -6432,14 +6450,14 @@
     ],
     "productAmount": 515,
     "depositPaid": 415,
-    "secondPayment": 0,
+    "secondPayment": 26,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 19,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 126,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -6460,14 +6478,14 @@
     ],
     "productAmount": 680,
     "depositPaid": 580,
-    "secondPayment": 0,
+    "secondPayment": 39,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 30,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 139,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -6488,14 +6506,14 @@
     ],
     "productAmount": 680,
     "depositPaid": 580,
-    "secondPayment": 0,
+    "secondPayment": 39,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 30,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 139,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -7063,7 +7081,7 @@
   },
   {
     "socialName": "An",
-    "title": "1108進巨放鬆系列",
+    "title": "1108 進巨 放鬆系列",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -7103,7 +7121,7 @@
   },
   {
     "socialName": "𝑊𝑖𝑠ℎ..ෆ",
-    "title": "1108進巨放鬆系列",
+    "title": "1108 進巨 放鬆系列",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -7139,7 +7157,7 @@
   },
   {
     "socialName": "臉書吳奕潔",
-    "title": "1108進巨放鬆系列",
+    "title": "1108 進巨 放鬆系列",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -7167,7 +7185,7 @@
   },
   {
     "socialName": "lin",
-    "title": "1108進巨放鬆系列",
+    "title": "1108 進巨 放鬆系列",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -7199,7 +7217,7 @@
   },
   {
     "socialName": "Teresa",
-    "title": "1108進巨放鬆系列",
+    "title": "1108 進巨 放鬆系列",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -7231,7 +7249,7 @@
   },
   {
     "socialName": "susu",
-    "title": "1108進巨放鬆系列",
+    "title": "1108 進巨 放鬆系列",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -7263,7 +7281,7 @@
   },
   {
     "socialName": "臉書 黃同維",
-    "title": "1108進巨放鬆系列",
+    "title": "1108 進巨 放鬆系列",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -7295,7 +7313,7 @@
   },
   {
     "socialName": "A-Joe",
-    "title": "1108進巨放鬆系列",
+    "title": "1108 進巨 放鬆系列",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -7335,7 +7353,7 @@
   },
   {
     "socialName": "涵（謝宇涵）",
-    "title": "1108進巨放鬆系列",
+    "title": "1108 進巨 放鬆系列",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -7363,7 +7381,7 @@
   },
   {
     "socialName": "盤子",
-    "title": "1108進巨放鬆系列",
+    "title": "1108 進巨 放鬆系列",
     "statusBadges": [
       "已抵台",
       "已付訂金"
@@ -7395,7 +7413,7 @@
   },
   {
     "socialName": "臉書走心怪",
-    "title": "1108進巨放鬆系列",
+    "title": "1108 進巨 放鬆系列",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -7423,7 +7441,7 @@
   },
   {
     "socialName": "臉書 洪玄穎",
-    "title": "1108進巨放鬆系列",
+    "title": "1108 進巨 放鬆系列",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -7451,7 +7469,7 @@
   },
   {
     "socialName": "地瓜",
-    "title": "1108進巨放鬆系列",
+    "title": "1108 進巨 放鬆系列",
     "statusBadges": [
       "已抵台",
       "已付訂金"
@@ -7479,7 +7497,7 @@
   },
   {
     "socialName": "每天都想退休",
-    "title": "1108進巨放鬆系列",
+    "title": "1108 進巨 放鬆系列",
     "statusBadges": [
       "已抵台",
       "已付訂金"
@@ -7519,7 +7537,7 @@
   },
   {
     "socialName": "lpp_ss",
-    "title": "1108進巨放鬆系列",
+    "title": "1108 進巨 放鬆系列",
     "statusBadges": [
       "已抵台",
       "已付訂金"
@@ -7559,7 +7577,7 @@
   },
   {
     "socialName": "舒芙蕾",
-    "title": "1108進巨放鬆系列",
+    "title": "1108 進巨 放鬆系列",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -7595,7 +7613,7 @@
   },
   {
     "socialName": "Xuan lin",
-    "title": "1108進巨放鬆系列",
+    "title": "1108 進巨 放鬆系列",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -7623,7 +7641,7 @@
   },
   {
     "socialName": "Ruan",
-    "title": "1108進巨放鬆系列",
+    "title": "1108 進巨 放鬆系列",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -7651,7 +7669,7 @@
   },
   {
     "socialName": "愛咪",
-    "title": "1108進巨放鬆系列",
+    "title": "1108 進巨 放鬆系列",
     "statusBadges": [
       "已抵台",
       "已付訂金"
