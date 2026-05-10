@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T08:51:03.018Z",
+  "generatedAt": "2026-05-10T09:01:06.586Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -23,16 +23,16 @@
           "amount": 38920
         },
         {
-          "name": "瑞斯",
-          "amount": 35220
+          "name": "君",
+          "amount": 35545
         },
         {
           "name": "高八毛",
-          "amount": 34865
+          "amount": 35315
         },
         {
-          "name": "君",
-          "amount": 34210
+          "name": "瑞斯",
+          "amount": 35220
         },
         {
           "name": "cc",
@@ -43,12 +43,12 @@
           "amount": 28715
         },
         {
-          "name": "每天都想退休",
-          "amount": 26454
+          "name": "季",
+          "amount": 26620
         },
         {
-          "name": "季",
-          "amount": 26170
+          "name": "每天都想退休",
+          "amount": 26454
         }
       ]
     },
@@ -122,12 +122,12 @@
           "amount": 35755
         },
         {
-          "name": "高八毛",
-          "amount": 26055
+          "name": "君",
+          "amount": 27140
         },
         {
-          "name": "君",
-          "amount": 25805
+          "name": "高八毛",
+          "amount": 26505
         },
         {
           "name": "Sabrina",
@@ -135,7 +135,7 @@
         },
         {
           "name": "季",
-          "amount": 24510
+          "amount": 24960
         },
         {
           "name": "芭樂",
@@ -146,12 +146,12 @@
           "amount": 15530
         },
         {
-          "name": "良",
-          "amount": 15355
+          "name": "Peggy",
+          "amount": 15485
         },
         {
-          "name": "Peggy",
-          "amount": 15035
+          "name": "良",
+          "amount": 15355
         }
       ]
     },

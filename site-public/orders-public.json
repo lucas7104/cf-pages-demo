@@ -27164,6 +27164,186 @@
     ]
   },
   {
+    "socialName": "季",
+    "title": "0213咒術 JF2025",
+    "statusBadges": [
+      "已抵台"
+    ],
+    "productAmount": 450,
+    "depositPaid": 0,
+    "secondPayment": 187,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 187,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 637,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "燙金小卡 (幼年)",
+        "qty": 1
+      },
+      {
+        "name": "燙金小卡 (青年)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "君",
+    "title": "0213咒術 JF2025",
+    "statusBadges": [
+      "已抵台"
+    ],
+    "productAmount": 1335,
+    "depositPaid": 0,
+    "secondPayment": 61,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 51,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 10
+    },
+    "balanceDue": 1396,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "燙金小卡 (幼年)",
+        "qty": 1
+      },
+      {
+        "name": "幼年立牌 (五條)",
+        "qty": 1
+      },
+      {
+        "name": "幼年徽章盲抽",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "socialName": "Alia",
+    "title": "0213咒術 JF2025",
+    "statusBadges": [
+      "已抵台"
+    ],
+    "productAmount": 795,
+    "depositPaid": 0,
+    "secondPayment": 68,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 68,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 863,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "幼年立牌 (五條)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "高八毛",
+    "title": "0213咒術 JF2025",
+    "statusBadges": [
+      "已抵台"
+    ],
+    "productAmount": 450,
+    "depositPaid": 0,
+    "secondPayment": 61,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 51,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 10
+    },
+    "balanceDue": 511,
+    "etaText": "已抵台",
+    "paymentMethod": "無卡",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "燙金小卡 (幼年)",
+        "qty": 1
+      },
+      {
+        "name": "燙金小卡 (青年)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "波波",
+    "title": "0213咒術 JF2025",
+    "statusBadges": [
+      "已抵台"
+    ],
+    "productAmount": 990,
+    "depositPaid": 0,
+    "secondPayment": 61,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 51,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 10
+    },
+    "balanceDue": 1051,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "青年立牌 (五條)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "Peggy",
+    "title": "0213咒術 JF2025",
+    "statusBadges": [],
+    "productAmount": 450,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 450,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "燙金小卡 (幼年)",
+        "qty": 1
+      },
+      {
+        "name": "燙金小卡 (青年)",
+        "qty": 1
+      }
+    ]
+  },
+  {
     "socialName": "歪歪",
     "title": "0215 進巨 冬日散步",
     "statusBadges": [
