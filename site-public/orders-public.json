@@ -11166,19 +11166,20 @@
     "socialName": "盤子",
     "title": "1120進巨 荷官",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 455,
     "depositPaid": 455,
-    "secondPayment": 31,
+    "secondPayment": 45,
     "secondPaymentBreakdown": {
       "domesticShipping": 31,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 7,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 31,
-    "etaText": "待公告",
+    "balanceDue": 45,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -11197,19 +11198,20 @@
     "socialName": "Huang",
     "title": "1120進巨 荷官",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 325,
     "depositPaid": 325,
-    "secondPayment": 31,
+    "secondPayment": 48,
     "secondPaymentBreakdown": {
       "domesticShipping": 31,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 12,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 31,
-    "etaText": "待公告",
+    "balanceDue": 48,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -11228,19 +11230,20 @@
     "socialName": "TYT",
     "title": "1120進巨 荷官",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 565,
     "depositPaid": 565,
-    "secondPayment": 31,
+    "secondPayment": 48,
     "secondPaymentBreakdown": {
       "domesticShipping": 31,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 8,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 31,
-    "etaText": "待公告",
+    "balanceDue": 48,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -11263,19 +11266,20 @@
     "socialName": "An",
     "title": "1120進巨 荷官",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 440,
     "depositPaid": 440,
-    "secondPayment": 31,
+    "secondPayment": 43,
     "secondPaymentBreakdown": {
       "domesticShipping": 31,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 4,
+      "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 31,
-    "etaText": "待公告",
+    "balanceDue": 43,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
