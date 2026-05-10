@@ -4776,14 +4776,14 @@
     ],
     "productAmount": 900,
     "depositPaid": 800,
-    "secondPayment": 0,
+    "secondPayment": 127,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 66,
+      "internationalShipping": 49,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 227,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -4805,14 +4805,14 @@
     ],
     "productAmount": 900,
     "depositPaid": 800,
-    "secondPayment": 0,
+    "secondPayment": 127,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 66,
+      "internationalShipping": 49,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 227,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -4834,14 +4834,14 @@
     ],
     "productAmount": 900,
     "depositPaid": 800,
-    "secondPayment": 0,
+    "secondPayment": 193,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 132,
+      "internationalShipping": 49,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 293,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -5871,6 +5871,126 @@
       }
     ],
     "sourceSheet": "1102鬼滅movic豆豆娃",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "vivian_lai372",
+    "title": "1103 鬼滅 早冬",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 220,
+    "depositPaid": 120,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "拍立得",
+        "qty": 2
+      }
+    ],
+    "sourceSheet": "1103 鬼滅 早冬",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "每天都想退休",
+    "title": "1103 鬼滅 早冬",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 140,
+    "depositPaid": 40,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "資料夾",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1103 鬼滅 早冬",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "ling",
+    "title": "1103 鬼滅 早冬",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 660,
+    "depositPaid": 560,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "壓克力立牌盲抽",
+        "qty": 3
+      }
+    ],
+    "sourceSheet": "1103 鬼滅 早冬",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "華",
+    "title": "1103 鬼滅 早冬",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 1320,
+    "depositPaid": 1220,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "已抵台",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "壓克力立牌盲抽",
+        "qty": 6
+      }
+    ],
+    "sourceSheet": "1103 鬼滅 早冬",
     "sourceMonth": "2025_11"
   },
   {
@@ -8709,122 +8829,6 @@
       }
     ],
     "sourceSheet": "1114鏈鋸人Look up",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "vivian_lai372",
-    "title": "1116鬼滅早冬",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 220,
-    "depositPaid": 120,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "拍立得",
-        "qty": 2
-      }
-    ],
-    "sourceSheet": "1116鬼滅早冬",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "每天都想退休",
-    "title": "1116鬼滅早冬",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 140,
-    "depositPaid": 40,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "資料夾",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1116鬼滅早冬",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "ling",
-    "title": "1116鬼滅早冬",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 660,
-    "depositPaid": 560,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "壓克力立牌盲抽",
-        "qty": 3
-      }
-    ],
-    "sourceSheet": "1116鬼滅早冬",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "華",
-    "title": "1116鬼滅早冬",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1320,
-    "depositPaid": 1220,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "壓克力立牌盲抽",
-        "qty": 6
-      }
-    ],
-    "sourceSheet": "1116鬼滅早冬",
     "sourceMonth": "2025_11"
   },
   {
