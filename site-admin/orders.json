@@ -23957,14 +23957,14 @@
     ],
     "productAmount": 2435,
     "depositPaid": 2435,
-    "secondPayment": 0,
+    "secondPayment": 105,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 73,
+      "cardFee": 32,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 105,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -23987,7 +23987,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0120 咒術 ensky",
+    "sourceSheet": "★0120 咒術 ensky",
     "sourceMonth": "2026-01"
   },
   {
@@ -23999,18 +23999,18 @@
     ],
     "productAmount": 1690,
     "depositPaid": 1690,
-    "secondPayment": 0,
+    "secondPayment": 111,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 89,
+      "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 111,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "Holopica口香糖未到貨",
     "items": [
       {
         "name": "Holopica口香糖",
@@ -24021,7 +24021,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0120 咒術 ensky",
+    "sourceSheet": "★0120 咒術 ensky",
     "sourceMonth": "2026-01"
   },
   {
@@ -24033,14 +24033,14 @@
     ],
     "productAmount": 530,
     "depositPaid": 530,
-    "secondPayment": 0,
+    "secondPayment": 15,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 8,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 15,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -24051,7 +24051,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0120 咒術 ensky",
+    "sourceSheet": "★0120 咒術 ensky",
     "sourceMonth": "2026-01"
   },
   {
@@ -24063,14 +24063,14 @@
     ],
     "productAmount": 1060,
     "depositPaid": 1060,
-    "secondPayment": 0,
+    "secondPayment": 30,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 16,
+      "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 30,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -24085,7 +24085,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0120 咒術 ensky",
+    "sourceSheet": "★0120 咒術 ensky",
     "sourceMonth": "2026-01"
   },
   {
@@ -24097,14 +24097,14 @@
     ],
     "productAmount": 1060,
     "depositPaid": 1060,
-    "secondPayment": 0,
+    "secondPayment": 30,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 16,
+      "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 30,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -24119,7 +24119,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0120 咒術 ensky",
+    "sourceSheet": "★0120 咒術 ensky",
     "sourceMonth": "2026-01"
   },
   {
@@ -24131,14 +24131,14 @@
     ],
     "productAmount": 1060,
     "depositPaid": 1060,
-    "secondPayment": 0,
+    "secondPayment": 30,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 16,
+      "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 30,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -24153,7 +24153,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0120 咒術 ensky",
+    "sourceSheet": "★0120 咒術 ensky",
     "sourceMonth": "2026-01"
   },
   {
@@ -24165,14 +24165,14 @@
     ],
     "productAmount": 530,
     "depositPaid": 530,
-    "secondPayment": 0,
+    "secondPayment": 15,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 8,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 15,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -24183,7 +24183,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0120 咒術 ensky",
+    "sourceSheet": "★0120 咒術 ensky",
     "sourceMonth": "2026-01"
   },
   {
@@ -24195,14 +24195,14 @@
     ],
     "productAmount": 1590,
     "depositPaid": 1590,
-    "secondPayment": 0,
+    "secondPayment": 45,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 24,
+      "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 45,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -24217,7 +24217,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0120 咒術 ensky",
+    "sourceSheet": "★0120 咒術 ensky",
     "sourceMonth": "2026-01"
   },
   {
@@ -24229,14 +24229,14 @@
     ],
     "productAmount": 1060,
     "depositPaid": 1060,
-    "secondPayment": 0,
+    "secondPayment": 30,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 16,
+      "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 30,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -24251,7 +24251,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0120 咒術 ensky",
+    "sourceSheet": "★0120 咒術 ensky",
     "sourceMonth": "2026-01"
   },
   {
@@ -28962,7 +28962,7 @@
     },
     "balanceDue": 429,
     "etaText": "已抵台",
-    "paymentMethod": "轉帳",
+    "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -28982,10 +28982,11 @@
     "socialName": "君",
     "title": "0213咒術 JF2025",
     "statusBadges": [
-      "已抵台"
+      "已抵台",
+      "已付訂金"
     ],
     "productAmount": 735,
-    "depositPaid": 0,
+    "depositPaid": 735,
     "secondPayment": 53,
     "secondPaymentBreakdown": {
       "domesticShipping": 27,
@@ -28993,7 +28994,7 @@
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 788,
+    "balanceDue": 53,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29032,7 +29033,7 @@
     },
     "balanceDue": 377,
     "etaText": "已抵台",
-    "paymentMethod": "轉帳",
+    "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -29048,10 +29049,11 @@
     "socialName": "高八毛",
     "title": "0213咒術 JF2025",
     "statusBadges": [
-      "已抵台"
+      "已抵台",
+      "已付訂金"
     ],
     "productAmount": 390,
-    "depositPaid": 0,
+    "depositPaid": 390,
     "secondPayment": 39,
     "secondPaymentBreakdown": {
       "domesticShipping": 27,
@@ -29059,7 +29061,7 @@
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 429,
+    "balanceDue": 39,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
