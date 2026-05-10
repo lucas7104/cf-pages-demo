@@ -16020,7 +16020,7 @@
   },
   {
     "socialName": "減佐",
-    "title": "1211 鏈鋸人graniph",
+    "title": "1211 鏈鋸人 graniph",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -16045,12 +16045,12 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1211 鏈鋸人graniph ",
+    "sourceSheet": "★1211 鏈鋸人 graniph ",
     "sourceMonth": "2025_12"
   },
   {
     "socialName": "챠우뚱이",
-    "title": "1211 鏈鋸人graniph",
+    "title": "1211 鏈鋸人 graniph",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -16075,27 +16075,27 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1211 鏈鋸人graniph ",
+    "sourceSheet": "★1211 鏈鋸人 graniph ",
     "sourceMonth": "2025_12"
   },
   {
     "socialName": "菊米",
-    "title": "1211 鏈鋸人graniph",
+    "title": "1211 鏈鋸人 graniph",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1665,
     "depositPaid": 1965,
-    "secondPayment": 0,
+    "secondPayment": 144,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 122,
+      "cardFee": 22,
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "襪子缺貨",
@@ -16105,27 +16105,27 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1211 鏈鋸人graniph ",
+    "sourceSheet": "★1211 鏈鋸人 graniph ",
     "sourceMonth": "2025_12"
   },
   {
     "socialName": "Purin",
-    "title": "1211 鏈鋸人graniph",
+    "title": "1211 鏈鋸人 graniph",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 850,
     "depositPaid": 850,
-    "secondPayment": 0,
+    "secondPayment": 50,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 39,
+      "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "返台中",
+    "balanceDue": 50,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16135,7 +16135,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1211 鏈鋸人graniph ",
+    "sourceSheet": "★1211 鏈鋸人 graniph ",
     "sourceMonth": "2025_12"
   },
   {
@@ -22178,6 +22178,104 @@
     "sourceMonth": "2026-01"
   },
   {
+    "socialName": "高八毛",
+    "title": "0108 咒術 eeo班級合照",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 795,
+    "depositPaid": 795,
+    "secondPayment": 90,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 54,
+      "internationalShipping": 25,
+      "cardFee": 11,
+      "packagingFee": 0
+    },
+    "balanceDue": 90,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "班級合照1壓克力卡 (抱盒)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★0108 咒術 eeo班級合照",
+    "sourceMonth": "2026-01"
+  },
+  {
+    "socialName": "nako",
+    "title": "0108 咒術 eeo班級合照",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 440,
+    "depositPaid": 440,
+    "secondPayment": 80,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 54,
+      "internationalShipping": 20,
+      "cardFee": 6,
+      "packagingFee": 0
+    },
+    "balanceDue": 80,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "班級合照2硬質透明收納盒",
+        "qty": 1
+      },
+      {
+        "name": "班級合照1硬質透明收納盒",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★0108 咒術 eeo班級合照",
+    "sourceMonth": "2026-01"
+  },
+  {
+    "socialName": "季",
+    "title": "0108 咒術 eeo班級合照",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 440,
+    "depositPaid": 440,
+    "secondPayment": 80,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 54,
+      "internationalShipping": 20,
+      "cardFee": 6,
+      "packagingFee": 0
+    },
+    "balanceDue": 80,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "班級合照2硬質透明收納盒",
+        "qty": 1
+      },
+      {
+        "name": "班級合照1硬質透明收納盒",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★0108 咒術 eeo班級合照",
+    "sourceMonth": "2026-01"
+  },
+  {
     "socialName": "劉",
     "title": "0108 進巨 狼男",
     "statusBadges": [
@@ -22233,101 +22331,6 @@
       }
     ],
     "sourceSheet": "0108 進巨 狼男",
-    "sourceMonth": "2026-01"
-  },
-  {
-    "socialName": "高八毛",
-    "title": "0108咒術 eeo班級合照",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 795,
-    "depositPaid": 795,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "班級合照1壓克力卡 (抱盒)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0108咒術 eeo班級合照",
-    "sourceMonth": "2026-01"
-  },
-  {
-    "socialName": "nako",
-    "title": "0108咒術 eeo班級合照",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 440,
-    "depositPaid": 440,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "班級合照2硬質透明收納盒",
-        "qty": 1
-      },
-      {
-        "name": "班級合照1硬質透明收納盒",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0108咒術 eeo班級合照",
-    "sourceMonth": "2026-01"
-  },
-  {
-    "socialName": "季",
-    "title": "0108咒術 eeo班級合照",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 440,
-    "depositPaid": 440,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "班級合照2硬質透明收納盒",
-        "qty": 1
-      },
-      {
-        "name": "班級合照1硬質透明收納盒",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0108咒術 eeo班級合照",
     "sourceMonth": "2026-01"
   },
   {
