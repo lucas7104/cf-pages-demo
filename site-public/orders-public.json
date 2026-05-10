@@ -14048,14 +14048,14 @@
     ],
     "productAmount": 1340,
     "depositPaid": 1340,
-    "secondPayment": 0,
+    "secondPayment": 284,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 252,
+      "cardFee": 32,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 284,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14075,14 +14075,14 @@
     ],
     "productAmount": 1340,
     "depositPaid": 1340,
-    "secondPayment": 0,
+    "secondPayment": 284,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 252,
+      "cardFee": 32,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 284,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14103,14 +14103,14 @@
     ],
     "productAmount": 750,
     "depositPaid": 750,
-    "secondPayment": 0,
+    "secondPayment": 137,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 127,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 137,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41957,16 +41957,16 @@
     "socialName": "婷婷",
     "title": "「空白版」的副本",
     "statusBadges": [],
-    "productAmount": 3805,
+    "productAmount": 5775,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 131,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 46,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 85,
       "packagingFee": 0
     },
-    "balanceDue": 3805,
+    "balanceDue": 5906,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -41983,6 +41983,14 @@
       {
         "name": "JOJO照片卡集",
         "qty": 2
+      },
+      {
+        "name": "獵人徽章",
+        "qty": 4
+      },
+      {
+        "name": "海賊王藝術杯墊 (BOX)",
+        "qty": 1
       }
     ]
   },
@@ -41990,16 +41998,16 @@
     "socialName": "很累",
     "title": "「空白版」的副本",
     "statusBadges": [],
-    "productAmount": 960,
+    "productAmount": 2285,
     "depositPaid": 0,
-    "secondPayment": 16,
+    "secondPayment": 82,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 46,
       "internationalShipping": 0,
-      "cardFee": 16,
+      "cardFee": 36,
       "packagingFee": 0
     },
-    "balanceDue": 976,
+    "balanceDue": 2367,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -42008,6 +42016,10 @@
       {
         "name": "排少金屬鑰匙圈 Vol. 1",
         "qty": 4
+      },
+      {
+        "name": "我英包裝盒鑰匙圈",
+        "qty": 5
       }
     ]
   },
@@ -42015,41 +42027,51 @@
     "socialName": "++",
     "title": "「空白版」的副本",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 480,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 53,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 46,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 533,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "銀魂立牌 (土方)",
+        "qty": 1
+      }
+    ]
   },
   {
     "socialName": "Sandy Lin",
     "title": "「空白版」的副本",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 240,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 50,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 46,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 290,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "咒術迴戰大徽章",
+        "qty": 1
+      }
+    ]
   },
   {
     "socialName": "Xiu han",
