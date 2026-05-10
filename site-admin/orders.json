@@ -12084,14 +12084,14 @@
     ],
     "productAmount": 650,
     "depositPaid": 0,
-    "secondPayment": 21,
+    "secondPayment": 40,
     "secondPaymentBreakdown": {
       "domesticShipping": 21,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 10,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 671,
+    "balanceDue": 690,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -12102,7 +12102,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1123 咒術 五週年第二彈",
+    "sourceSheet": "★1123 咒術 五週年第二彈",
     "sourceMonth": "2025_11"
   },
   {
@@ -12114,14 +12114,14 @@
     ],
     "productAmount": 650,
     "depositPaid": 650,
-    "secondPayment": 21,
+    "secondPayment": 43,
     "secondPaymentBreakdown": {
       "domesticShipping": 21,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 13,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 21,
+    "balanceDue": 43,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12132,7 +12132,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1123 咒術 五週年第二彈",
+    "sourceSheet": "★1123 咒術 五週年第二彈",
     "sourceMonth": "2025_11"
   },
   {
@@ -12144,14 +12144,14 @@
     ],
     "productAmount": 890,
     "depositPaid": 890,
-    "secondPayment": 21,
+    "secondPayment": 55,
     "secondPaymentBreakdown": {
       "domesticShipping": 21,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 21,
+      "cardFee": 13,
       "packagingFee": 0
     },
-    "balanceDue": 21,
+    "balanceDue": 55,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12166,7 +12166,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1123 咒術 五週年第二彈",
+    "sourceSheet": "★1123 咒術 五週年第二彈",
     "sourceMonth": "2025_11"
   },
   {
@@ -12178,14 +12178,14 @@
     ],
     "productAmount": 650,
     "depositPaid": 650,
-    "secondPayment": 21,
+    "secondPayment": 43,
     "secondPaymentBreakdown": {
       "domesticShipping": 21,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 13,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 21,
+    "balanceDue": 43,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12196,7 +12196,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1123 咒術 五週年第二彈",
+    "sourceSheet": "★1123 咒術 五週年第二彈",
     "sourceMonth": "2025_11"
   },
   {
@@ -12208,14 +12208,14 @@
     ],
     "productAmount": 650,
     "depositPaid": 650,
-    "secondPayment": 21,
+    "secondPayment": 43,
     "secondPaymentBreakdown": {
       "domesticShipping": 21,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 13,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 21,
+    "balanceDue": 43,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12226,7 +12226,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1123 咒術 五週年第二彈",
+    "sourceSheet": "★1123 咒術 五週年第二彈",
     "sourceMonth": "2025_11"
   },
   {
@@ -12238,14 +12238,14 @@
     ],
     "productAmount": 650,
     "depositPaid": 650,
-    "secondPayment": 21,
+    "secondPayment": 43,
     "secondPaymentBreakdown": {
       "domesticShipping": 21,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 13,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 21,
+    "balanceDue": 43,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12256,7 +12256,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1123 咒術 五週年第二彈",
+    "sourceSheet": "★1123 咒術 五週年第二彈",
     "sourceMonth": "2025_11"
   },
   {
@@ -12268,14 +12268,14 @@
     ],
     "productAmount": 650,
     "depositPaid": 650,
-    "secondPayment": 21,
+    "secondPayment": 43,
     "secondPaymentBreakdown": {
       "domesticShipping": 21,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 13,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 21,
+    "balanceDue": 43,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12286,7 +12286,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1123 咒術 五週年第二彈",
+    "sourceSheet": "★1123 咒術 五週年第二彈",
     "sourceMonth": "2025_11"
   },
   {
@@ -12298,14 +12298,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 21,
+    "secondPayment": 30,
     "secondPaymentBreakdown": {
       "domesticShipping": 21,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 3,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 21,
+    "balanceDue": 30,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12316,7 +12316,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1123 咒術 五週年第二彈",
+    "sourceSheet": "★1123 咒術 五週年第二彈",
     "sourceMonth": "2025_11"
   },
   {
