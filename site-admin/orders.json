@@ -8603,6 +8603,47 @@
     "sourceMonth": "2025_11"
   },
   {
+    "socialName": "絈",
+    "title": "1114進巨Amnibus復古時尚",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 2285,
+    "depositPaid": 2285,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "特大立牌 ( 里維)",
+        "qty": 1
+      },
+      {
+        "name": "一般尺寸立牌 ( 里維)",
+        "qty": 2
+      },
+      {
+        "name": "大徽章 ( 里維)",
+        "qty": 1
+      },
+      {
+        "name": "壓克力鑰匙圈 ( 里維)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1114進巨Amnibus復古時尚",
+    "sourceMonth": "2025_11"
+  },
+  {
     "socialName": "加加（++)",
     "title": "1114鏈鋸人Look up",
     "statusBadges": [
@@ -11812,47 +11853,6 @@
       }
     ],
     "sourceSheet": "1120芙莉蓮ensky周邊",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "絈",
-    "title": "1120進巨Amnibus復古時尚",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 2285,
-    "depositPaid": 2285,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "特大立牌 ( 里維)",
-        "qty": 1
-      },
-      {
-        "name": "一般尺寸立牌 ( 里維)",
-        "qty": 2
-      },
-      {
-        "name": "大徽章 ( 里維)",
-        "qty": 1
-      },
-      {
-        "name": "壓克力鑰匙圈 ( 里維)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1120進巨Amnibus復古時尚",
     "sourceMonth": "2025_11"
   },
   {
@@ -31221,14 +31221,14 @@
     ],
     "productAmount": 1000,
     "depositPaid": 1000,
-    "secondPayment": 20,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
       "domesticShipping": 20,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 20,
+    "balanceDue": 35,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
