@@ -28674,14 +28674,14 @@
     ],
     "productAmount": 3570,
     "depositPaid": 3570,
-    "secondPayment": 235,
+    "secondPayment": 355,
     "secondPaymentBreakdown": {
       "domesticShipping": 187,
-      "internationalShipping": 0,
+      "internationalShipping": 120,
       "cardFee": 48,
       "packagingFee": 0
     },
-    "balanceDue": 235,
+    "balanceDue": 355,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28742,14 +28742,14 @@
     ],
     "productAmount": 795,
     "depositPaid": 795,
-    "secondPayment": 79,
+    "secondPayment": 106,
     "secondPaymentBreakdown": {
       "domesticShipping": 68,
-      "internationalShipping": 0,
+      "internationalShipping": 27,
       "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 79,
+    "balanceDue": 106,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44661,7 +44661,7 @@
     "socialName": "婷婷",
     "title": "「空白版」的副本",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 3805,
     "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -44670,7 +44670,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 3805,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -44679,6 +44679,14 @@
       {
         "name": "我英數據卡",
         "qty": 8
+      },
+      {
+        "name": "膽大黨徽章",
+        "qty": 3
+      },
+      {
+        "name": "JOJO照片卡集",
+        "qty": 2
       }
     ],
     "sourceSheet": "「空白版」的副本",
@@ -44688,21 +44696,26 @@
     "socialName": "很累",
     "title": "「空白版」的副本",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 960,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 16,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 16,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 976,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "排少金屬鑰匙圈 Vol. 1",
+        "qty": 4
+      }
+    ],
     "sourceSheet": "「空白版」的副本",
     "sourceMonth": "2026-04"
   },
