@@ -8651,7 +8651,7 @@
       "已抵台",
       "已付訂金"
     ],
-    "productAmount": 0,
+    "productAmount": 575,
     "depositPaid": 475,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -8660,12 +8660,25 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "徽章 (亞妮)",
+        "qty": 1
+      },
+      {
+        "name": "A5場面寫 (亞妮)",
+        "qty": 1
+      },
+      {
+        "name": "海報 (亞妮)",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "1114進巨Amnibus復古時尚",
     "sourceMonth": "2025_11"
   },
@@ -23939,7 +23952,7 @@
     "socialName": "Peggy",
     "title": "0120 咒術 ensky",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2435,
@@ -23952,7 +23965,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -23981,7 +23994,7 @@
     "socialName": "高八毛",
     "title": "0120 咒術 ensky",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1690,
@@ -23994,7 +24007,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24015,7 +24028,7 @@
     "socialName": "enterainment__rose",
     "title": "0120 咒術 ensky",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 530,
@@ -24028,7 +24041,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24045,7 +24058,7 @@
     "socialName": "呱..",
     "title": "0120 咒術 ensky",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1060,
@@ -24058,7 +24071,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24079,7 +24092,7 @@
     "socialName": "君",
     "title": "0120 咒術 ensky",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1060,
@@ -24092,7 +24105,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24113,7 +24126,7 @@
     "socialName": "Thorns",
     "title": "0120 咒術 ensky",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1060,
@@ -24126,7 +24139,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24147,7 +24160,7 @@
     "socialName": "Sora",
     "title": "0120 咒術 ensky",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 530,
@@ -24160,7 +24173,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24177,7 +24190,7 @@
     "socialName": "安安你好",
     "title": "0120 咒術 ensky",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1590,
@@ -24190,7 +24203,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24211,7 +24224,7 @@
     "socialName": "舒芙蕾",
     "title": "0120 咒術 ensky",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1060,
@@ -24224,7 +24237,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
