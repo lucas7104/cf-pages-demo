@@ -12935,14 +12935,14 @@
     ],
     "productAmount": 2505,
     "depositPaid": 2505,
-    "secondPayment": 75,
+    "secondPayment": 102,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 39,
+      "internationalShipping": 66,
       "cardFee": 36,
       "packagingFee": 0
     },
-    "balanceDue": 75,
+    "balanceDue": 102,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -13015,14 +13015,14 @@
     ],
     "productAmount": 1160,
     "depositPaid": 1160,
-    "secondPayment": 31,
+    "secondPayment": 38,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 18,
+      "internationalShipping": 25,
       "cardFee": 13,
       "packagingFee": 0
     },
-    "balanceDue": 31,
+    "balanceDue": 38,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -13055,14 +13055,14 @@
     ],
     "productAmount": 2560,
     "depositPaid": 2560,
-    "secondPayment": 73,
+    "secondPayment": 116,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 40,
+      "internationalShipping": 83,
       "cardFee": 33,
       "packagingFee": 0
     },
-    "balanceDue": 73,
+    "balanceDue": 116,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -13103,14 +13103,14 @@
     ],
     "productAmount": 1160,
     "depositPaid": 1160,
-    "secondPayment": 31,
+    "secondPayment": 38,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 18,
+      "internationalShipping": 25,
       "cardFee": 13,
       "packagingFee": 0
     },
-    "balanceDue": 31,
+    "balanceDue": 38,
     "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -13143,14 +13143,14 @@
     ],
     "productAmount": 670,
     "depositPaid": 670,
-    "secondPayment": 7,
+    "secondPayment": 27,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 20,
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 7,
+    "balanceDue": 27,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -15109,19 +15109,20 @@
     "socialName": "Eilish",
     "title": "1212 我英 Jump Festa 2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 600,
     "depositPaid": 600,
-    "secondPayment": 9,
+    "secondPayment": 32,
     "secondPaymentBreakdown": {
       "domesticShipping": 9,
-      "internationalShipping": 0,
+      "internationalShipping": 23,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 9,
-    "etaText": "待公告",
+    "balanceDue": 32,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -15136,19 +15137,20 @@
     "socialName": "菊米",
     "title": "1212 我英 Jump Festa 2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 600,
     "depositPaid": 600,
-    "secondPayment": 9,
+    "secondPayment": 32,
     "secondPaymentBreakdown": {
       "domesticShipping": 9,
-      "internationalShipping": 0,
+      "internationalShipping": 23,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 9,
-    "etaText": "待公告",
+    "balanceDue": 32,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -15163,19 +15165,20 @@
     "socialName": "高雄酒吧有鏈鋸人海報",
     "title": "1212 我英 Jump Festa 2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 600,
     "depositPaid": 600,
-    "secondPayment": 9,
+    "secondPayment": 32,
     "secondPaymentBreakdown": {
       "domesticShipping": 9,
-      "internationalShipping": 0,
+      "internationalShipping": 23,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 9,
-    "etaText": "待公告",
+    "balanceDue": 32,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -15190,19 +15193,20 @@
     "socialName": "su",
     "title": "1212 我英 Jump Festa 2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 600,
     "depositPaid": 600,
-    "secondPayment": 9,
+    "secondPayment": 32,
     "secondPaymentBreakdown": {
       "domesticShipping": 9,
-      "internationalShipping": 0,
+      "internationalShipping": 23,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 9,
-    "etaText": "待公告",
+    "balanceDue": 32,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -15217,19 +15221,20 @@
     "socialName": "K",
     "title": "1212 我英 Jump Festa 2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 600,
     "depositPaid": 600,
-    "secondPayment": 9,
+    "secondPayment": 32,
     "secondPaymentBreakdown": {
       "domesticShipping": 9,
-      "internationalShipping": 0,
+      "internationalShipping": 23,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 9,
-    "etaText": "待公告",
+    "balanceDue": 32,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -15244,19 +15249,20 @@
     "socialName": "piao",
     "title": "1212 我英 Jump Festa 2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 985,
     "depositPaid": 985,
-    "secondPayment": 9,
+    "secondPayment": 42,
     "secondPaymentBreakdown": {
       "domesticShipping": 9,
-      "internationalShipping": 0,
+      "internationalShipping": 33,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 9,
-    "etaText": "待公告",
+    "balanceDue": 42,
+    "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -15279,19 +15285,20 @@
     "socialName": "Meoooooow",
     "title": "1212 我英 Jump Festa 2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 600,
     "depositPaid": 600,
-    "secondPayment": 9,
+    "secondPayment": 32,
     "secondPaymentBreakdown": {
       "domesticShipping": 9,
-      "internationalShipping": 0,
+      "internationalShipping": 23,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 9,
-    "etaText": "待公告",
+    "balanceDue": 32,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -15306,19 +15313,20 @@
     "socialName": "瑞斯",
     "title": "1212 我英 Jump Festa 2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 600,
     "depositPaid": 600,
-    "secondPayment": 9,
+    "secondPayment": 32,
     "secondPaymentBreakdown": {
       "domesticShipping": 9,
-      "internationalShipping": 0,
+      "internationalShipping": 23,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 9,
-    "etaText": "待公告",
+    "balanceDue": 32,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -15333,6 +15341,7 @@
     "socialName": "溫妮",
     "title": "1212 我英 Jump Festa 2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 120,
@@ -15345,7 +15354,7 @@
       "packagingFee": 0
     },
     "balanceDue": 9,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -28186,14 +28195,14 @@
     ],
     "productAmount": 240,
     "depositPaid": 240,
-    "secondPayment": 84,
+    "secondPayment": 95,
     "secondPaymentBreakdown": {
       "domesticShipping": 84,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 7,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 84,
+    "balanceDue": 95,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28884,6 +28893,61 @@
       {
         "name": "桌曆",
         "qty": 2
+      }
+    ]
+  },
+  {
+    "socialName": "早ㄢ",
+    "title": "「0218進巨 浴衣 四重奏」的副本",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 240,
+    "depositPaid": 240,
+    "secondPayment": 95,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 84,
+      "internationalShipping": 7,
+      "cardFee": 4,
+      "packagingFee": 0
+    },
+    "balanceDue": 95,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "皮革證件套 (艾爾文)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "TYT",
+    "title": "「0218進巨 浴衣 四重奏」的副本",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 480,
+    "depositPaid": 480,
+    "secondPayment": 124,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 124,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 124,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "浴衣正比立牌 (里維)",
+        "qty": 1
       }
     ]
   },
