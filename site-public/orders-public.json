@@ -8102,6 +8102,28 @@
     ]
   },
   {
+    "socialName": "piao",
+    "title": "1114進巨Amnibus復古時尚",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 0,
+    "depositPaid": 475,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "無卡",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": []
+  },
+  {
     "socialName": "加加（++)",
     "title": "1114鏈鋸人Look up",
     "statusBadges": [
@@ -29301,14 +29323,14 @@
     ],
     "productAmount": 1000,
     "depositPaid": 1000,
-    "secondPayment": 35,
+    "secondPayment": 77,
     "secondPaymentBreakdown": {
       "domesticShipping": 20,
-      "internationalShipping": 0,
+      "internationalShipping": 42,
       "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 35,
+    "balanceDue": 77,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29329,14 +29351,14 @@
     ],
     "productAmount": 2000,
     "depositPaid": 2000,
-    "secondPayment": 50,
+    "secondPayment": 110,
     "secondPaymentBreakdown": {
       "domesticShipping": 20,
-      "internationalShipping": 0,
+      "internationalShipping": 60,
       "cardFee": 30,
       "packagingFee": 0
     },
-    "balanceDue": 50,
+    "balanceDue": 110,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29385,14 +29407,14 @@
     ],
     "productAmount": 1000,
     "depositPaid": 1000,
-    "secondPayment": 35,
+    "secondPayment": 65,
     "secondPaymentBreakdown": {
       "domesticShipping": 20,
-      "internationalShipping": 0,
+      "internationalShipping": 30,
       "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 35,
+    "balanceDue": 65,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29413,14 +29435,14 @@
     ],
     "productAmount": 210,
     "depositPaid": 200,
-    "secondPayment": 23,
+    "secondPayment": 27,
     "secondPaymentBreakdown": {
       "domesticShipping": 20,
-      "internationalShipping": 0,
+      "internationalShipping": 4,
       "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 33,
+    "balanceDue": 37,
     "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -29469,14 +29491,14 @@
     ],
     "productAmount": 1200,
     "depositPaid": 1200,
-    "secondPayment": 38,
+    "secondPayment": 119,
     "secondPaymentBreakdown": {
       "domesticShipping": 20,
-      "internationalShipping": 0,
+      "internationalShipping": 81,
       "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 38,
+    "balanceDue": 119,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
