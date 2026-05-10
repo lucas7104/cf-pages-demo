@@ -24017,7 +24017,7 @@
         "qty": 1
       },
       {
-        "name": "透卡口香糖",
+        "name": "懷玉玉折透卡口香糖",
         "qty": 1
       }
     ],
@@ -28951,16 +28951,16 @@
     "statusBadges": [
       "已抵台"
     ],
-    "productAmount": 450,
+    "productAmount": 390,
     "depositPaid": 0,
-    "secondPayment": 187,
+    "secondPayment": 33,
     "secondPaymentBreakdown": {
-      "domesticShipping": 187,
+      "domesticShipping": 27,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 637,
+    "balanceDue": 423,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28984,16 +28984,16 @@
     "statusBadges": [
       "已抵台"
     ],
-    "productAmount": 1335,
+    "productAmount": 735,
     "depositPaid": 0,
-    "secondPayment": 61,
+    "secondPayment": 39,
     "secondPaymentBreakdown": {
-      "domesticShipping": 51,
+      "domesticShipping": 27,
       "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 10
+      "cardFee": 12,
+      "packagingFee": 0
     },
-    "balanceDue": 1396,
+    "balanceDue": 774,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29021,16 +29021,16 @@
     "statusBadges": [
       "已抵台"
     ],
-    "productAmount": 795,
+    "productAmount": 340,
     "depositPaid": 0,
-    "secondPayment": 68,
+    "secondPayment": 32,
     "secondPaymentBreakdown": {
-      "domesticShipping": 68,
+      "domesticShipping": 27,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 863,
+    "balanceDue": 372,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29050,18 +29050,18 @@
     "statusBadges": [
       "已抵台"
     ],
-    "productAmount": 450,
+    "productAmount": 390,
     "depositPaid": 0,
-    "secondPayment": 61,
+    "secondPayment": 33,
     "secondPaymentBreakdown": {
-      "domesticShipping": 51,
+      "domesticShipping": 27,
       "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 10
+      "cardFee": 6,
+      "packagingFee": 0
     },
-    "balanceDue": 511,
+    "balanceDue": 423,
     "etaText": "已抵台",
-    "paymentMethod": "無卡",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -29083,16 +29083,16 @@
     "statusBadges": [
       "已抵台"
     ],
-    "productAmount": 990,
+    "productAmount": 340,
     "depositPaid": 0,
-    "secondPayment": 61,
+    "secondPayment": 32,
     "secondPaymentBreakdown": {
-      "domesticShipping": 51,
+      "domesticShipping": 27,
       "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 10
+      "cardFee": 5,
+      "packagingFee": 0
     },
-    "balanceDue": 1051,
+    "balanceDue": 372,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29110,18 +29110,18 @@
     "socialName": "Peggy",
     "title": "0213咒術 JF2025",
     "statusBadges": [],
-    "productAmount": 450,
+    "productAmount": 390,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 33,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 450,
+    "balanceDue": 423,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
