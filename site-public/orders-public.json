@@ -17555,7 +17555,7 @@
     "socialName": "每天都想退休",
     "title": "1220 鬼滅Relo Hotels &Resorts",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 135,
@@ -17568,7 +17568,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -17583,7 +17583,7 @@
     "socialName": "vivian_lai372",
     "title": "1220 鬼滅Relo Hotels &Resorts",
     "statusBadges": [
-      "返台中"
+      "已抵台"
     ],
     "productAmount": 665,
     "depositPaid": 0,
@@ -17595,7 +17595,7 @@
       "packagingFee": 0
     },
     "balanceDue": 665,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
