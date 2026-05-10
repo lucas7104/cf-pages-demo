@@ -18885,14 +18885,14 @@
     ],
     "productAmount": 560,
     "depositPaid": 560,
-    "secondPayment": 33,
+    "secondPayment": 114,
     "secondPaymentBreakdown": {
-      "domesticShipping": 33,
+      "domesticShipping": 114,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 33,
+    "balanceDue": 114,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29112,25 +29112,26 @@
     "socialName": "季",
     "title": "私人委託",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1030,
     "depositPaid": 1030,
-    "secondPayment": 0,
+    "secondPayment": 111,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 81,
+      "internationalShipping": 16,
+      "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "待公告",
+    "balanceDue": 111,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "伏黑 立牌",
+        "name": "伏黑 貼紙",
         "qty": 1
       },
       {
