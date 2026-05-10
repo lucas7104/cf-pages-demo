@@ -11895,6 +11895,150 @@
     "sourceMonth": "2025_11"
   },
   {
+    "socialName": "盤子",
+    "title": "1120進巨 荷官",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 455,
+    "depositPaid": 455,
+    "secondPayment": 31,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 31,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 31,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "卡套 (萊納)",
+        "qty": 1
+      },
+      {
+        "name": "Q立 (萊納)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1120進巨 荷官",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "Huang",
+    "title": "1120進巨 荷官",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 325,
+    "depositPaid": 325,
+    "secondPayment": 31,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 31,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 31,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "卡套 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "資料夾 (里維)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1120進巨 荷官",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "TYT",
+    "title": "1120進巨 荷官",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 565,
+    "depositPaid": 565,
+    "secondPayment": 31,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 31,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 31,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "卡套 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "Q立 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "貼紙 (里維)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1120進巨 荷官",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "An",
+    "title": "1120進巨 荷官",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 440,
+    "depositPaid": 440,
+    "secondPayment": 31,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 31,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 31,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "貼紙 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "貼紙 (漢吉)",
+        "qty": 1
+      },
+      {
+        "name": "貼紙 (艾連)",
+        "qty": 1
+      },
+      {
+        "name": "貼紙 (艾爾文)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1120進巨 荷官",
+    "sourceMonth": "2025_11"
+  },
+  {
     "socialName": "Vivian_lai372",
     "title": "1123 咒術pochimart",
     "statusBadges": [
@@ -13669,138 +13813,6 @@
       }
     ],
     "sourceSheet": "★1129咒術 TOHO澀谷事變x死滅洄游",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "盤子",
-    "title": "1130進巨 荷官",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 455,
-    "depositPaid": 455,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "卡套 (萊納)",
-        "qty": 1
-      },
-      {
-        "name": "立牌 (萊納)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1130進巨 荷官",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "Huang",
-    "title": "1130進巨 荷官",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 325,
-    "depositPaid": 325,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "卡套 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "資料夾 (里維)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1130進巨 荷官",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "TYT",
-    "title": "1130進巨 荷官",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 565,
-    "depositPaid": 565,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "卡套 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "Q立 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "貼紙 (里維)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1130進巨 荷官",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "An",
-    "title": "1130進巨 荷官",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 440,
-    "depositPaid": 440,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "一組貼紙",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1130進巨 荷官",
     "sourceMonth": "2025_11"
   },
   {
