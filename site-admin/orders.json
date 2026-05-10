@@ -31305,18 +31305,18 @@
     ],
     "productAmount": 2200,
     "depositPaid": 2200,
-    "secondPayment": 53,
+    "secondPayment": 179,
     "secondPaymentBreakdown": {
       "domesticShipping": 20,
-      "internationalShipping": 0,
+      "internationalShipping": 126,
       "cardFee": 33,
       "packagingFee": 0
     },
-    "balanceDue": 53,
+    "balanceDue": 179,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "M*3、N*2、L、K*4",
+    "note": "M*3、N*2、L、K*4、D",
     "items": [
       {
         "name": "五抽",
@@ -31436,7 +31436,7 @@
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "L*3、D、K",
+    "note": "L*3、D、K、L",
     "items": [
       {
         "name": "五抽",
