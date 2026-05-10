@@ -18198,6 +18198,325 @@
     "sourceMonth": "2025_12"
   },
   {
+    "socialName": "cc",
+    "title": "1219 咒術 旅遊系列",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 450,
+    "depositPaid": 450,
+    "secondPayment": 17,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 17,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 17,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "五條立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1219 咒術 旅遊系列",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "江蘇菲",
+    "title": "1219 咒術 旅遊系列",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 215,
+    "depositPaid": 215,
+    "secondPayment": 17,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 17,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 17,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "明信片套裝",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1219 咒術 旅遊系列",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "Peggy",
+    "title": "1219 咒術 旅遊系列",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 450,
+    "depositPaid": 450,
+    "secondPayment": 17,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 17,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 17,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "五條立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1219 咒術 旅遊系列",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "芭樂",
+    "title": "1219 咒術 旅遊系列",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 1155,
+    "depositPaid": 1155,
+    "secondPayment": 17,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 17,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 17,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "五條立牌",
+        "qty": 1
+      },
+      {
+        "name": "徽章",
+        "qty": 2
+      },
+      {
+        "name": "透卡",
+        "qty": 2
+      },
+      {
+        "name": "明信片套裝",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1219 咒術 旅遊系列",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "君",
+    "title": "1219 咒術 旅遊系列",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 245,
+    "depositPaid": 245,
+    "secondPayment": 17,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 17,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 17,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "徽章",
+        "qty": 1
+      },
+      {
+        "name": "透卡",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1219 咒術 旅遊系列",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "vivian_lai372",
+    "title": "1219 咒術 旅遊系列",
+    "statusBadges": [
+      "已抵台"
+    ],
+    "productAmount": 450,
+    "depositPaid": 0,
+    "secondPayment": 17,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 17,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 467,
+    "etaText": "已抵台",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "五條立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1219 咒術 旅遊系列",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "Ruan",
+    "title": "1219 咒術 旅遊系列",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 665,
+    "depositPaid": 665,
+    "secondPayment": 17,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 17,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 17,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "五條立牌",
+        "qty": 1
+      },
+      {
+        "name": "明信片套裝",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1219 咒術 旅遊系列",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "鴨",
+    "title": "1219 咒術 旅遊系列",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 215,
+    "depositPaid": 215,
+    "secondPayment": 17,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 17,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 17,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "明信片套裝",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1219 咒術 旅遊系列",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "Qianti",
+    "title": "1219 咒術 旅遊系列",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 450,
+    "depositPaid": 450,
+    "secondPayment": 17,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 17,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 17,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "五條立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1219 咒術 旅遊系列",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "Li lee",
+    "title": "1219 咒術 旅遊系列",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 215,
+    "depositPaid": 215,
+    "secondPayment": 17,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 17,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 17,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "明信片套裝",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1219 咒術 旅遊系列",
+    "sourceMonth": "2025_12"
+  },
+  {
     "socialName": "絈",
     "title": "1219 進巨 憤怒系列",
     "statusBadges": [
@@ -19051,314 +19370,6 @@
       }
     ],
     "sourceSheet": "★1224進巨 Emotional wind",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "cc",
-    "title": "1226咒術 旅遊系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 450,
-    "depositPaid": 450,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "五條立牌",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1226咒術 旅遊系列",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "江蘇菲",
-    "title": "1226咒術 旅遊系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 215,
-    "depositPaid": 215,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "明信片套裝",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1226咒術 旅遊系列",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "Peggy",
-    "title": "1226咒術 旅遊系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 450,
-    "depositPaid": 450,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "五條立牌",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1226咒術 旅遊系列",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "芭樂",
-    "title": "1226咒術 旅遊系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1155,
-    "depositPaid": 1155,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "五條立牌",
-        "qty": 1
-      },
-      {
-        "name": "徽章",
-        "qty": 2
-      },
-      {
-        "name": "透卡",
-        "qty": 2
-      },
-      {
-        "name": "明信片套裝",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1226咒術 旅遊系列",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "君",
-    "title": "1226咒術 旅遊系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 245,
-    "depositPaid": 245,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "徽章",
-        "qty": 1
-      },
-      {
-        "name": "透卡",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1226咒術 旅遊系列",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "vivian_lai372",
-    "title": "1226咒術 旅遊系列",
-    "statusBadges": [],
-    "productAmount": 450,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 450,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "五條立牌",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1226咒術 旅遊系列",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "Ruan",
-    "title": "1226咒術 旅遊系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 665,
-    "depositPaid": 665,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "五條立牌",
-        "qty": 1
-      },
-      {
-        "name": "明信片套裝",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1226咒術 旅遊系列",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "鴨",
-    "title": "1226咒術 旅遊系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 215,
-    "depositPaid": 215,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "明信片套裝",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1226咒術 旅遊系列",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "Qianti",
-    "title": "1226咒術 旅遊系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 450,
-    "depositPaid": 450,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "五條立牌",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1226咒術 旅遊系列",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "Li lee",
-    "title": "1226咒術 旅遊系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 215,
-    "depositPaid": 215,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "明信片套裝",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1226咒術 旅遊系列",
     "sourceMonth": "2025_12"
   },
   {
