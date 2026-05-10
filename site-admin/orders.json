@@ -25918,14 +25918,14 @@
     ],
     "productAmount": 265,
     "depositPaid": 265,
-    "secondPayment": 6,
+    "secondPayment": 45,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 39,
       "internationalShipping": 2,
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 6,
+    "balanceDue": 45,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25947,14 +25947,14 @@
     ],
     "productAmount": 265,
     "depositPaid": 265,
-    "secondPayment": 6,
+    "secondPayment": 45,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 39,
       "internationalShipping": 2,
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 6,
+    "balanceDue": 45,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25976,14 +25976,14 @@
     ],
     "productAmount": 795,
     "depositPaid": 795,
-    "secondPayment": 64,
+    "secondPayment": 103,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 39,
       "internationalShipping": 53,
       "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 64,
+    "balanceDue": 103,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26001,20 +26001,20 @@
     "socialName": "豬子",
     "title": "0128芙莉蓮 盲抽貼紙",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 320,
     "depositPaid": 320,
-    "secondPayment": 0,
+    "secondPayment": 16,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 10,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "返台中",
+    "balanceDue": 16,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26028,27 +26028,27 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0128芙莉蓮 盲抽貼紙",
+    "sourceSheet": "★0128芙莉蓮 盲抽貼紙",
     "sourceMonth": "2026-01"
   },
   {
     "socialName": "snailll",
     "title": "0128芙莉蓮 盲抽貼紙",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1600,
     "depositPaid": 1600,
-    "secondPayment": 0,
+    "secondPayment": 80,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 50,
+      "cardFee": 30,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "返台中",
+    "balanceDue": 80,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26062,27 +26062,27 @@
         "qty": 5
       }
     ],
-    "sourceSheet": "0128芙莉蓮 盲抽貼紙",
+    "sourceSheet": "★0128芙莉蓮 盲抽貼紙",
     "sourceMonth": "2026-01"
   },
   {
     "socialName": "TYT",
     "title": "0128芙莉蓮 盲抽貼紙",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 960,
     "depositPaid": 960,
-    "secondPayment": 0,
+    "secondPayment": 48,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 30,
+      "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "返台中",
+    "balanceDue": 48,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26096,14 +26096,14 @@
         "qty": 3
       }
     ],
-    "sourceSheet": "0128芙莉蓮 盲抽貼紙",
+    "sourceSheet": "★0128芙莉蓮 盲抽貼紙",
     "sourceMonth": "2026-01"
   },
   {
     "socialName": "鴨",
     "title": "0128芙莉蓮 盲抽貼紙",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 320,
@@ -26116,7 +26116,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26130,14 +26130,14 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0128芙莉蓮 盲抽貼紙",
+    "sourceSheet": "★0128芙莉蓮 盲抽貼紙",
     "sourceMonth": "2026-01"
   },
   {
     "socialName": "希亞",
     "title": "0128芙莉蓮 盲抽貼紙",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 640,
@@ -26150,7 +26150,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26164,7 +26164,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0128芙莉蓮 盲抽貼紙",
+    "sourceSheet": "★0128芙莉蓮 盲抽貼紙",
     "sourceMonth": "2026-01"
   },
   {
