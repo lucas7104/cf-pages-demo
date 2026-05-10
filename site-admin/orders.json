@@ -5728,19 +5728,20 @@
     "socialName": "lpp_ss",
     "title": "1101鏈鋸人 x Tenorin糰子娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1395,
     "depositPaid": 1395,
-    "secondPayment": 53,
+    "secondPayment": 196,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 125,
       "internationalShipping": 53,
-      "cardFee": 0,
+      "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 53,
-    "etaText": "待公告",
+    "balanceDue": 196,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -5750,7 +5751,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1101鏈鋸人  x  Tenorin糰子娃",
+    "sourceSheet": "★1101鏈鋸人  x  Tenorin糰子娃",
     "sourceMonth": "2025_11"
   },
   {
@@ -12077,6 +12078,249 @@
   },
   {
     "socialName": "Vivian_lai372",
+    "title": "1123 咒術 五週年第二彈",
+    "statusBadges": [
+      "已抵台"
+    ],
+    "productAmount": 650,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 650,
+    "etaText": "已抵台",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "燙金小卡抱盒",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1123 咒術 五週年第二彈",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "cc",
+    "title": "1123 咒術 五週年第二彈",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 650,
+    "depositPaid": 650,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "燙金小卡抱盒",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1123 咒術 五週年第二彈",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "Kaho",
+    "title": "1123 咒術 五週年第二彈",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 890,
+    "depositPaid": 890,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "燙金小卡抱盒",
+        "qty": 1
+      },
+      {
+        "name": "明信片套組",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1123 咒術 五週年第二彈",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "高八毛",
+    "title": "1123 咒術 五週年第二彈",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 650,
+    "depositPaid": 650,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "燙金小卡抱盒",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1123 咒術 五週年第二彈",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "Peggy",
+    "title": "1123 咒術 五週年第二彈",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 650,
+    "depositPaid": 650,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "燙金小卡抱盒",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1123 咒術 五週年第二彈",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "君",
+    "title": "1123 咒術 五週年第二彈",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 650,
+    "depositPaid": 650,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "燙金小卡抱盒",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1123 咒術 五週年第二彈",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "R",
+    "title": "1123 咒術 五週年第二彈",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 650,
+    "depositPaid": 650,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "燙金小卡抱盒",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1123 咒術 五週年第二彈",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "TT",
+    "title": "1123 咒術 五週年第二彈",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 400,
+    "depositPaid": 400,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (狗卷棘)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1123 咒術 五週年第二彈",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "Vivian_lai372",
     "title": "1123 咒術pochimart",
     "statusBadges": [
       "已抵台"
@@ -17100,240 +17344,6 @@
       }
     ],
     "sourceSheet": "★1212咒術 Jump Festa 2026",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "Vivian_lai372",
-    "title": "1214咒術五週年第二彈",
-    "statusBadges": [],
-    "productAmount": 650,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 650,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "燙金小卡抱盒",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1214咒術五週年第二彈",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "cc",
-    "title": "1214咒術五週年第二彈",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 650,
-    "depositPaid": 650,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "燙金小卡抱盒",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1214咒術五週年第二彈",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "Kaho",
-    "title": "1214咒術五週年第二彈",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 890,
-    "depositPaid": 890,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "燙金小卡抱盒",
-        "qty": 1
-      },
-      {
-        "name": "明信片套組",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1214咒術五週年第二彈",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "高八毛",
-    "title": "1214咒術五週年第二彈",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 650,
-    "depositPaid": 650,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "燙金小卡抱盒",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1214咒術五週年第二彈",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "Peggy",
-    "title": "1214咒術五週年第二彈",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 650,
-    "depositPaid": 650,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "燙金小卡抱盒",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1214咒術五週年第二彈",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "君",
-    "title": "1214咒術五週年第二彈",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 650,
-    "depositPaid": 650,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "燙金小卡抱盒",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1214咒術五週年第二彈",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "R",
-    "title": "1214咒術五週年第二彈",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 650,
-    "depositPaid": 650,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "燙金小卡抱盒",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1214咒術五週年第二彈",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "TT",
-    "title": "1214咒術五週年第二彈",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 400,
-    "depositPaid": 400,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌 (狗卷棘)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1214咒術五週年第二彈",
     "sourceMonth": "2025_12"
   },
   {
