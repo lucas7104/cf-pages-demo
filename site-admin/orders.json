@@ -13768,6 +13768,7 @@
     "socialName": "絈",
     "title": "1201進巨 amnibus",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2505,
@@ -13780,7 +13781,7 @@
       "packagingFee": 0
     },
     "balanceDue": 75,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -13813,6 +13814,7 @@
     "socialName": "lin",
     "title": "1201進巨 amnibus",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1440,
@@ -13825,7 +13827,7 @@
       "packagingFee": 0
     },
     "balanceDue": 87,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -13850,6 +13852,7 @@
     "socialName": "Jolyne",
     "title": "1201進巨 amnibus",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1160,
@@ -13862,7 +13865,7 @@
       "packagingFee": 0
     },
     "balanceDue": 31,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -13891,6 +13894,7 @@
     "socialName": "TYT",
     "title": "1201進巨 amnibus",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2560,
@@ -13903,7 +13907,7 @@
       "packagingFee": 0
     },
     "balanceDue": 73,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -13940,6 +13944,7 @@
     "socialName": "piao",
     "title": "1201進巨 amnibus",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1160,
@@ -13952,7 +13957,7 @@
       "packagingFee": 0
     },
     "balanceDue": 31,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -13981,6 +13986,7 @@
     "socialName": "溫妮",
     "title": "1201進巨 amnibus",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 670,
@@ -13993,7 +13999,7 @@
       "packagingFee": 0
     },
     "balanceDue": 7,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -30024,6 +30030,65 @@
     "sourceMonth": "2026-02"
   },
   {
+    "socialName": "早ㄢ",
+    "title": "0218進巨 浴衣 四重奏",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 240,
+    "depositPaid": 240,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "皮革證件套 (艾爾文)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0218進巨 浴衣 四重奏",
+    "sourceMonth": "2026-02"
+  },
+  {
+    "socialName": "TYT",
+    "title": "0218進巨 浴衣 四重奏",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 480,
+    "depositPaid": 480,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "浴衣正比立牌 (里維)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0218進巨 浴衣 四重奏",
+    "sourceMonth": "2026-02"
+  },
+  {
     "socialName": "Ari",
     "title": "0218進巨 yyworld最終季",
     "statusBadges": [
@@ -30359,64 +30424,6 @@
       }
     ],
     "sourceSheet": "0218進巨 yyworld最終季",
-    "sourceMonth": "2026-02"
-  },
-  {
-    "socialName": "早ㄢ",
-    "title": "0219進巨 浴衣 四重奏",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 240,
-    "depositPaid": 240,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "皮革證件套 (艾爾文)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0219進巨 浴衣 四重奏",
-    "sourceMonth": "2026-02"
-  },
-  {
-    "socialName": "TYT",
-    "title": "0219進巨 浴衣 四重奏",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 480,
-    "depositPaid": 480,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "浴衣正比立牌 (里維)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0219進巨 浴衣 四重奏",
     "sourceMonth": "2026-02"
   },
   {
