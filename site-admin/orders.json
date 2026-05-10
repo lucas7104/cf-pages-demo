@@ -5930,7 +5930,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "1103 鬼滅 早冬",
+    "sourceSheet": "★1103 鬼滅 早冬",
     "sourceMonth": "2025_11"
   },
   {
@@ -5960,7 +5960,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1103 鬼滅 早冬",
+    "sourceSheet": "★1103 鬼滅 早冬",
     "sourceMonth": "2025_11"
   },
   {
@@ -5990,7 +5990,7 @@
         "qty": 3
       }
     ],
-    "sourceSheet": "1103 鬼滅 早冬",
+    "sourceSheet": "★1103 鬼滅 早冬",
     "sourceMonth": "2025_11"
   },
   {
@@ -6020,7 +6020,7 @@
         "qty": 6
       }
     ],
-    "sourceSheet": "1103 鬼滅 早冬",
+    "sourceSheet": "★1103 鬼滅 早冬",
     "sourceMonth": "2025_11"
   },
   {
@@ -12084,14 +12084,14 @@
     ],
     "productAmount": 650,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 21,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 21,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 650,
+    "balanceDue": 671,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -12114,14 +12114,14 @@
     ],
     "productAmount": 650,
     "depositPaid": 650,
-    "secondPayment": 0,
+    "secondPayment": 21,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 21,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 21,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12144,14 +12144,14 @@
     ],
     "productAmount": 890,
     "depositPaid": 890,
-    "secondPayment": 0,
+    "secondPayment": 21,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 21,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 21,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12178,14 +12178,14 @@
     ],
     "productAmount": 650,
     "depositPaid": 650,
-    "secondPayment": 0,
+    "secondPayment": 21,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 21,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 21,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12208,14 +12208,14 @@
     ],
     "productAmount": 650,
     "depositPaid": 650,
-    "secondPayment": 0,
+    "secondPayment": 21,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 21,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 21,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12238,14 +12238,14 @@
     ],
     "productAmount": 650,
     "depositPaid": 650,
-    "secondPayment": 0,
+    "secondPayment": 21,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 21,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 21,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12268,14 +12268,14 @@
     ],
     "productAmount": 650,
     "depositPaid": 650,
-    "secondPayment": 0,
+    "secondPayment": 21,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 21,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 21,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12298,18 +12298,18 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 0,
+    "secondPayment": 21,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 21,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 21,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "狗卷立牌未到貨",
     "items": [
       {
         "name": "立牌 (狗卷棘)",
