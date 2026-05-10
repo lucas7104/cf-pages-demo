@@ -26496,7 +26496,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26511,6 +26511,7 @@
     "socialName": "華",
     "title": "0209 進巨 SPAO",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 860,
@@ -26523,7 +26524,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26538,6 +26539,7 @@
     "socialName": "臉書 謝獻研",
     "title": "0209 進巨 SPAO",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1150,
@@ -26550,7 +26552,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26577,7 +26579,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26587,7 +26589,7 @@
         "qty": 1
       },
       {
-        "name": "紅睡衣 L",
+        "name": "紅色成套睡衣 L",
         "qty": 1
       }
     ]
@@ -26596,6 +26598,7 @@
     "socialName": "TYT",
     "title": "0209 進巨 SPAO",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 3480,
@@ -26608,10 +26611,10 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "短袖、披風毛毯抵台",
     "items": [
       {
         "name": "長版風衣外套 M",
@@ -26619,6 +26622,10 @@
       },
       {
         "name": "短T里維 S",
+        "qty": 1
+      },
+      {
+        "name": "調查兵團 披風毛毯",
         "qty": 1
       }
     ]
@@ -26639,7 +26646,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26666,7 +26673,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26693,7 +26700,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26708,6 +26715,7 @@
     "socialName": "臉書 陳子煜",
     "title": "0209 進巨 SPAO",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1600,
@@ -26720,7 +26728,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
