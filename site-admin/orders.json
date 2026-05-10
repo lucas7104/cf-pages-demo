@@ -12959,7 +12959,7 @@
       "已抵台",
       "已付訂金"
     ],
-    "productAmount": 7570,
+    "productAmount": 7650,
     "depositPaid": 7570,
     "secondPayment": 782,
     "secondPaymentBreakdown": {
@@ -12968,7 +12968,7 @@
       "cardFee": 107,
       "packagingFee": 0
     },
-    "balanceDue": 782,
+    "balanceDue": 862,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -13012,6 +13012,10 @@
       },
       {
         "name": "3coins 場景便利貼",
+        "qty": 1
+      },
+      {
+        "name": "3coins 清潔筆",
         "qty": 1
       },
       {
@@ -18069,7 +18073,7 @@
     "socialName": "Ivii",
     "title": "1219 多ip Airtwokyo",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2820,
@@ -18082,7 +18086,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -18099,7 +18103,7 @@
     "socialName": "TYT",
     "title": "1219 多ip Airtwokyo",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 585,
@@ -18112,7 +18116,7 @@
       "packagingFee": 0
     },
     "balanceDue": 10,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -18133,7 +18137,7 @@
     "socialName": "良",
     "title": "1219 多ip Airtwokyo",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1880,
@@ -18146,7 +18150,7 @@
       "packagingFee": 0
     },
     "balanceDue": 40,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -18163,7 +18167,7 @@
     "socialName": "nako",
     "title": "1219 多ip Airtwokyo",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1520,
@@ -18176,7 +18180,7 @@
       "packagingFee": 0
     },
     "balanceDue": 25,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
