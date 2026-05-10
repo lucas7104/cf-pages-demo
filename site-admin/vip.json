@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T14:30:58.836Z",
+  "generatedAt": "2026-05-10T14:41:03.689Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -220,12 +220,12 @@
           "amount": 8690
         },
         {
-          "name": "GU搭",
-          "amount": 7650
+          "name": "lpp_ss",
+          "amount": 8600
         },
         {
-          "name": "lpp_ss",
-          "amount": 7205
+          "name": "GU搭",
+          "amount": 7650
         },
         {
           "name": "每天都想退休",

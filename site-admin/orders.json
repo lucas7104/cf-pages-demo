@@ -5725,6 +5725,35 @@
     "sourceMonth": "2025_11"
   },
   {
+    "socialName": "lpp_ss",
+    "title": "1101鏈鋸人 x Tenorin糰子娃",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1395,
+    "depositPaid": 1395,
+    "secondPayment": 53,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 53,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 53,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "鏈鋸人Tenorin糰子娃",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1101鏈鋸人  x  Tenorin糰子娃",
+    "sourceMonth": "2025_11"
+  },
+  {
     "socialName": "Yumi",
     "title": "1102鬼滅movic豆豆娃",
     "statusBadges": [
@@ -26108,14 +26137,14 @@
     ],
     "productAmount": 320,
     "depositPaid": 320,
-    "secondPayment": 0,
+    "secondPayment": 16,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 10,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 16,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26142,14 +26171,14 @@
     ],
     "productAmount": 640,
     "depositPaid": 640,
-    "secondPayment": 0,
+    "secondPayment": 32,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 20,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 32,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
