@@ -18206,14 +18206,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 17,
+    "secondPayment": 32,
     "secondPaymentBreakdown": {
       "domesticShipping": 17,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 17,
+    "balanceDue": 32,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18224,7 +18224,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1219 咒術 旅遊系列",
+    "sourceSheet": "★1219 咒術 旅遊系列",
     "sourceMonth": "2025_12"
   },
   {
@@ -18236,14 +18236,14 @@
     ],
     "productAmount": 215,
     "depositPaid": 215,
-    "secondPayment": 17,
+    "secondPayment": 28,
     "secondPaymentBreakdown": {
       "domesticShipping": 17,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 8,
+      "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 17,
+    "balanceDue": 28,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18254,7 +18254,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1219 咒術 旅遊系列",
+    "sourceSheet": "★1219 咒術 旅遊系列",
     "sourceMonth": "2025_12"
   },
   {
@@ -18266,14 +18266,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 17,
+    "secondPayment": 32,
     "secondPaymentBreakdown": {
       "domesticShipping": 17,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 17,
+    "balanceDue": 32,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18284,7 +18284,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1219 咒術 旅遊系列",
+    "sourceSheet": "★1219 咒術 旅遊系列",
     "sourceMonth": "2025_12"
   },
   {
@@ -18296,14 +18296,14 @@
     ],
     "productAmount": 1155,
     "depositPaid": 1155,
-    "secondPayment": 17,
+    "secondPayment": 61,
     "secondPaymentBreakdown": {
       "domesticShipping": 17,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 27,
+      "cardFee": 17,
       "packagingFee": 0
     },
-    "balanceDue": 17,
+    "balanceDue": 61,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18326,7 +18326,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1219 咒術 旅遊系列",
+    "sourceSheet": "★1219 咒術 旅遊系列",
     "sourceMonth": "2025_12"
   },
   {
@@ -18338,14 +18338,14 @@
     ],
     "productAmount": 245,
     "depositPaid": 245,
-    "secondPayment": 17,
+    "secondPayment": 26,
     "secondPaymentBreakdown": {
       "domesticShipping": 17,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 5,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 17,
+    "balanceDue": 26,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18360,7 +18360,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1219 咒術 旅遊系列",
+    "sourceSheet": "★1219 咒術 旅遊系列",
     "sourceMonth": "2025_12"
   },
   {
@@ -18371,14 +18371,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 0,
-    "secondPayment": 17,
+    "secondPayment": 32,
     "secondPaymentBreakdown": {
       "domesticShipping": 17,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 467,
+    "balanceDue": 482,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -18389,7 +18389,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1219 咒術 旅遊系列",
+    "sourceSheet": "★1219 咒術 旅遊系列",
     "sourceMonth": "2025_12"
   },
   {
@@ -18401,14 +18401,14 @@
     ],
     "productAmount": 665,
     "depositPaid": 665,
-    "secondPayment": 17,
+    "secondPayment": 43,
     "secondPaymentBreakdown": {
       "domesticShipping": 17,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 17,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 17,
+    "balanceDue": 43,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18423,7 +18423,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1219 咒術 旅遊系列",
+    "sourceSheet": "★1219 咒術 旅遊系列",
     "sourceMonth": "2025_12"
   },
   {
@@ -18435,14 +18435,14 @@
     ],
     "productAmount": 215,
     "depositPaid": 215,
-    "secondPayment": 17,
+    "secondPayment": 28,
     "secondPaymentBreakdown": {
       "domesticShipping": 17,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 8,
+      "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 17,
+    "balanceDue": 28,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18453,7 +18453,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1219 咒術 旅遊系列",
+    "sourceSheet": "★1219 咒術 旅遊系列",
     "sourceMonth": "2025_12"
   },
   {
@@ -18465,14 +18465,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 17,
+    "secondPayment": 32,
     "secondPaymentBreakdown": {
       "domesticShipping": 17,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 17,
+    "balanceDue": 32,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18483,7 +18483,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1219 咒術 旅遊系列",
+    "sourceSheet": "★1219 咒術 旅遊系列",
     "sourceMonth": "2025_12"
   },
   {
@@ -18495,14 +18495,14 @@
     ],
     "productAmount": 215,
     "depositPaid": 215,
-    "secondPayment": 17,
+    "secondPayment": 28,
     "secondPaymentBreakdown": {
       "domesticShipping": 17,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 8,
+      "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 17,
+    "balanceDue": 28,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18513,7 +18513,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1219 咒術 旅遊系列",
+    "sourceSheet": "★1219 咒術 旅遊系列",
     "sourceMonth": "2025_12"
   },
   {
