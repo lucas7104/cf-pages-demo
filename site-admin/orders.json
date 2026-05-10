@@ -18467,14 +18467,14 @@
     ],
     "productAmount": 3960,
     "depositPaid": 3960,
-    "secondPayment": 0,
+    "secondPayment": 231,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 181,
+      "cardFee": 50,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 231,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18489,7 +18489,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1220 鬼滅 Primaniacs香水",
+    "sourceSheet": "★1220 鬼滅 Primaniacs香水",
     "sourceMonth": "2025_12"
   },
   {
@@ -18501,14 +18501,14 @@
     ],
     "productAmount": 1980,
     "depositPaid": 1980,
-    "secondPayment": 0,
+    "secondPayment": 206,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 181,
+      "cardFee": 25,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 206,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18519,7 +18519,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1220 鬼滅 Primaniacs香水",
+    "sourceSheet": "★1220 鬼滅 Primaniacs香水",
     "sourceMonth": "2025_12"
   },
   {
@@ -18531,14 +18531,14 @@
     ],
     "productAmount": 1980,
     "depositPaid": 1980,
-    "secondPayment": 0,
+    "secondPayment": 206,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 181,
+      "cardFee": 25,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 206,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -18549,7 +18549,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1220 鬼滅 Primaniacs香水",
+    "sourceSheet": "★1220 鬼滅 Primaniacs香水",
     "sourceMonth": "2025_12"
   },
   {
