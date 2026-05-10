@@ -8066,6 +8066,7 @@
     "socialName": "絈",
     "title": "1114進巨Amnibus復古時尚",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2285,
@@ -8078,7 +8079,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -8105,6 +8106,7 @@
     "socialName": "piao",
     "title": "1114進巨Amnibus復古時尚",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 0,
@@ -8117,7 +8119,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -19526,33 +19528,6 @@
     ]
   },
   {
-    "socialName": "piao",
-    "title": "私人委託",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 575,
-    "depositPaid": 475,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "無卡",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "Amnibus 亞妮 (徽章、小卡、海報）",
-        "qty": 1
-      }
-    ]
-  },
-  {
     "socialName": "lpp_ss",
     "title": "私人委託",
     "statusBadges": [
@@ -25711,7 +25686,7 @@
   },
   {
     "socialName": "江蘇菲",
-    "title": "0202咒術 夏游傑生日",
+    "title": "0202咒術 夏油傑生日",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -25739,7 +25714,7 @@
   },
   {
     "socialName": "每天都想退休",
-    "title": "0202咒術 夏游傑生日",
+    "title": "0202咒術 夏油傑生日",
     "statusBadges": [
       "已抵台",
       "已付訂金"
@@ -29463,14 +29438,14 @@
     ],
     "productAmount": 6800,
     "depositPaid": 6800,
-    "secondPayment": 122,
+    "secondPayment": 871,
     "secondPaymentBreakdown": {
       "domesticShipping": 20,
-      "internationalShipping": 0,
+      "internationalShipping": 749,
       "cardFee": 102,
       "packagingFee": 0
     },
-    "balanceDue": 122,
+    "balanceDue": 871,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
