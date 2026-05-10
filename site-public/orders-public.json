@@ -26488,14 +26488,14 @@
     ],
     "productAmount": 2620,
     "depositPaid": 2620,
-    "secondPayment": 0,
+    "secondPayment": 33,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 33,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 33,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26516,14 +26516,14 @@
     ],
     "productAmount": 860,
     "depositPaid": 860,
-    "secondPayment": 0,
+    "secondPayment": 44,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 34,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 44,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26544,14 +26544,14 @@
     ],
     "productAmount": 1150,
     "depositPaid": 1150,
-    "secondPayment": 0,
+    "secondPayment": 95,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 81,
+      "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 95,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26571,14 +26571,14 @@
     ],
     "productAmount": 2520,
     "depositPaid": 2520,
-    "secondPayment": 0,
+    "secondPayment": 31,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 31,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 31,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26603,14 +26603,14 @@
     ],
     "productAmount": 3480,
     "depositPaid": 3480,
-    "secondPayment": 0,
+    "secondPayment": 188,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 131,
+      "cardFee": 57,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 188,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26638,14 +26638,14 @@
     ],
     "productAmount": 2620,
     "depositPaid": 2620,
-    "secondPayment": 0,
+    "secondPayment": 33,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 33,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 33,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26665,14 +26665,14 @@
     ],
     "productAmount": 1370,
     "depositPaid": 1370,
-    "secondPayment": 0,
+    "secondPayment": 17,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 17,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 17,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26692,14 +26692,14 @@
     ],
     "productAmount": 1370,
     "depositPaid": 1370,
-    "secondPayment": 0,
+    "secondPayment": 17,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 17,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 17,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26720,21 +26720,21 @@
     ],
     "productAmount": 1600,
     "depositPaid": 1600,
-    "secondPayment": 0,
+    "secondPayment": 155,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 135,
+      "cardFee": 20,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 155,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "里維帽T XL",
+        "name": "里維帽T 2XL",
         "qty": 1
       }
     ]
@@ -41952,6 +41952,91 @@
         "qty": 1
       }
     ]
+  },
+  {
+    "socialName": "婷婷",
+    "title": "「空白版」的副本",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "我英數據卡",
+        "qty": 8
+      }
+    ]
+  },
+  {
+    "socialName": "很累",
+    "title": "「空白版」的副本",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": []
+  },
+  {
+    "socialName": "++",
+    "title": "「空白版」的副本",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": []
+  },
+  {
+    "socialName": "Sandy Lin",
+    "title": "「空白版」的副本",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": []
   },
   {
     "socialName": "Xiu han",
