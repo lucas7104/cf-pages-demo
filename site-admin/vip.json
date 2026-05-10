@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T15:41:06.107Z",
+  "generatedAt": "2026-05-10T15:51:09.007Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -27,12 +27,12 @@
           "amount": 35255
         },
         {
-          "name": "瑞斯",
-          "amount": 35220
-        },
-        {
           "name": "君",
           "amount": 34945
+        },
+        {
+          "name": "瑞斯",
+          "amount": 31480
         },
         {
           "name": "cc",
@@ -62,12 +62,12 @@
       ],
       "topTen": [
         {
-          "name": "瑞斯",
-          "amount": 25975
-        },
-        {
           "name": "vivian_lai372",
           "amount": 25895
+        },
+        {
+          "name": "瑞斯",
+          "amount": 22235
         },
         {
           "name": "Vivian_lai372",
@@ -263,12 +263,12 @@
           "amount": 14770
         },
         {
-          "name": "瑞斯",
-          "amount": 11470
-        },
-        {
           "name": "芭樂",
           "amount": 10010
+        },
+        {
+          "name": "瑞斯",
+          "amount": 7730
         },
         {
           "name": "良",
