@@ -13933,14 +13933,14 @@
     ],
     "productAmount": 195,
     "depositPaid": 195,
-    "secondPayment": 14,
+    "secondPayment": 30,
     "secondPaymentBreakdown": {
       "domesticShipping": 14,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 13,
+      "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 14,
+    "balanceDue": 30,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -13961,14 +13961,14 @@
     ],
     "productAmount": 820,
     "depositPaid": 820,
-    "secondPayment": 14,
+    "secondPayment": 124,
     "secondPaymentBreakdown": {
       "domesticShipping": 14,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 98,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 14,
+    "balanceDue": 124,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -13979,7 +13979,7 @@
         "qty": 1
       },
       {
-        "name": "立牌 （炭治郎）",
+        "name": "Q版立牌 （炭治郎）",
         "qty": 1
       },
       {
