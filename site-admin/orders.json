@@ -20140,6 +20140,7 @@
     "socialName": "兵長",
     "title": "1228進巨 Zogankin",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 480,
@@ -20152,7 +20153,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20173,6 +20174,7 @@
     "socialName": "劉",
     "title": "1228進巨 Zogankin",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 360,
@@ -20185,7 +20187,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20202,6 +20204,7 @@
     "socialName": "A-Joe",
     "title": "1228進巨 Zogankin",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 360,
@@ -20214,7 +20217,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20231,6 +20234,7 @@
     "socialName": "susu",
     "title": "1228進巨 Zogankin",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 600,
@@ -20243,7 +20247,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20264,6 +20268,7 @@
     "socialName": "Ruan",
     "title": "1228進巨 Zogankin",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 360,
@@ -20276,7 +20281,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20293,6 +20298,7 @@
     "socialName": "lin",
     "title": "1228進巨 Zogankin",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 360,
@@ -20305,7 +20311,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20322,6 +20328,7 @@
     "socialName": "peipei",
     "title": "1228進巨 Zogankin",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 360,
@@ -20334,7 +20341,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20351,6 +20358,7 @@
     "socialName": "絈",
     "title": "1228進巨 Zogankin",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 480,
@@ -20363,7 +20371,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20384,6 +20392,7 @@
     "socialName": "e.",
     "title": "1228進巨 Zogankin",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 720,
@@ -20396,7 +20405,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20421,6 +20430,7 @@
     "socialName": "希亞",
     "title": "1228進巨 Zogankin",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 240,
@@ -20433,7 +20443,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20454,6 +20464,7 @@
     "socialName": "舒芙蕾",
     "title": "1228進巨 Zogankin",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 240,
@@ -20466,7 +20477,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20487,6 +20498,7 @@
     "socialName": "wish",
     "title": "1228進巨 Zogankin",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 360,
@@ -20499,7 +20511,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
