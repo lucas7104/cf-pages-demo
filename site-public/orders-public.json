@@ -16700,7 +16700,9 @@
   {
     "socialName": "Vivian_lai372",
     "title": "1218坂本日常 黑色和服",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 1025,
     "depositPaid": 0,
     "secondPayment": 33,
@@ -16711,7 +16713,7 @@
       "packagingFee": 0
     },
     "balanceDue": 1058,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16730,6 +16732,7 @@
     "socialName": "Teresa",
     "title": "1218坂本日常 黑色和服",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 450,
@@ -16742,7 +16745,7 @@
       "packagingFee": 0
     },
     "balanceDue": 20,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16757,6 +16760,7 @@
     "socialName": "減佐",
     "title": "1218坂本日常 黑色和服",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 450,
@@ -16769,7 +16773,7 @@
       "packagingFee": 0
     },
     "balanceDue": 20,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16784,6 +16788,7 @@
     "socialName": "菊米",
     "title": "1218坂本日常 黑色和服",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 135,
@@ -16796,7 +16801,7 @@
       "packagingFee": 0
     },
     "balanceDue": 16,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16811,6 +16816,7 @@
     "socialName": "鴨",
     "title": "1218坂本日常 黑色和服",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 575,
@@ -16823,7 +16829,7 @@
       "packagingFee": 0
     },
     "balanceDue": 18,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16838,6 +16844,7 @@
     "socialName": "君",
     "title": "1218坂本日常 黑色和服",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 450,
@@ -16850,7 +16857,7 @@
       "packagingFee": 0
     },
     "balanceDue": 20,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16865,6 +16872,7 @@
     "socialName": "周蓁妮",
     "title": "1218坂本日常 黑色和服",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 450,
@@ -16877,7 +16885,7 @@
       "packagingFee": 0
     },
     "balanceDue": 20,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16892,6 +16900,7 @@
     "socialName": "Ni Ni",
     "title": "1218坂本日常 黑色和服",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 450,
@@ -16904,7 +16913,7 @@
       "packagingFee": 0
     },
     "balanceDue": 20,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16919,6 +16928,7 @@
     "socialName": "陳奕君",
     "title": "1218坂本日常 黑色和服",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 450,
@@ -16931,7 +16941,7 @@
       "packagingFee": 0
     },
     "balanceDue": 20,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16946,6 +16956,7 @@
     "socialName": "穆晟宇",
     "title": "1218坂本日常 黑色和服",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 450,
@@ -16958,7 +16969,7 @@
       "packagingFee": 0
     },
     "balanceDue": 20,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16978,14 +16989,14 @@
     ],
     "productAmount": 2820,
     "depositPaid": 2820,
-    "secondPayment": 0,
+    "secondPayment": 180,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 141,
+      "cardFee": 39,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 180,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -17006,14 +17017,14 @@
     ],
     "productAmount": 585,
     "depositPaid": 575,
-    "secondPayment": 0,
+    "secondPayment": 34,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 25,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 10,
+    "balanceDue": 44,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -17038,14 +17049,14 @@
     ],
     "productAmount": 1880,
     "depositPaid": 1840,
-    "secondPayment": 0,
+    "secondPayment": 110,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 85,
+      "cardFee": 25,
       "packagingFee": 0
     },
-    "balanceDue": 40,
+    "balanceDue": 150,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -17066,14 +17077,14 @@
     ],
     "productAmount": 1520,
     "depositPaid": 1495,
-    "secondPayment": 0,
+    "secondPayment": 229,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 208,
+      "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 254,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -19711,19 +19722,20 @@
     "socialName": "良",
     "title": "私人委託",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 800,
     "depositPaid": 800,
-    "secondPayment": 230,
+    "secondPayment": 367,
     "secondPaymentBreakdown": {
       "domesticShipping": 206,
-      "internationalShipping": 0,
+      "internationalShipping": 137,
       "cardFee": 24,
       "packagingFee": 0
     },
-    "balanceDue": 230,
-    "etaText": "待公告",
+    "balanceDue": 367,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "缺一張補蹲",
