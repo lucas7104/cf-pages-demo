@@ -4121,7 +4121,7 @@
     "socialName": "Yumi",
     "title": "1025 鬼滅movic豆豆",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 345,
@@ -4134,7 +4134,7 @@
       "packagingFee": 0
     },
     "balanceDue": 113,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -4149,7 +4149,7 @@
     "socialName": "惠",
     "title": "1025 鬼滅movic豆豆",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 345,
@@ -4162,7 +4162,7 @@
       "packagingFee": 0
     },
     "balanceDue": 113,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -4177,7 +4177,7 @@
     "socialName": ".ゆん ☘︎ ˖",
     "title": "1025 鬼滅movic豆豆",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 345,
@@ -4190,7 +4190,7 @@
       "packagingFee": 0
     },
     "balanceDue": 113,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -4205,7 +4205,7 @@
     "socialName": "Feiiii",
     "title": "1025 鬼滅movic豆豆",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 345,
@@ -4218,7 +4218,7 @@
       "packagingFee": 0
     },
     "balanceDue": 113,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -4233,7 +4233,7 @@
     "socialName": "Eilish",
     "title": "1025 鬼滅movic豆豆",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 690,
@@ -4246,7 +4246,7 @@
       "packagingFee": 0
     },
     "balanceDue": 126,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -5384,145 +5384,6 @@
     "items": [
       {
         "name": "鏈鋸人Tenorin糰子娃",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "Yumi",
-    "title": "1102鬼滅movic豆豆娃",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 345,
-    "depositPaid": 245,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "義勇豆豆娃",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "惠",
-    "title": "1102鬼滅movic豆豆娃",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 345,
-    "depositPaid": 245,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "義勇豆豆娃",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": ".ゆん ☘︎ ˖",
-    "title": "1102鬼滅movic豆豆娃",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 345,
-    "depositPaid": 245,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "義勇豆豆娃",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "Feiiii",
-    "title": "1102鬼滅movic豆豆娃",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 345,
-    "depositPaid": 245,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "義勇豆豆娃",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "Eilish",
-    "title": "1102鬼滅movic豆豆娃",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 690,
-    "depositPaid": 590,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "義勇豆豆娃",
-        "qty": 1
-      },
-      {
-        "name": "胡蝶豆豆娃",
         "qty": 1
       }
     ]
@@ -11168,6 +11029,253 @@
     ]
   },
   {
+    "socialName": "Saki蒼",
+    "title": "1118 鬼滅 星空",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 1130,
+    "depositPaid": 1030,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (義勇)",
+        "qty": 1
+      },
+      {
+        "name": "立牌 (胡蝶)",
+        "qty": 1
+      },
+      {
+        "name": "燙金透卡",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "socialName": "每天都想退休",
+    "title": "1118 鬼滅 星空",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 120,
+    "depositPaid": 120,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "資料夾 (義勇)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "vivian_lai372",
+    "title": "1118 鬼滅 星空",
+    "statusBadges": [
+      "已抵台"
+    ],
+    "productAmount": 300,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 300,
+    "etaText": "已抵台",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "燙金透卡",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "socialName": "Kaho",
+    "title": "1118 鬼滅 星空",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 195,
+    "depositPaid": 195,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "明信片組",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "羊",
+    "title": "1118 鬼滅 星空",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 300,
+    "depositPaid": 300,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "燙金透卡",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "socialName": "cc",
+    "title": "1118 鬼滅 星空",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 600,
+    "depositPaid": 600,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "燙金透卡",
+        "qty": 6
+      }
+    ]
+  },
+  {
+    "socialName": "承",
+    "title": "1118 鬼滅 星空",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 1065,
+    "depositPaid": 1065,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (善逸)",
+        "qty": 1
+      },
+      {
+        "name": "立牌 (炭治郎)",
+        "qty": 1
+      },
+      {
+        "name": "資料夾 (善逸)",
+        "qty": 1
+      },
+      {
+        "name": "資料夾 (炭治郎)",
+        "qty": 1
+      },
+      {
+        "name": "明信片組",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "小咪",
+    "title": "1118 鬼滅 星空",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 200,
+    "depositPaid": 200,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "燙金透卡",
+        "qty": 2
+      }
+    ]
+  },
+  {
     "socialName": "vivian_lai372",
     "title": "1120芙莉蓮ensky周邊",
     "statusBadges": [
@@ -11743,244 +11851,6 @@
       {
         "name": "大於等於五抽",
         "qty": 5
-      }
-    ]
-  },
-  {
-    "socialName": "Saki蒼",
-    "title": "1124鬼滅星空",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1130,
-    "depositPaid": 1030,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌 (義勇)",
-        "qty": 1
-      },
-      {
-        "name": "立牌 (胡蝶)",
-        "qty": 1
-      },
-      {
-        "name": "燙金透卡",
-        "qty": 5
-      }
-    ]
-  },
-  {
-    "socialName": "每天都想退休",
-    "title": "1124鬼滅星空",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 120,
-    "depositPaid": 120,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "資料夾 (義勇)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "vivian_lai372",
-    "title": "1124鬼滅星空",
-    "statusBadges": [],
-    "productAmount": 300,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 300,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "燙金透卡",
-        "qty": 3
-      }
-    ]
-  },
-  {
-    "socialName": "Kaho",
-    "title": "1124鬼滅星空",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 195,
-    "depositPaid": 195,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "明信片組",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "羊",
-    "title": "1124鬼滅星空",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 300,
-    "depositPaid": 300,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "燙金透卡",
-        "qty": 3
-      }
-    ]
-  },
-  {
-    "socialName": "cc",
-    "title": "1124鬼滅星空",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 600,
-    "depositPaid": 600,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "燙金透卡",
-        "qty": 6
-      }
-    ]
-  },
-  {
-    "socialName": "承",
-    "title": "1124鬼滅星空",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1065,
-    "depositPaid": 1065,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌 (善逸)",
-        "qty": 1
-      },
-      {
-        "name": "立牌 (炭治郎)",
-        "qty": 1
-      },
-      {
-        "name": "資料夾 (善逸)",
-        "qty": 1
-      },
-      {
-        "name": "資料夾 (炭治郎)",
-        "qty": 1
-      },
-      {
-        "name": "明信片組",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "小咪",
-    "title": "1124鬼滅星空",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 200,
-    "depositPaid": 200,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "燙金透卡",
-        "qty": 2
       }
     ]
   },
@@ -17500,14 +17370,14 @@
     ],
     "productAmount": 665,
     "depositPaid": 0,
-    "secondPayment": 62,
+    "secondPayment": 74,
     "secondPaymentBreakdown": {
       "domesticShipping": 62,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 3,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 727,
+    "balanceDue": 739,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
