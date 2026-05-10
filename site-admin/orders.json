@@ -8611,14 +8611,14 @@
     ],
     "productAmount": 2285,
     "depositPaid": 2285,
-    "secondPayment": 0,
+    "secondPayment": 89,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 56,
+      "cardFee": 33,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 89,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -8641,7 +8641,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1114進巨Amnibus復古時尚",
+    "sourceSheet": "★1114進巨Amnibus復古時尚",
     "sourceMonth": "2025_11"
   },
   {
@@ -8653,14 +8653,14 @@
     ],
     "productAmount": 575,
     "depositPaid": 475,
-    "secondPayment": 0,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 26,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 135,
     "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -8679,7 +8679,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1114進巨Amnibus復古時尚",
+    "sourceSheet": "★1114進巨Amnibus復古時尚",
     "sourceMonth": "2025_11"
   },
   {
