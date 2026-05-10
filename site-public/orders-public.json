@@ -17324,7 +17324,7 @@
     "socialName": "絈",
     "title": "1219 進巨 憤怒系列",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 800,
@@ -17337,7 +17337,7 @@
       "packagingFee": 0
     },
     "balanceDue": 53,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
