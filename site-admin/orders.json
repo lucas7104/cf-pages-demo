@@ -5882,14 +5882,14 @@
     ],
     "productAmount": 220,
     "depositPaid": 120,
-    "secondPayment": 0,
+    "secondPayment": 29,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 25,
+      "internationalShipping": 4,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 129,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -5912,14 +5912,14 @@
     ],
     "productAmount": 140,
     "depositPaid": 40,
-    "secondPayment": 0,
+    "secondPayment": 33,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 25,
+      "internationalShipping": 8,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 133,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -5942,14 +5942,14 @@
     ],
     "productAmount": 660,
     "depositPaid": 560,
-    "secondPayment": 0,
+    "secondPayment": 49,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 25,
+      "internationalShipping": 24,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 149,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -5972,14 +5972,14 @@
     ],
     "productAmount": 1320,
     "depositPaid": 1220,
-    "secondPayment": 0,
+    "secondPayment": 73,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 25,
+      "internationalShipping": 48,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 173,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -18698,25 +18698,25 @@
     ],
     "productAmount": 135,
     "depositPaid": 135,
-    "secondPayment": 0,
+    "secondPayment": 72,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 62,
+      "internationalShipping": 8,
+      "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 72,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "A4文件夾 ￥550",
+        "name": "A4文件夾",
         "qty": 1
       }
     ],
-    "sourceSheet": "1220 鬼滅Relo Hotels &Resorts",
+    "sourceSheet": "★1220 鬼滅Relo Hotels &Resorts",
     "sourceMonth": "2025_12"
   },
   {
@@ -18727,25 +18727,25 @@
     ],
     "productAmount": 665,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 62,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 62,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 665,
+    "balanceDue": 727,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "角色徽章(抱盒) ￥2,750",
+        "name": "角色徽章(抱盒)",
         "qty": 1
       }
     ],
-    "sourceSheet": "1220 鬼滅Relo Hotels &Resorts",
+    "sourceSheet": "★1220 鬼滅Relo Hotels &Resorts",
     "sourceMonth": "2025_12"
   },
   {
@@ -18756,25 +18756,25 @@
     ],
     "productAmount": 135,
     "depositPaid": 135,
-    "secondPayment": 0,
+    "secondPayment": 72,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 62,
+      "internationalShipping": 8,
+      "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 72,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "A4文件夾 ￥550",
+        "name": "A4文件夾",
         "qty": 1
       }
     ],
-    "sourceSheet": "1220 鬼滅Relo Hotels &Resorts",
+    "sourceSheet": "★1220 鬼滅Relo Hotels &Resorts",
     "sourceMonth": "2025_12"
   },
   {
@@ -25918,14 +25918,14 @@
     ],
     "productAmount": 265,
     "depositPaid": 265,
-    "secondPayment": 0,
+    "secondPayment": 6,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 2,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 6,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25936,7 +25936,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0127進巨 美高",
+    "sourceSheet": "★0127進巨 美高",
     "sourceMonth": "2026-01"
   },
   {
@@ -25947,14 +25947,14 @@
     ],
     "productAmount": 265,
     "depositPaid": 265,
-    "secondPayment": 0,
+    "secondPayment": 6,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 2,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 6,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25965,7 +25965,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0127進巨 美高",
+    "sourceSheet": "★0127進巨 美高",
     "sourceMonth": "2026-01"
   },
   {
@@ -25976,14 +25976,14 @@
     ],
     "productAmount": 795,
     "depositPaid": 795,
-    "secondPayment": 0,
+    "secondPayment": 64,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 53,
+      "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 64,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25994,7 +25994,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0127進巨 美高",
+    "sourceSheet": "★0127進巨 美高",
     "sourceMonth": "2026-01"
   },
   {
