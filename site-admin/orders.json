@@ -18459,6 +18459,100 @@
     "sourceMonth": "2025_12"
   },
   {
+    "socialName": "Feiiii",
+    "title": "1220 鬼滅 Primaniacs香水",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 3960,
+    "depositPaid": 3960,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "義勇",
+        "qty": 1
+      },
+      {
+        "name": "實彌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1220 鬼滅 Primaniacs香水",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "淺",
+    "title": "1220 鬼滅 Primaniacs香水",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 1980,
+    "depositPaid": 1980,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "童磨",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1220 鬼滅 Primaniacs香水",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "歪歪",
+    "title": "1220 鬼滅 Primaniacs香水",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 1980,
+    "depositPaid": 1980,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "時透",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1220 鬼滅 Primaniacs香水",
+    "sourceMonth": "2025_12"
+  },
+  {
     "socialName": "每天都想退休",
     "title": "1220 鬼滅Relo Hotels &Resorts",
     "statusBadges": [
@@ -19967,6 +20061,394 @@
     "sourceMonth": "2025_12"
   },
   {
+    "socialName": "兵長",
+    "title": "1228 進巨 Zogankin",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 480,
+    "depositPaid": 500,
+    "secondPayment": 36,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 6,
+      "internationalShipping": 23,
+      "cardFee": 7,
+      "packagingFee": 0
+    },
+    "balanceDue": 16,
+    "etaText": "已抵台",
+    "paymentMethod": "無卡",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌",
+        "qty": 1
+      },
+      {
+        "name": "徽章",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1228 進巨 Zogankin",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "劉",
+    "title": "1228 進巨 Zogankin",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 360,
+    "depositPaid": 360,
+    "secondPayment": 31,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 6,
+      "internationalShipping": 20,
+      "cardFee": 5,
+      "packagingFee": 0
+    },
+    "balanceDue": 31,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1228 進巨 Zogankin",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "A-Joe",
+    "title": "1228 進巨 Zogankin",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 360,
+    "depositPaid": 360,
+    "secondPayment": 31,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 6,
+      "internationalShipping": 20,
+      "cardFee": 5,
+      "packagingFee": 0
+    },
+    "balanceDue": 31,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1228 進巨 Zogankin",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "susu",
+    "title": "1228 進巨 Zogankin",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 600,
+    "depositPaid": 600,
+    "secondPayment": 41,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 6,
+      "internationalShipping": 26,
+      "cardFee": 9,
+      "packagingFee": 0
+    },
+    "balanceDue": 41,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌",
+        "qty": 1
+      },
+      {
+        "name": "徽章",
+        "qty": 2
+      }
+    ],
+    "sourceSheet": "★1228 進巨 Zogankin",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "Ruan",
+    "title": "1228 進巨 Zogankin",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 360,
+    "depositPaid": 360,
+    "secondPayment": 31,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 6,
+      "internationalShipping": 20,
+      "cardFee": 5,
+      "packagingFee": 0
+    },
+    "balanceDue": 31,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1228 進巨 Zogankin",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "lin",
+    "title": "1228 進巨 Zogankin",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 360,
+    "depositPaid": 360,
+    "secondPayment": 31,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 6,
+      "internationalShipping": 20,
+      "cardFee": 5,
+      "packagingFee": 0
+    },
+    "balanceDue": 31,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1228 進巨 Zogankin",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "peipei",
+    "title": "1228 進巨 Zogankin",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 360,
+    "depositPaid": 360,
+    "secondPayment": 31,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 6,
+      "internationalShipping": 20,
+      "cardFee": 5,
+      "packagingFee": 0
+    },
+    "balanceDue": 31,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1228 進巨 Zogankin",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "絈",
+    "title": "1228 進巨 Zogankin",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 480,
+    "depositPaid": 480,
+    "secondPayment": 36,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 6,
+      "internationalShipping": 23,
+      "cardFee": 7,
+      "packagingFee": 0
+    },
+    "balanceDue": 36,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌",
+        "qty": 1
+      },
+      {
+        "name": "徽章",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1228 進巨 Zogankin",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "e.",
+    "title": "1228 進巨 Zogankin",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 720,
+    "depositPaid": 720,
+    "secondPayment": 56,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 6,
+      "internationalShipping": 39,
+      "cardFee": 11,
+      "packagingFee": 0
+    },
+    "balanceDue": 56,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌",
+        "qty": 1
+      },
+      {
+        "name": "徽章",
+        "qty": 1
+      },
+      {
+        "name": "資料夾",
+        "qty": 2
+      }
+    ],
+    "sourceSheet": "★1228 進巨 Zogankin",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "希亞",
+    "title": "1228 進巨 Zogankin",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 240,
+    "depositPaid": 240,
+    "secondPayment": 21,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 6,
+      "internationalShipping": 11,
+      "cardFee": 4,
+      "packagingFee": 0
+    },
+    "balanceDue": 21,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "徽章",
+        "qty": 1
+      },
+      {
+        "name": "資料夾",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1228 進巨 Zogankin",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "舒芙蕾",
+    "title": "1228 進巨 Zogankin",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 240,
+    "depositPaid": 240,
+    "secondPayment": 21,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 6,
+      "internationalShipping": 11,
+      "cardFee": 4,
+      "packagingFee": 0
+    },
+    "balanceDue": 21,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "徽章",
+        "qty": 1
+      },
+      {
+        "name": "資料夾",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1228 進巨 Zogankin",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "wish",
+    "title": "1228 進巨 Zogankin",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 360,
+    "depositPaid": 360,
+    "secondPayment": 31,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 6,
+      "internationalShipping": 20,
+      "cardFee": 5,
+      "packagingFee": 0
+    },
+    "balanceDue": 31,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1228 進巨 Zogankin",
+    "sourceMonth": "2025_12"
+  },
+  {
     "socialName": "鬆餅",
     "title": "1228咒術 小娃",
     "statusBadges": [
@@ -20134,394 +20616,6 @@
       }
     ],
     "sourceSheet": "1228鬼滅 Ufotable多角色抽賞",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "兵長",
-    "title": "1228進巨 Zogankin",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 480,
-    "depositPaid": 500,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "無卡",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌",
-        "qty": 1
-      },
-      {
-        "name": "徽章",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1228進巨 Zogankin",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "劉",
-    "title": "1228進巨 Zogankin",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 360,
-    "depositPaid": 360,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1228進巨 Zogankin",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "A-Joe",
-    "title": "1228進巨 Zogankin",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 360,
-    "depositPaid": 360,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1228進巨 Zogankin",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "susu",
-    "title": "1228進巨 Zogankin",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 600,
-    "depositPaid": 600,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌",
-        "qty": 1
-      },
-      {
-        "name": "徽章",
-        "qty": 2
-      }
-    ],
-    "sourceSheet": "1228進巨 Zogankin",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "Ruan",
-    "title": "1228進巨 Zogankin",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 360,
-    "depositPaid": 360,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1228進巨 Zogankin",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "lin",
-    "title": "1228進巨 Zogankin",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 360,
-    "depositPaid": 360,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1228進巨 Zogankin",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "peipei",
-    "title": "1228進巨 Zogankin",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 360,
-    "depositPaid": 360,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1228進巨 Zogankin",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "絈",
-    "title": "1228進巨 Zogankin",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 480,
-    "depositPaid": 480,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌",
-        "qty": 1
-      },
-      {
-        "name": "徽章",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1228進巨 Zogankin",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "e.",
-    "title": "1228進巨 Zogankin",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 720,
-    "depositPaid": 720,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌",
-        "qty": 1
-      },
-      {
-        "name": "徽章",
-        "qty": 1
-      },
-      {
-        "name": "資料夾",
-        "qty": 2
-      }
-    ],
-    "sourceSheet": "1228進巨 Zogankin",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "希亞",
-    "title": "1228進巨 Zogankin",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 240,
-    "depositPaid": 240,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "徽章",
-        "qty": 1
-      },
-      {
-        "name": "資料夾",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1228進巨 Zogankin",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "舒芙蕾",
-    "title": "1228進巨 Zogankin",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 240,
-    "depositPaid": 240,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "徽章",
-        "qty": 1
-      },
-      {
-        "name": "資料夾",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1228進巨 Zogankin",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "wish",
-    "title": "1228進巨 Zogankin",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 360,
-    "depositPaid": 360,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1228進巨 Zogankin",
     "sourceMonth": "2025_12"
   },
   {
@@ -21472,97 +21566,6 @@
       }
     ],
     "sourceSheet": "★0103坂本日常 搖滾樂園&四季更迭",
-    "sourceMonth": "2026-01"
-  },
-  {
-    "socialName": "Feiiii",
-    "title": "0103鬼滅 Primaniacs香水",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 3960,
-    "depositPaid": 3960,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "義勇",
-        "qty": 1
-      },
-      {
-        "name": "實彌",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0103鬼滅 Primaniacs香水",
-    "sourceMonth": "2026-01"
-  },
-  {
-    "socialName": "淺",
-    "title": "0103鬼滅 Primaniacs香水",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1980,
-    "depositPaid": 1980,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "童磨",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0103鬼滅 Primaniacs香水",
-    "sourceMonth": "2026-01"
-  },
-  {
-    "socialName": "歪歪",
-    "title": "0103鬼滅 Primaniacs香水",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1980,
-    "depositPaid": 1980,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "時透",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "0103鬼滅 Primaniacs香水",
     "sourceMonth": "2026-01"
   },
   {

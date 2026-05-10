@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T17:41:08.619Z",
+  "generatedAt": "2026-05-10T17:50:55.715Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -86,6 +86,10 @@
           "amount": 17329
         },
         {
+          "name": "Feiiii",
+          "amount": 17055
+        },
+        {
           "name": "每天都想退休",
           "amount": 16715
         },
@@ -96,10 +100,6 @@
         {
           "name": "Eilish",
           "amount": 15845
-        },
-        {
-          "name": "芭樂",
-          "amount": 14545
         }
       ]
     },
@@ -330,16 +330,16 @@
           "amount": 5950
         },
         {
-          "name": "Feiiii",
-          "amount": 5940
-        },
-        {
           "name": "良",
           "amount": 5690
         },
         {
           "name": "Saki蒼",
           "amount": 5325
+        },
+        {
+          "name": "臉書 三角飯糰",
+          "amount": 4800
         }
       ]
     },
