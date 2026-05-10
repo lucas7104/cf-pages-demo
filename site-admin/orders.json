@@ -13765,6 +13765,256 @@
     "sourceMonth": "2025_11"
   },
   {
+    "socialName": "絈",
+    "title": "1201進巨 amnibus",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 2505,
+    "depositPaid": 2505,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "水彩風立牌 里維",
+        "qty": 1
+      },
+      {
+        "name": "過去與現在 特大立牌 里維",
+        "qty": 1
+      },
+      {
+        "name": "過去與現在 過去里維",
+        "qty": 1
+      },
+      {
+        "name": "過去與現在 現在里維",
+        "qty": 1
+      },
+      {
+        "name": "閃徽 里維",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1201進巨 amnibus",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "lin",
+    "title": "1201進巨 amnibus",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1440,
+    "depositPaid": 1440,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "水彩風立牌 里維",
+        "qty": 1
+      },
+      {
+        "name": "水彩風立牌 艾爾文",
+        "qty": 1
+      },
+      {
+        "name": "自由之翼 阿爾敏",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1201進巨 amnibus",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "Jolyne",
+    "title": "1201進巨 amnibus",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1160,
+    "depositPaid": 1160,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "最終季極光大型立牌 亞妮",
+        "qty": 1
+      },
+      {
+        "name": "最終季角色場景徽章 亞妮",
+        "qty": 1
+      },
+      {
+        "name": "最終季插畫卡片套裝 亞妮",
+        "qty": 1
+      },
+      {
+        "name": "最終季A5場景卡 亞妮",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1201進巨 amnibus",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "TYT",
+    "title": "1201進巨 amnibus",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 2560,
+    "depositPaid": 2560,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "水彩風立牌 里維",
+        "qty": 1
+      },
+      {
+        "name": "水彩風線稿立牌 里維",
+        "qty": 1
+      },
+      {
+        "name": "過去與現在 特大立牌 里維",
+        "qty": 1
+      },
+      {
+        "name": "最終季極光大型立牌 里維",
+        "qty": 1
+      },
+      {
+        "name": "最終季A5場景卡 里維",
+        "qty": 1
+      },
+      {
+        "name": "最終季插畫卡片套裝 里維",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1201進巨 amnibus",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "piao",
+    "title": "1201進巨 amnibus",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1160,
+    "depositPaid": 1160,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "無卡",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "最終季極光大型立牌 亞妮",
+        "qty": 1
+      },
+      {
+        "name": "最終季角色場景徽章 亞妮",
+        "qty": 1
+      },
+      {
+        "name": "最終季插畫卡片套裝 亞妮",
+        "qty": 1
+      },
+      {
+        "name": "最終季A5場景卡 亞妮",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1201進巨 amnibus",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "溫妮",
+    "title": "1201進巨 amnibus",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 670,
+    "depositPaid": 670,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "水彩風線稿立牌 里維",
+        "qty": 1
+      },
+      {
+        "name": "最終季A5場景卡 里維",
+        "qty": 1
+      },
+      {
+        "name": "最終季插畫卡片套裝 里維",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1201進巨 amnibus",
+    "sourceMonth": "2025_12"
+  },
+  {
     "socialName": "Vivian_lai372",
     "title": "1203 咒術 安美Chugai萬聖節",
     "statusBadges": [
@@ -19200,256 +19450,6 @@
       }
     ],
     "sourceSheet": "1226鬼滅 對士&柱抽賞",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "絈",
-    "title": "1226進巨 amnibus",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 2505,
-    "depositPaid": 2505,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "水彩風立牌 里維",
-        "qty": 1
-      },
-      {
-        "name": "過去與現在 特大立牌 里維",
-        "qty": 1
-      },
-      {
-        "name": "過去與現在 過去里維",
-        "qty": 1
-      },
-      {
-        "name": "過去與現在 現在里維",
-        "qty": 1
-      },
-      {
-        "name": "閃徽 里維",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1226進巨 amnibus",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "lin",
-    "title": "1226進巨 amnibus",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1440,
-    "depositPaid": 1440,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "水彩風立牌 里維",
-        "qty": 1
-      },
-      {
-        "name": "水彩風立牌 艾爾文",
-        "qty": 1
-      },
-      {
-        "name": "自由之翼 阿爾敏",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1226進巨 amnibus",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "Jolyne",
-    "title": "1226進巨 amnibus",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1160,
-    "depositPaid": 1160,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "最終季極光大型立牌 亞妮",
-        "qty": 1
-      },
-      {
-        "name": "最終季角色場景徽章 亞妮",
-        "qty": 1
-      },
-      {
-        "name": "最終季插畫卡片套裝 亞妮",
-        "qty": 1
-      },
-      {
-        "name": "最終季A5場景卡 亞妮",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1226進巨 amnibus",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "TYT",
-    "title": "1226進巨 amnibus",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 2560,
-    "depositPaid": 2560,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "水彩風立牌 里維",
-        "qty": 1
-      },
-      {
-        "name": "水彩風線稿立牌 里維",
-        "qty": 1
-      },
-      {
-        "name": "過去與現在 特大立牌 里維",
-        "qty": 1
-      },
-      {
-        "name": "最終季極光大型立牌 里維",
-        "qty": 1
-      },
-      {
-        "name": "最終季A5場景卡 里維",
-        "qty": 1
-      },
-      {
-        "name": "最終季插畫卡片套裝 里維",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1226進巨 amnibus",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "piao",
-    "title": "1226進巨 amnibus",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1160,
-    "depositPaid": 1160,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "無卡",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "最終季極光大型立牌 亞妮",
-        "qty": 1
-      },
-      {
-        "name": "最終季角色場景徽章 亞妮",
-        "qty": 1
-      },
-      {
-        "name": "最終季插畫卡片套裝 亞妮",
-        "qty": 1
-      },
-      {
-        "name": "最終季A5場景卡 亞妮",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1226進巨 amnibus",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "溫妮",
-    "title": "1226進巨 amnibus",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 670,
-    "depositPaid": 670,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "水彩風線稿立牌 里維",
-        "qty": 1
-      },
-      {
-        "name": "最終季A5場景卡 里維",
-        "qty": 1
-      },
-      {
-        "name": "最終季插畫卡片套裝 里維",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1226進巨 amnibus",
     "sourceMonth": "2025_12"
   },
   {
