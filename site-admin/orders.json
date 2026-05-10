@@ -20111,14 +20111,14 @@
     ],
     "productAmount": 560,
     "depositPaid": 560,
-    "secondPayment": 114,
+    "secondPayment": 157,
     "secondPaymentBreakdown": {
       "domesticShipping": 114,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 34,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 114,
+    "balanceDue": 157,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
