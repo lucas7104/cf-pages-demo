@@ -17516,7 +17516,7 @@
     "socialName": "瑞斯",
     "title": "1224 鏈鋸人 王座",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2435,
@@ -17529,7 +17529,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -17552,7 +17552,7 @@
     "socialName": "vivian_lai372",
     "title": "1224 鏈鋸人 王座",
     "statusBadges": [
-      "返台中"
+      "已抵台"
     ],
     "productAmount": 1645,
     "depositPaid": 0,
@@ -17564,7 +17564,7 @@
       "packagingFee": 0
     },
     "balanceDue": 1645,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -17587,7 +17587,7 @@
     "socialName": "Jimmy C",
     "title": "1224 鏈鋸人 王座",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 425,
@@ -17600,7 +17600,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
