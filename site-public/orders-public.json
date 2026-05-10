@@ -41956,9 +41956,11 @@
   {
     "socialName": "婷婷",
     "title": "「空白版」的副本",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 5775,
-    "depositPaid": 0,
+    "depositPaid": 5775,
     "secondPayment": 131,
     "secondPaymentBreakdown": {
       "domesticShipping": 46,
@@ -41966,7 +41968,7 @@
       "cardFee": 85,
       "packagingFee": 0
     },
-    "balanceDue": 5906,
+    "balanceDue": 131,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -42026,9 +42028,11 @@
   {
     "socialName": "++",
     "title": "「空白版」的副本",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 480,
-    "depositPaid": 0,
+    "depositPaid": 476,
     "secondPayment": 53,
     "secondPaymentBreakdown": {
       "domesticShipping": 46,
@@ -42036,7 +42040,7 @@
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 533,
+    "balanceDue": 57,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -42051,9 +42055,11 @@
   {
     "socialName": "Sandy Lin",
     "title": "「空白版」的副本",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 240,
-    "depositPaid": 0,
+    "depositPaid": 240,
     "secondPayment": 50,
     "secondPaymentBreakdown": {
       "domesticShipping": 46,
@@ -42061,7 +42067,7 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 290,
+    "balanceDue": 50,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
