@@ -20618,7 +20618,7 @@
       "已付訂金"
     ],
     "productAmount": 465,
-    "depositPaid": 463,
+    "depositPaid": 465,
     "secondPayment": 52,
     "secondPaymentBreakdown": {
       "domesticShipping": 34,
@@ -20626,7 +20626,7 @@
       "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 54,
+    "balanceDue": 52,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41970,7 +41970,7 @@
     },
     "balanceDue": 131,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -42042,7 +42042,7 @@
     },
     "balanceDue": 57,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -42069,7 +42069,7 @@
     },
     "balanceDue": 50,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
