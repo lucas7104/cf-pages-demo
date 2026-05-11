@@ -5397,14 +5397,14 @@
     ],
     "productAmount": 220,
     "depositPaid": 120,
-    "secondPayment": 29,
+    "secondPayment": 33,
     "secondPaymentBreakdown": {
       "domesticShipping": 25,
       "internationalShipping": 4,
-      "cardFee": 0,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 129,
+    "balanceDue": 133,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -5425,14 +5425,14 @@
     ],
     "productAmount": 140,
     "depositPaid": 40,
-    "secondPayment": 33,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
       "domesticShipping": 25,
       "internationalShipping": 8,
-      "cardFee": 0,
+      "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 133,
+    "balanceDue": 135,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -5453,14 +5453,14 @@
     ],
     "productAmount": 660,
     "depositPaid": 560,
-    "secondPayment": 49,
+    "secondPayment": 58,
     "secondPaymentBreakdown": {
       "domesticShipping": 25,
       "internationalShipping": 24,
-      "cardFee": 0,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 149,
+    "balanceDue": 158,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -5481,14 +5481,14 @@
     ],
     "productAmount": 1320,
     "depositPaid": 1220,
-    "secondPayment": 73,
+    "secondPayment": 91,
     "secondPaymentBreakdown": {
       "domesticShipping": 25,
       "internationalShipping": 48,
-      "cardFee": 0,
+      "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 173,
+    "balanceDue": 191,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -7026,7 +7026,7 @@
   },
   {
     "socialName": "小熊餅乾",
-    "title": "1108 富江xHello Kitty",
+    "title": "1108 富江 Hello Kitty",
     "statusBadges": [
       "已抵台",
       "已付訂金"
@@ -7054,7 +7054,7 @@
   },
   {
     "socialName": "Ni",
-    "title": "1108 富江xHello Kitty",
+    "title": "1108 富江 Hello Kitty",
     "statusBadges": [
       "已抵台",
       "已付訂金"
@@ -7980,6 +7980,7 @@
     "socialName": "Feiiii",
     "title": "1111鬼滅Aniplex",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 600,
@@ -7992,7 +7993,7 @@
       "packagingFee": 0
     },
     "balanceDue": 182,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
