@@ -20754,14 +20754,14 @@
     ],
     "productAmount": 480,
     "depositPaid": 480,
-    "secondPayment": 0,
+    "secondPayment": 16,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 16,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -20782,14 +20782,14 @@
     ],
     "productAmount": 480,
     "depositPaid": 480,
-    "secondPayment": 0,
+    "secondPayment": 16,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 16,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -22638,6 +22638,7 @@
     "socialName": "西歐梨",
     "title": "0120進巨 星座",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 455,
@@ -22650,7 +22651,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -22669,6 +22670,7 @@
     "socialName": "宣",
     "title": "0120進巨 星座",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 720,
@@ -22681,7 +22683,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
