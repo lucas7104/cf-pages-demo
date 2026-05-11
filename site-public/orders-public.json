@@ -17225,6 +17225,420 @@
     ]
   },
   {
+    "socialName": "瑞斯",
+    "title": "1219 鏈鋸人 禮服系列",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 1620,
+    "depositPaid": 1620,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "蕾潔立牌",
+        "qty": 2
+      },
+      {
+        "name": "A3海報",
+        "qty": 1
+      },
+      {
+        "name": "壓克力磚",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "Peggy",
+    "title": "1219 鏈鋸人 禮服系列",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 320,
+    "depositPaid": 320,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "早川秋資料夾",
+        "qty": 1
+      },
+      {
+        "name": "天使資料夾",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "高八毛",
+    "title": "1219 鏈鋸人 禮服系列",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 690,
+    "depositPaid": 690,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "蕾潔立牌",
+        "qty": 1
+      },
+      {
+        "name": "A3海報",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "Fa",
+    "title": "1219 鏈鋸人 禮服系列",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 370,
+    "depositPaid": 370,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "A3海報",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "紅茶拿鐵微微",
+    "title": "1219 鏈鋸人 禮服系列",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 555,
+    "depositPaid": 555,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "A3海報",
+        "qty": 1
+      },
+      {
+        "name": "蕾潔鑰匙圈",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "華",
+    "title": "1219 鏈鋸人 禮服系列",
+    "statusBadges": [
+      "已抵台"
+    ],
+    "productAmount": 960,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 960,
+    "etaText": "已抵台",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "蕾潔立牌",
+        "qty": 2
+      },
+      {
+        "name": "瑪奇瑪立牌",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "Kaho",
+    "title": "1219 鏈鋸人 禮服系列",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 1330,
+    "depositPaid": 1330,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "蕾潔立牌",
+        "qty": 1
+      },
+      {
+        "name": "瑪奇瑪立牌",
+        "qty": 1
+      },
+      {
+        "name": "波奇塔立牌",
+        "qty": 1
+      },
+      {
+        "name": "A3海報",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "鴨",
+    "title": "1219 鏈鋸人 禮服系列",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 370,
+    "depositPaid": 370,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "A3海報",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "ziz",
+    "title": "1219 鏈鋸人 禮服系列",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 370,
+    "depositPaid": 370,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "A3海報",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "每天都想退休",
+    "title": "1219 鏈鋸人 禮服系列",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 160,
+    "depositPaid": 160,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "全員資料夾",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "sadow",
+    "title": "1219 鏈鋸人 禮服系列",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 370,
+    "depositPaid": 370,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "A3海報",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "its_midada",
+    "title": "1219 鏈鋸人 禮服系列",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 320,
+    "depositPaid": 320,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "天使立牌",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "vivian_lai372",
+    "title": "1219 鏈鋸人 禮服系列",
+    "statusBadges": [
+      "已抵台"
+    ],
+    "productAmount": 2700,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 2700,
+    "etaText": "已抵台",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "蕾潔立牌",
+        "qty": 1
+      },
+      {
+        "name": "鯊魚立牌",
+        "qty": 1
+      },
+      {
+        "name": "A3海報",
+        "qty": 1
+      },
+      {
+        "name": "壓克力磚",
+        "qty": 1
+      },
+      {
+        "name": "盲抽徽章",
+        "qty": 8
+      }
+    ]
+  },
+  {
     "socialName": "TT",
     "title": "1219咒術 抬頭娃吊飾",
     "statusBadges": [
@@ -18230,405 +18644,6 @@
       {
         "name": "水 (單抽)",
         "qty": 4
-      }
-    ]
-  },
-  {
-    "socialName": "瑞斯",
-    "title": "1226鏈鋸人 禮服系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1620,
-    "depositPaid": 1620,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "蕾潔立牌",
-        "qty": 2
-      },
-      {
-        "name": "A3海報",
-        "qty": 1
-      },
-      {
-        "name": "壓克力磚",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "Peggy",
-    "title": "1226鏈鋸人 禮服系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 320,
-    "depositPaid": 320,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "早川秋資料夾",
-        "qty": 1
-      },
-      {
-        "name": "天使資料夾",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "高八毛",
-    "title": "1226鏈鋸人 禮服系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 690,
-    "depositPaid": 690,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "蕾潔立牌",
-        "qty": 1
-      },
-      {
-        "name": "A3海報",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "Fa",
-    "title": "1226鏈鋸人 禮服系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 370,
-    "depositPaid": 370,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "A3海報",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "紅茶拿鐵微微",
-    "title": "1226鏈鋸人 禮服系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 555,
-    "depositPaid": 555,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "A3海報",
-        "qty": 1
-      },
-      {
-        "name": "蕾潔鑰匙圈",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "華",
-    "title": "1226鏈鋸人 禮服系列",
-    "statusBadges": [],
-    "productAmount": 960,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 960,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "蕾潔立牌",
-        "qty": 2
-      },
-      {
-        "name": "瑪奇瑪立牌",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "Kaho",
-    "title": "1226鏈鋸人 禮服系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1330,
-    "depositPaid": 1330,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "蕾潔立牌",
-        "qty": 1
-      },
-      {
-        "name": "瑪奇瑪立牌",
-        "qty": 1
-      },
-      {
-        "name": "波奇塔立牌",
-        "qty": 1
-      },
-      {
-        "name": "A3海報",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "鴨",
-    "title": "1226鏈鋸人 禮服系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 370,
-    "depositPaid": 370,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "A3海報",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "ziz",
-    "title": "1226鏈鋸人 禮服系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 370,
-    "depositPaid": 370,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "A3海報",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "每天都想退休",
-    "title": "1226鏈鋸人 禮服系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 160,
-    "depositPaid": 160,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "全員資料夾",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "sadow",
-    "title": "1226鏈鋸人 禮服系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 370,
-    "depositPaid": 370,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "A3海報",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "its_midada",
-    "title": "1226鏈鋸人 禮服系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 320,
-    "depositPaid": 320,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "天使立牌",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "vivian_lai372",
-    "title": "1226鏈鋸人 禮服系列",
-    "statusBadges": [],
-    "productAmount": 2700,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 2700,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "蕾潔立牌",
-        "qty": 1
-      },
-      {
-        "name": "鯊魚立牌",
-        "qty": 1
-      },
-      {
-        "name": "A3海報",
-        "qty": 1
-      },
-      {
-        "name": "壓克力磚",
-        "qty": 1
-      },
-      {
-        "name": "盲抽徽章",
-        "qty": 8
       }
     ]
   },
