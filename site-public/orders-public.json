@@ -22702,6 +22702,7 @@
     "socialName": "Ru",
     "title": "0120 進巨 星座",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 215,
@@ -22714,7 +22715,7 @@
       "packagingFee": 0
     },
     "balanceDue": 37,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26763,6 +26764,34 @@
   },
   {
     "socialName": "江蘇菲",
+    "title": "0211 咒術 藍光",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 1980,
+    "depositPaid": 1980,
+    "secondPayment": 279,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 161,
+      "internationalShipping": 92,
+      "cardFee": 26,
+      "packagingFee": 0
+    },
+    "balanceDue": 279,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "A通路vol.1",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "江蘇菲",
     "title": "0211進巨 激動",
     "statusBadges": [
       "已付訂金"
@@ -27492,33 +27521,6 @@
     "items": [
       {
         "name": "全彩艾爾文",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "江蘇菲",
-    "title": "0215咒術 藍光",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1980,
-    "depositPaid": 1980,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "拍立得小卡",
         "qty": 1
       }
     ]
@@ -29169,7 +29171,7 @@
       "packagingFee": 0
     },
     "balanceDue": 253,
-    "etaText": "待公告",
+    "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -29200,7 +29202,7 @@
       "packagingFee": 0
     },
     "balanceDue": 38,
-    "etaText": "待公告",
+    "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -29231,7 +29233,7 @@
       "packagingFee": 0
     },
     "balanceDue": 38,
-    "etaText": "待公告",
+    "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -29262,7 +29264,7 @@
       "packagingFee": 0
     },
     "balanceDue": 49,
-    "etaText": "待公告",
+    "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -29289,7 +29291,7 @@
       "packagingFee": 0
     },
     "balanceDue": 86,
-    "etaText": "待公告",
+    "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -29320,7 +29322,7 @@
       "packagingFee": 0
     },
     "balanceDue": 49,
-    "etaText": "待公告",
+    "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -29347,7 +29349,7 @@
       "packagingFee": 0
     },
     "balanceDue": 57,
-    "etaText": "待公告",
+    "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -29378,7 +29380,7 @@
       "packagingFee": 0
     },
     "balanceDue": 30,
-    "etaText": "待公告",
+    "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -29397,6 +29399,7 @@
     "socialName": "卡卡莉",
     "title": "0303芙莉蓮 AJ2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 110,
@@ -29409,7 +29412,7 @@
       "packagingFee": 0
     },
     "balanceDue": 37,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
