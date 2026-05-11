@@ -23750,6 +23750,7 @@
     "socialName": "Peggy",
     "title": "0120 咒術 食玩口香糖",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 760,
@@ -23762,7 +23763,7 @@
       "packagingFee": 0
     },
     "balanceDue": 115,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -23779,6 +23780,7 @@
     "socialName": "高八毛",
     "title": "0120 咒術 食玩口香糖",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 760,
@@ -23791,7 +23793,7 @@
       "packagingFee": 0
     },
     "balanceDue": 115,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
