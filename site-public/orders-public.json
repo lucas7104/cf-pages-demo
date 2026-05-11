@@ -20754,14 +20754,14 @@
     ],
     "productAmount": 480,
     "depositPaid": 480,
-    "secondPayment": 16,
+    "secondPayment": 67,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 51,
       "internationalShipping": 9,
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 16,
+    "balanceDue": 67,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -20782,14 +20782,14 @@
     ],
     "productAmount": 480,
     "depositPaid": 480,
-    "secondPayment": 16,
+    "secondPayment": 67,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 51,
       "internationalShipping": 9,
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 16,
+    "balanceDue": 67,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -22636,21 +22636,21 @@
   },
   {
     "socialName": "西歐梨",
-    "title": "0120進巨 星座",
+    "title": "0120 進巨 星座",
     "statusBadges": [
       "已抵台",
       "已付訂金"
     ],
     "productAmount": 455,
     "depositPaid": 455,
-    "secondPayment": 0,
+    "secondPayment": 45,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 30,
+      "internationalShipping": 9,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 45,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -22668,21 +22668,21 @@
   },
   {
     "socialName": "宣",
-    "title": "0120進巨 星座",
+    "title": "0120 進巨 星座",
     "statusBadges": [
       "已抵台",
       "已付訂金"
     ],
     "productAmount": 720,
     "depositPaid": 720,
-    "secondPayment": 0,
+    "secondPayment": 65,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 30,
+      "internationalShipping": 23,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 65,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -22700,20 +22700,20 @@
   },
   {
     "socialName": "Ru",
-    "title": "0120進巨 星座",
+    "title": "0120 進巨 星座",
     "statusBadges": [
       "已付訂金"
     ],
     "productAmount": 215,
     "depositPaid": 215,
-    "secondPayment": 0,
+    "secondPayment": 37,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 30,
+      "internationalShipping": 4,
+      "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 37,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -24196,6 +24196,7 @@
     "socialName": "00240",
     "title": "0127進巨 美高",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 265,
@@ -24208,7 +24209,7 @@
       "packagingFee": 0
     },
     "balanceDue": 45,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24223,6 +24224,7 @@
     "socialName": "佩佩",
     "title": "0127進巨 美高",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 265,
@@ -24235,7 +24237,7 @@
       "packagingFee": 0
     },
     "balanceDue": 45,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24250,6 +24252,7 @@
     "socialName": "TYT",
     "title": "0127進巨 美高",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 795,
@@ -24262,7 +24265,7 @@
       "packagingFee": 0
     },
     "balanceDue": 103,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41975,7 +41978,7 @@
   },
   {
     "socialName": "婷婷",
-    "title": "「空白版」的副本",
+    "title": "0429多ip Jump Festa 2026",
     "statusBadges": [
       "已付訂金"
     ],
@@ -42018,7 +42021,7 @@
   },
   {
     "socialName": "很累",
-    "title": "「空白版」的副本",
+    "title": "0429多ip Jump Festa 2026",
     "statusBadges": [],
     "productAmount": 2285,
     "depositPaid": 0,
@@ -42047,7 +42050,7 @@
   },
   {
     "socialName": "++",
-    "title": "「空白版」的副本",
+    "title": "0429多ip Jump Festa 2026",
     "statusBadges": [
       "已付訂金"
     ],
@@ -42074,7 +42077,7 @@
   },
   {
     "socialName": "Sandy Lin",
-    "title": "「空白版」的副本",
+    "title": "0429多ip Jump Festa 2026",
     "statusBadges": [
       "已付訂金"
     ],
