@@ -20749,6 +20749,7 @@
     "socialName": "劉",
     "title": "0108 進巨 狼男",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 480,
@@ -20761,7 +20762,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20776,6 +20777,7 @@
     "socialName": "歪歪",
     "title": "0108 進巨 狼男",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 480,
@@ -20788,7 +20790,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -28664,14 +28666,14 @@
     ],
     "productAmount": 480,
     "depositPaid": 480,
-    "secondPayment": 124,
+    "secondPayment": 148,
     "secondPaymentBreakdown": {
       "domesticShipping": 124,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 17,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 124,
+    "balanceDue": 148,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
