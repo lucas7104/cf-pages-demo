@@ -14897,6 +14897,7 @@
     "socialName": "Meoooooow",
     "title": "1206膽大黨公仔",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 610,
@@ -14909,7 +14910,7 @@
       "packagingFee": 0
     },
     "balanceDue": 160,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -14925,7 +14926,9 @@
   {
     "socialName": "vivian_lai372",
     "title": "1206膽大黨公仔",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 610,
     "depositPaid": 0,
     "secondPayment": 160,
@@ -14936,7 +14939,7 @@
       "packagingFee": 0
     },
     "balanceDue": 770,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
