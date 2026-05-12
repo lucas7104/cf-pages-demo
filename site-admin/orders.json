@@ -31513,7 +31513,7 @@
       "已付訂金"
     ],
     "productAmount": 2270,
-    "depositPaid": 2160,
+    "depositPaid": 2270,
     "secondPayment": 30,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -31521,9 +31521,9 @@
       "cardFee": 30,
       "packagingFee": 0
     },
-    "balanceDue": 140,
+    "balanceDue": 30,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -31542,9 +31542,11 @@
   {
     "socialName": "A-Joe",
     "title": "0303進巨 Runway",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 665,
-    "depositPaid": 0,
+    "depositPaid": 665,
     "secondPayment": 10,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -31552,9 +31554,9 @@
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 675,
+    "balanceDue": 10,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -31573,9 +31575,11 @@
   {
     "socialName": "cut",
     "title": "0303進巨 Runway",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 1110,
-    "depositPaid": 0,
+    "depositPaid": 667,
     "secondPayment": 16,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -31583,7 +31587,7 @@
       "cardFee": 16,
       "packagingFee": 0
     },
-    "balanceDue": 1126,
+    "balanceDue": 459,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
