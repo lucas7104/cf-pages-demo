@@ -29881,9 +29881,11 @@
   {
     "socialName": "小呱",
     "title": "0303進巨 Runway",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 645,
-    "depositPaid": 0,
+    "depositPaid": 545,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -29891,7 +29893,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 645,
+    "balanceDue": 100,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -38825,6 +38827,103 @@
     ]
   },
   {
+    "socialName": "Kaho",
+    "title": "0303進巨 Runway",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 590,
+    "depositPaid": 590,
+    "secondPayment": 57,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 49,
+      "internationalShipping": 0,
+      "cardFee": 8,
+      "packagingFee": 0
+    },
+    "balanceDue": 57,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "伏黑相卡明信片組",
+        "qty": 1
+      },
+      {
+        "name": "五條相卡明信片組",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "小呱",
+    "title": "0303進巨 Runway",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 380,
+    "depositPaid": 380,
+    "secondPayment": 55,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 49,
+      "internationalShipping": 0,
+      "cardFee": 6,
+      "packagingFee": 0
+    },
+    "balanceDue": 55,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "伏黑資料夾",
+        "qty": 1
+      },
+      {
+        "name": "五條資料夾",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "季",
+    "title": "0303進巨 Runway",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1625,
+    "depositPaid": 1625,
+    "secondPayment": 71,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 49,
+      "internationalShipping": 0,
+      "cardFee": 22,
+      "packagingFee": 0
+    },
+    "balanceDue": 71,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "伏黑相卡明信片組",
+        "qty": 1
+      },
+      {
+        "name": "五條相卡明信片組",
+        "qty": 1
+      },
+      {
+        "name": "伏黑惠壓克力磚",
+        "qty": 1
+      }
+    ]
+  },
+  {
     "socialName": "婷婷",
     "title": "0402 北海道連線",
     "statusBadges": [
@@ -42457,103 +42556,6 @@
     "items": [
       {
         "name": "脹相哭哭立體模型",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "Kaho",
-    "title": "0425咒術 五條悟、伏黑惠生日紀念圖周邊",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 590,
-    "depositPaid": 590,
-    "secondPayment": 57,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 49,
-      "internationalShipping": 0,
-      "cardFee": 8,
-      "packagingFee": 0
-    },
-    "balanceDue": 57,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "伏黑相卡明信片組",
-        "qty": 1
-      },
-      {
-        "name": "五條相卡明信片組",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "小呱",
-    "title": "0425咒術 五條悟、伏黑惠生日紀念圖周邊",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 380,
-    "depositPaid": 380,
-    "secondPayment": 55,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 49,
-      "internationalShipping": 0,
-      "cardFee": 6,
-      "packagingFee": 0
-    },
-    "balanceDue": 55,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "伏黑資料夾",
-        "qty": 1
-      },
-      {
-        "name": "五條資料夾",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "季",
-    "title": "0425咒術 五條悟、伏黑惠生日紀念圖周邊",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1625,
-    "depositPaid": 1625,
-    "secondPayment": 71,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 49,
-      "internationalShipping": 0,
-      "cardFee": 22,
-      "packagingFee": 0
-    },
-    "balanceDue": 71,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "伏黑相卡明信片組",
-        "qty": 1
-      },
-      {
-        "name": "五條相卡明信片組",
-        "qty": 1
-      },
-      {
-        "name": "伏黑惠壓克力磚",
         "qty": 1
       }
     ]
