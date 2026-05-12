@@ -31447,6 +31447,471 @@
     "sourceMonth": "2026-03"
   },
   {
+    "socialName": "劉",
+    "title": "0303進巨 Runway",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (里維)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0303進巨 Runway",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "lin",
+    "title": "0303進巨 Runway",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "立牌 (艾爾文)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0303進巨 Runway",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "H",
+    "title": "0303進巨 Runway",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "資料夾 (里維)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0303進巨 Runway",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "A-Joe",
+    "title": "0303進巨 Runway",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "拍立得相卡",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0303進巨 Runway",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "cut",
+    "title": "0303進巨 Runway",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "立牌 (艾爾文)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0303進巨 Runway",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "絈",
+    "title": "0303進巨 Runway",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (里維)",
+        "qty": 2
+      },
+      {
+        "name": "毛巾 (里維)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0303進巨 Runway",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "R.O.N.G",
+    "title": "0303進巨 Runway",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (里維)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0303進巨 Runway",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "莎拉拉",
+    "title": "0303進巨 Runway",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (里維)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0303進巨 Runway",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "艾",
+    "title": "0303進巨 Runway",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (艾連)",
+        "qty": 1
+      },
+      {
+        "name": "立牌 (阿爾敏)",
+        "qty": 1
+      },
+      {
+        "name": "立牌 (米卡莎)",
+        "qty": 1
+      },
+      {
+        "name": "立牌 (莎夏)",
+        "qty": 1
+      },
+      {
+        "name": "立牌 (約翰)",
+        "qty": 1
+      },
+      {
+        "name": "立牌 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "立牌 (艾爾文)",
+        "qty": 1
+      },
+      {
+        "name": "立牌 (漢吉)",
+        "qty": 1
+      },
+      {
+        "name": "海報",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0303進巨 Runway",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "乃",
+    "title": "0303進巨 Runway",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (艾連)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0303進巨 Runway",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "PEiii👻",
+    "title": "0303進巨 Runway",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (艾連)",
+        "qty": 1
+      },
+      {
+        "name": "立牌 (阿爾敏)",
+        "qty": 1
+      },
+      {
+        "name": "海報",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0303進巨 Runway",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "婷婷",
+    "title": "0303進巨 Runway",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "海報",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0303進巨 Runway",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "小呱",
+    "title": "0303進巨 Runway",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (場販里維)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0303進巨 Runway",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "容",
+    "title": "0303進巨 Runway",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "海報",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0303進巨 Runway",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "Susu🐶",
+    "title": "0303進巨 Runway",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (場販里維)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0303進巨 Runway",
+    "sourceMonth": "2026-03"
+  },
+  {
     "socialName": "Peggy",
     "title": "0304咒術 一番賞",
     "statusBadges": [
