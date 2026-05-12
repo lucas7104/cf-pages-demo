@@ -21178,6 +21178,34 @@
     ]
   },
   {
+    "socialName": "chiiiii",
+    "title": "0109 坂本日常 Look up",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 990,
+    "depositPaid": 990,
+    "secondPayment": 198,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 132,
+      "internationalShipping": 53,
+      "cardFee": 13,
+      "packagingFee": 0
+    },
+    "balanceDue": 198,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "大佛look up",
+        "qty": 1
+      }
+    ]
+  },
+  {
     "socialName": "高八毛",
     "title": "0109 咒術 伸展",
     "statusBadges": [
