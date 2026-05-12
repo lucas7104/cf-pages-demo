@@ -31507,17 +31507,19 @@
   {
     "socialName": "H",
     "title": "0303進巨 Runway",
-    "statusBadges": [],
-    "productAmount": 110,
-    "depositPaid": 0,
-    "secondPayment": 2,
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 2270,
+    "depositPaid": 2160,
+    "secondPayment": 30,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
       "internationalShipping": 0,
-      "cardFee": 2,
+      "cardFee": 30,
       "packagingFee": 0
     },
-    "balanceDue": 112,
+    "balanceDue": 140,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -31526,6 +31528,10 @@
       {
         "name": "資料夾 (里維)",
         "qty": 1
+      },
+      {
+        "name": "海報",
+        "qty": 2
       }
     ],
     "sourceSheet": "0303進巨 Runway",
