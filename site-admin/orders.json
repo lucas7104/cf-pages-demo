@@ -43732,6 +43732,242 @@
     "sourceMonth": "2026-04"
   },
   {
+    "socialName": "黑澤",
+    "title": "0417咒術 極樂湯",
+    "statusBadges": [],
+    "productAmount": 555,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 555,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (七海)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0417咒術 極樂湯",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "芭樂",
+    "title": "0417咒術 極樂湯",
+    "statusBadges": [],
+    "productAmount": 2875,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 2875,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (五條)",
+        "qty": 2
+      },
+      {
+        "name": "盲抽拍立得 (一抽)",
+        "qty": 1
+      },
+      {
+        "name": "入浴劑",
+        "qty": 3
+      },
+      {
+        "name": "正比徽章 (一抽)",
+        "qty": 1
+      },
+      {
+        "name": "溫泉饅頭",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0417咒術 極樂湯",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "Saki蒼",
+    "title": "0417咒術 極樂湯",
+    "statusBadges": [],
+    "productAmount": 555,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 555,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (五條)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0417咒術 極樂湯",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "君",
+    "title": "0417咒術 極樂湯",
+    "statusBadges": [],
+    "productAmount": 555,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 555,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (五條)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0417咒術 極樂湯",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "🌧️",
+    "title": "0417咒術 極樂湯",
+    "statusBadges": [],
+    "productAmount": 555,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 555,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (五條)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0417咒術 極樂湯",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "破產的人",
+    "title": "0417咒術 極樂湯",
+    "statusBadges": [],
+    "productAmount": 1015,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 1015,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (五條)",
+        "qty": 1
+      },
+      {
+        "name": "溫泉饅頭",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0417咒術 極樂湯",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "Lydia",
+    "title": "0417咒術 極樂湯",
+    "statusBadges": [],
+    "productAmount": 1110,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 1110,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (五條)",
+        "qty": 2
+      }
+    ],
+    "sourceSheet": "0417咒術 極樂湯",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "季",
+    "title": "0417咒術 極樂湯",
+    "statusBadges": [],
+    "productAmount": 1110,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 1110,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "盲抽拍立得 (通販BOX)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0417咒術 極樂湯",
+    "sourceMonth": "2026-04"
+  },
+  {
     "socialName": "Leila",
     "title": "0418鬼滅 Jump閃卡收藏 Vol. 1",
     "statusBadges": [],
