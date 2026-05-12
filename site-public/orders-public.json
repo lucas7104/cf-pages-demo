@@ -29937,9 +29937,11 @@
   {
     "socialName": "Susu🐶",
     "title": "0303進巨 Runway",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 645,
-    "depositPaid": 0,
+    "depositPaid": 645,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -29947,7 +29949,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 645,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
