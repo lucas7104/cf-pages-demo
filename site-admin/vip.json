@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T10:10:56.767Z",
+  "generatedAt": "2026-05-12T10:21:01.961Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -12,7 +12,7 @@
       "topTen": [
         {
           "name": "婷婷",
-          "amount": 93265
+          "amount": 94345
         },
         {
           "name": "TYT",
@@ -115,7 +115,7 @@
       "topTen": [
         {
           "name": "婷婷",
-          "amount": 93265
+          "amount": 94345
         },
         {
           "name": "TYT",
@@ -397,7 +397,7 @@
       "topTen": [
         {
           "name": "婷婷",
-          "amount": 24485
+          "amount": 25565
         },
         {
           "name": "季",
