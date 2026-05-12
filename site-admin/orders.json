@@ -31482,9 +31482,11 @@
   {
     "socialName": "劉",
     "title": "0303進巨 Runway",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 555,
-    "depositPaid": 0,
+    "depositPaid": 555,
     "secondPayment": 8,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -31492,9 +31494,9 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 563,
+    "balanceDue": 8,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
