@@ -15500,7 +15500,7 @@
     "socialName": "芭樂",
     "title": "1207 蝶之芙莉蓮",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 400,
@@ -15513,7 +15513,7 @@
       "packagingFee": 0
     },
     "balanceDue": 18,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16039,7 +16039,7 @@
     "socialName": "芭樂",
     "title": "1211 多ip TOHO 10週年紀念",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 775,
@@ -16052,7 +16052,7 @@
       "packagingFee": 0
     },
     "balanceDue": 77,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -18185,7 +18185,7 @@
     "socialName": "芭樂",
     "title": "1219 咒術 旅遊系列",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1155,
@@ -18198,7 +18198,7 @@
       "packagingFee": 0
     },
     "balanceDue": 61,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
