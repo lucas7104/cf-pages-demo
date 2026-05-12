@@ -17456,7 +17456,7 @@
     "socialName": "紅茶拿鐵微微",
     "title": "1219 鏈鋸人 禮服系列",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 555,
@@ -17469,7 +17469,7 @@
       "packagingFee": 0
     },
     "balanceDue": 42,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41801,7 +41801,7 @@
       "已付訂金"
     ],
     "productAmount": 2875,
-    "depositPaid": 2735,
+    "depositPaid": 2875,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -41809,7 +41809,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 140,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
