@@ -6969,6 +6969,122 @@
     "sourceMonth": "2025_11"
   },
   {
+    "socialName": "Q",
+    "title": "1107 鏈鋸人 PochiMart",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "黑色波奇塔玩偶",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1107 鏈鋸人 PochiMart",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "pei",
+    "title": "1107 鏈鋸人 PochiMart",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "黑色波奇塔吊飾",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1107 鏈鋸人 PochiMart",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "超級海星",
+    "title": "1107 鏈鋸人 PochiMart",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "黑色波奇塔玩偶",
+        "qty": 1
+      },
+      {
+        "name": "貼紙組 黑色波奇塔",
+        "qty": 1
+      },
+      {
+        "name": "方形雷射貼紙 黑色波奇塔",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1107 鏈鋸人 PochiMart",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "Meoooooow",
+    "title": "1107 鏈鋸人 PochiMart",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "黑色波奇塔束口袋",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1107 鏈鋸人 PochiMart",
+    "sourceMonth": "2025_11"
+  },
+  {
     "socialName": "Lulu",
     "title": "1108 鬼滅 太陽城傳說",
     "statusBadges": [
