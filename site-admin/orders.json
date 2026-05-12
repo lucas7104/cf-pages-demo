@@ -10346,7 +10346,7 @@
     "socialName": "華",
     "title": "1118 咒術mappa",
     "statusBadges": [
-      "已抵台"
+      "已出貨"
     ],
     "productAmount": 270,
     "depositPaid": 0,
@@ -10358,7 +10358,7 @@
       "packagingFee": 0
     },
     "balanceDue": 314,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -27200,7 +27200,7 @@
     "socialName": "芭樂",
     "title": "0202 TOHO多IP護手霜",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 9030,
@@ -27213,10 +27213,10 @@
       "packagingFee": 0
     },
     "balanceDue": 900,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "部分出貨",
     "items": [
       {
         "name": "夏油",
@@ -31787,9 +31787,11 @@
   {
     "socialName": "乃",
     "title": "0303進巨 Runway",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 555,
-    "depositPaid": 0,
+    "depositPaid": 555,
     "secondPayment": 8,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -31797,9 +31799,9 @@
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 563,
+    "balanceDue": 8,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -31835,7 +31837,7 @@
         "qty": 1
       },
       {
-        "name": "立牌 (阿爾敏)",
+        "name": "立牌 (米卡莎)",
         "qty": 1
       },
       {
