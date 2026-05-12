@@ -6984,6 +6984,7 @@
     "socialName": "Q",
     "title": "1107 鏈鋸人 PochiMart",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 795,
@@ -6996,7 +6997,7 @@
       "packagingFee": 0
     },
     "balanceDue": 155,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -7013,6 +7014,7 @@
     "socialName": "pei",
     "title": "1107 鏈鋸人 PochiMart",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 515,
@@ -7025,7 +7027,7 @@
       "packagingFee": 0
     },
     "balanceDue": 126,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -7042,6 +7044,7 @@
     "socialName": "ない",
     "title": "1107 鏈鋸人 PochiMart",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 795,
@@ -7054,7 +7057,7 @@
       "packagingFee": 0
     },
     "balanceDue": 155,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -22584,7 +22587,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0109 坂本日常 Look up ",
+    "sourceSheet": "★0109 坂本日常 Look up ",
     "sourceMonth": "2026-01"
   },
   {
