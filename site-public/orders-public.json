@@ -6541,17 +6541,19 @@
   {
     "socialName": "Q",
     "title": "1107 鏈鋸人 PochiMart",
-    "statusBadges": [],
-    "productAmount": 0,
-    "depositPaid": 0,
-    "secondPayment": 0,
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 795,
+    "depositPaid": 695,
+    "secondPayment": 55,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 44,
+      "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 155,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -6566,17 +6568,19 @@
   {
     "socialName": "pei",
     "title": "1107 鏈鋸人 PochiMart",
-    "statusBadges": [],
-    "productAmount": 0,
-    "depositPaid": 0,
-    "secondPayment": 0,
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 515,
+    "depositPaid": 415,
+    "secondPayment": 26,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 19,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 126,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -6591,19 +6595,21 @@
   {
     "socialName": "ない",
     "title": "1107 鏈鋸人 PochiMart",
-    "statusBadges": [],
-    "productAmount": 0,
-    "depositPaid": 0,
-    "secondPayment": 0,
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 795,
+    "depositPaid": 695,
+    "secondPayment": 55,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 44,
+      "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 155,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
