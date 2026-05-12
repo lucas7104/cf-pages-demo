@@ -2536,6 +2536,629 @@
     "sourceMonth": "2025_09_10"
   },
   {
+    "socialName": "臉書Alice Tsai",
+    "title": "1017 進巨 騎馬系列",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 540,
+    "depositPaid": 440,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "徽章 (1抽)",
+        "qty": 4
+      }
+    ],
+    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceMonth": "2025_09_10"
+  },
+  {
+    "socialName": "臉書 蕭宜雯",
+    "title": "1017 進巨 騎馬系列",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1960,
+    "depositPaid": 1860,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "貼紙 (艾爾文)",
+        "qty": 1
+      },
+      {
+        "name": "彩色玻璃壓克力",
+        "qty": 1
+      },
+      {
+        "name": "正比立牌 (艾爾文)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceMonth": "2025_09_10"
+  },
+  {
+    "socialName": "GU搭",
+    "title": "1017 進巨 騎馬系列",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1850,
+    "depositPaid": 1750,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 (艾爾文)",
+        "qty": 1
+      },
+      {
+        "name": "正比立牌 (漢吉)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceMonth": "2025_09_10"
+  },
+  {
+    "socialName": "쮸",
+    "title": "1017 進巨 騎馬系列",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 925,
+    "depositPaid": 825,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "無卡",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "彩色玻璃壓克力",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceMonth": "2025_09_10"
+  },
+  {
+    "socialName": "臉書 陳亭妤",
+    "title": "1017 進巨 騎馬系列",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1850,
+    "depositPaid": 1750,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "正比立牌 (艾爾文)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceMonth": "2025_09_10"
+  },
+  {
+    "socialName": "susu",
+    "title": "1017 進巨 騎馬系列",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 925,
+    "depositPaid": 825,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "彩色玻璃壓克力",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceMonth": "2025_09_10"
+  },
+  {
+    "socialName": "yying",
+    "title": "1017 進巨 騎馬系列",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 2070,
+    "depositPaid": 1970,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "正比立牌 (艾爾文)",
+        "qty": 1
+      },
+      {
+        "name": "明信片 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "明信片 (艾爾文)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceMonth": "2025_09_10"
+  },
+  {
+    "socialName": "An",
+    "title": "1017 進巨 騎馬系列",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1365,
+    "depositPaid": 1265,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "彩色玻璃壓克力",
+        "qty": 1
+      },
+      {
+        "name": "明信片 (艾蓮)",
+        "qty": 1
+      },
+      {
+        "name": "明信片 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "明信片 (艾爾文)",
+        "qty": 1
+      },
+      {
+        "name": "明信片 (漢吉)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceMonth": "2025_09_10"
+  },
+  {
+    "socialName": "臉書 走心怪",
+    "title": "1017 進巨 騎馬系列",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 925,
+    "depositPaid": 825,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 (艾蓮)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceMonth": "2025_09_10"
+  },
+  {
+    "socialName": "臉書 Xuan Lin",
+    "title": "1017 進巨 騎馬系列",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1850,
+    "depositPaid": 1750,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "正比立牌 (艾爾文)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceMonth": "2025_09_10"
+  },
+  {
+    "socialName": "Abby❤️",
+    "title": "1017 進巨 騎馬系列",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1115,
+    "depositPaid": 1015,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "小袋子",
+        "qty": 1
+      },
+      {
+        "name": "零錢包",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceMonth": "2025_09_10"
+  },
+  {
+    "socialName": "絈",
+    "title": "1017 進巨 騎馬系列",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1300,
+    "depositPaid": 1200,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "明信片 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "里維艾連透卡",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceMonth": "2025_09_10"
+  },
+  {
+    "socialName": "每天都想退休",
+    "title": "1017 進巨 騎馬系列",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 220,
+    "depositPaid": 120,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "明信片 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "明信片 (艾爾文)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceMonth": "2025_09_10"
+  },
+  {
+    "socialName": "Ru",
+    "title": "1017 進巨 騎馬系列",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 110,
+    "depositPaid": 10,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "明信片 (里維)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceMonth": "2025_09_10"
+  },
+  {
+    "socialName": "Qianti",
+    "title": "1017 進巨 騎馬系列",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 925,
+    "depositPaid": 825,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "正比立牌 (里維)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceMonth": "2025_09_10"
+  },
+  {
+    "socialName": "陳安",
+    "title": "1017 進巨 騎馬系列",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 110,
+    "depositPaid": 10,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "明信片 (艾蓮)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceMonth": "2025_09_10"
+  },
+  {
+    "socialName": "しおり",
+    "title": "1017 進巨 騎馬系列",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 925,
+    "depositPaid": 825,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "彩色玻璃壓克力",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceMonth": "2025_09_10"
+  },
+  {
+    "socialName": "地瓜",
+    "title": "1017 進巨 騎馬系列",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1145,
+    "depositPaid": 1045,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "貼紙 (艾連)",
+        "qty": 1
+      },
+      {
+        "name": "貼紙 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "彩色玻璃壓克力",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceMonth": "2025_09_10"
+  },
+  {
+    "socialName": "lin",
+    "title": "1017 進巨 騎馬系列",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 925,
+    "depositPaid": 825,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "彩色玻璃壓克力",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceMonth": "2025_09_10"
+  },
+  {
     "socialName": "每天都想退休",
     "title": "1017進巨 兵長誕生日",
     "statusBadges": [
@@ -3224,629 +3847,6 @@
       }
     ],
     "sourceSheet": "★1023 進巨Amnibus(冬日、戰損、東武)",
-    "sourceMonth": "2025_09_10"
-  },
-  {
-    "socialName": "臉書Alice Tsai",
-    "title": "1023進巨騎馬系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 540,
-    "depositPaid": 440,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "徽章 (1抽)",
-        "qty": 4
-      }
-    ],
-    "sourceSheet": "1023進巨騎馬系列",
-    "sourceMonth": "2025_09_10"
-  },
-  {
-    "socialName": "臉書 蕭宜雯",
-    "title": "1023進巨騎馬系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1960,
-    "depositPaid": 1860,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "貼紙 (艾爾文)",
-        "qty": 1
-      },
-      {
-        "name": "彩色玻璃壓克力",
-        "qty": 1
-      },
-      {
-        "name": "正比立牌 (艾爾文)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1023進巨騎馬系列",
-    "sourceMonth": "2025_09_10"
-  },
-  {
-    "socialName": "GU搭",
-    "title": "1023進巨騎馬系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1850,
-    "depositPaid": 1750,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "正比立牌 (艾爾文)",
-        "qty": 1
-      },
-      {
-        "name": "正比立牌 (漢吉)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1023進巨騎馬系列",
-    "sourceMonth": "2025_09_10"
-  },
-  {
-    "socialName": "쮸",
-    "title": "1023進巨騎馬系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 925,
-    "depositPaid": 825,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "無卡",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "彩色玻璃壓克力",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1023進巨騎馬系列",
-    "sourceMonth": "2025_09_10"
-  },
-  {
-    "socialName": "臉書 陳亭妤",
-    "title": "1023進巨騎馬系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1850,
-    "depositPaid": 1750,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "正比立牌 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "正比立牌 (艾爾文)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1023進巨騎馬系列",
-    "sourceMonth": "2025_09_10"
-  },
-  {
-    "socialName": "susu",
-    "title": "1023進巨騎馬系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 925,
-    "depositPaid": 825,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "彩色玻璃壓克力",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1023進巨騎馬系列",
-    "sourceMonth": "2025_09_10"
-  },
-  {
-    "socialName": "yying",
-    "title": "1023進巨騎馬系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 2070,
-    "depositPaid": 1970,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "正比立牌 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "正比立牌 (艾爾文)",
-        "qty": 1
-      },
-      {
-        "name": "明信片 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "明信片 (艾爾文)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1023進巨騎馬系列",
-    "sourceMonth": "2025_09_10"
-  },
-  {
-    "socialName": "An",
-    "title": "1023進巨騎馬系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1365,
-    "depositPaid": 1265,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "彩色玻璃壓克力",
-        "qty": 1
-      },
-      {
-        "name": "明信片 (艾蓮)",
-        "qty": 1
-      },
-      {
-        "name": "明信片 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "明信片 (艾爾文)",
-        "qty": 1
-      },
-      {
-        "name": "明信片 (漢吉)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1023進巨騎馬系列",
-    "sourceMonth": "2025_09_10"
-  },
-  {
-    "socialName": "臉書 走心怪",
-    "title": "1023進巨騎馬系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 925,
-    "depositPaid": 825,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "正比立牌 (艾蓮)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1023進巨騎馬系列",
-    "sourceMonth": "2025_09_10"
-  },
-  {
-    "socialName": "臉書 Xuan Lin",
-    "title": "1023進巨騎馬系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1850,
-    "depositPaid": 1750,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "正比立牌 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "正比立牌 (艾爾文)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1023進巨騎馬系列",
-    "sourceMonth": "2025_09_10"
-  },
-  {
-    "socialName": "Abby❤️",
-    "title": "1023進巨騎馬系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1115,
-    "depositPaid": 1015,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "小袋子",
-        "qty": 1
-      },
-      {
-        "name": "零錢包",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1023進巨騎馬系列",
-    "sourceMonth": "2025_09_10"
-  },
-  {
-    "socialName": "絈",
-    "title": "1023進巨騎馬系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1300,
-    "depositPaid": 1200,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "正比立牌 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "明信片 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "里維艾連透卡",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1023進巨騎馬系列",
-    "sourceMonth": "2025_09_10"
-  },
-  {
-    "socialName": "每天都想退休",
-    "title": "1023進巨騎馬系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 220,
-    "depositPaid": 120,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "明信片 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "明信片 (艾爾文)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1023進巨騎馬系列",
-    "sourceMonth": "2025_09_10"
-  },
-  {
-    "socialName": "Ru",
-    "title": "1023進巨騎馬系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 110,
-    "depositPaid": 10,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "明信片 (里維)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1023進巨騎馬系列",
-    "sourceMonth": "2025_09_10"
-  },
-  {
-    "socialName": "Qianti",
-    "title": "1023進巨騎馬系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 925,
-    "depositPaid": 825,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "正比立牌 (里維)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1023進巨騎馬系列",
-    "sourceMonth": "2025_09_10"
-  },
-  {
-    "socialName": "陳安",
-    "title": "1023進巨騎馬系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 110,
-    "depositPaid": 10,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "明信片 (艾蓮)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1023進巨騎馬系列",
-    "sourceMonth": "2025_09_10"
-  },
-  {
-    "socialName": "しおり",
-    "title": "1023進巨騎馬系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 925,
-    "depositPaid": 825,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "彩色玻璃壓克力",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1023進巨騎馬系列",
-    "sourceMonth": "2025_09_10"
-  },
-  {
-    "socialName": "地瓜",
-    "title": "1023進巨騎馬系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1145,
-    "depositPaid": 1045,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "貼紙 (艾連)",
-        "qty": 1
-      },
-      {
-        "name": "貼紙 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "彩色玻璃壓克力",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1023進巨騎馬系列",
-    "sourceMonth": "2025_09_10"
-  },
-  {
-    "socialName": "lin",
-    "title": "1023進巨騎馬系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 925,
-    "depositPaid": 825,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "彩色玻璃壓克力",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1023進巨騎馬系列",
     "sourceMonth": "2025_09_10"
   },
   {
