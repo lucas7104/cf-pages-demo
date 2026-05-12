@@ -31476,9 +31476,11 @@
   {
     "socialName": "lin",
     "title": "0303進巨 Runway",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 1110,
-    "depositPaid": 0,
+    "depositPaid": 1110,
     "secondPayment": 16,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -31486,9 +31488,9 @@
       "cardFee": 16,
       "packagingFee": 0
     },
-    "balanceDue": 1126,
+    "balanceDue": 16,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -31849,7 +31851,7 @@
     },
     "balanceDue": 100,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -31864,9 +31866,11 @@
   {
     "socialName": "容",
     "title": "0303進巨 Runway",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 1635,
-    "depositPaid": 0,
+    "depositPaid": 1635,
     "secondPayment": 22,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -31874,9 +31878,9 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 1657,
+    "balanceDue": 22,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -31909,7 +31913,7 @@
     },
     "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
