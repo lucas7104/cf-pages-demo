@@ -7634,7 +7634,7 @@
     "socialName": "Ni",
     "title": "1108 富江 Hello Kitty",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1150,
@@ -7647,7 +7647,7 @@
       "packagingFee": 0
     },
     "balanceDue": 258,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "B黑、Ｃ黑、D白、E圈*2",
