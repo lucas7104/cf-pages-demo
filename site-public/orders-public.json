@@ -23145,7 +23145,7 @@
     "socialName": "🐟❤️",
     "title": "0120鏈鋸人 太陽城王子飯店",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 1400,
     "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -23154,9 +23154,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 1400,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -29679,18 +29679,18 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 1110,
+    "productAmount": 665,
     "depositPaid": 667,
-    "secondPayment": 16,
+    "secondPayment": 10,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
       "internationalShipping": 0,
-      "cardFee": 16,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 459,
+    "balanceDue": 8,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -29699,7 +29699,7 @@
         "qty": 1
       },
       {
-        "name": "立牌 (艾爾文)",
+        "name": "資料夾 (里維)",
         "qty": 1
       }
     ]
@@ -29707,9 +29707,11 @@
   {
     "socialName": "絈",
     "title": "0303進巨 Runway",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 2050,
-    "depositPaid": 0,
+    "depositPaid": 2045,
     "secondPayment": 28,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -29717,9 +29719,9 @@
       "cardFee": 28,
       "packagingFee": 0
     },
-    "balanceDue": 2078,
+    "balanceDue": 33,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -29790,9 +29792,11 @@
   {
     "socialName": "艾",
     "title": "0303進巨 Runway",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 5520,
-    "depositPaid": 0,
+    "depositPaid": 5520,
     "secondPayment": 78,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -29800,9 +29804,9 @@
       "cardFee": 78,
       "packagingFee": 0
     },
-    "balanceDue": 5598,
+    "balanceDue": 78,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -29874,9 +29878,11 @@
   {
     "socialName": "PEiii👻",
     "title": "0303進巨 Runway",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 2190,
-    "depositPaid": 0,
+    "depositPaid": 2190,
     "secondPayment": 30,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -29884,9 +29890,9 @@
       "cardFee": 30,
       "packagingFee": 0
     },
-    "balanceDue": 2220,
+    "balanceDue": 30,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -29907,9 +29913,11 @@
   {
     "socialName": "婷婷",
     "title": "0303進巨 Runway",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 1080,
-    "depositPaid": 0,
+    "depositPaid": 1080,
     "secondPayment": 14,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -29917,11 +29925,11 @@
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 1094,
+    "balanceDue": 14,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "用一番賞餘款折抵",
     "items": [
       {
         "name": "海報",
@@ -38909,103 +38917,6 @@
     ]
   },
   {
-    "socialName": "Kaho",
-    "title": "0303進巨 Runway",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 590,
-    "depositPaid": 590,
-    "secondPayment": 57,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 49,
-      "internationalShipping": 0,
-      "cardFee": 8,
-      "packagingFee": 0
-    },
-    "balanceDue": 57,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "伏黑相卡明信片組",
-        "qty": 1
-      },
-      {
-        "name": "五條相卡明信片組",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "小呱",
-    "title": "0303進巨 Runway",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 380,
-    "depositPaid": 380,
-    "secondPayment": 55,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 49,
-      "internationalShipping": 0,
-      "cardFee": 6,
-      "packagingFee": 0
-    },
-    "balanceDue": 55,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "伏黑資料夾",
-        "qty": 1
-      },
-      {
-        "name": "五條資料夾",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "季",
-    "title": "0303進巨 Runway",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1625,
-    "depositPaid": 1625,
-    "secondPayment": 71,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 49,
-      "internationalShipping": 0,
-      "cardFee": 22,
-      "packagingFee": 0
-    },
-    "balanceDue": 71,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "伏黑相卡明信片組",
-        "qty": 1
-      },
-      {
-        "name": "五條相卡明信片組",
-        "qty": 1
-      },
-      {
-        "name": "伏黑惠壓克力磚",
-        "qty": 1
-      }
-    ]
-  },
-  {
     "socialName": "婷婷",
     "title": "0402 北海道連線",
     "statusBadges": [
@@ -42445,6 +42356,103 @@
     "items": [
       {
         "name": "脹相哭哭立體模型",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "Kaho",
+    "title": "0425咒術 五條悟、伏黑惠生日紀念圖周邊",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 590,
+    "depositPaid": 590,
+    "secondPayment": 57,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 49,
+      "internationalShipping": 0,
+      "cardFee": 8,
+      "packagingFee": 0
+    },
+    "balanceDue": 57,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "伏黑相卡明信片組",
+        "qty": 1
+      },
+      {
+        "name": "五條相卡明信片組",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "小呱",
+    "title": "0425咒術 五條悟、伏黑惠生日紀念圖周邊",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 380,
+    "depositPaid": 380,
+    "secondPayment": 55,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 49,
+      "internationalShipping": 0,
+      "cardFee": 6,
+      "packagingFee": 0
+    },
+    "balanceDue": 55,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "伏黑資料夾",
+        "qty": 1
+      },
+      {
+        "name": "五條資料夾",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "季",
+    "title": "0425咒術 五條悟、伏黑惠生日紀念圖周邊",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1625,
+    "depositPaid": 1625,
+    "secondPayment": 71,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 49,
+      "internationalShipping": 0,
+      "cardFee": 22,
+      "packagingFee": 0
+    },
+    "balanceDue": 71,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "伏黑相卡明信片組",
+        "qty": 1
+      },
+      {
+        "name": "五條相卡明信片組",
+        "qty": 1
+      },
+      {
+        "name": "伏黑惠壓克力磚",
         "qty": 1
       }
     ]
