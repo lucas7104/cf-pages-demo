@@ -45428,9 +45428,11 @@
   {
     "socialName": "很累",
     "title": "0429多ip Jump Festa 2026",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 2285,
-    "depositPaid": 0,
+    "depositPaid": 2285,
     "secondPayment": 82,
     "secondPaymentBreakdown": {
       "domesticShipping": 46,
@@ -45438,9 +45440,9 @@
       "cardFee": 36,
       "packagingFee": 0
     },
-    "balanceDue": 2367,
+    "balanceDue": 82,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
