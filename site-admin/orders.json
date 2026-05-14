@@ -24648,9 +24648,11 @@
   {
     "socialName": "🐟❤️",
     "title": "0120鏈鋸人 太陽城王子飯店",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 1400,
-    "depositPaid": 0,
+    "depositPaid": 1400,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -24658,7 +24660,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 1400,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
