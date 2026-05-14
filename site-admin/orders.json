@@ -17657,6 +17657,189 @@
     "sourceMonth": "2025_12"
   },
   {
+    "socialName": "Ruan",
+    "title": "1218 進巨 東京車站(2024)",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 310,
+    "depositPaid": 310,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "A4文件夾",
+        "qty": 1
+      },
+      {
+        "name": "大合照磁鐵",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1218 進巨 東京車站(2024)",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "𝑊𝑖𝑠ℎ..ෆ",
+    "title": "1218 進巨 東京車站(2024)",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 960,
+    "depositPaid": 960,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "地鳴壓克力板",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1218 進巨 東京車站(2024)",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "豬子",
+    "title": "1218 進巨 東京車站(2024)",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 120,
+    "depositPaid": 120,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "A4文件夾",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1218 進巨 東京車站(2024)",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "欲晴",
+    "title": "1218 進巨 東京車站(2024)",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 190,
+    "depositPaid": 190,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "大合照磁鐵",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1218 進巨 東京車站(2024)",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "華",
+    "title": "1218 進巨 東京車站(2024)",
+    "statusBadges": [
+      "已抵台"
+    ],
+    "productAmount": 190,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 190,
+    "etaText": "已抵台",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "大合照磁鐵",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1218 進巨 東京車站(2024)",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "lin",
+    "title": "1218 進巨 東京車站(2024)",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 190,
+    "depositPaid": 190,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "大合照磁鐵",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1218 進巨 東京車站(2024)",
+    "sourceMonth": "2025_12"
+  },
+  {
     "socialName": "Vivian_lai372",
     "title": "1218坂本日常 黑色和服",
     "statusBadges": [
@@ -19516,182 +19699,6 @@
       }
     ],
     "sourceSheet": "★ 1224 鏈鋸人 王座",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "Ruan",
-    "title": "1224進巨 東京車站(2024)",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 310,
-    "depositPaid": 310,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "A4文件夾",
-        "qty": 1
-      },
-      {
-        "name": "大合照磁鐵",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1224進巨 東京車站(2024)",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "𝑊𝑖𝑠ℎ..ෆ",
-    "title": "1224進巨 東京車站(2024)",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 960,
-    "depositPaid": 960,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "地鳴壓克力板",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1224進巨 東京車站(2024)",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "豬子",
-    "title": "1224進巨 東京車站(2024)",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 120,
-    "depositPaid": 120,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "A4文件夾",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1224進巨 東京車站(2024)",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "欲晴",
-    "title": "1224進巨 東京車站(2024)",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 190,
-    "depositPaid": 190,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "大合照磁鐵",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1224進巨 東京車站(2024)",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "華",
-    "title": "1224進巨 東京車站(2024)",
-    "statusBadges": [],
-    "productAmount": 190,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 190,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "大合照磁鐵",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1224進巨 東京車站(2024)",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "lin",
-    "title": "1224進巨 東京車站(2024)",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 190,
-    "depositPaid": 190,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "大合照磁鐵",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1224進巨 東京車站(2024)",
     "sourceMonth": "2025_12"
   },
   {
