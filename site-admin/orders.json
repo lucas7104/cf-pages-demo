@@ -27025,19 +27025,22 @@
   {
     "socialName": "Teresa",
     "title": "(1月重開) 0930 進巨WIT線稿-1022下單",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
     "productAmount": 320,
-    "depositPaid": 0,
-    "secondPayment": 0,
+    "depositPaid": 320,
+    "secondPayment": 68,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 64,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 320,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
+    "balanceDue": 68,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
