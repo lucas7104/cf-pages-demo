@@ -25381,14 +25381,14 @@
     ],
     "productAmount": 320,
     "depositPaid": 320,
-    "secondPayment": 68,
+    "secondPayment": 117,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 49,
       "internationalShipping": 64,
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 68,
+    "balanceDue": 117,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
