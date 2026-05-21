@@ -7124,11 +7124,10 @@
     "socialName": "小熊餅乾",
     "title": "1108 富江 Hello Kitty",
     "statusBadges": [
-      "已抵台",
-      "已付訂金"
+      "已出貨"
     ],
-    "productAmount": 3220,
-    "depositPaid": 3120,
+    "productAmount": 0,
+    "depositPaid": 0,
     "secondPayment": 272,
     "secondPaymentBreakdown": {
       "domesticShipping": 81,
@@ -7136,8 +7135,8 @@
       "cardFee": 42,
       "packagingFee": 0
     },
-    "balanceDue": 372,
-    "etaText": "已抵台",
+    "balanceDue": 272,
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "Ｂ紅*2、B黑*3、Ｃ黑、D黑*2、D銀、E徽*2、E夾、E圈*2",
