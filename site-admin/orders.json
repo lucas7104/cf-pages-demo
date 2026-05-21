@@ -9055,7 +9055,7 @@
     "socialName": "Qianti",
     "title": "1117 進巨尊爵Dignified",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 430,
@@ -9068,7 +9068,7 @@
       "packagingFee": 0
     },
     "balanceDue": 21,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -18536,7 +18536,7 @@
     "socialName": "Qianti",
     "title": "1219 咒術 旅遊系列",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 450,
@@ -18549,7 +18549,7 @@
       "packagingFee": 0
     },
     "balanceDue": 32,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
