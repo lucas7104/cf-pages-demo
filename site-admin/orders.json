@@ -9221,7 +9221,7 @@
     "socialName": "Teresa",
     "title": "1117 進巨尊爵Dignified",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 860,
@@ -9234,7 +9234,7 @@
       "packagingFee": 0
     },
     "balanceDue": 42,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -27025,7 +27025,7 @@
     "socialName": "Teresa",
     "title": "(1月重開) 0930 進巨WIT線稿-1022下單",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 320,
@@ -27038,7 +27038,7 @@
       "packagingFee": 0
     },
     "balanceDue": 117,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
