@@ -13292,7 +13292,7 @@
     "socialName": "Jolyne",
     "title": "1201進巨 amnibus",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1160,
@@ -13305,7 +13305,7 @@
       "packagingFee": 0
     },
     "balanceDue": 38,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26879,7 +26879,7 @@
     "socialName": "臉書 陳子煜",
     "title": "0209 進巨 SPAO",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1600,
@@ -26892,7 +26892,7 @@
       "packagingFee": 0
     },
     "balanceDue": 155,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
