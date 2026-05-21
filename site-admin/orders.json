@@ -2329,7 +2329,7 @@
     "socialName": "小熊餅乾",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1505,
@@ -2342,7 +2342,7 @@
       "packagingFee": 0
     },
     "balanceDue": 260,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -6214,6 +6214,436 @@
     "sourceMonth": "2025_11"
   },
   {
+    "socialName": "紅茶拿鐵微微",
+    "title": "1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 620,
+    "depositPaid": 520,
+    "secondPayment": 52,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 25,
+      "internationalShipping": 0,
+      "cardFee": 27,
+      "packagingFee": 0
+    },
+    "balanceDue": 152,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "時透無一郎",
+        "qty": 1
+      },
+      {
+        "name": "悲鳴嶼行冥",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "惠",
+    "title": "1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 310,
+    "depositPaid": 210,
+    "secondPayment": 47,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 25,
+      "internationalShipping": 0,
+      "cardFee": 22,
+      "packagingFee": 0
+    },
+    "balanceDue": 147,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "富岡義勇",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "Saki蒼",
+    "title": "1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 620,
+    "depositPaid": 520,
+    "secondPayment": 52,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 25,
+      "internationalShipping": 0,
+      "cardFee": 27,
+      "packagingFee": 0
+    },
+    "balanceDue": 152,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "富岡義勇",
+        "qty": 1
+      },
+      {
+        "name": "胡蝶忍",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "A-Joe",
+    "title": "1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 310,
+    "depositPaid": 210,
+    "secondPayment": 47,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 25,
+      "internationalShipping": 0,
+      "cardFee": 22,
+      "packagingFee": 0
+    },
+    "balanceDue": 147,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "時透無一郎",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "臉書 陳芊羽",
+    "title": "1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 620,
+    "depositPaid": 520,
+    "secondPayment": 52,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 25,
+      "internationalShipping": 0,
+      "cardFee": 27,
+      "packagingFee": 0
+    },
+    "balanceDue": 152,
+    "etaText": "已抵台",
+    "paymentMethod": "無卡",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "時透無一郎",
+        "qty": 2
+      }
+    ],
+    "sourceSheet": "★1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "LuLu",
+    "title": "1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 310,
+    "depositPaid": 210,
+    "secondPayment": 47,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 25,
+      "internationalShipping": 0,
+      "cardFee": 22,
+      "packagingFee": 0
+    },
+    "balanceDue": 147,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "甘露寺蜜璃",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "小熊餅乾",
+    "title": "1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 310,
+    "depositPaid": 210,
+    "secondPayment": 47,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 25,
+      "internationalShipping": 0,
+      "cardFee": 22,
+      "packagingFee": 0
+    },
+    "balanceDue": 147,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "富岡義勇",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "Sujin🎀",
+    "title": "1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 2480,
+    "depositPaid": 2380,
+    "secondPayment": 82,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 25,
+      "internationalShipping": 0,
+      "cardFee": 57,
+      "packagingFee": 0
+    },
+    "balanceDue": 182,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "時透無一郎",
+        "qty": 2
+      },
+      {
+        "name": "富岡義勇",
+        "qty": 1
+      },
+      {
+        "name": "胡蝶忍",
+        "qty": 1
+      },
+      {
+        "name": "甘露寺蜜璃",
+        "qty": 1
+      },
+      {
+        "name": "伊黑小芭內",
+        "qty": 1
+      },
+      {
+        "name": "栗花落香奈乎",
+        "qty": 1
+      },
+      {
+        "name": "不死川實彌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "➕🐟",
+    "title": "1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 310,
+    "depositPaid": 210,
+    "secondPayment": 47,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 25,
+      "internationalShipping": 0,
+      "cardFee": 22,
+      "packagingFee": 0
+    },
+    "balanceDue": 147,
+    "etaText": "已出貨",
+    "paymentMethod": "無卡",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "時透無一郎",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "豬子",
+    "title": "1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 310,
+    "depositPaid": 210,
+    "secondPayment": 47,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 25,
+      "internationalShipping": 0,
+      "cardFee": 22,
+      "packagingFee": 0
+    },
+    "balanceDue": 147,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "時透無一郎",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "Feiiii",
+    "title": "1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 620,
+    "depositPaid": 520,
+    "secondPayment": 52,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 25,
+      "internationalShipping": 0,
+      "cardFee": 27,
+      "packagingFee": 0
+    },
+    "balanceDue": 152,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "富岡義勇",
+        "qty": 1
+      },
+      {
+        "name": "不死川實彌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "h_h",
+    "title": "1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 620,
+    "depositPaid": 520,
+    "secondPayment": 52,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 25,
+      "internationalShipping": 0,
+      "cardFee": 27,
+      "packagingFee": 0
+    },
+    "balanceDue": 152,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "富岡義勇",
+        "qty": 1
+      },
+      {
+        "name": "不死川實彌",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "涓",
+    "title": "1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 310,
+    "depositPaid": 210,
+    "secondPayment": 47,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 25,
+      "internationalShipping": 0,
+      "cardFee": 22,
+      "packagingFee": 0
+    },
+    "balanceDue": 147,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "時透無一郎",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
+    "sourceMonth": "2025_11"
+  },
+  {
     "socialName": "ケン",
     "title": "1104 進巨Petanko多系列合輯",
     "statusBadges": [
@@ -7168,436 +7598,6 @@
       }
     ],
     "sourceSheet": "★1108 鬼滅 太陽城傳說",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "紅茶拿鐵微微",
-    "title": "1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "statusBadges": [
-      "已出貨",
-      "已付訂金"
-    ],
-    "productAmount": 620,
-    "depositPaid": 520,
-    "secondPayment": 52,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 27,
-      "packagingFee": 0
-    },
-    "balanceDue": 152,
-    "etaText": "已出貨",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "時透無一郎",
-        "qty": 1
-      },
-      {
-        "name": "悲鳴嶼行冥",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "★1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "惠",
-    "title": "1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "statusBadges": [
-      "已出貨",
-      "已付訂金"
-    ],
-    "productAmount": 310,
-    "depositPaid": 210,
-    "secondPayment": 47,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 22,
-      "packagingFee": 0
-    },
-    "balanceDue": 147,
-    "etaText": "已出貨",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "富岡義勇",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "★1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "Saki蒼",
-    "title": "1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 620,
-    "depositPaid": 520,
-    "secondPayment": 52,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 27,
-      "packagingFee": 0
-    },
-    "balanceDue": 152,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "富岡義勇",
-        "qty": 1
-      },
-      {
-        "name": "胡蝶忍",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "★1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "A-Joe",
-    "title": "1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "statusBadges": [
-      "已出貨",
-      "已付訂金"
-    ],
-    "productAmount": 310,
-    "depositPaid": 210,
-    "secondPayment": 47,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 22,
-      "packagingFee": 0
-    },
-    "balanceDue": 147,
-    "etaText": "已出貨",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "時透無一郎",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "★1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "臉書 陳芊羽",
-    "title": "1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 620,
-    "depositPaid": 520,
-    "secondPayment": 52,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 27,
-      "packagingFee": 0
-    },
-    "balanceDue": 152,
-    "etaText": "已抵台",
-    "paymentMethod": "無卡",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "時透無一郎",
-        "qty": 2
-      }
-    ],
-    "sourceSheet": "★1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "LuLu",
-    "title": "1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 310,
-    "depositPaid": 210,
-    "secondPayment": 47,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 22,
-      "packagingFee": 0
-    },
-    "balanceDue": 147,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "甘露寺蜜璃",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "★1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "小熊餅乾",
-    "title": "1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 310,
-    "depositPaid": 210,
-    "secondPayment": 47,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 22,
-      "packagingFee": 0
-    },
-    "balanceDue": 147,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "富岡義勇",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "★1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "Sujin🎀",
-    "title": "1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 2480,
-    "depositPaid": 2380,
-    "secondPayment": 82,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 57,
-      "packagingFee": 0
-    },
-    "balanceDue": 182,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "時透無一郎",
-        "qty": 2
-      },
-      {
-        "name": "富岡義勇",
-        "qty": 1
-      },
-      {
-        "name": "胡蝶忍",
-        "qty": 1
-      },
-      {
-        "name": "甘露寺蜜璃",
-        "qty": 1
-      },
-      {
-        "name": "伊黑小芭內",
-        "qty": 1
-      },
-      {
-        "name": "栗花落香奈乎",
-        "qty": 1
-      },
-      {
-        "name": "不死川實彌",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "★1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "➕🐟",
-    "title": "1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "statusBadges": [
-      "已出貨",
-      "已付訂金"
-    ],
-    "productAmount": 310,
-    "depositPaid": 210,
-    "secondPayment": 47,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 22,
-      "packagingFee": 0
-    },
-    "balanceDue": 147,
-    "etaText": "已出貨",
-    "paymentMethod": "無卡",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "時透無一郎",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "★1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "豬子",
-    "title": "1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "statusBadges": [
-      "已出貨",
-      "已付訂金"
-    ],
-    "productAmount": 310,
-    "depositPaid": 210,
-    "secondPayment": 47,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 22,
-      "packagingFee": 0
-    },
-    "balanceDue": 147,
-    "etaText": "已出貨",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "時透無一郎",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "★1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "Feiiii",
-    "title": "1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "statusBadges": [
-      "已出貨",
-      "已付訂金"
-    ],
-    "productAmount": 620,
-    "depositPaid": 520,
-    "secondPayment": 52,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 27,
-      "packagingFee": 0
-    },
-    "balanceDue": 152,
-    "etaText": "已出貨",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "富岡義勇",
-        "qty": 1
-      },
-      {
-        "name": "不死川實彌",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "★1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "h_h",
-    "title": "1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "statusBadges": [
-      "已出貨",
-      "已付訂金"
-    ],
-    "productAmount": 620,
-    "depositPaid": 520,
-    "secondPayment": 52,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 27,
-      "packagingFee": 0
-    },
-    "balanceDue": 152,
-    "etaText": "已出貨",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "富岡義勇",
-        "qty": 1
-      },
-      {
-        "name": "不死川實彌",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "★1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "涓",
-    "title": "1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
-    "statusBadges": [
-      "已出貨",
-      "已付訂金"
-    ],
-    "productAmount": 310,
-    "depositPaid": 210,
-    "secondPayment": 47,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 22,
-      "packagingFee": 0
-    },
-    "balanceDue": 147,
-    "etaText": "已出貨",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "時透無一郎",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "★1108 鬼滅 淘寶Aniplex豆豆娃吊飾",
     "sourceMonth": "2025_11"
   },
   {
