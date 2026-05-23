@@ -45532,6 +45532,224 @@
     "sourceMonth": "2026-04"
   },
   {
+    "socialName": "Ara",
+    "title": "0429咒術 2026咒術祭",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 1,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 1,
+      "packagingFee": 0
+    },
+    "balanceDue": 1,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "搖擺立牌 (日車)",
+        "qty": 1
+      },
+      {
+        "name": "搖擺立牌 (五條)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0429咒術 2026咒術祭",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "君",
+    "title": "0429咒術 2026咒術祭",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "搖擺立牌 (五條)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0429咒術 2026咒術祭",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "Charlotte",
+    "title": "0429咒術 2026咒術祭",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 1,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 1,
+      "packagingFee": 0
+    },
+    "balanceDue": 1,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "搖擺立牌 (日車)",
+        "qty": 1
+      },
+      {
+        "name": "搖擺立牌 (乙骨)",
+        "qty": 1
+      },
+      {
+        "name": "扇子 (日車)",
+        "qty": 1
+      },
+      {
+        "name": "扇子 (乙骨)",
+        "qty": 1
+      },
+      {
+        "name": "貼紙 (日車)",
+        "qty": 1
+      },
+      {
+        "name": "貼紙 (乙骨)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0429咒術 2026咒術祭",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "鴨",
+    "title": "0429咒術 2026咒術祭",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "盒裝明信片",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0429咒術 2026咒術祭",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "拉拉",
+    "title": "0429咒術 2026咒術祭",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "迷你扇子吊飾 (盲抽)",
+        "qty": 2
+      }
+    ],
+    "sourceSheet": "0429咒術 2026咒術祭",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "季",
+    "title": "0429咒術 2026咒術祭",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 1,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 1,
+      "packagingFee": 0
+    },
+    "balanceDue": 1,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "搖擺立牌 (日車)",
+        "qty": 1
+      },
+      {
+        "name": "搖擺立牌 (五條)",
+        "qty": 1
+      },
+      {
+        "name": "搖擺立牌 (乙骨)",
+        "qty": 1
+      },
+      {
+        "name": "搖擺立牌 (虎杖)",
+        "qty": 1
+      },
+      {
+        "name": "搖擺立牌 (惠)",
+        "qty": 1
+      },
+      {
+        "name": "搖擺立牌 (釘崎)",
+        "qty": 1
+      },
+      {
+        "name": "搖擺立牌 (七海)",
+        "qty": 1
+      },
+      {
+        "name": "搖擺立牌 (脹相)",
+        "qty": 1
+      },
+      {
+        "name": "盒裝明信片",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0429咒術 2026咒術祭",
+    "sourceMonth": "2026-04"
+  },
+  {
     "socialName": "Xiu han",
     "title": "2026 台北動漫節",
     "statusBadges": [
