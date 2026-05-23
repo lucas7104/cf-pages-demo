@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T17:30:56.526Z",
+  "generatedAt": "2026-05-23T17:40:57.774Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -23,16 +23,20 @@
           "amount": 38920
         },
         {
+          "name": "君",
+          "amount": 35355
+        },
+        {
           "name": "高八毛",
           "amount": 35255
         },
         {
-          "name": "君",
-          "amount": 34945
-        },
-        {
           "name": "瑞斯",
           "amount": 31480
+        },
+        {
+          "name": "季",
+          "amount": 31435
         },
         {
           "name": "cc",
@@ -41,10 +45,6 @@
         {
           "name": "vivian_lai372",
           "amount": 28715
-        },
-        {
-          "name": "季",
-          "amount": 27670
         },
         {
           "name": "每天都想退休",
@@ -122,16 +122,16 @@
           "amount": 35755
         },
         {
+          "name": "季",
+          "amount": 29775
+        },
+        {
           "name": "君",
-          "amount": 26540
+          "amount": 26950
         },
         {
           "name": "高八毛",
           "amount": 26445
-        },
-        {
-          "name": "季",
-          "amount": 26010
         },
         {
           "name": "Sabrina",
@@ -455,12 +455,12 @@
           "amount": 10475
         },
         {
-          "name": "君",
-          "amount": 7080
+          "name": "季",
+          "amount": 10265
         },
         {
-          "name": "季",
-          "amount": 6500
+          "name": "君",
+          "amount": 7490
         },
         {
           "name": "Rea",
@@ -475,12 +475,12 @@
           "amount": 4200
         },
         {
-          "name": "每天都想退休",
-          "amount": 3735
+          "name": "拉拉",
+          "amount": 4010
         },
         {
-          "name": "拉拉",
-          "amount": 3620
+          "name": "每天都想退休",
+          "amount": 3735
         }
       ]
     }
