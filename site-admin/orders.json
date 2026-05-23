@@ -45670,9 +45670,11 @@
   {
     "socialName": "拉拉",
     "title": "0429咒術 2026咒術祭",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 390,
-    "depositPaid": 0,
+    "depositPaid": 390,
     "secondPayment": 33,
     "secondPaymentBreakdown": {
       "domesticShipping": 27,
@@ -45680,7 +45682,7 @@
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 423,
+    "balanceDue": 33,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
