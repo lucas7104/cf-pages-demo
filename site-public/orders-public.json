@@ -11303,7 +11303,7 @@
     "socialName": "承",
     "title": "1118 鬼滅 星空",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1065,
@@ -11316,7 +11316,7 @@
       "packagingFee": 0
     },
     "balanceDue": 66,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -14052,7 +14052,7 @@
     "socialName": "承",
     "title": "1206 鬼滅 食堂",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 820,
@@ -14065,7 +14065,7 @@
       "packagingFee": 0
     },
     "balanceDue": 124,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -18167,6 +18167,7 @@
     "socialName": "承",
     "title": "1220 鬼滅Relo Hotels &Resorts",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 135,
@@ -18179,7 +18180,7 @@
       "packagingFee": 0
     },
     "balanceDue": 72,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
