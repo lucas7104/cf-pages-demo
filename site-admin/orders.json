@@ -44379,21 +44379,30 @@
     "socialName": "00240",
     "title": "0416多IP食玩",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 3790,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 50,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 50,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 3840,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "JOJO",
+        "qty": 2
+      },
+      {
+        "name": "我的英雄學院",
+        "qty": 2
+      }
+    ],
     "sourceSheet": "0416多IP食玩",
     "sourceMonth": "2026-04"
   },
@@ -44401,21 +44410,127 @@
     "socialName": "Rea",
     "title": "0416多IP食玩",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 1200,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 17,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 17,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 1217,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "咒術",
+        "qty": 1
+      },
+      {
+        "name": "櫻蘭",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0416多IP食玩",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "婷婷",
+    "title": "0416多IP食玩",
+    "statusBadges": [],
+    "productAmount": 5565,
+    "depositPaid": 0,
+    "secondPayment": 74,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 74,
+      "packagingFee": 0
+    },
+    "balanceDue": 5639,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "JOJO",
+        "qty": 2
+      },
+      {
+        "name": "我的英雄學院",
+        "qty": 3
+      },
+      {
+        "name": "櫻蘭",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0416多IP食玩",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "Ara",
+    "title": "0416多IP食玩",
+    "statusBadges": [],
+    "productAmount": 720,
+    "depositPaid": 0,
+    "secondPayment": 10,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 10,
+      "packagingFee": 0
+    },
+    "balanceDue": 730,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "櫻蘭",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0416多IP食玩",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "jennylin640",
+    "title": "0416多IP食玩",
+    "statusBadges": [],
+    "productAmount": 3310,
+    "depositPaid": 0,
+    "secondPayment": 45,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 45,
+      "packagingFee": 0
+    },
+    "balanceDue": 3355,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "我的英雄學院",
+        "qty": 2
+      },
+      {
+        "name": "咒術",
+        "qty": 1
+      },
+      {
+        "name": "櫻蘭",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0416多IP食玩",
     "sourceMonth": "2026-04"
   },
@@ -44657,6 +44772,64 @@
       }
     ],
     "sourceSheet": "0418JUMP生日受注 8月份",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "婷婷",
+    "title": "0421皮克敏食玩",
+    "statusBadges": [],
+    "productAmount": 4375,
+    "depositPaid": 0,
+    "secondPayment": 45,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 45,
+      "packagingFee": 0
+    },
+    "balanceDue": 4420,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "吊飾",
+        "qty": 3
+      },
+      {
+        "name": "磁鐵",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0421皮克敏食玩",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "Zihan",
+    "title": "0421皮克敏食玩",
+    "statusBadges": [],
+    "productAmount": 1150,
+    "depositPaid": 0,
+    "secondPayment": 15,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 15,
+      "packagingFee": 0
+    },
+    "balanceDue": 1165,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "吊飾",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0421皮克敏食玩",
     "sourceMonth": "2026-04"
   },
   {

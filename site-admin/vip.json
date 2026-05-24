@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T17:11:25.575Z",
+  "generatedAt": "2026-05-24T17:21:26.955Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -12,7 +12,7 @@
       "topTen": [
         {
           "name": "婷婷",
-          "amount": 94345
+          "amount": 104285
         },
         {
           "name": "TYT",
@@ -115,7 +115,7 @@
       "topTen": [
         {
           "name": "婷婷",
-          "amount": 94345
+          "amount": 104285
         },
         {
           "name": "TYT",
@@ -444,7 +444,7 @@
       "topTen": [
         {
           "name": "婷婷",
-          "amount": 49840
+          "amount": 59780
         },
         {
           "name": "FLOWDY",
@@ -464,7 +464,11 @@
         },
         {
           "name": "Rea",
-          "amount": 5615
+          "amount": 6815
+        },
+        {
+          "name": "jennylin640",
+          "amount": 5550
         },
         {
           "name": "芭樂",
@@ -477,10 +481,6 @@
         {
           "name": "拉拉",
           "amount": 4010
-        },
-        {
-          "name": "每天都想退休",
-          "amount": 3735
         }
       ]
     }
