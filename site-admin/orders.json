@@ -44378,9 +44378,11 @@
   {
     "socialName": "00240",
     "title": "0416多IP食玩",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 3790,
-    "depositPaid": 0,
+    "depositPaid": 3790,
     "secondPayment": 50,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -44388,9 +44390,9 @@
       "cardFee": 50,
       "packagingFee": 0
     },
-    "balanceDue": 3840,
+    "balanceDue": 50,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -44409,9 +44411,11 @@
   {
     "socialName": "Rea",
     "title": "0416多IP食玩",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 1200,
-    "depositPaid": 0,
+    "depositPaid": 1200,
     "secondPayment": 17,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -44419,9 +44423,9 @@
       "cardFee": 17,
       "packagingFee": 0
     },
-    "balanceDue": 1217,
+    "balanceDue": 17,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -44440,9 +44444,11 @@
   {
     "socialName": "婷婷",
     "title": "0416多IP食玩",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 5565,
-    "depositPaid": 0,
+    "depositPaid": 5565,
     "secondPayment": 74,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -44450,9 +44456,9 @@
       "cardFee": 74,
       "packagingFee": 0
     },
-    "balanceDue": 5639,
+    "balanceDue": 74,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -44502,9 +44508,11 @@
   {
     "socialName": "jennylin640",
     "title": "0416多IP食玩",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 3310,
-    "depositPaid": 0,
+    "depositPaid": 3310,
     "secondPayment": 45,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -44512,9 +44520,9 @@
       "cardFee": 45,
       "packagingFee": 0
     },
-    "balanceDue": 3355,
+    "balanceDue": 45,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
