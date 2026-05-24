@@ -42937,9 +42937,11 @@
   {
     "socialName": "季",
     "title": "0429咒術 2026咒術祭",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 3765,
-    "depositPaid": 0,
+    "depositPaid": 3765,
     "secondPayment": 82,
     "secondPaymentBreakdown": {
       "domesticShipping": 27,
@@ -42947,9 +42949,9 @@
       "cardFee": 55,
       "packagingFee": 0
     },
-    "balanceDue": 3847,
+    "balanceDue": 82,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
