@@ -44376,6 +44376,50 @@
     "sourceMonth": "2026-04"
   },
   {
+    "socialName": "00240",
+    "title": "0416多IP食玩",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [],
+    "sourceSheet": "0416多IP食玩",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "Rea",
+    "title": "0416多IP食玩",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [],
+    "sourceSheet": "0416多IP食玩",
+    "sourceMonth": "2026-04"
+  },
+  {
     "socialName": "婷婷",
     "title": "0416排少 下雨系列",
     "statusBadges": [
