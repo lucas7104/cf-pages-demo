@@ -41884,14 +41884,14 @@
     ],
     "productAmount": 1110,
     "depositPaid": 1110,
-    "secondPayment": 15,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 20,
       "internationalShipping": 0,
       "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 15,
+    "balanceDue": 35,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41904,39 +41904,16 @@
     ]
   },
   {
-    "socialName": "黑澤",
-    "title": "0417咒術 極樂湯",
-    "statusBadges": [],
-    "productAmount": 0,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌 (七海)",
-        "qty": 1
-      }
-    ]
-  },
-  {
     "socialName": "芭樂",
     "title": "0417咒術 極樂湯",
-    "statusBadges": [],
-    "productAmount": 0,
-    "depositPaid": 0,
-    "secondPayment": 0,
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 795,
+    "depositPaid": 1430,
+    "secondPayment": 20,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 20,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
@@ -41947,10 +41924,6 @@
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
-      {
-        "name": "立牌 (五條)",
-        "qty": 2
-      },
       {
         "name": "入浴劑 (場販)",
         "qty": 3
@@ -41958,64 +41931,16 @@
     ]
   },
   {
-    "socialName": "Saki蒼",
-    "title": "0417咒術 極樂湯",
-    "statusBadges": [],
-    "productAmount": 0,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌 (五條)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "君",
-    "title": "0417咒術 極樂湯",
-    "statusBadges": [],
-    "productAmount": 0,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌 (五條)",
-        "qty": 1
-      }
-    ]
-  },
-  {
     "socialName": "🌧️",
     "title": "0417咒術 極樂湯",
-    "statusBadges": [],
-    "productAmount": 0,
-    "depositPaid": 0,
-    "secondPayment": 0,
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 480,
+    "depositPaid": 555,
+    "secondPayment": 20,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 20,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
@@ -42035,12 +41960,14 @@
   {
     "socialName": "破產的人",
     "title": "0417咒術 極樂湯",
-    "statusBadges": [],
-    "productAmount": 0,
-    "depositPaid": 0,
-    "secondPayment": 0,
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 480,
+    "depositPaid": 1015,
+    "secondPayment": 20,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 20,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
@@ -42058,19 +41985,19 @@
     ]
   },
   {
-    "socialName": "Lydia",
+    "socialName": "姿姿姿",
     "title": "0417咒術 極樂湯",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 745,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 20,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 20,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 765,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -42078,12 +42005,16 @@
     "items": [
       {
         "name": "立牌 (五條)",
-        "qty": 2
+        "qty": 1
+      },
+      {
+        "name": "入浴劑 (場販)",
+        "qty": 1
       }
     ]
   },
   {
-    "socialName": "槙",
+    "socialName": "cu",
     "title": "0417咒術 極樂湯",
     "statusBadges": [],
     "productAmount": 0,
@@ -42100,9 +42031,54 @@
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
+    "items": []
+  },
+  {
+    "socialName": "Ichika",
+    "title": "0417咒術 極樂湯",
+    "statusBadges": [],
+    "productAmount": 660,
+    "depositPaid": 0,
+    "secondPayment": 20,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 20,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 680,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
     "items": [
       {
-        "name": "立牌 (七海)",
+        "name": "正比徽章 (BOX)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "瑞斯",
+    "title": "0417咒術 極樂湯",
+    "statusBadges": [],
+    "productAmount": 480,
+    "depositPaid": 0,
+    "secondPayment": 20,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 20,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 500,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (五條)",
         "qty": 1
       }
     ]

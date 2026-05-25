@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T13:31:51.241Z",
+  "generatedAt": "2026-05-25T13:41:47.128Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -20,7 +20,7 @@
         },
         {
           "name": "芭樂",
-          "amount": 41795
+          "amount": 42590
         },
         {
           "name": "君",
@@ -32,7 +32,7 @@
         },
         {
           "name": "瑞斯",
-          "amount": 31480
+          "amount": 31960
         },
         {
           "name": "季",
@@ -126,12 +126,12 @@
           "amount": 29775
         },
         {
-          "name": "君",
-          "amount": 27505
+          "name": "芭樂",
+          "amount": 28045
         },
         {
-          "name": "芭樂",
-          "amount": 27250
+          "name": "君",
+          "amount": 27505
         },
         {
           "name": "高八毛",
@@ -459,12 +459,12 @@
           "amount": 10265
         },
         {
-          "name": "君",
-          "amount": 8045
+          "name": "芭樂",
+          "amount": 8460
         },
         {
-          "name": "芭樂",
-          "amount": 7665
+          "name": "君",
+          "amount": 8045
         },
         {
           "name": "Rea",
