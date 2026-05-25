@@ -27335,7 +27335,7 @@
     "socialName": "Alia",
     "title": "0213咒術 JF2025",
     "statusBadges": [
-      "已抵台"
+      "已出貨"
     ],
     "productAmount": 340,
     "depositPaid": 0,
@@ -27347,7 +27347,7 @@
       "packagingFee": 0
     },
     "balanceDue": 377,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -27725,7 +27725,7 @@
     "socialName": "Alia",
     "title": "0217 Gachiakuta 私服",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 480,
@@ -27738,7 +27738,7 @@
       "packagingFee": 0
     },
     "balanceDue": 25,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
