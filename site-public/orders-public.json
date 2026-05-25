@@ -6548,6 +6548,33 @@
     ]
   },
   {
+    "socialName": "加加（++)",
+    "title": "1105鏈鋸人Look up",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 945,
+    "depositPaid": 845,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "早川秋",
+        "qty": 1
+      }
+    ]
+  },
+  {
     "socialName": "Huang",
     "title": "1106 進巨 Escri VASARA",
     "statusBadges": [
@@ -8231,33 +8258,6 @@
       },
       {
         "name": "海報 (亞妮)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "加加（++)",
-    "title": "1114鏈鋸人Look up",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 945,
-    "depositPaid": 845,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "早川秋",
         "qty": 1
       }
     ]
@@ -19614,12 +19614,7 @@
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [
-      {
-        "name": "鏈鋸人Tenorin糰子娃",
-        "qty": 1
-      }
-    ]
+    "items": []
   },
   {
     "socialName": "GU搭",
