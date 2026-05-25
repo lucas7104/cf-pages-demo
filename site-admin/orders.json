@@ -12182,7 +12182,7 @@
     "socialName": "Huang",
     "title": "1120進巨 荷官",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 325,
@@ -12195,7 +12195,7 @@
       "packagingFee": 0
     },
     "balanceDue": 48,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -28084,7 +28084,7 @@
     "socialName": "大山",
     "title": "0208 鏈鋸人 波奇塔可動鑰匙圈",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 715,
@@ -28097,7 +28097,7 @@
       "packagingFee": 0
     },
     "balanceDue": 111,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
