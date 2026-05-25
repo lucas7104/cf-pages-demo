@@ -17839,6 +17839,173 @@
     "sourceMonth": "2025_12"
   },
   {
+    "socialName": "cc",
+    "title": "1218多ip Jump Festa 2026",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 530,
+    "depositPaid": 530,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (直哉)",
+        "qty": 2
+      }
+    ],
+    "sourceSheet": "1218多ip Jump Festa 2026",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "vivian_lai372",
+    "title": "1218多ip Jump Festa 2026",
+    "statusBadges": [],
+    "productAmount": 4400,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 4400,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (殺老師)",
+        "qty": 1
+      },
+      {
+        "name": "怪8卡",
+        "qty": 1
+      },
+      {
+        "name": "怪8徽章",
+        "qty": 1
+      },
+      {
+        "name": "坂本日常徽章",
+        "qty": 1
+      },
+      {
+        "name": "SPY Family徽章",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1218多ip Jump Festa 2026",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "菊米",
+    "title": "1218多ip Jump Festa 2026",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 410,
+    "depositPaid": 495,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (虎杖)",
+        "qty": 1
+      },
+      {
+        "name": "立牌 (乙骨)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1218多ip Jump Festa 2026",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "Peggy",
+    "title": "1218多ip Jump Festa 2026",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 530,
+    "depositPaid": 530,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (乙骨)",
+        "qty": 1
+      },
+      {
+        "name": "立牌 (脹相)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1218多ip Jump Festa 2026",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "里里",
+    "title": "1218多ip Jump Festa 2026",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 715,
+    "depositPaid": 715,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "娃娃 (直哉)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1218多ip Jump Festa 2026",
+    "sourceMonth": "2025_12"
+  },
+  {
     "socialName": "Vivian_lai372",
     "title": "1218坂本日常 黑色和服",
     "statusBadges": [
@@ -19367,173 +19534,6 @@
       }
     ],
     "sourceSheet": "★1220 鬼滅Relo Hotels &Resorts",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "cc",
-    "title": "1221多ip Jump Festa 2026",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 530,
-    "depositPaid": 530,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌 (直哉)",
-        "qty": 2
-      }
-    ],
-    "sourceSheet": "1221多ip Jump Festa 2026",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "vivian_lai372",
-    "title": "1221多ip Jump Festa 2026",
-    "statusBadges": [],
-    "productAmount": 4400,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 4400,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌 (殺老師)",
-        "qty": 1
-      },
-      {
-        "name": "怪8卡",
-        "qty": 1
-      },
-      {
-        "name": "怪8徽章",
-        "qty": 1
-      },
-      {
-        "name": "坂本日常徽章",
-        "qty": 1
-      },
-      {
-        "name": "SPY Family徽章",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1221多ip Jump Festa 2026",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "菊米",
-    "title": "1221多ip Jump Festa 2026",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 410,
-    "depositPaid": 495,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌 (虎杖)",
-        "qty": 1
-      },
-      {
-        "name": "立牌 (乙骨)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1221多ip Jump Festa 2026",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "Peggy",
-    "title": "1221多ip Jump Festa 2026",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 530,
-    "depositPaid": 530,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "立牌 (乙骨)",
-        "qty": 1
-      },
-      {
-        "name": "立牌 (脹相)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1221多ip Jump Festa 2026",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "里里",
-    "title": "1221多ip Jump Festa 2026",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 715,
-    "depositPaid": 715,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "娃娃 (直哉)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1221多ip Jump Festa 2026",
     "sourceMonth": "2025_12"
   },
   {
