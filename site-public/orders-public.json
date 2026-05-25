@@ -41937,9 +41937,11 @@
   {
     "socialName": "姿姿姿",
     "title": "0417咒術 極樂湯",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 745,
-    "depositPaid": 0,
+    "depositPaid": 745,
     "secondPayment": 34,
     "secondPaymentBreakdown": {
       "domesticShipping": 23,
@@ -41947,9 +41949,9 @@
       "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 779,
+    "balanceDue": 34,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -41966,9 +41968,11 @@
   {
     "socialName": "cu",
     "title": "0417咒術 極樂湯",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 1440,
-    "depositPaid": 0,
+    "depositPaid": 1440,
     "secondPayment": 44,
     "secondPaymentBreakdown": {
       "domesticShipping": 23,
@@ -41976,9 +41980,9 @@
       "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 1484,
+    "balanceDue": 44,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
