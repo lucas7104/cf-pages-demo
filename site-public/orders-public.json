@@ -41884,14 +41884,14 @@
     ],
     "productAmount": 1110,
     "depositPaid": 1110,
-    "secondPayment": 38,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
-      "domesticShipping": 23,
+      "domesticShipping": 20,
       "internationalShipping": 0,
       "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 38,
+    "balanceDue": 35,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41909,13 +41909,13 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 1975,
+    "productAmount": 1925,
     "depositPaid": 2500,
     "secondPayment": 49,
     "secondPaymentBreakdown": {
-      "domesticShipping": 23,
+      "domesticShipping": 20,
       "internationalShipping": 0,
-      "cardFee": 26,
+      "cardFee": 29,
       "packagingFee": 0
     },
     "balanceDue": 0,
@@ -41933,7 +41933,7 @@
         "qty": 3
       },
       {
-        "name": "盲抽拍立得 (場販一抽)",
+        "name": "盲抽拍立得 (一抽)",
         "qty": 1
       }
     ]
@@ -41946,14 +41946,14 @@
     ],
     "productAmount": 745,
     "depositPaid": 745,
-    "secondPayment": 34,
+    "secondPayment": 31,
     "secondPaymentBreakdown": {
-      "domesticShipping": 23,
+      "domesticShipping": 20,
       "internationalShipping": 0,
       "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 34,
+    "balanceDue": 31,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41977,14 +41977,14 @@
     ],
     "productAmount": 1440,
     "depositPaid": 1440,
-    "secondPayment": 44,
+    "secondPayment": 41,
     "secondPaymentBreakdown": {
-      "domesticShipping": 23,
+      "domesticShipping": 20,
       "internationalShipping": 0,
       "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 44,
+    "balanceDue": 41,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -42007,19 +42007,21 @@
   {
     "socialName": "Ichika",
     "title": "0417咒術 極樂湯",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 660,
-    "depositPaid": 0,
-    "secondPayment": 32,
+    "depositPaid": 660,
+    "secondPayment": 29,
     "secondPaymentBreakdown": {
-      "domesticShipping": 23,
+      "domesticShipping": 20,
       "internationalShipping": 0,
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 692,
+    "balanceDue": 29,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -42032,19 +42034,21 @@
   {
     "socialName": "瑞斯",
     "title": "0417咒術 極樂湯",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 480,
-    "depositPaid": 0,
-    "secondPayment": 30,
+    "depositPaid": 480,
+    "secondPayment": 27,
     "secondPaymentBreakdown": {
-      "domesticShipping": 23,
+      "domesticShipping": 20,
       "internationalShipping": 0,
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 510,
+    "balanceDue": 27,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -42060,14 +42064,14 @@
     "statusBadges": [],
     "productAmount": 1110,
     "depositPaid": 0,
-    "secondPayment": 38,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
-      "domesticShipping": 23,
+      "domesticShipping": 20,
       "internationalShipping": 0,
       "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 1148,
+    "balanceDue": 1145,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
