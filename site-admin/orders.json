@@ -44605,7 +44605,7 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 1755,
+    "productAmount": 1975,
     "depositPaid": 2500,
     "secondPayment": 49,
     "secondPaymentBreakdown": {
@@ -44627,6 +44627,10 @@
       {
         "name": "入浴劑 (場販)",
         "qty": 3
+      },
+      {
+        "name": "盲抽拍立得 (場販一抽)",
+        "qty": 1
       }
     ],
     "sourceSheet": "0417咒術 極樂湯",
@@ -44750,6 +44754,33 @@
     "items": [
       {
         "name": "立牌 (五條)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0417咒術 極樂湯",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "破產的人",
+    "title": "0417咒術 極樂湯",
+    "statusBadges": [],
+    "productAmount": 1110,
+    "depositPaid": 0,
+    "secondPayment": 38,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 23,
+      "internationalShipping": 0,
+      "cardFee": 15,
+      "packagingFee": 0
+    },
+    "balanceDue": 1148,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "盲抽拍立得 (BOX)",
         "qty": 1
       }
     ],
