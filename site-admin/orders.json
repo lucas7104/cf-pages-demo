@@ -31905,23 +31905,23 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 645,
+    "productAmount": 555,
     "depositPaid": 545,
-    "secondPayment": 0,
+    "secondPayment": 8,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 18,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "立牌 (場販里維)",
+        "name": "立牌 (里維)",
         "qty": 1
       }
     ],
@@ -31967,13 +31967,13 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 645,
+    "productAmount": 555,
     "depositPaid": 645,
-    "secondPayment": 0,
+    "secondPayment": 8,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 8,
       "packagingFee": 0
     },
     "balanceDue": 0,
@@ -31983,7 +31983,7 @@
     "note": "",
     "items": [
       {
-        "name": "立牌 (場販里維)",
+        "name": "立牌 (里維)",
         "qty": 1
       }
     ],
