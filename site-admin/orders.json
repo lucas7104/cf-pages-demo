@@ -24462,9 +24462,11 @@
   {
     "socialName": "每天都想退休",
     "title": "0120鏈鋸人 太陽城王子飯店",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 550,
-    "depositPaid": 0,
+    "depositPaid": 550,
     "secondPayment": 25,
     "secondPaymentBreakdown": {
       "domesticShipping": 25,
@@ -24472,9 +24474,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 575,
+    "balanceDue": 25,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
