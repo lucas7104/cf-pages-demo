@@ -1300,7 +1300,7 @@
     "socialName": "Jimmy C",
     "title": "1003 iFace波奇塔耳機殼",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1720,
@@ -1313,7 +1313,7 @@
       "packagingFee": 0
     },
     "balanceDue": 172,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "AirPods Pro第一代",
@@ -7235,7 +7235,7 @@
     "socialName": "JimmyC",
     "title": "1107 鏈鋸人 PochiMart",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 795,
@@ -7248,7 +7248,7 @@
       "packagingFee": 0
     },
     "balanceDue": 155,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -19675,7 +19675,7 @@
     "socialName": "Jimmy C",
     "title": "1224 鏈鋸人 王座",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 425,
@@ -19688,7 +19688,7 @@
       "packagingFee": 0
     },
     "balanceDue": 26,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
