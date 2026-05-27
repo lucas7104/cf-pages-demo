@@ -9379,7 +9379,7 @@
     "socialName": "早ㄢ",
     "title": "1117 進巨尊爵Dignified",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 220,
@@ -9392,7 +9392,7 @@
       "packagingFee": 0
     },
     "balanceDue": 6,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -30318,7 +30318,7 @@
     "socialName": "早ㄢ",
     "title": "0218進巨 四重奏",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 240,
@@ -30331,7 +30331,7 @@
       "packagingFee": 0
     },
     "balanceDue": 95,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
