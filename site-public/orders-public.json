@@ -17113,10 +17113,10 @@
     ]
   },
   {
-    "socialName": "Ni Ni",
+    "socialName": "臉書Ni Ni",
     "title": "1218坂本日常 黑色和服",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 450,
@@ -17129,7 +17129,7 @@
       "packagingFee": 0
     },
     "balanceDue": 20,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
