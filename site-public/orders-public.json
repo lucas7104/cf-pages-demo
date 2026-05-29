@@ -2971,14 +2971,14 @@
     ],
     "productAmount": 310,
     "depositPaid": 210,
-    "secondPayment": 5,
+    "secondPayment": 17,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 12,
       "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 105,
+    "balanceDue": 117,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -3003,14 +3003,14 @@
     ],
     "productAmount": 1490,
     "depositPaid": 1390,
-    "secondPayment": 21,
+    "secondPayment": 66,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 45,
       "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 121,
+    "balanceDue": 166,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -3039,14 +3039,14 @@
     ],
     "productAmount": 800,
     "depositPaid": 700,
-    "secondPayment": 12,
+    "secondPayment": 31,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 19,
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 112,
+    "balanceDue": 131,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -3071,14 +3071,14 @@
     ],
     "productAmount": 240,
     "depositPaid": 140,
-    "secondPayment": 7,
+    "secondPayment": 13,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 6,
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 107,
+    "balanceDue": 113,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -3428,6 +3428,61 @@
       {
         "name": "自由之翼襯衫",
         "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "嘿嘿哈哈",
+    "title": "1022 鬼滅之刃多款抽賞",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 525,
+    "depositPaid": 425,
+    "secondPayment": 40,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 40
+    },
+    "balanceDue": 140,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "抽數<5",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "socialName": "每天都想退休",
+    "title": "1022 鬼滅之刃多款抽賞",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 850,
+    "depositPaid": 750,
+    "secondPayment": 40,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 40
+    },
+    "balanceDue": 140,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "抽數>5",
+        "qty": 5
       }
     ]
   },
@@ -4564,61 +4619,6 @@
       {
         "name": "時透",
         "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "嘿嘿哈哈",
-    "title": "1029鬼滅之刃多款抽賞",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 525,
-    "depositPaid": 425,
-    "secondPayment": 40,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 40
-    },
-    "balanceDue": 140,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "抽數<5",
-        "qty": 3
-      }
-    ]
-  },
-  {
-    "socialName": "每天都想退休",
-    "title": "1029鬼滅之刃多款抽賞",
-    "statusBadges": [
-      "已出貨",
-      "已付訂金"
-    ],
-    "productAmount": 850,
-    "depositPaid": 750,
-    "secondPayment": 40,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 40
-    },
-    "balanceDue": 140,
-    "etaText": "已出貨",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "抽數>5",
-        "qty": 5
       }
     ]
   },
