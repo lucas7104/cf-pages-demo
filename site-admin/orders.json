@@ -24338,7 +24338,7 @@
     "socialName": "Ru",
     "title": "0120 進巨 星座",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 215,
@@ -24351,7 +24351,7 @@
       "packagingFee": 0
     },
     "balanceDue": 37,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26559,7 +26559,7 @@
     "socialName": "Ru",
     "title": "0130進巨 調查兵團貓貓",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 800,
@@ -26572,7 +26572,7 @@
       "packagingFee": 0
     },
     "balanceDue": 69,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
