@@ -2966,6 +2966,7 @@
     "socialName": "每天都想退休",
     "title": "1017進巨 兵長誕生日",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 310,
@@ -2978,7 +2979,7 @@
       "packagingFee": 0
     },
     "balanceDue": 105,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -2997,6 +2998,7 @@
     "socialName": "GU搭",
     "title": "1017進巨 兵長誕生日",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1490,
@@ -3009,7 +3011,7 @@
       "packagingFee": 0
     },
     "balanceDue": 121,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -3032,6 +3034,7 @@
     "socialName": "susu",
     "title": "1017進巨 兵長誕生日",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 800,
@@ -3044,7 +3047,7 @@
       "packagingFee": 0
     },
     "balanceDue": 112,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -3063,6 +3066,7 @@
     "socialName": "TYT",
     "title": "1017進巨 兵長誕生日",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 240,
@@ -3075,7 +3079,7 @@
       "packagingFee": 0
     },
     "balanceDue": 107,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -3233,7 +3237,9 @@
   {
     "socialName": "瑞斯",
     "title": "1022 巨人Hype連線",
-    "statusBadges": [],
+    "statusBadges": [
+      "已出貨"
+    ],
     "productAmount": 2590,
     "depositPaid": 0,
     "secondPayment": 2590,
@@ -3244,7 +3250,7 @@
       "packagingFee": 2590
     },
     "balanceDue": 5180,
-    "etaText": "Ｖ",
+    "etaText": "已出貨",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "鎧甲巨人T恤XL、進擊鎧甲大戰T恤XL各一",
@@ -3258,7 +3264,9 @@
   {
     "socialName": "Huang",
     "title": "1022 巨人Hype連線",
-    "statusBadges": [],
+    "statusBadges": [
+      "已出貨"
+    ],
     "productAmount": 3310,
     "depositPaid": 0,
     "secondPayment": 3310,
@@ -3269,7 +3277,7 @@
       "packagingFee": 3310
     },
     "balanceDue": 6620,
-    "etaText": "Ｖ",
+    "etaText": "已出貨",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "線條牛仔褲S*2",
@@ -3283,7 +3291,9 @@
   {
     "socialName": "陸玖",
     "title": "1022 巨人Hype連線",
-    "statusBadges": [],
+    "statusBadges": [
+      "已出貨"
+    ],
     "productAmount": 1300,
     "depositPaid": 0,
     "secondPayment": 1300,
@@ -3294,7 +3304,7 @@
       "packagingFee": 1300
     },
     "balanceDue": 2600,
-    "etaText": "Ｖ",
+    "etaText": "已出貨",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "進擊鎧甲大戰T恤L*1",
@@ -3308,7 +3318,9 @@
   {
     "socialName": "An",
     "title": "1022 巨人Hype連線",
-    "statusBadges": [],
+    "statusBadges": [
+      "已出貨"
+    ],
     "productAmount": 2880,
     "depositPaid": 0,
     "secondPayment": 2880,
@@ -3319,7 +3331,7 @@
       "packagingFee": 2880
     },
     "balanceDue": 5760,
-    "etaText": "Ｖ",
+    "etaText": "已出貨",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "超大巨T恤xs*1、襯衫S*1",
@@ -3337,7 +3349,9 @@
   {
     "socialName": "챠우뚱이",
     "title": "1022 巨人Hype連線",
-    "statusBadges": [],
+    "statusBadges": [
+      "已出貨"
+    ],
     "productAmount": 3270,
     "depositPaid": 0,
     "secondPayment": 3270,
@@ -3348,7 +3362,7 @@
       "packagingFee": 3270
     },
     "balanceDue": 6540,
-    "etaText": "Ｖ",
+    "etaText": "已出貨",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "襯衫xs*1、短板卡其夾克xs*1",
@@ -3366,7 +3380,9 @@
   {
     "socialName": "吉克救援",
     "title": "1022 巨人Hype連線",
-    "statusBadges": [],
+    "statusBadges": [
+      "已出貨"
+    ],
     "productAmount": 1460,
     "depositPaid": 0,
     "secondPayment": 1460,
@@ -3377,7 +3393,7 @@
       "packagingFee": 1460
     },
     "balanceDue": 2920,
-    "etaText": "Ｖ",
+    "etaText": "已出貨",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -3391,7 +3407,9 @@
   {
     "socialName": "嘿嘿哈哈",
     "title": "1022 巨人Hype連線",
-    "statusBadges": [],
+    "statusBadges": [
+      "已出貨"
+    ],
     "productAmount": 1590,
     "depositPaid": 0,
     "secondPayment": 1590,
@@ -3402,7 +3420,7 @@
       "packagingFee": 1590
     },
     "balanceDue": 3180,
-    "etaText": "Ｖ",
+    "etaText": "已出貨",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "襯衫M*1",
