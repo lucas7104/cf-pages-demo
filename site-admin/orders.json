@@ -8979,7 +8979,7 @@
     "socialName": "佩佩",
     "title": "1117 進巨尊爵Dignified",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 400,
@@ -8992,7 +8992,7 @@
       "packagingFee": 0
     },
     "balanceDue": 14,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -15853,7 +15853,7 @@
     "socialName": "佩佩",
     "title": "1209 進巨 DIY",
     "statusBadges": [
-      "返台中",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 545,
@@ -15866,7 +15866,7 @@
       "packagingFee": 0
     },
     "balanceDue": 21,
-    "etaText": "返台中",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -15887,7 +15887,7 @@
     "socialName": "TYT",
     "title": "1209 進巨 DIY",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1100,
@@ -15900,7 +15900,7 @@
       "packagingFee": 0
     },
     "balanceDue": 44,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -25963,7 +25963,7 @@
     "socialName": "佩佩",
     "title": "0127進巨 美高",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 265,
@@ -25976,7 +25976,7 @@
       "packagingFee": 0
     },
     "balanceDue": 45,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
