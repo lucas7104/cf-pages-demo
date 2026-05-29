@@ -14311,7 +14311,7 @@
     "socialName": "又双叒",
     "title": "1207 蝶之芙莉蓮",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 400,
@@ -14324,7 +14324,7 @@
       "packagingFee": 0
     },
     "balanceDue": 18,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20335,7 +20335,7 @@
     "socialName": "又双叒",
     "title": "0103坂本日常 搖滾樂園&四季更迭",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 215,
@@ -20348,7 +20348,7 @@
       "packagingFee": 0
     },
     "balanceDue": 69,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
