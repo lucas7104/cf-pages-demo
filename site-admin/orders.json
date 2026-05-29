@@ -5746,7 +5746,7 @@
     "socialName": "lpp_ss",
     "title": "1101鏈鋸人 Tenorin糰子娃",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1395,
@@ -5759,7 +5759,7 @@
       "packagingFee": 0
     },
     "balanceDue": 196,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -7325,7 +7325,7 @@
     "socialName": "lpp_ss",
     "title": "1107 鏈鋸人 PochiMart",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 735,
@@ -7338,7 +7338,7 @@
       "packagingFee": 0
     },
     "balanceDue": 141,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -9571,7 +9571,7 @@
     "socialName": "lpp_ss",
     "title": "1117 進巨尊爵Dignified",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 430,
@@ -9584,7 +9584,7 @@
       "packagingFee": 0
     },
     "balanceDue": 21,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
