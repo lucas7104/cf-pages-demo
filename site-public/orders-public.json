@@ -13438,7 +13438,7 @@
     "socialName": "溫妮",
     "title": "1201進巨 amnibus",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 670,
@@ -13451,7 +13451,7 @@
       "packagingFee": 0
     },
     "balanceDue": 27,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -15754,7 +15754,7 @@
     "socialName": "溫妮",
     "title": "1212 我英 Jump Festa 2026",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 120,
@@ -15767,7 +15767,7 @@
       "packagingFee": 0
     },
     "balanceDue": 11,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16519,7 +16519,7 @@
     "socialName": "溫妮",
     "title": "1216 多ip 厭世系列",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 185,
@@ -16532,7 +16532,7 @@
       "packagingFee": 0
     },
     "balanceDue": 7,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
