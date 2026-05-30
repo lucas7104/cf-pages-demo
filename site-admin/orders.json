@@ -12628,7 +12628,7 @@
     "socialName": "水",
     "title": "1123 咒術pochimart",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1510,
@@ -12641,7 +12641,7 @@
       "packagingFee": 0
     },
     "balanceDue": 48,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
