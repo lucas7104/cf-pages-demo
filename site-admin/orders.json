@@ -5930,7 +5930,7 @@
     "socialName": "里里",
     "title": "1104 咒術Airtwokyo",
     "statusBadges": [
-      "已抵台"
+      "已出貨"
     ],
     "productAmount": 980,
     "depositPaid": 0,
@@ -5942,7 +5942,7 @@
       "packagingFee": 0
     },
     "balanceDue": 1057,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -12628,7 +12628,7 @@
     "socialName": "水",
     "title": "1123 咒術pochimart",
     "statusBadges": [
-      "已出貨",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1510,
@@ -12641,7 +12641,7 @@
       "packagingFee": 0
     },
     "balanceDue": 48,
-    "etaText": "已出貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
