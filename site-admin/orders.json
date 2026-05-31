@@ -24790,14 +24790,14 @@
     ],
     "productAmount": 730,
     "depositPaid": 730,
-    "secondPayment": 0,
+    "secondPayment": 151,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 98,
+      "internationalShipping": 43,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 151,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -24808,7 +24808,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0121 藥師 玩水",
+    "sourceSheet": "★0121 藥師 玩水",
     "sourceMonth": "2026-01"
   },
   {
@@ -24819,14 +24819,14 @@
     ],
     "productAmount": 1355,
     "depositPaid": 1300,
-    "secondPayment": 0,
+    "secondPayment": 167,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 98,
+      "internationalShipping": 50,
+      "cardFee": 19,
       "packagingFee": 0
     },
-    "balanceDue": 55,
+    "balanceDue": 222,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -24845,7 +24845,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0121 藥師 玩水",
+    "sourceSheet": "★0121 藥師 玩水",
     "sourceMonth": "2026-01"
   },
   {
@@ -24856,14 +24856,14 @@
     ],
     "productAmount": 590,
     "depositPaid": 590,
-    "secondPayment": 0,
+    "secondPayment": 143,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 98,
+      "internationalShipping": 37,
+      "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 143,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -24874,7 +24874,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0121 藥師 玩水",
+    "sourceSheet": "★0121 藥師 玩水",
     "sourceMonth": "2026-01"
   },
   {
@@ -24885,14 +24885,14 @@
     ],
     "productAmount": 710,
     "depositPaid": 700,
-    "secondPayment": 0,
+    "secondPayment": 140,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 98,
+      "internationalShipping": 32,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 10,
+    "balanceDue": 150,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -24907,7 +24907,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0121 藥師 玩水",
+    "sourceSheet": "★0121 藥師 玩水",
     "sourceMonth": "2026-01"
   },
   {
@@ -31131,14 +31131,14 @@
     ],
     "productAmount": 6340,
     "depositPaid": 6340,
-    "secondPayment": 1022,
+    "secondPayment": 710,
     "secondPaymentBreakdown": {
       "domesticShipping": 122,
       "internationalShipping": 504,
-      "cardFee": 396,
+      "cardFee": 84,
       "packagingFee": 0
     },
-    "balanceDue": 1022,
+    "balanceDue": 710,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31164,14 +31164,14 @@
     ],
     "productAmount": 215,
     "depositPaid": 351,
-    "secondPayment": 136,
+    "secondPayment": 159,
     "secondPaymentBreakdown": {
       "domesticShipping": 136,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 20,
+      "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 23,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
