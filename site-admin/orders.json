@@ -23074,17 +23074,19 @@
   {
     "socialName": "波波",
     "title": "0117坂本日常 功夫大師",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 560,
-    "depositPaid": 0,
-    "secondPayment": 93,
+    "depositPaid": 560,
+    "secondPayment": 74,
     "secondPaymentBreakdown": {
-      "domesticShipping": 70,
+      "domesticShipping": 51,
       "internationalShipping": 15,
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 653,
+    "balanceDue": 74,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -23099,23 +23101,25 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0117坂本日常 功夫大師",
+    "sourceSheet": "★0117坂本日常 功夫大師",
     "sourceMonth": "2026-01"
   },
   {
     "socialName": "古鹿",
     "title": "0117坂本日常 功夫大師",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 585,
-    "depositPaid": 0,
-    "secondPayment": 91,
+    "depositPaid": 585,
+    "secondPayment": 72,
     "secondPaymentBreakdown": {
-      "domesticShipping": 70,
+      "domesticShipping": 51,
       "internationalShipping": 13,
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 676,
+    "balanceDue": 72,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -23126,7 +23130,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0117坂本日常 功夫大師",
+    "sourceSheet": "★0117坂本日常 功夫大師",
     "sourceMonth": "2026-01"
   },
   {
