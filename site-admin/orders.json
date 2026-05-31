@@ -29383,14 +29383,14 @@
     ],
     "productAmount": 660,
     "depositPaid": 660,
-    "secondPayment": 0,
+    "secondPayment": 91,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 62,
+      "internationalShipping": 20,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 91,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29401,7 +29401,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0215鏈鋸人 拍立得小卡",
+    "sourceSheet": "★0215鏈鋸人 拍立得小卡",
     "sourceMonth": "2026-02"
   },
   {
@@ -29412,14 +29412,14 @@
     ],
     "productAmount": 660,
     "depositPaid": 660,
-    "secondPayment": 0,
+    "secondPayment": 91,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 62,
+      "internationalShipping": 20,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 91,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29430,7 +29430,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0215鏈鋸人 拍立得小卡",
+    "sourceSheet": "★0215鏈鋸人 拍立得小卡",
     "sourceMonth": "2026-02"
   },
   {
