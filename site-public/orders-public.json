@@ -21662,6 +21662,60 @@
     ]
   },
   {
+    "socialName": "波波",
+    "title": "0117坂本日常 功夫大師",
+    "statusBadges": [],
+    "productAmount": 560,
+    "depositPaid": 0,
+    "secondPayment": 93,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 70,
+      "internationalShipping": 15,
+      "cardFee": 8,
+      "packagingFee": 0
+    },
+    "balanceDue": 653,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "南雲立牌",
+        "qty": 1
+      },
+      {
+        "name": "利音立牌",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "古鹿",
+    "title": "0117坂本日常 功夫大師",
+    "statusBadges": [],
+    "productAmount": 585,
+    "depositPaid": 0,
+    "secondPayment": 91,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 70,
+      "internationalShipping": 13,
+      "cardFee": 8,
+      "packagingFee": 0
+    },
+    "balanceDue": 676,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "相卡 (抱盒)",
+        "qty": 1
+      }
+    ]
+  },
+  {
     "socialName": "Meoooooow",
     "title": "0118 膽大黨pop up",
     "statusBadges": [
