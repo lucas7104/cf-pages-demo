@@ -24994,14 +24994,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 0,
+    "secondPayment": 18,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 12,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 18,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25012,7 +25012,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0124 芙莉蓮 冬裝系列",
+    "sourceSheet": "★0124 芙莉蓮 冬裝系列",
     "sourceMonth": "2026-01"
   },
   {
@@ -25023,14 +25023,14 @@
     ],
     "productAmount": 2250,
     "depositPaid": 2250,
-    "secondPayment": 0,
+    "secondPayment": 270,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 234,
+      "cardFee": 36,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 270,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25053,7 +25053,7 @@
         "qty": 6
       }
     ],
-    "sourceSheet": "0124 芙莉蓮 冬裝系列",
+    "sourceSheet": "★0124 芙莉蓮 冬裝系列",
     "sourceMonth": "2026-01"
   },
   {
