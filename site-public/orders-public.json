@@ -17613,7 +17613,7 @@
     "socialName": "Li lee",
     "title": "1219 咒術 旅遊系列",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 215,
@@ -17626,7 +17626,7 @@
       "packagingFee": 0
     },
     "balanceDue": 28,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -31474,7 +31474,7 @@
     "socialName": "Li lee",
     "title": "0311 膽大黨 原畫展",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 265,
@@ -31487,7 +31487,7 @@
       "packagingFee": 0
     },
     "balanceDue": 55,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
