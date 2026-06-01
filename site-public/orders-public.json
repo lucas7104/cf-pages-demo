@@ -8783,7 +8783,7 @@
     "socialName": "its_midada",
     "title": "1117 進巨尊爵Dignified",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 220,
@@ -8796,7 +8796,7 @@
       "packagingFee": 0
     },
     "balanceDue": 6,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -18016,7 +18016,7 @@
     "socialName": "its_midada",
     "title": "1219 鏈鋸人 禮服系列",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 320,
@@ -18029,7 +18029,7 @@
       "packagingFee": 0
     },
     "balanceDue": 40,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
