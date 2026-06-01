@@ -720,7 +720,7 @@
     "socialName": "pei",
     "title": "1002 進巨 絢爛菊花飯店",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 2260,
@@ -733,7 +733,7 @@
       "packagingFee": 0
     },
     "balanceDue": 236,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -7491,7 +7491,7 @@
     "socialName": "pei",
     "title": "1107 鏈鋸人 PochiMart",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 515,
@@ -7504,7 +7504,7 @@
       "packagingFee": 0
     },
     "balanceDue": 126,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
