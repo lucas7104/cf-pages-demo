@@ -37410,7 +37410,7 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 2485,
+    "productAmount": 1250,
     "depositPaid": 2485,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -37426,19 +37426,19 @@
     "note": "",
     "items": [
       {
-        "name": "乙骨立牌",
-        "qty": 1
-      },
-      {
-        "name": "明信片",
-        "qty": 1
-      },
-      {
         "name": "透卡",
         "qty": 4
       },
       {
         "name": "簽名卡抱盒",
+        "qty": 1
+      },
+      {
+        "name": "乙骨立牌",
+        "qty": 1
+      },
+      {
+        "name": "明信片",
         "qty": 1
       },
       {
@@ -37538,7 +37538,7 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 660,
+    "productAmount": 0,
     "depositPaid": 660,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -37565,7 +37565,7 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 660,
+    "productAmount": 0,
     "depositPaid": 660,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -37619,7 +37619,7 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 660,
+    "productAmount": 0,
     "depositPaid": 660,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
