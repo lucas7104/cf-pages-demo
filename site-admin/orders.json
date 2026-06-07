@@ -34225,14 +34225,14 @@
     ],
     "productAmount": 980,
     "depositPaid": 980,
-    "secondPayment": 0,
+    "secondPayment": 48,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 35,
+      "cardFee": 13,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 48,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34243,7 +34243,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0312進巨 FEST",
+    "sourceSheet": "★0312進巨 FEST",
     "sourceMonth": "2026-03"
   },
   {
@@ -34254,14 +34254,14 @@
     ],
     "productAmount": 690,
     "depositPaid": 690,
-    "secondPayment": 0,
+    "secondPayment": 38,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 29,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 38,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34272,7 +34272,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0312進巨 FEST",
+    "sourceSheet": "★0312進巨 FEST",
     "sourceMonth": "2026-03"
   },
   {
@@ -34283,14 +34283,14 @@
     ],
     "productAmount": 615,
     "depositPaid": 615,
-    "secondPayment": 0,
+    "secondPayment": 36,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 27,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 36,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34305,7 +34305,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0312進巨 FEST",
+    "sourceSheet": "★0312進巨 FEST",
     "sourceMonth": "2026-03"
   },
   {
@@ -34316,14 +34316,14 @@
     ],
     "productAmount": 660,
     "depositPaid": 660,
-    "secondPayment": 0,
+    "secondPayment": 18,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 18,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34334,7 +34334,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0312進巨 FEST",
+    "sourceSheet": "★0312進巨 FEST",
     "sourceMonth": "2026-03"
   },
   {
