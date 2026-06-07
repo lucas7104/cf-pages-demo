@@ -9303,7 +9303,7 @@
     "socialName": "𝑊𝑖𝑠ℎ..ෆ",
     "title": "1117 進巨尊爵Dignified",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 650,
@@ -9316,7 +9316,7 @@
       "packagingFee": 0
     },
     "balanceDue": 177,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -17711,7 +17711,7 @@
     "socialName": "𝑊𝑖𝑠ℎ..ෆ",
     "title": "1218 進巨 東京車站(2024)",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 960,
@@ -17724,7 +17724,7 @@
       "packagingFee": 0
     },
     "balanceDue": 77,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20565,10 +20565,10 @@
     "sourceMonth": "2025_12"
   },
   {
-    "socialName": "wish",
+    "socialName": "𝑊𝑖𝑠ℎ..ෆ",
     "title": "1228 進巨 Zogankin",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 360,
@@ -20581,7 +20581,7 @@
       "packagingFee": 0
     },
     "balanceDue": 31,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
