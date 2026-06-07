@@ -2405,7 +2405,7 @@
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "(收Eilish音柱各2)",
+    "note": "(沒抽，收Eilish音柱兩種各1)",
     "items": [
       {
         "name": "抽數>5",
@@ -18330,7 +18330,7 @@
     "socialName": "Ivii",
     "title": "1219 多ip Airtwokyo",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 2820,
@@ -18343,7 +18343,7 @@
       "packagingFee": 0
     },
     "balanceDue": 180,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
