@@ -11675,7 +11675,7 @@
     "socialName": "Peggy",
     "title": "1123 咒術 五週年第二彈",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 650,
@@ -11688,7 +11688,7 @@
       "packagingFee": 0
     },
     "balanceDue": 43,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -16268,7 +16268,7 @@
     "socialName": "Peggy",
     "title": "1212咒術 Jump Festa 2026",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 170,
@@ -16281,7 +16281,7 @@
       "packagingFee": 0
     },
     "balanceDue": 21,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -17398,7 +17398,7 @@
     "socialName": "Peggy",
     "title": "1219 咒術 旅遊系列",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 450,
@@ -17411,7 +17411,7 @@
       "packagingFee": 0
     },
     "balanceDue": 32,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -17709,7 +17709,7 @@
     "socialName": "Peggy",
     "title": "1219 鏈鋸人 禮服系列",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 320,
@@ -17722,7 +17722,7 @@
       "packagingFee": 0
     },
     "balanceDue": 45,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20459,7 +20459,7 @@
     "socialName": "Peggy",
     "title": "0105防風 甜點",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 525,
@@ -20472,7 +20472,7 @@
       "packagingFee": 0
     },
     "balanceDue": 121,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
