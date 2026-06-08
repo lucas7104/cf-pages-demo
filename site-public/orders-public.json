@@ -9455,7 +9455,7 @@
     "socialName": "羊",
     "title": "1118 咒術mappa",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 270,
@@ -9468,7 +9468,7 @@
       "packagingFee": 10
     },
     "balanceDue": 24,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
