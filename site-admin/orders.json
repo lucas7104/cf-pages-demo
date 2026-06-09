@@ -39802,16 +39802,16 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 1250,
+    "productAmount": 2485,
     "depositPaid": 2485,
-    "secondPayment": 0,
+    "secondPayment": 79,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 38,
+      "internationalShipping": 41,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 79,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39938,7 +39938,7 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 0,
+    "productAmount": 660,
     "depositPaid": 660,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -39967,7 +39967,7 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 0,
+    "productAmount": 660,
     "depositPaid": 660,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -40025,7 +40025,7 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 0,
+    "productAmount": 660,
     "depositPaid": 660,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
