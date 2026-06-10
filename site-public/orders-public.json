@@ -4449,7 +4449,7 @@
     "socialName": "Saki蒼",
     "title": "1028 鬼滅 天貓坐姿公仔",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 3600,
@@ -4462,7 +4462,7 @@
       "packagingFee": 0
     },
     "balanceDue": 251,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -5901,7 +5901,7 @@
     "socialName": "Saki蒼",
     "title": "1104 鬼滅 淘寶Aniplex豆豆娃吊飾",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 620,
@@ -5914,7 +5914,7 @@
       "packagingFee": 0
     },
     "balanceDue": 152,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
