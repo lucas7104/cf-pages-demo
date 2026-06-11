@@ -19831,14 +19831,14 @@
     ],
     "productAmount": 855,
     "depositPaid": 855,
-    "secondPayment": 44,
+    "secondPayment": 187,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 132,
       "internationalShipping": 44,
-      "cardFee": 0,
+      "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 44,
+    "balanceDue": 187,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
