@@ -5790,7 +5790,7 @@
     },
     "balanceDue": 133,
     "etaText": "已抵台",
-    "paymentMethod": "轉帳",
+    "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -42368,14 +42368,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 62,
+    "secondPayment": 77,
     "secondPaymentBreakdown": {
       "domesticShipping": 62,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 62,
+    "balanceDue": 77,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -42386,7 +42386,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0406暗殺教室 和服立牌",
+    "sourceSheet": "★0406暗殺教室 和服立牌",
     "sourceMonth": "2026-04"
   },
   {
@@ -42397,14 +42397,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 62,
+    "secondPayment": 77,
     "secondPaymentBreakdown": {
       "domesticShipping": 62,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 62,
+    "balanceDue": 77,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -42415,7 +42415,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0406暗殺教室 和服立牌",
+    "sourceSheet": "★0406暗殺教室 和服立牌",
     "sourceMonth": "2026-04"
   },
   {
