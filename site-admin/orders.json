@@ -44768,14 +44768,14 @@
     "statusBadges": [],
     "productAmount": 1075,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 117,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 92,
+      "internationalShipping": 10,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 1075,
+    "balanceDue": 1192,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -44786,7 +44786,7 @@
         "qty": 5
       }
     ],
-    "sourceSheet": "0418鬼滅 Jump閃卡收藏 Vol. 1",
+    "sourceSheet": "★0418鬼滅 Jump閃卡收藏 Vol. 1",
     "sourceMonth": "2026-04"
   },
   {
@@ -44797,14 +44797,14 @@
     ],
     "productAmount": 1075,
     "depositPaid": 1075,
-    "secondPayment": 0,
+    "secondPayment": 117,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 92,
+      "internationalShipping": 10,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 117,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44815,7 +44815,7 @@
         "qty": 5
       }
     ],
-    "sourceSheet": "0418鬼滅 Jump閃卡收藏 Vol. 1",
+    "sourceSheet": "★0418鬼滅 Jump閃卡收藏 Vol. 1",
     "sourceMonth": "2026-04"
   },
   {
@@ -44826,14 +44826,14 @@
     ],
     "productAmount": 1935,
     "depositPaid": 1935,
-    "secondPayment": 0,
+    "secondPayment": 137,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 92,
+      "internationalShipping": 18,
+      "cardFee": 27,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 137,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44844,7 +44844,7 @@
         "qty": 9
       }
     ],
-    "sourceSheet": "0418鬼滅 Jump閃卡收藏 Vol. 1",
+    "sourceSheet": "★0418鬼滅 Jump閃卡收藏 Vol. 1",
     "sourceMonth": "2026-04"
   },
   {
@@ -44855,14 +44855,14 @@
     ],
     "productAmount": 215,
     "depositPaid": 215,
-    "secondPayment": 0,
+    "secondPayment": 97,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 92,
+      "internationalShipping": 2,
+      "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 97,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44873,7 +44873,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0418鬼滅 Jump閃卡收藏 Vol. 1",
+    "sourceSheet": "★0418鬼滅 Jump閃卡收藏 Vol. 1",
     "sourceMonth": "2026-04"
   },
   {
