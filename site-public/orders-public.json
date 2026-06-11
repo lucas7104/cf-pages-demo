@@ -18423,6 +18423,76 @@
     ]
   },
   {
+    "socialName": "GU搭",
+    "title": "1224 進巨 PROOF眼睛系列",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 880,
+    "depositPaid": 880,
+    "secondPayment": 96,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 62,
+      "internationalShipping": 19,
+      "cardFee": 15,
+      "packagingFee": 0
+    },
+    "balanceDue": 96,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "壓克力磁鐵 (女王)",
+        "qty": 1
+      },
+      {
+        "name": "壓克力磁鐵 (漢吉)",
+        "qty": 1
+      },
+      {
+        "name": "壓克力磁鐵 (尤彌爾)",
+        "qty": 1
+      },
+      {
+        "name": "收藏系列吊飾 (漢吉)",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "lin",
+    "title": "1224 進巨 PROOF眼睛系列",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 800,
+    "depositPaid": 800,
+    "secondPayment": 92,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 62,
+      "internationalShipping": 18,
+      "cardFee": 12,
+      "packagingFee": 0
+    },
+    "balanceDue": 92,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "收藏系列吊飾 (里維)",
+        "qty": 1
+      },
+      {
+        "name": "收藏系列吊飾 (艾爾文)",
+        "qty": 1
+      }
+    ]
+  },
+  {
     "socialName": "瑞斯",
     "title": "1224 鏈鋸人 王座",
     "statusBadges": [
@@ -20383,74 +20453,6 @@
     "items": [
       {
         "name": "搖滾樂團海報 (all)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "GU搭",
-    "title": "0103進巨 PROOF眼睛系列",
-    "statusBadges": [],
-    "productAmount": 880,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 880,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "壓克力磁鐵 (女王)",
-        "qty": 1
-      },
-      {
-        "name": "壓克力磁鐵 (漢吉)",
-        "qty": 1
-      },
-      {
-        "name": "壓克力磁鐵 (尤彌爾)",
-        "qty": 1
-      },
-      {
-        "name": "收藏系列吊飾 (漢吉)",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "lin",
-    "title": "0103進巨 PROOF眼睛系列",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 800,
-    "depositPaid": 800,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "收藏系列吊飾 (里維)",
-        "qty": 1
-      },
-      {
-        "name": "收藏系列吊飾 (艾爾文)",
         "qty": 1
       }
     ]
@@ -24713,14 +24715,14 @@
     ],
     "productAmount": 5555,
     "depositPaid": 5555,
-    "secondPayment": 443,
+    "secondPayment": 620,
     "secondPaymentBreakdown": {
       "domesticShipping": 144,
-      "internationalShipping": 225,
+      "internationalShipping": 402,
       "cardFee": 74,
       "packagingFee": 0
     },
-    "balanceDue": 443,
+    "balanceDue": 620,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",

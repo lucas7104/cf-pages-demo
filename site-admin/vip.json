@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T19:21:26.117Z",
+  "generatedAt": "2026-06-11T19:41:22.360Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -74,16 +74,16 @@
           "amount": 18925
         },
         {
+          "name": "GU搭",
+          "amount": 18209
+        },
+        {
           "name": "cc",
           "amount": 17600
         },
         {
           "name": "絈",
           "amount": 17435
-        },
-        {
-          "name": "GU搭",
-          "amount": 17329
         },
         {
           "name": "Feiiii",
