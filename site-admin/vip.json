@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T18:31:29.305Z",
+  "generatedAt": "2026-06-11T18:41:26.901Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -161,12 +161,12 @@
       "children": [],
       "topTen": [
         {
-          "name": "Feiiii",
-          "amount": 10115
+          "name": "Eilish",
+          "amount": 13920
         },
         {
-          "name": "Eilish",
-          "amount": 9120
+          "name": "Feiiii",
+          "amount": 10115
         },
         {
           "name": "GU搭",
@@ -244,8 +244,8 @@
           "amount": 4940
         },
         {
-          "name": "Eilish",
-          "amount": 4800
+          "name": "R",
+          "amount": 4380
         }
       ]
     },
