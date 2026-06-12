@@ -12113,7 +12113,7 @@
     "socialName": "cc",
     "title": "1118 鬼滅 星空",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 600,
@@ -12126,7 +12126,7 @@
       "packagingFee": 0
     },
     "balanceDue": 38,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
