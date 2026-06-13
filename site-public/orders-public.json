@@ -23336,6 +23336,7 @@
     "socialName": "君",
     "title": "0121 藥師 玩水",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 730,
@@ -23348,7 +23349,7 @@
       "packagingFee": 0
     },
     "balanceDue": 151,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -23363,6 +23364,7 @@
     "socialName": "臉書Ruby Hoshino",
     "title": "0121 藥師 玩水",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1355,
@@ -23375,17 +23377,17 @@
       "packagingFee": 0
     },
     "balanceDue": 222,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "壬氏",
+        "name": "壬氏立牌",
         "qty": 1
       },
       {
-        "name": "貓貓",
+        "name": "貓貓立牌",
         "qty": 1
       },
       {
@@ -23398,6 +23400,7 @@
     "socialName": "Ruan",
     "title": "0121 藥師 玩水",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 590,
@@ -23410,7 +23413,7 @@
       "packagingFee": 0
     },
     "balanceDue": 143,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -23425,6 +23428,7 @@
     "socialName": "臉書 謝其妘",
     "title": "0121 藥師 玩水",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 710,
@@ -23437,17 +23441,17 @@
       "packagingFee": 0
     },
     "balanceDue": 150,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "壬氏",
+        "name": "壬氏立牌",
         "qty": 1
       },
       {
-        "name": "貓貓",
+        "name": "貓貓立牌",
         "qty": 1
       }
     ]
