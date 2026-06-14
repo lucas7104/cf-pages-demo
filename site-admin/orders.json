@@ -26125,7 +26125,7 @@
     "socialName": "snailll",
     "title": "0128芙莉蓮 盲抽貼紙",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1600,
@@ -26138,7 +26138,7 @@
       "packagingFee": 0
     },
     "balanceDue": 80,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
