@@ -2501,6 +2501,7 @@
     "socialName": "臉書 陳亭妤",
     "title": "1017 進巨 騎馬系列",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1850,
@@ -2513,7 +2514,7 @@
       "packagingFee": 0
     },
     "balanceDue": 249,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -15495,7 +15496,7 @@
     "socialName": "布丁🍮",
     "title": "1211 鏈鋸人 graniph",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 850,
@@ -15508,7 +15509,7 @@
       "packagingFee": 0
     },
     "balanceDue": 50,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
