@@ -33154,14 +33154,14 @@
     ],
     "productAmount": 500,
     "depositPaid": 500,
-    "secondPayment": 0,
+    "secondPayment": 4,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 2,
+      "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 4,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -33176,7 +33176,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0310 進巨 東京車站",
+    "sourceSheet": "★0310 進巨 東京車站",
     "sourceMonth": "2026-03"
   },
   {
@@ -33187,14 +33187,14 @@
     ],
     "productAmount": 1040,
     "depositPaid": 1040,
-    "secondPayment": 0,
+    "secondPayment": 7,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 2,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 7,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -33213,7 +33213,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0310 進巨 東京車站",
+    "sourceSheet": "★0310 進巨 東京車站",
     "sourceMonth": "2026-03"
   },
   {
@@ -33224,14 +33224,14 @@
     ],
     "productAmount": 120,
     "depositPaid": 120,
-    "secondPayment": 0,
+    "secondPayment": 69,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 5,
+      "cardFee": 64,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 69,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -33242,7 +33242,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0310 進巨 東京車站",
+    "sourceSheet": "★0310 進巨 東京車站",
     "sourceMonth": "2026-03"
   },
   {
@@ -33276,7 +33276,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0310 進巨 東京車站",
+    "sourceSheet": "★0310 進巨 東京車站",
     "sourceMonth": "2026-03"
   },
   {
