@@ -15968,14 +15968,14 @@
     ],
     "productAmount": 1585,
     "depositPaid": 1585,
-    "secondPayment": 0,
+    "secondPayment": 62,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 62,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 62,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -15986,7 +15986,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1209咒術 五條悟生日",
+    "sourceSheet": "★1209咒術 五條悟生日",
     "sourceMonth": "2025_12"
   },
   {
@@ -15997,14 +15997,14 @@
     ],
     "productAmount": 2465,
     "depositPaid": 2465,
-    "secondPayment": 0,
+    "secondPayment": 93,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 93,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 93,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16023,7 +16023,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1209咒術 五條悟生日",
+    "sourceSheet": "★1209咒術 五條悟生日",
     "sourceMonth": "2025_12"
   },
   {
@@ -16034,14 +16034,14 @@
     ],
     "productAmount": 135,
     "depositPaid": 135,
-    "secondPayment": 0,
+    "secondPayment": 31,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 31,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 31,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16052,7 +16052,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1209咒術 五條悟生日",
+    "sourceSheet": "★1209咒術 五條悟生日",
     "sourceMonth": "2025_12"
   },
   {
@@ -16061,14 +16061,14 @@
     "statusBadges": [],
     "productAmount": 135,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 31,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 31,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 135,
+    "balanceDue": 166,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -16079,7 +16079,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1209咒術 五條悟生日",
+    "sourceSheet": "★1209咒術 五條悟生日",
     "sourceMonth": "2025_12"
   },
   {
@@ -16090,14 +16090,14 @@
     ],
     "productAmount": 1665,
     "depositPaid": 1665,
-    "secondPayment": 0,
+    "secondPayment": 31,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 31,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 31,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16108,7 +16108,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1209咒術 五條悟生日",
+    "sourceSheet": "★1209咒術 五條悟生日",
     "sourceMonth": "2025_12"
   },
   {
@@ -16119,14 +16119,14 @@
     ],
     "productAmount": 135,
     "depositPaid": 135,
-    "secondPayment": 0,
+    "secondPayment": 31,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 31,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 31,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16137,7 +16137,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1209咒術 五條悟生日",
+    "sourceSheet": "★1209咒術 五條悟生日",
     "sourceMonth": "2025_12"
   },
   {
@@ -16148,14 +16148,14 @@
     ],
     "productAmount": 1720,
     "depositPaid": 1720,
-    "secondPayment": 0,
+    "secondPayment": 62,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 62,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 62,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -16170,7 +16170,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1209咒術 五條悟生日",
+    "sourceSheet": "★1209咒術 五條悟生日",
     "sourceMonth": "2025_12"
   },
   {
@@ -34987,14 +34987,14 @@
     ],
     "productAmount": 2540,
     "depositPaid": 2540,
-    "secondPayment": 0,
+    "secondPayment": 121,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 87,
+      "cardFee": 34,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 121,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35009,7 +35009,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0315芙莉蓮 EMOCA小卡",
+    "sourceSheet": "★0315芙莉蓮 EMOCA小卡",
     "sourceMonth": "2026-03"
   },
   {
