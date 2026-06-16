@@ -28984,6 +28984,35 @@
     ]
   },
   {
+    "socialName": "lpp_ss",
+    "title": "0220多ip Airtwokyo",
+    "statusBadges": [],
+    "productAmount": 1360,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 1360,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "里維班模型",
+        "qty": 1
+      },
+      {
+        "name": "我鎧他超模型",
+        "qty": 1
+      }
+    ]
+  },
+  {
     "socialName": "Leila",
     "title": "0226鬼滅 明治村",
     "statusBadges": [],
@@ -41706,14 +41735,14 @@
     ],
     "productAmount": 1200,
     "depositPaid": 1200,
-    "secondPayment": 17,
+    "secondPayment": 45,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 28,
       "cardFee": 17,
       "packagingFee": 0
     },
-    "balanceDue": 17,
+    "balanceDue": 45,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41737,14 +41766,14 @@
     ],
     "productAmount": 5565,
     "depositPaid": 5565,
-    "secondPayment": 686,
+    "secondPayment": 714,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 612,
+      "internationalShipping": 640,
       "cardFee": 74,
       "packagingFee": 0
     },
-    "balanceDue": 686,
+    "balanceDue": 714,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41770,14 +41799,14 @@
     "statusBadges": [],
     "productAmount": 720,
     "depositPaid": 0,
-    "secondPayment": 10,
+    "secondPayment": 38,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 28,
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 730,
+    "balanceDue": 758,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -41797,14 +41826,14 @@
     ],
     "productAmount": 3310,
     "depositPaid": 3310,
-    "secondPayment": 289,
+    "secondPayment": 317,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 244,
+      "internationalShipping": 272,
       "cardFee": 45,
       "packagingFee": 0
     },
-    "balanceDue": 289,
+    "balanceDue": 317,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
