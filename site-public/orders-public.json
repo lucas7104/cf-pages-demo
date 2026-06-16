@@ -28820,14 +28820,14 @@
     ],
     "productAmount": 4205,
     "depositPaid": 4205,
-    "secondPayment": 0,
+    "secondPayment": 85,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 85,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 85,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28859,14 +28859,14 @@
     ],
     "productAmount": 5050,
     "depositPaid": 5050,
-    "secondPayment": 0,
+    "secondPayment": 113,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 113,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 113,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28904,16 +28904,16 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 1620,
+    "productAmount": 3500,
     "depositPaid": 1600,
-    "secondPayment": 0,
+    "secondPayment": 85,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 85,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 20,
+    "balanceDue": 1985,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -28921,6 +28921,10 @@
     "items": [
       {
         "name": "里維班模型",
+        "qty": 1
+      },
+      {
+        "name": "自由長踢 (L)",
         "qty": 1
       },
       {
@@ -28989,14 +28993,14 @@
     "statusBadges": [],
     "productAmount": 1360,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 192,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 192,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 1360,
+    "balanceDue": 1552,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
