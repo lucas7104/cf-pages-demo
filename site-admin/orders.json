@@ -42003,14 +42003,14 @@
     ],
     "productAmount": 555,
     "depositPaid": 555,
-    "secondPayment": 42,
+    "secondPayment": 63,
     "secondPaymentBreakdown": {
       "domesticShipping": 42,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 12,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 42,
+    "balanceDue": 63,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -42029,7 +42029,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0404暗殺教室 野比貓鑰匙圈",
+    "sourceSheet": "★0404暗殺教室 野比貓鑰匙圈",
     "sourceMonth": "2026-04"
   },
   {
@@ -42040,14 +42040,14 @@
     ],
     "productAmount": 185,
     "depositPaid": 185,
-    "secondPayment": 42,
+    "secondPayment": 49,
     "secondPaymentBreakdown": {
       "domesticShipping": 42,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 4,
+      "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 42,
+    "balanceDue": 49,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -42058,7 +42058,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0404暗殺教室 野比貓鑰匙圈",
+    "sourceSheet": "★0404暗殺教室 野比貓鑰匙圈",
     "sourceMonth": "2026-04"
   },
   {
@@ -42069,14 +42069,14 @@
     ],
     "productAmount": 370,
     "depositPaid": 370,
-    "secondPayment": 42,
+    "secondPayment": 56,
     "secondPaymentBreakdown": {
       "domesticShipping": 42,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 8,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 42,
+    "balanceDue": 56,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -42091,7 +42091,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0404暗殺教室 野比貓鑰匙圈",
+    "sourceSheet": "★0404暗殺教室 野比貓鑰匙圈",
     "sourceMonth": "2026-04"
   },
   {
@@ -44954,14 +44954,14 @@
     ],
     "productAmount": 4375,
     "depositPaid": 4375,
-    "secondPayment": 57,
+    "secondPayment": 571,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 514,
       "cardFee": 57,
       "packagingFee": 0
     },
-    "balanceDue": 57,
+    "balanceDue": 571,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44976,7 +44976,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0421皮克敏食玩",
+    "sourceSheet": "★0421皮克敏食玩",
     "sourceMonth": "2026-04"
   },
   {
@@ -44987,14 +44987,14 @@
     ],
     "productAmount": 1150,
     "depositPaid": 1150,
-    "secondPayment": 15,
+    "secondPayment": 152,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 137,
       "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 15,
+    "balanceDue": 152,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -45005,7 +45005,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0421皮克敏食玩",
+    "sourceSheet": "★0421皮克敏食玩",
     "sourceMonth": "2026-04"
   },
   {
@@ -45392,14 +45392,14 @@
     ],
     "productAmount": 750,
     "depositPaid": 750,
-    "secondPayment": 0,
+    "secondPayment": 90,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 80,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 90,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -45410,7 +45410,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0424airtwokyo 脹相小房子",
+    "sourceSheet": "★0424airtwokyo 脹相小房子",
     "sourceMonth": "2026-04"
   },
   {
@@ -45421,14 +45421,14 @@
     ],
     "productAmount": 750,
     "depositPaid": 750,
-    "secondPayment": 0,
+    "secondPayment": 90,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 80,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 90,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -45439,7 +45439,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0424airtwokyo 脹相小房子",
+    "sourceSheet": "★0424airtwokyo 脹相小房子",
     "sourceMonth": "2026-04"
   },
   {
@@ -45450,14 +45450,14 @@
     ],
     "productAmount": 750,
     "depositPaid": 750,
-    "secondPayment": 0,
+    "secondPayment": 90,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 80,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 90,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -45468,7 +45468,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0424airtwokyo 脹相小房子",
+    "sourceSheet": "★0424airtwokyo 脹相小房子",
     "sourceMonth": "2026-04"
   },
   {
@@ -45479,14 +45479,14 @@
     ],
     "productAmount": 750,
     "depositPaid": 750,
-    "secondPayment": 0,
+    "secondPayment": 90,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 80,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 90,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -45497,7 +45497,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0424airtwokyo 脹相小房子",
+    "sourceSheet": "★0424airtwokyo 脹相小房子",
     "sourceMonth": "2026-04"
   },
   {
