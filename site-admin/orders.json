@@ -26766,14 +26766,14 @@
     ],
     "productAmount": 2040,
     "depositPaid": 2040,
-    "secondPayment": 54,
+    "secondPayment": 146,
     "secondPaymentBreakdown": {
       "domesticShipping": 54,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 63,
+      "cardFee": 29,
       "packagingFee": 0
     },
-    "balanceDue": 54,
+    "balanceDue": 146,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26800,7 +26800,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0131咒術 疾走奔跑",
+    "sourceSheet": "★0131咒術 疾走奔跑",
     "sourceMonth": "2026-01"
   },
   {
@@ -26811,14 +26811,14 @@
     ],
     "productAmount": 110,
     "depositPaid": 110,
-    "secondPayment": 54,
+    "secondPayment": 59,
     "secondPaymentBreakdown": {
       "domesticShipping": 54,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 3,
+      "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 54,
+    "balanceDue": 59,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26829,7 +26829,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0131咒術 疾走奔跑",
+    "sourceSheet": "★0131咒術 疾走奔跑",
     "sourceMonth": "2026-01"
   },
   {
@@ -26840,14 +26840,14 @@
     ],
     "productAmount": 660,
     "depositPaid": 660,
-    "secondPayment": 54,
+    "secondPayment": 75,
     "secondPaymentBreakdown": {
       "domesticShipping": 54,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 12,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 54,
+    "balanceDue": 75,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26858,7 +26858,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0131咒術 疾走奔跑",
+    "sourceSheet": "★0131咒術 疾走奔跑",
     "sourceMonth": "2026-01"
   },
   {
