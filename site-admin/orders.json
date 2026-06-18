@@ -10506,7 +10506,7 @@
     "socialName": "R",
     "title": "1118 咒術mappa",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 3730,
@@ -10519,7 +10519,7 @@
       "packagingFee": 0
     },
     "balanceDue": 633,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -31027,13 +31027,11 @@
     "sourceMonth": "2026-02"
   },
   {
-    "socialName": "良",
+    "socialName": "Leila",
     "title": "(2月重開)1029 鬼滅 look up-26下單",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 5690,
-    "depositPaid": 5690,
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -31046,23 +31044,16 @@
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [
-      {
-        "name": "A3複製原畫",
-        "qty": 1
-      }
-    ],
+    "items": [],
     "sourceSheet": "(2月重開)1029 鬼滅 look up-26下單",
     "sourceMonth": "2026-02"
   },
   {
-    "socialName": "snailll",
+    "socialName": "西西",
     "title": "(2月重開)1029 鬼滅 look up-26下單",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 960,
-    "depositPaid": 960,
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -31075,12 +31066,73 @@
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [
-      {
-        "name": "桌曆",
-        "qty": 2
-      }
-    ],
+    "items": [],
+    "sourceSheet": "(2月重開)1029 鬼滅 look up-26下單",
+    "sourceMonth": "2026-02"
+  },
+  {
+    "socialName": "Feiiii",
+    "title": "(2月重開)1029 鬼滅 look up-26下單",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [],
+    "sourceSheet": "(2月重開)1029 鬼滅 look up-26下單",
+    "sourceMonth": "2026-02"
+  },
+  {
+    "socialName": "豬子",
+    "title": "(2月重開)1029 鬼滅 look up-26下單",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [],
+    "sourceSheet": "(2月重開)1029 鬼滅 look up-26下單",
+    "sourceMonth": "2026-02"
+  },
+  {
+    "socialName": "菊米",
+    "title": "(2月重開)1029 鬼滅 look up-26下單",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [],
     "sourceSheet": "(2月重開)1029 鬼滅 look up-26下單",
     "sourceMonth": "2026-02"
   },
