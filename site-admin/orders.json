@@ -26766,14 +26766,14 @@
     ],
     "productAmount": 2040,
     "depositPaid": 2040,
-    "secondPayment": 146,
+    "secondPayment": 136,
     "secondPaymentBreakdown": {
       "domesticShipping": 54,
-      "internationalShipping": 63,
+      "internationalShipping": 53,
       "cardFee": 29,
       "packagingFee": 0
     },
-    "balanceDue": 146,
+    "balanceDue": 136,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
