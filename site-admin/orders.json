@@ -41749,7 +41749,7 @@
     "socialName": "R",
     "title": "0402 北海道連線",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 500,
@@ -41762,7 +41762,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "等之後一起出貨",
