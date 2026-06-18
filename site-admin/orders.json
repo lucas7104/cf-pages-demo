@@ -40418,14 +40418,14 @@
     ],
     "productAmount": 3600,
     "depositPaid": 3600,
-    "secondPayment": 0,
+    "secondPayment": 55,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 7,
+      "cardFee": 48,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 55,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -40436,7 +40436,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0330咒術 TUMUGI戒指",
+    "sourceSheet": "★0330咒術 TUMUGI戒指",
     "sourceMonth": "2026-03"
   },
   {
@@ -40447,14 +40447,14 @@
     ],
     "productAmount": 3600,
     "depositPaid": 3600,
-    "secondPayment": 0,
+    "secondPayment": 55,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 7,
+      "cardFee": 48,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 55,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -40465,7 +40465,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0330咒術 TUMUGI戒指",
+    "sourceSheet": "★0330咒術 TUMUGI戒指",
     "sourceMonth": "2026-03"
   },
   {
