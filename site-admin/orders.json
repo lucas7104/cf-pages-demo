@@ -28148,19 +28148,20 @@
     "socialName": "Sabrina",
     "title": "0208咒術 2026札幌冰雪節",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2355,
     "depositPaid": 2355,
-    "secondPayment": 0,
+    "secondPayment": 82,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 45,
+      "cardFee": 37,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "待公告",
+    "balanceDue": 82,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -28186,26 +28187,27 @@
         "qty": 4
       }
     ],
-    "sourceSheet": "0208咒術 2026札幌冰雪節",
+    "sourceSheet": "★0208咒術 2026札幌冰雪節",
     "sourceMonth": "2026-02"
   },
   {
     "socialName": "Sandy Lin",
     "title": "0208咒術 2026札幌冰雪節",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1530,
     "depositPaid": 1530,
-    "secondPayment": 0,
+    "secondPayment": 48,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 24,
+      "cardFee": 24,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "待公告",
+    "balanceDue": 48,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -28227,24 +28229,26 @@
         "qty": 3
       }
     ],
-    "sourceSheet": "0208咒術 2026札幌冰雪節",
+    "sourceSheet": "★0208咒術 2026札幌冰雪節",
     "sourceMonth": "2026-02"
   },
   {
     "socialName": "_🦊",
     "title": "0208咒術 2026札幌冰雪節",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 800,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 21,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 800,
-    "etaText": "待公告",
+    "balanceDue": 821,
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -28258,24 +28262,26 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0208咒術 2026札幌冰雪節",
+    "sourceSheet": "★0208咒術 2026札幌冰雪節",
     "sourceMonth": "2026-02"
   },
   {
     "socialName": "Ichika",
     "title": "0208咒術 2026札幌冰雪節",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 400,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 11,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 5,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 400,
-    "etaText": "待公告",
+    "balanceDue": 411,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -28285,26 +28291,27 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0208咒術 2026札幌冰雪節",
+    "sourceSheet": "★0208咒術 2026札幌冰雪節",
     "sourceMonth": "2026-02"
   },
   {
     "socialName": "Double Y",
     "title": "0208咒術 2026札幌冰雪節",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 0,
+    "secondPayment": 10,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 4,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "待公告",
+    "balanceDue": 10,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -28314,26 +28321,27 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0208咒術 2026札幌冰雪節",
+    "sourceSheet": "★0208咒術 2026札幌冰雪節",
     "sourceMonth": "2026-02"
   },
   {
     "socialName": "Koa",
     "title": "0208咒術 2026札幌冰雪節",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 800,
     "depositPaid": 800,
-    "secondPayment": 0,
+    "secondPayment": 22,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 10,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "待公告",
+    "balanceDue": 22,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -28347,7 +28355,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0208咒術 2026札幌冰雪節",
+    "sourceSheet": "★0208咒術 2026札幌冰雪節",
     "sourceMonth": "2026-02"
   },
   {
