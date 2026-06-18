@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T18:01:17.567Z",
+  "generatedAt": "2026-06-18T18:11:20.651Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -381,12 +381,12 @@
           "amount": 4330
         },
         {
-          "name": "쮸",
-          "amount": 3500
+          "name": "豬子",
+          "amount": 4300
         },
         {
-          "name": "豬子",
-          "amount": 3420
+          "name": "쮸",
+          "amount": 3500
         }
       ]
     },

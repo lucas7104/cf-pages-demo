@@ -29103,7 +29103,7 @@
     "socialName": "Leila",
     "title": "(2月重開)1029 鬼滅 look up-26下單",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 880,
     "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -29112,18 +29112,23 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 880,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "微笑臉時透",
+        "qty": 1
+      }
+    ]
   },
   {
     "socialName": "西西",
     "title": "(2月重開)1029 鬼滅 look up-26下單",
     "statusBadges": [],
-    "productAmount": 0,
+    "productAmount": 1760,
     "depositPaid": 0,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
@@ -29132,19 +29137,30 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 1760,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "微笑臉時透",
+        "qty": 1
+      },
+      {
+        "name": "三角嘴義勇",
+        "qty": 1
+      }
+    ]
   },
   {
     "socialName": "Feiiii",
     "title": "(2月重開)1029 鬼滅 look up-26下單",
-    "statusBadges": [],
-    "productAmount": 0,
-    "depositPaid": 0,
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 880,
+    "depositPaid": 880,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -29154,17 +29170,24 @@
     },
     "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "三角嘴義勇",
+        "qty": 1
+      }
+    ]
   },
   {
     "socialName": "豬子",
     "title": "(2月重開)1029 鬼滅 look up-26下單",
-    "statusBadges": [],
-    "productAmount": 0,
-    "depositPaid": 0,
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 880,
+    "depositPaid": 880,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -29174,30 +29197,42 @@
     },
     "balanceDue": 0,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "三角嘴義勇",
+        "qty": 1
+      }
+    ]
   },
   {
     "socialName": "菊米",
     "title": "(2月重開)1029 鬼滅 look up-26下單",
-    "statusBadges": [],
-    "productAmount": 0,
-    "depositPaid": 0,
-    "secondPayment": 0,
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 880,
+    "depositPaid": 880,
+    "secondPayment": 1,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 1,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 1,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "錆兔",
+        "qty": 1
+      }
+    ]
   },
   {
     "socialName": "季",
