@@ -4337,6 +4337,60 @@
     ]
   },
   {
+    "socialName": "GU搭",
+    "title": "1025鬼滅老照片風",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1980,
+    "depositPaid": 1880,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "老照片風紀念集",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "Eilish",
+    "title": "1025鬼滅老照片風",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1980,
+    "depositPaid": 1880,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 100,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "老照片風紀念集",
+        "qty": 1
+      }
+    ]
+  },
+  {
     "socialName": "Han",
     "title": "1027野獸巨人我來解決",
     "statusBadges": [
@@ -5148,60 +5202,6 @@
     "items": [
       {
         "name": "里維",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "GU搭",
-    "title": "1030鬼滅老照片風",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1980,
-    "depositPaid": 1880,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "老照片風紀念集",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "Eilish",
-    "title": "1030鬼滅老照片風",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1980,
-    "depositPaid": 1880,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "老照片風紀念集",
         "qty": 1
       }
     ]
