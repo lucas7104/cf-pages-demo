@@ -39605,19 +39605,20 @@
     "socialName": "肉雞",
     "title": "0405咒術 場面寫",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 270,
     "depositPaid": 270,
-    "secondPayment": 0,
+    "secondPayment": 18,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 14,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "待公告",
+    "balanceDue": 18,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -39636,19 +39637,20 @@
     "socialName": "Xiu han",
     "title": "0405咒術 場面寫",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 270,
     "depositPaid": 270,
-    "secondPayment": 0,
+    "secondPayment": 18,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 14,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "待公告",
+    "balanceDue": 18,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -39666,18 +39668,20 @@
   {
     "socialName": "Ara",
     "title": "0405咒術 場面寫",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 270,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 18,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 14,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 270,
-    "etaText": "待公告",
+    "balanceDue": 288,
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -39696,19 +39700,20 @@
     "socialName": "Sabrina",
     "title": "0405咒術 場面寫",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 270,
     "depositPaid": 270,
-    "secondPayment": 0,
+    "secondPayment": 18,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 14,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "待公告",
+    "balanceDue": 18,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -39727,19 +39732,20 @@
     "socialName": "又怎麼啦",
     "title": "0405咒術 場面寫",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 405,
     "depositPaid": 405,
-    "secondPayment": 0,
+    "secondPayment": 27,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 21,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "待公告",
+    "balanceDue": 27,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
