@@ -11811,7 +11811,7 @@
     "socialName": "R",
     "title": "1123 咒術 五週年第二彈",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 650,
@@ -11824,7 +11824,7 @@
       "packagingFee": 0
     },
     "balanceDue": 43,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -14605,7 +14605,7 @@
     "socialName": "R",
     "title": "1207 蝶之芙莉蓮",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1355,
@@ -14618,7 +14618,7 @@
       "packagingFee": 0
     },
     "balanceDue": 58,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
