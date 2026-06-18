@@ -25224,39 +25224,6 @@
     ]
   },
   {
-    "socialName": "高雄酒吧有鏈鋸人海報",
-    "title": "0131咒術 疾走奔跑",
-    "statusBadges": [],
-    "productAmount": 1200,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 1200,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "乙骨立牌",
-        "qty": 1
-      },
-      {
-        "name": "脹相立牌",
-        "qty": 1
-      },
-      {
-        "name": "直哉立牌",
-        "qty": 1
-      }
-    ]
-  },
-  {
     "socialName": "Peggy",
     "title": "0131咒術 麻糬娃",
     "statusBadges": [
@@ -43702,7 +43669,9 @@
   {
     "socialName": "R",
     "title": "2026 台北動漫節",
-    "statusBadges": [],
+    "statusBadges": [
+      "已出貨"
+    ],
     "productAmount": 350,
     "depositPaid": 0,
     "secondPayment": 0,
@@ -43713,7 +43682,7 @@
       "packagingFee": 0
     },
     "balanceDue": 350,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "史萊姆電影優惠券*1 滿額贈：五條手機掛繩",
