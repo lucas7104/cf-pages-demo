@@ -1390,7 +1390,7 @@
     "socialName": "R",
     "title": "1008 咒術五週年第一彈",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1350,
@@ -1403,7 +1403,7 @@
       "packagingFee": 0
     },
     "balanceDue": 124,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "有特典",
@@ -28614,14 +28614,14 @@
     ],
     "productAmount": 1700,
     "depositPaid": 1700,
-    "secondPayment": 253,
+    "secondPayment": 317,
     "secondPaymentBreakdown": {
       "domesticShipping": 187,
-      "internationalShipping": 42,
+      "internationalShipping": 106,
       "cardFee": 24,
       "packagingFee": 0
     },
-    "balanceDue": 253,
+    "balanceDue": 317,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28694,14 +28694,14 @@
     ],
     "productAmount": 730,
     "depositPaid": 730,
-    "secondPayment": 119,
+    "secondPayment": 183,
     "secondPaymentBreakdown": {
       "domesticShipping": 107,
-      "internationalShipping": 2,
+      "internationalShipping": 66,
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 119,
+    "balanceDue": 183,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28725,14 +28725,14 @@
     ],
     "productAmount": 5625,
     "depositPaid": 4385,
-    "secondPayment": 1078,
+    "secondPayment": 1206,
     "secondPaymentBreakdown": {
       "domesticShipping": 742,
-      "internationalShipping": 272,
+      "internationalShipping": 400,
       "cardFee": 64,
       "packagingFee": 0
     },
-    "balanceDue": 2318,
+    "balanceDue": 2446,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
