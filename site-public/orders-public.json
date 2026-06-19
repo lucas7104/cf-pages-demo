@@ -3437,6 +3437,7 @@
     "socialName": "嘿嘿哈哈",
     "title": "1022 鬼滅之刃多款抽賞",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 525,
@@ -3449,7 +3450,7 @@
       "packagingFee": 40
     },
     "balanceDue": 140,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
