@@ -2119,7 +2119,7 @@
     "socialName": "嘿嘿哈哈",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 880,
@@ -2132,7 +2132,7 @@
       "packagingFee": 0
     },
     "balanceDue": 203,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -3665,7 +3665,7 @@
     "socialName": "嘿嘿哈哈",
     "title": "1022 鬼滅之刃多款抽賞",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 525,
@@ -3678,7 +3678,7 @@
       "packagingFee": 40
     },
     "balanceDue": 140,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
