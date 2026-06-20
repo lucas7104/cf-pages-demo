@@ -8555,7 +8555,7 @@
     "socialName": "每天都想退休",
     "title": "1111 進巨東京車站",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 2930,
@@ -8568,7 +8568,7 @@
       "packagingFee": 0
     },
     "balanceDue": 93,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -9758,7 +9758,7 @@
     "socialName": "每天都想退休",
     "title": "1118 咒術mappa",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1530,
@@ -9771,7 +9771,7 @@
       "packagingFee": 0
     },
     "balanceDue": 279,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -11997,7 +11997,7 @@
     "socialName": "每天都想退休",
     "title": "1118 鬼滅 星空",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 120,
@@ -12010,7 +12010,7 @@
       "packagingFee": 0
     },
     "balanceDue": 24,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -13570,7 +13570,7 @@
     "socialName": "每天都想退休",
     "title": "1128進巨 滑板",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 480,
@@ -13583,7 +13583,7 @@
       "packagingFee": 0
     },
     "balanceDue": 40,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -22908,14 +22908,14 @@
     ],
     "productAmount": 300,
     "depositPaid": 300,
-    "secondPayment": 0,
+    "secondPayment": 96,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 69,
+      "internationalShipping": 23,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 96,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -22926,7 +22926,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0114咒術goood smile公仔",
+    "sourceSheet": "★0114咒術goood smile公仔",
     "sourceMonth": "2026-01"
   },
   {
@@ -22937,14 +22937,14 @@
     ],
     "productAmount": 300,
     "depositPaid": 300,
-    "secondPayment": 0,
+    "secondPayment": 96,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 69,
+      "internationalShipping": 23,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 96,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -22955,7 +22955,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0114咒術goood smile公仔",
+    "sourceSheet": "★0114咒術goood smile公仔",
     "sourceMonth": "2026-01"
   },
   {
@@ -22966,14 +22966,14 @@
     ],
     "productAmount": 300,
     "depositPaid": 300,
-    "secondPayment": 0,
+    "secondPayment": 96,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 69,
+      "internationalShipping": 23,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 96,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -22984,7 +22984,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0114咒術goood smile公仔",
+    "sourceSheet": "★0114咒術goood smile公仔",
     "sourceMonth": "2026-01"
   },
   {
