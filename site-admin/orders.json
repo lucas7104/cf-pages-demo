@@ -29511,7 +29511,7 @@
     "socialName": "婷婷",
     "title": "0217 Gachiakuta 私服",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 530,
@@ -29524,7 +29524,7 @@
       "packagingFee": 0
     },
     "balanceDue": 25,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -33474,7 +33474,7 @@
     "socialName": "婷婷",
     "title": "0311 膽大黨 原畫展",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 6350,
@@ -33487,7 +33487,7 @@
       "packagingFee": 0
     },
     "balanceDue": 473,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
