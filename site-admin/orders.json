@@ -890,7 +890,7 @@
     "socialName": "每天都想退休",
     "title": "1002 進巨 絢爛菊花飯店",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 270,
@@ -903,7 +903,7 @@
       "packagingFee": 0
     },
     "balanceDue": 148,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -2299,7 +2299,7 @@
     "socialName": "每天都想退休",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1075,
@@ -2312,7 +2312,7 @@
       "packagingFee": 0
     },
     "balanceDue": 222,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -5891,7 +5891,7 @@
     "socialName": "每天都想退休",
     "title": "1103 鬼滅 早冬",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 140,
@@ -5904,7 +5904,7 @@
       "packagingFee": 0
     },
     "balanceDue": 135,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -25380,14 +25380,14 @@
     ],
     "productAmount": 900,
     "depositPaid": 900,
-    "secondPayment": 0,
+    "secondPayment": 46,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 34,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 46,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25402,7 +25402,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0127 進巨 Escrit",
+    "sourceSheet": "★0127 進巨 Escrit",
     "sourceMonth": "2026-01"
   },
   {
@@ -25413,14 +25413,14 @@
     ],
     "productAmount": 925,
     "depositPaid": 925,
-    "secondPayment": 0,
+    "secondPayment": 32,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 20,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 32,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25431,7 +25431,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0127 進巨 Escrit",
+    "sourceSheet": "★0127 進巨 Escrit",
     "sourceMonth": "2026-01"
   },
   {
@@ -25442,14 +25442,14 @@
     ],
     "productAmount": 1465,
     "depositPaid": 1465,
-    "secondPayment": 0,
+    "secondPayment": 54,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 34,
+      "cardFee": 20,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 54,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25468,7 +25468,7 @@
         "qty": 3
       }
     ],
-    "sourceSheet": "0127 進巨 Escrit",
+    "sourceSheet": "★0127 進巨 Escrit",
     "sourceMonth": "2026-01"
   },
   {
@@ -25479,14 +25479,14 @@
     ],
     "productAmount": 770,
     "depositPaid": 770,
-    "secondPayment": 0,
+    "secondPayment": 27,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 16,
+      "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 27,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25501,7 +25501,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0127 進巨 Escrit",
+    "sourceSheet": "★0127 進巨 Escrit",
     "sourceMonth": "2026-01"
   },
   {
