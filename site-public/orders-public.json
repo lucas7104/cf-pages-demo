@@ -12526,7 +12526,7 @@
     "socialName": "00240",
     "title": "1128 進巨 賽德龐克",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 900,
@@ -12539,7 +12539,7 @@
       "packagingFee": 0
     },
     "balanceDue": 57,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -15221,7 +15221,7 @@
     "socialName": "00240",
     "title": "1211 多ip TOHO 10週年紀念",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 550,
@@ -15234,7 +15234,7 @@
       "packagingFee": 0
     },
     "balanceDue": 59,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
