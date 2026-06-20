@@ -36447,14 +36447,14 @@
     ],
     "productAmount": 525,
     "depositPaid": 525,
-    "secondPayment": 0,
+    "secondPayment": 28,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 19,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 28,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36473,7 +36473,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320咒術 Neowing",
+    "sourceSheet": "★0320咒術 Neowing",
     "sourceMonth": "2026-03"
   },
   {
@@ -36484,14 +36484,14 @@
     ],
     "productAmount": 175,
     "depositPaid": 175,
-    "secondPayment": 0,
+    "secondPayment": 10,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 7,
+      "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 10,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36502,7 +36502,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320咒術 Neowing",
+    "sourceSheet": "★0320咒術 Neowing",
     "sourceMonth": "2026-03"
   },
   {
@@ -36513,14 +36513,14 @@
     ],
     "productAmount": 525,
     "depositPaid": 525,
-    "secondPayment": 0,
+    "secondPayment": 28,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 19,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 28,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36539,7 +36539,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320咒術 Neowing",
+    "sourceSheet": "★0320咒術 Neowing",
     "sourceMonth": "2026-03"
   },
   {
@@ -36550,14 +36550,14 @@
     ],
     "productAmount": 695,
     "depositPaid": 695,
-    "secondPayment": 0,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 23,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 35,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36584,7 +36584,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320咒術 Neowing",
+    "sourceSheet": "★0320咒術 Neowing",
     "sourceMonth": "2026-03"
   },
   {
