@@ -5978,6 +5978,64 @@
     "sourceMonth": "2025_11"
   },
   {
+    "socialName": "嘿嘿哈哈",
+    "title": "1103狛治戀雪抽賞",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 220,
+    "depositPaid": 120,
+    "secondPayment": 98,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 98,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 198,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "B分層壓克力立牌",
+    "items": [
+      {
+        "name": "一抽",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1103狛治戀雪抽賞",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "piao",
+    "title": "1103狛治戀雪抽賞",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1075,
+    "depositPaid": 975,
+    "secondPayment": 98,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 98,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 198,
+    "etaText": "待公告",
+    "paymentMethod": "無卡",
+    "contactUrl": "https://example.com/contact",
+    "note": "A大型分層壓克力面板",
+    "items": [
+      {
+        "name": "大於等於五抽",
+        "qty": 5
+      }
+    ],
+    "sourceSheet": "1103狛治戀雪抽賞",
+    "sourceMonth": "2025_11"
+  },
+  {
     "socialName": "葛",
     "title": "1104 咒術Airtwokyo",
     "statusBadges": [
@@ -12775,64 +12833,6 @@
       }
     ],
     "sourceSheet": "★1123 咒術pochimart",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "嘿嘿哈哈",
-    "title": "1124狛治戀雪抽賞",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 220,
-    "depositPaid": 120,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "一抽",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1124狛治戀雪抽賞",
-    "sourceMonth": "2025_11"
-  },
-  {
-    "socialName": "piao",
-    "title": "1124狛治戀雪抽賞",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1075,
-    "depositPaid": 975,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 100,
-    "etaText": "待公告",
-    "paymentMethod": "無卡",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "大於等於五抽",
-        "qty": 5
-      }
-    ],
-    "sourceSheet": "1124狛治戀雪抽賞",
     "sourceMonth": "2025_11"
   },
   {
