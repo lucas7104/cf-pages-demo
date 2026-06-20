@@ -8528,7 +8528,7 @@
     "socialName": "00240",
     "title": "1117 進巨尊爵Dignified",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 650,
@@ -8541,7 +8541,7 @@
       "packagingFee": 0
     },
     "balanceDue": 27,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24420,7 +24420,7 @@
     "socialName": "00240",
     "title": "0127進巨 美高",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 265,
@@ -24433,7 +24433,7 @@
       "packagingFee": 0
     },
     "balanceDue": 45,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -31600,7 +31600,7 @@
     "socialName": "00240",
     "title": "0311 膽大黨 原畫展",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 280,
@@ -31613,7 +31613,7 @@
       "packagingFee": 0
     },
     "balanceDue": 49,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
