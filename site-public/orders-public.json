@@ -5607,18 +5607,18 @@
     ],
     "productAmount": 220,
     "depositPaid": 120,
-    "secondPayment": 98,
+    "secondPayment": 101,
     "secondPaymentBreakdown": {
       "domesticShipping": 98,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 198,
+    "balanceDue": 201,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "B分層壓克力立牌",
+    "note": "",
     "items": [
       {
         "name": "一抽",
@@ -5634,14 +5634,14 @@
     ],
     "productAmount": 1075,
     "depositPaid": 975,
-    "secondPayment": 98,
+    "secondPayment": 218,
     "secondPaymentBreakdown": {
       "domesticShipping": 98,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 105,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 198,
+    "balanceDue": 318,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
