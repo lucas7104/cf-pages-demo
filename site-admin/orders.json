@@ -2479,7 +2479,7 @@
     "socialName": "Huh?",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1075,
@@ -2492,7 +2492,7 @@
       "packagingFee": 0
     },
     "balanceDue": 222,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "戀岩炎給Saki蒼",
