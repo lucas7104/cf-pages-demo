@@ -36595,14 +36595,14 @@
     ],
     "productAmount": 965,
     "depositPaid": 965,
-    "secondPayment": 0,
+    "secondPayment": 33,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 20,
+      "cardFee": 13,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 33,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36617,7 +36617,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320進巨 冬季動物",
+    "sourceSheet": "★0320進巨 冬季動物",
     "sourceMonth": "2026-03"
   },
   {
@@ -36628,14 +36628,14 @@
     ],
     "productAmount": 560,
     "depositPaid": 560,
-    "secondPayment": 0,
+    "secondPayment": 38,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 29,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 38,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36654,7 +36654,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320進巨 冬季動物",
+    "sourceSheet": "★0320進巨 冬季動物",
     "sourceMonth": "2026-03"
   },
   {
@@ -36665,14 +36665,14 @@
     ],
     "productAmount": 1660,
     "depositPaid": 1660,
-    "secondPayment": 0,
+    "secondPayment": 116,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 91,
+      "cardFee": 25,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 116,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36703,7 +36703,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320進巨 冬季動物",
+    "sourceSheet": "★0320進巨 冬季動物",
     "sourceMonth": "2026-03"
   },
   {
@@ -36714,14 +36714,14 @@
     ],
     "productAmount": 380,
     "depositPaid": 380,
-    "secondPayment": 0,
+    "secondPayment": 14,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 14,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36732,7 +36732,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320進巨 冬季動物",
+    "sourceSheet": "★0320進巨 冬季動物",
     "sourceMonth": "2026-03"
   },
   {
@@ -36743,14 +36743,14 @@
     ],
     "productAmount": 380,
     "depositPaid": 380,
-    "secondPayment": 0,
+    "secondPayment": 14,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 14,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -36761,7 +36761,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320進巨 冬季動物",
+    "sourceSheet": "★0320進巨 冬季動物",
     "sourceMonth": "2026-03"
   },
   {
@@ -36772,14 +36772,14 @@
     ],
     "productAmount": 1255,
     "depositPaid": 1255,
-    "secondPayment": 0,
+    "secondPayment": 49,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 32,
+      "cardFee": 17,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 49,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36794,7 +36794,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320進巨 冬季動物",
+    "sourceSheet": "★0320進巨 冬季動物",
     "sourceMonth": "2026-03"
   },
   {
@@ -36805,14 +36805,14 @@
     ],
     "productAmount": 380,
     "depositPaid": 380,
-    "secondPayment": 0,
+    "secondPayment": 18,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 13,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 18,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36823,7 +36823,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320進巨 冬季動物",
+    "sourceSheet": "★0320進巨 冬季動物",
     "sourceMonth": "2026-03"
   },
   {
@@ -36834,14 +36834,14 @@
     ],
     "productAmount": 585,
     "depositPaid": 585,
-    "secondPayment": 0,
+    "secondPayment": 15,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 7,
+      "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 15,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36852,7 +36852,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320進巨 冬季動物",
+    "sourceSheet": "★0320進巨 冬季動物",
     "sourceMonth": "2026-03"
   },
   {
@@ -36861,14 +36861,14 @@
     "statusBadges": [],
     "productAmount": 380,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 14,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 380,
+    "balanceDue": 394,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -36879,7 +36879,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320進巨 冬季動物",
+    "sourceSheet": "★0320進巨 冬季動物",
     "sourceMonth": "2026-03"
   },
   {
@@ -36890,14 +36890,14 @@
     ],
     "productAmount": 965,
     "depositPaid": 965,
-    "secondPayment": 0,
+    "secondPayment": 29,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 16,
+      "cardFee": 13,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 29,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36912,7 +36912,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320進巨 冬季動物",
+    "sourceSheet": "★0320進巨 冬季動物",
     "sourceMonth": "2026-03"
   },
   {
@@ -36923,14 +36923,14 @@
     ],
     "productAmount": 530,
     "depositPaid": 530,
-    "secondPayment": 0,
+    "secondPayment": 107,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 100,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 107,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36941,7 +36941,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320進巨 冬季動物",
+    "sourceSheet": "★0320進巨 冬季動物",
     "sourceMonth": "2026-03"
   },
   {
@@ -36952,14 +36952,14 @@
     ],
     "productAmount": 620,
     "depositPaid": 620,
-    "secondPayment": 0,
+    "secondPayment": 121,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 112,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 121,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36974,7 +36974,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320進巨 冬季動物",
+    "sourceSheet": "★0320進巨 冬季動物",
     "sourceMonth": "2026-03"
   },
   {
@@ -36985,14 +36985,14 @@
     ],
     "productAmount": 90,
     "depositPaid": 90,
-    "secondPayment": 0,
+    "secondPayment": 10,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 8,
+      "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 10,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -37003,7 +37003,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320進巨 冬季動物",
+    "sourceSheet": "★0320進巨 冬季動物",
     "sourceMonth": "2026-03"
   },
   {
