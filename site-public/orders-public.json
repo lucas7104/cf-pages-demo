@@ -2968,7 +2968,7 @@
     "socialName": "每天都想退休",
     "title": "1017進巨 兵長誕生日",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 310,
@@ -2981,7 +2981,7 @@
       "packagingFee": 0
     },
     "balanceDue": 117,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -5607,14 +5607,14 @@
     ],
     "productAmount": 220,
     "depositPaid": 120,
-    "secondPayment": 101,
+    "secondPayment": 126,
     "secondPaymentBreakdown": {
       "domesticShipping": 98,
-      "internationalShipping": 0,
+      "internationalShipping": 25,
       "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 201,
+    "balanceDue": 226,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -5634,14 +5634,14 @@
     ],
     "productAmount": 1075,
     "depositPaid": 975,
-    "secondPayment": 218,
+    "secondPayment": 243,
     "secondPaymentBreakdown": {
       "domesticShipping": 98,
-      "internationalShipping": 105,
+      "internationalShipping": 130,
       "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 318,
+    "balanceDue": 343,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -8738,7 +8738,7 @@
     "socialName": "每天都想退休",
     "title": "1117 進巨尊爵Dignified",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 220,
@@ -8751,7 +8751,7 @@
       "packagingFee": 0
     },
     "balanceDue": 6,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -30301,7 +30301,7 @@
     "socialName": "每天都想退休",
     "title": "0304咒術 一番賞",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1200,
@@ -30314,7 +30314,7 @@
       "packagingFee": 0
     },
     "balanceDue": 119,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "L*3、D、K、L",
