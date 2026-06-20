@@ -14951,7 +14951,7 @@
     "socialName": "每天都想退休",
     "title": "1206 鬼滅 食堂",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 195,
@@ -14964,7 +14964,7 @@
       "packagingFee": 0
     },
     "balanceDue": 30,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -19123,7 +19123,7 @@
     "socialName": "每天都想退休",
     "title": "1219 鏈鋸人 禮服系列",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 160,
@@ -19136,7 +19136,7 @@
       "packagingFee": 0
     },
     "balanceDue": 34,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -29195,15 +29195,15 @@
       "已付訂金"
     ],
     "productAmount": 480,
-    "depositPaid": 831,
-    "secondPayment": 0,
+    "depositPaid": 480,
+    "secondPayment": 16,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 16,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29214,7 +29214,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0215 進巨 冬日散步",
+    "sourceSheet": "★0215 進巨 冬日散步",
     "sourceMonth": "2026-02"
   },
   {
@@ -29225,14 +29225,14 @@
     ],
     "productAmount": 1920,
     "depositPaid": 1920,
-    "secondPayment": 0,
+    "secondPayment": 68,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 40,
+      "cardFee": 28,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 68,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29255,7 +29255,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0215 進巨 冬日散步",
+    "sourceSheet": "★0215 進巨 冬日散步",
     "sourceMonth": "2026-02"
   },
   {
@@ -29266,14 +29266,14 @@
     ],
     "productAmount": 960,
     "depositPaid": 960,
-    "secondPayment": 0,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 21,
+      "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 35,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29288,7 +29288,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0215 進巨 冬日散步",
+    "sourceSheet": "★0215 進巨 冬日散步",
     "sourceMonth": "2026-02"
   },
   {
@@ -29299,14 +29299,14 @@
     ],
     "productAmount": 960,
     "depositPaid": 960,
-    "secondPayment": 0,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 21,
+      "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 35,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29321,7 +29321,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0215 進巨 冬日散步",
+    "sourceSheet": "★0215 進巨 冬日散步",
     "sourceMonth": "2026-02"
   },
   {
@@ -29332,14 +29332,14 @@
     ],
     "productAmount": 480,
     "depositPaid": 480,
-    "secondPayment": 0,
+    "secondPayment": 19,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 19,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29354,7 +29354,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0215 進巨 冬日散步",
+    "sourceSheet": "★0215 進巨 冬日散步",
     "sourceMonth": "2026-02"
   },
   {
@@ -29365,14 +29365,14 @@
     ],
     "productAmount": 960,
     "depositPaid": 960,
-    "secondPayment": 0,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 21,
+      "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 35,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29387,7 +29387,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0215 進巨 冬日散步",
+    "sourceSheet": "★0215 進巨 冬日散步",
     "sourceMonth": "2026-02"
   },
   {
@@ -29398,14 +29398,14 @@
     ],
     "productAmount": 480,
     "depositPaid": 480,
-    "secondPayment": 0,
+    "secondPayment": 19,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 12,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 19,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29416,7 +29416,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0215 進巨 冬日散步",
+    "sourceSheet": "★0215 進巨 冬日散步",
     "sourceMonth": "2026-02"
   },
   {
