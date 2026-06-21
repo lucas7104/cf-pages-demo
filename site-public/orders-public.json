@@ -31543,16 +31543,16 @@
       "已出貨",
       "已付訂金"
     ],
-    "productAmount": 3975,
+    "productAmount": 795,
     "depositPaid": 795,
-    "secondPayment": 346,
+    "secondPayment": 238,
     "secondPaymentBreakdown": {
       "domesticShipping": 184,
-      "internationalShipping": 108,
-      "cardFee": 54,
+      "internationalShipping": 42,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 3526,
+    "balanceDue": 238,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31560,10 +31560,6 @@
     "items": [
       {
         "name": "防水海報",
-        "qty": 3
-      },
-      {
-        "name": "光柵海報",
         "qty": 3
       }
     ]
