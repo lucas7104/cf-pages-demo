@@ -20577,7 +20577,7 @@
     "socialName": "希亞",
     "title": "1228 進巨 Zogankin",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 240,
@@ -20590,7 +20590,7 @@
       "packagingFee": 0
     },
     "balanceDue": 21,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26230,7 +26230,7 @@
     "socialName": "希亞",
     "title": "0128芙莉蓮 盲抽貼紙",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 640,
@@ -26243,7 +26243,7 @@
       "packagingFee": 0
     },
     "balanceDue": 32,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
