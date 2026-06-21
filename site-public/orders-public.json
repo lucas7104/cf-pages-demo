@@ -26480,10 +26480,11 @@
     "socialName": "_🦊",
     "title": "0208咒術 2026札幌冰雪節",
     "statusBadges": [
-      "已抵台"
+      "已抵台",
+      "已付訂金"
     ],
     "productAmount": 800,
-    "depositPaid": 0,
+    "depositPaid": 800,
     "secondPayment": 21,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -26491,9 +26492,9 @@
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 821,
+    "balanceDue": 21,
     "etaText": "已抵台",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -26894,14 +26895,14 @@
     ],
     "productAmount": 660,
     "depositPaid": 660,
-    "secondPayment": 0,
+    "secondPayment": 25,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 25,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 25,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26921,14 +26922,14 @@
     ],
     "productAmount": 660,
     "depositPaid": 660,
-    "secondPayment": 0,
+    "secondPayment": 25,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 25,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 25,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26948,14 +26949,14 @@
     ],
     "productAmount": 660,
     "depositPaid": 660,
-    "secondPayment": 0,
+    "secondPayment": 25,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 25,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 25,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26975,14 +26976,14 @@
     ],
     "productAmount": 660,
     "depositPaid": 660,
-    "secondPayment": 0,
+    "secondPayment": 25,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 25,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 25,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -27002,14 +27003,14 @@
     ],
     "productAmount": 660,
     "depositPaid": 660,
-    "secondPayment": 0,
+    "secondPayment": 25,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 25,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 25,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -27027,14 +27028,14 @@
     "statusBadges": [],
     "productAmount": 1325,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 25,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 25,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 1325,
+    "balanceDue": 1350,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
