@@ -32475,7 +32475,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0306咒術 死滅迴游 OPver.",
+    "sourceSheet": "★0306咒術 死滅迴游 OPver.",
     "sourceMonth": "2026-03"
   },
   {
@@ -32504,7 +32504,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0306咒術 死滅迴游 OPver.",
+    "sourceSheet": "★0306咒術 死滅迴游 OPver.",
     "sourceMonth": "2026-03"
   },
   {
@@ -32533,7 +32533,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0306咒術 死滅迴游 OPver.",
+    "sourceSheet": "★0306咒術 死滅迴游 OPver.",
     "sourceMonth": "2026-03"
   },
   {
@@ -32566,7 +32566,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0306咒術 死滅迴游 OPver.",
+    "sourceSheet": "★0306咒術 死滅迴游 OPver.",
     "sourceMonth": "2026-03"
   },
   {
@@ -32577,14 +32577,14 @@
     ],
     "productAmount": 1095,
     "depositPaid": 1095,
-    "secondPayment": 17,
+    "secondPayment": 94,
     "secondPaymentBreakdown": {
       "domesticShipping": 17,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 61,
+      "cardFee": 16,
       "packagingFee": 0
     },
-    "balanceDue": 17,
+    "balanceDue": 94,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32611,7 +32611,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0306咒術 懷玉・玉折ED",
+    "sourceSheet": "★0306咒術 懷玉・玉折ED",
     "sourceMonth": "2026-03"
   },
   {
@@ -32622,14 +32622,14 @@
     ],
     "productAmount": 1855,
     "depositPaid": 1855,
-    "secondPayment": 17,
+    "secondPayment": 122,
     "secondPaymentBreakdown": {
       "domesticShipping": 17,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 77,
+      "cardFee": 28,
       "packagingFee": 0
     },
-    "balanceDue": 17,
+    "balanceDue": 122,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32668,7 +32668,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0306咒術 懷玉・玉折ED",
+    "sourceSheet": "★0306咒術 懷玉・玉折ED",
     "sourceMonth": "2026-03"
   },
   {
@@ -32679,14 +32679,14 @@
     ],
     "productAmount": 690,
     "depositPaid": 690,
-    "secondPayment": 17,
+    "secondPayment": 64,
     "secondPaymentBreakdown": {
       "domesticShipping": 17,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 37,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 17,
+    "balanceDue": 64,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32701,7 +32701,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0306咒術 懷玉・玉折ED",
+    "sourceSheet": "★0306咒術 懷玉・玉折ED",
     "sourceMonth": "2026-03"
   },
   {
@@ -32712,14 +32712,14 @@
     ],
     "productAmount": 1030,
     "depositPaid": 1030,
-    "secondPayment": 17,
+    "secondPayment": 88,
     "secondPaymentBreakdown": {
       "domesticShipping": 17,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 56,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 17,
+    "balanceDue": 88,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32746,7 +32746,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0306咒術 懷玉・玉折ED",
+    "sourceSheet": "★0306咒術 懷玉・玉折ED",
     "sourceMonth": "2026-03"
   },
   {
@@ -32757,14 +32757,14 @@
     ],
     "productAmount": 1375,
     "depositPaid": 1375,
-    "secondPayment": 17,
+    "secondPayment": 106,
     "secondPaymentBreakdown": {
       "domesticShipping": 17,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 69,
+      "cardFee": 20,
       "packagingFee": 0
     },
-    "balanceDue": 17,
+    "balanceDue": 106,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32795,7 +32795,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0306咒術 懷玉・玉折ED",
+    "sourceSheet": "★0306咒術 懷玉・玉折ED",
     "sourceMonth": "2026-03"
   },
   {
@@ -32806,14 +32806,14 @@
     ],
     "productAmount": 1720,
     "depositPaid": 1720,
-    "secondPayment": 17,
+    "secondPayment": 135,
     "secondPaymentBreakdown": {
       "domesticShipping": 17,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 93,
+      "cardFee": 25,
       "packagingFee": 0
     },
-    "balanceDue": 17,
+    "balanceDue": 135,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32844,7 +32844,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0306咒術 懷玉・玉折ED",
+    "sourceSheet": "★0306咒術 懷玉・玉折ED",
     "sourceMonth": "2026-03"
   },
   {
@@ -32855,14 +32855,14 @@
     ],
     "productAmount": 615,
     "depositPaid": 615,
-    "secondPayment": 17,
+    "secondPayment": 55,
     "secondPaymentBreakdown": {
       "domesticShipping": 17,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 29,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 17,
+    "balanceDue": 55,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32881,7 +32881,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0306咒術 懷玉・玉折ED",
+    "sourceSheet": "★0306咒術 懷玉・玉折ED",
     "sourceMonth": "2026-03"
   },
   {
@@ -32892,14 +32892,14 @@
     ],
     "productAmount": 975,
     "depositPaid": 975,
-    "secondPayment": 17,
+    "secondPayment": 65,
     "secondPaymentBreakdown": {
       "domesticShipping": 17,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 34,
+      "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 17,
+    "balanceDue": 65,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32922,7 +32922,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0306咒術 懷玉・玉折ED",
+    "sourceSheet": "★0306咒術 懷玉・玉折ED",
     "sourceMonth": "2026-03"
   },
   {
@@ -32933,14 +32933,14 @@
     ],
     "productAmount": 1245,
     "depositPaid": 1245,
-    "secondPayment": 17,
+    "secondPayment": 85,
     "secondPaymentBreakdown": {
       "domesticShipping": 17,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 50,
+      "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 17,
+    "balanceDue": 85,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32971,7 +32971,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0306咒術 懷玉・玉折ED",
+    "sourceSheet": "★0306咒術 懷玉・玉折ED",
     "sourceMonth": "2026-03"
   },
   {
@@ -32982,14 +32982,14 @@
     ],
     "productAmount": 585,
     "depositPaid": 585,
-    "secondPayment": 17,
+    "secondPayment": 54,
     "secondPaymentBreakdown": {
       "domesticShipping": 17,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 28,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 17,
+    "balanceDue": 54,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -33004,7 +33004,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0306咒術 懷玉・玉折ED",
+    "sourceSheet": "★0306咒術 懷玉・玉折ED",
     "sourceMonth": "2026-03"
   },
   {
