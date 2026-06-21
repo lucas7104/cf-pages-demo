@@ -35459,14 +35459,14 @@
     ],
     "productAmount": 850,
     "depositPaid": 850,
-    "secondPayment": 0,
+    "secondPayment": 28,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 28,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 28,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35488,14 +35488,14 @@
     ],
     "productAmount": 425,
     "depositPaid": 425,
-    "secondPayment": 0,
+    "secondPayment": 28,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 28,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 28,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35517,14 +35517,14 @@
     ],
     "productAmount": 895,
     "depositPaid": 895,
-    "secondPayment": 0,
+    "secondPayment": 28,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 28,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 28,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44159,14 +44159,14 @@
     ],
     "productAmount": 585,
     "depositPaid": 585,
-    "secondPayment": 72,
+    "secondPayment": 94,
     "secondPaymentBreakdown": {
       "domesticShipping": 72,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 14,
+      "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 72,
+    "balanceDue": 94,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44177,7 +44177,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0411芙莉蓮 COMIXYZ",
+    "sourceSheet": "★0411芙莉蓮 COMIXYZ",
     "sourceMonth": "2026-04"
   },
   {
@@ -44188,14 +44188,14 @@
     ],
     "productAmount": 530,
     "depositPaid": 530,
-    "secondPayment": 72,
+    "secondPayment": 90,
     "secondPaymentBreakdown": {
       "domesticShipping": 72,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 10,
+      "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 72,
+    "balanceDue": 90,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44206,7 +44206,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0411芙莉蓮 COMIXYZ",
+    "sourceSheet": "★0411芙莉蓮 COMIXYZ",
     "sourceMonth": "2026-04"
   },
   {
