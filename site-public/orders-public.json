@@ -30471,14 +30471,14 @@
     ],
     "productAmount": 330,
     "depositPaid": 330,
-    "secondPayment": 6,
+    "secondPayment": 16,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 10,
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 6,
+    "balanceDue": 16,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30502,14 +30502,14 @@
     ],
     "productAmount": 165,
     "depositPaid": 165,
-    "secondPayment": 3,
+    "secondPayment": 8,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 5,
       "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 3,
+    "balanceDue": 8,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30529,14 +30529,14 @@
     ],
     "productAmount": 745,
     "depositPaid": 745,
-    "secondPayment": 4,
+    "secondPayment": 17,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 13,
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 4,
+    "balanceDue": 17,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30556,14 +30556,14 @@
     ],
     "productAmount": 880,
     "depositPaid": 880,
-    "secondPayment": 6,
+    "secondPayment": 27,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 21,
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 6,
+    "balanceDue": 27,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41490,9 +41490,11 @@
   {
     "socialName": "Ara",
     "title": "0411芙莉蓮 COMIXYZ",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 585,
-    "depositPaid": 0,
+    "depositPaid": 585,
     "secondPayment": 72,
     "secondPaymentBreakdown": {
       "domesticShipping": 72,
@@ -41500,9 +41502,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 657,
+    "balanceDue": 72,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
