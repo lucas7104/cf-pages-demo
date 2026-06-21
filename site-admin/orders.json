@@ -18397,7 +18397,7 @@
     "socialName": "良",
     "title": "1219 多ip Airtwokyo",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1880,
@@ -18410,7 +18410,7 @@
       "packagingFee": 0
     },
     "balanceDue": 150,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -21106,7 +21106,7 @@
     "socialName": "良",
     "title": "私人委託",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 800,
@@ -21119,7 +21119,7 @@
       "packagingFee": 0
     },
     "balanceDue": 367,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "缺一張補蹲",
