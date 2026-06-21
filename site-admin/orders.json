@@ -35653,14 +35653,14 @@
     ],
     "productAmount": 2335,
     "depositPaid": 2335,
-    "secondPayment": 0,
+    "secondPayment": 155,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 124,
+      "cardFee": 31,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 155,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35675,7 +35675,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0319咒術 COSPA",
+    "sourceSheet": "★0319咒術 COSPA",
     "sourceMonth": "2026-03"
   },
   {
@@ -35686,14 +35686,14 @@
     ],
     "productAmount": 795,
     "depositPaid": 795,
-    "secondPayment": 0,
+    "secondPayment": 63,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 52,
+      "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 63,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35704,7 +35704,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0319咒術 COSPA",
+    "sourceSheet": "★0319咒術 COSPA",
     "sourceMonth": "2026-03"
   },
   {
@@ -35715,14 +35715,14 @@
     ],
     "productAmount": 795,
     "depositPaid": 795,
-    "secondPayment": 0,
+    "secondPayment": 70,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 59,
+      "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 70,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35733,7 +35733,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0319咒術 COSPA",
+    "sourceSheet": "★0319咒術 COSPA",
     "sourceMonth": "2026-03"
   },
   {
@@ -35744,14 +35744,14 @@
     ],
     "productAmount": 795,
     "depositPaid": 795,
-    "secondPayment": 0,
+    "secondPayment": 65,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 54,
+      "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 65,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35762,7 +35762,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0319咒術 COSPA",
+    "sourceSheet": "★0319咒術 COSPA",
     "sourceMonth": "2026-03"
   },
   {
@@ -35773,14 +35773,14 @@
     ],
     "productAmount": 795,
     "depositPaid": 795,
-    "secondPayment": 0,
+    "secondPayment": 70,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 59,
+      "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 70,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35791,7 +35791,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0319咒術 COSPA",
+    "sourceSheet": "★0319咒術 COSPA",
     "sourceMonth": "2026-03"
   },
   {
