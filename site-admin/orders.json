@@ -14919,6 +14919,37 @@
     "sourceMonth": "2025_12"
   },
   {
+    "socialName": "TYT",
+    "title": "1204進巨 SOLWA",
+    "statusBadges": [],
+    "productAmount": 5800,
+    "depositPaid": 0,
+    "secondPayment": 57,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 49,
+      "cardFee": 8,
+      "packagingFee": 0
+    },
+    "balanceDue": 5857,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "單肩包",
+        "qty": 1
+      },
+      {
+        "name": "皮包",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1204進巨 SOLWA",
+    "sourceMonth": "2025_12"
+  },
+  {
     "socialName": "Feiiii",
     "title": "1205不死川實彌掌中公仔",
     "statusBadges": [
@@ -28236,10 +28267,11 @@
     "socialName": "Ichika",
     "title": "0208咒術 2026札幌冰雪節",
     "statusBadges": [
-      "已抵台"
+      "已抵台",
+      "已付訂金"
     ],
     "productAmount": 400,
-    "depositPaid": 0,
+    "depositPaid": 400,
     "secondPayment": 11,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -28247,7 +28279,7 @@
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 411,
+    "balanceDue": 11,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28645,14 +28677,14 @@
     ],
     "productAmount": 660,
     "depositPaid": 660,
-    "secondPayment": 25,
+    "secondPayment": 109,
     "secondPaymentBreakdown": {
       "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 75,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 109,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28663,7 +28695,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0211進巨 激動",
+    "sourceSheet": "★0211進巨 激動",
     "sourceMonth": "2026-02"
   },
   {
@@ -28674,14 +28706,14 @@
     ],
     "productAmount": 660,
     "depositPaid": 660,
-    "secondPayment": 25,
+    "secondPayment": 109,
     "secondPaymentBreakdown": {
       "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 75,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 109,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28692,7 +28724,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0211進巨 激動",
+    "sourceSheet": "★0211進巨 激動",
     "sourceMonth": "2026-02"
   },
   {
@@ -28703,14 +28735,14 @@
     ],
     "productAmount": 660,
     "depositPaid": 660,
-    "secondPayment": 25,
+    "secondPayment": 109,
     "secondPaymentBreakdown": {
       "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 75,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 109,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28721,7 +28753,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0211進巨 激動",
+    "sourceSheet": "★0211進巨 激動",
     "sourceMonth": "2026-02"
   },
   {
@@ -28732,14 +28764,14 @@
     ],
     "productAmount": 660,
     "depositPaid": 660,
-    "secondPayment": 25,
+    "secondPayment": 109,
     "secondPaymentBreakdown": {
       "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 75,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 109,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28750,7 +28782,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0211進巨 激動",
+    "sourceSheet": "★0211進巨 激動",
     "sourceMonth": "2026-02"
   },
   {
@@ -28761,14 +28793,14 @@
     ],
     "productAmount": 660,
     "depositPaid": 660,
-    "secondPayment": 25,
+    "secondPayment": 109,
     "secondPaymentBreakdown": {
       "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 75,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 109,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28779,7 +28811,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0211進巨 激動",
+    "sourceSheet": "★0211進巨 激動",
     "sourceMonth": "2026-02"
   },
   {
@@ -28788,14 +28820,14 @@
     "statusBadges": [],
     "productAmount": 1325,
     "depositPaid": 0,
-    "secondPayment": 25,
+    "secondPayment": 142,
     "secondPaymentBreakdown": {
       "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 94,
+      "cardFee": 23,
       "packagingFee": 0
     },
-    "balanceDue": 1350,
+    "balanceDue": 1467,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -28814,7 +28846,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0211進巨 激動",
+    "sourceSheet": "★0211進巨 激動",
     "sourceMonth": "2026-02"
   },
   {

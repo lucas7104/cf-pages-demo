@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T18:41:19.544Z",
+  "generatedAt": "2026-06-21T18:51:18.067Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -16,7 +16,7 @@
         },
         {
           "name": "TYT",
-          "amount": 52040
+          "amount": 57840
         },
         {
           "name": "芭樂",
@@ -70,6 +70,10 @@
           "amount": 22235
         },
         {
+          "name": "TYT",
+          "amount": 22085
+        },
+        {
           "name": "Vivian_lai372",
           "amount": 18925
         },
@@ -92,10 +96,6 @@
         {
           "name": "每天都想退休",
           "amount": 16715
-        },
-        {
-          "name": "TYT",
-          "amount": 16285
         },
         {
           "name": "Eilish",
@@ -263,6 +263,10 @@
           "amount": 14770
         },
         {
+          "name": "TYT",
+          "amount": 12445
+        },
+        {
           "name": "芭樂",
           "amount": 10010
         },
@@ -281,10 +285,6 @@
         {
           "name": "君",
           "amount": 6815
-        },
-        {
-          "name": "TYT",
-          "amount": 6645
         },
         {
           "name": "cc",
