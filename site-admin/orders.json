@@ -35459,14 +35459,14 @@
     ],
     "productAmount": 850,
     "depositPaid": 850,
-    "secondPayment": 28,
+    "secondPayment": 58,
     "secondPaymentBreakdown": {
       "domesticShipping": 28,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 20,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 28,
+    "balanceDue": 58,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35477,7 +35477,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0317銀魂 吉原大炎上 pop up",
+    "sourceSheet": "★0317銀魂 吉原大炎上 pop up",
     "sourceMonth": "2026-03"
   },
   {
@@ -35488,14 +35488,14 @@
     ],
     "productAmount": 425,
     "depositPaid": 425,
-    "secondPayment": 28,
+    "secondPayment": 42,
     "secondPaymentBreakdown": {
       "domesticShipping": 28,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 28,
+    "balanceDue": 42,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35506,7 +35506,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0317銀魂 吉原大炎上 pop up",
+    "sourceSheet": "★0317銀魂 吉原大炎上 pop up",
     "sourceMonth": "2026-03"
   },
   {
@@ -35517,14 +35517,14 @@
     ],
     "productAmount": 895,
     "depositPaid": 895,
-    "secondPayment": 28,
+    "secondPayment": 58,
     "secondPaymentBreakdown": {
       "domesticShipping": 28,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 18,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 28,
+    "balanceDue": 58,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35543,7 +35543,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0317銀魂 吉原大炎上 pop up",
+    "sourceSheet": "★0317銀魂 吉原大炎上 pop up",
     "sourceMonth": "2026-03"
   },
   {
@@ -35554,14 +35554,14 @@
     ],
     "productAmount": 1275,
     "depositPaid": 1275,
-    "secondPayment": 0,
+    "secondPayment": 43,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 28,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 43,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35580,7 +35580,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0317銀魂 吉原大炎上 pop up",
+    "sourceSheet": "★0317銀魂 吉原大炎上 pop up",
     "sourceMonth": "2026-03"
   },
   {
@@ -35591,14 +35591,14 @@
     ],
     "productAmount": 1200,
     "depositPaid": 1200,
-    "secondPayment": 0,
+    "secondPayment": 42,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 24,
+      "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 42,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35609,7 +35609,7 @@
         "qty": 6
       }
     ],
-    "sourceSheet": "0317銀魂 吉原大炎上 pop up",
+    "sourceSheet": "★0317銀魂 吉原大炎上 pop up",
     "sourceMonth": "2026-03"
   },
   {
