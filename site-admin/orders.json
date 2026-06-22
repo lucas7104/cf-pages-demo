@@ -17588,18 +17588,18 @@
     ],
     "productAmount": 3225,
     "depositPaid": 3225,
-    "secondPayment": 40,
+    "secondPayment": 85,
     "secondPaymentBreakdown": {
       "domesticShipping": 40,
-      "internationalShipping": 0,
+      "internationalShipping": 45,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 40,
+    "balanceDue": 85,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "胡蝶：徽章(遠景)*3、徽章(近景)*1、貼紙",
     "items": [
       {
         "name": "水 (五抽)",
@@ -17625,18 +17625,18 @@
     ],
     "productAmount": 2150,
     "depositPaid": 2150,
-    "secondPayment": 40,
+    "secondPayment": 56,
     "secondPaymentBreakdown": {
       "domesticShipping": 40,
-      "internationalShipping": 0,
+      "internationalShipping": 16,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 40,
+    "balanceDue": 56,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "胡蝶：徽章(遠景)*3、徽章(近景)*1、貼紙",
     "items": [
       {
         "name": "水 (五抽)",
@@ -17662,18 +17662,18 @@
     ],
     "productAmount": 440,
     "depositPaid": 440,
-    "secondPayment": 40,
+    "secondPayment": 44,
     "secondPaymentBreakdown": {
       "domesticShipping": 40,
-      "internationalShipping": 0,
+      "internationalShipping": 4,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 40,
+    "balanceDue": 44,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "義勇：徽章(遠景)*1、徽章(近景)*1",
     "items": [
       {
         "name": "水 (單抽)",
@@ -17691,18 +17691,18 @@
     ],
     "productAmount": 220,
     "depositPaid": 220,
-    "secondPayment": 40,
+    "secondPayment": 59,
     "secondPaymentBreakdown": {
       "domesticShipping": 40,
-      "internationalShipping": 0,
+      "internationalShipping": 19,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 40,
+    "balanceDue": 59,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "義勇：立牌",
+    "note": "義勇：立牌*1",
     "items": [
       {
         "name": "水 (單抽)",
@@ -17720,18 +17720,18 @@
     ],
     "productAmount": 880,
     "depositPaid": 880,
-    "secondPayment": 40,
+    "secondPayment": 63,
     "secondPaymentBreakdown": {
       "domesticShipping": 40,
-      "internationalShipping": 0,
+      "internationalShipping": 23,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 40,
+    "balanceDue": 63,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "義勇：立牌 、徽章(近景)、貼紙*2",
+    "note": "義勇：立牌*1 、徽章(近景)*1、貼紙*2",
     "items": [
       {
         "name": "水 (單抽)",
