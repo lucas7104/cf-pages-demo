@@ -23177,14 +23177,14 @@
     ],
     "productAmount": 1590,
     "depositPaid": 1590,
-    "secondPayment": 0,
+    "secondPayment": 40,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 18,
+      "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 40,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -23195,7 +23195,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0118 膽大黨pop up",
+    "sourceSheet": "★0118 膽大黨pop up",
     "sourceMonth": "2026-01"
   },
   {
@@ -23206,14 +23206,14 @@
     ],
     "productAmount": 645,
     "depositPaid": 645,
-    "secondPayment": 0,
+    "secondPayment": 21,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 21,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -23228,7 +23228,7 @@
         "qty": 3
       }
     ],
-    "sourceSheet": "0118 膽大黨pop up",
+    "sourceSheet": "★0118 膽大黨pop up",
     "sourceMonth": "2026-01"
   },
   {
@@ -23239,14 +23239,14 @@
     ],
     "productAmount": 2650,
     "depositPaid": 2650,
-    "secondPayment": 0,
+    "secondPayment": 160,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 120,
+      "cardFee": 40,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 160,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -23273,7 +23273,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0118 膽大黨pop up",
+    "sourceSheet": "★0118 膽大黨pop up",
     "sourceMonth": "2026-01"
   },
   {
@@ -23284,14 +23284,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 0,
+    "secondPayment": 16,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 10,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 16,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -23302,7 +23302,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0118 膽大黨pop up",
+    "sourceSheet": "★0118 膽大黨pop up",
     "sourceMonth": "2026-01"
   },
   {
@@ -23313,14 +23313,14 @@
     ],
     "productAmount": 745,
     "depositPaid": 745,
-    "secondPayment": 0,
+    "secondPayment": 34,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 22,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 34,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -23339,7 +23339,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0118 膽大黨pop up",
+    "sourceSheet": "★0118 膽大黨pop up",
     "sourceMonth": "2026-01"
   },
   {
