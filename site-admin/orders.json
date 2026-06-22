@@ -15107,20 +15107,20 @@
   },
   {
     "socialName": "Peggy",
-    "title": "1207 多ip 食玩 第二團",
+    "title": "1207 多ip 食玩 第二團-0115重開",
     "statusBadges": [
       "已付訂金"
     ],
     "productAmount": 1340,
     "depositPaid": 1340,
-    "secondPayment": 284,
+    "secondPayment": 88,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 252,
+      "internationalShipping": 56,
       "cardFee": 32,
       "packagingFee": 0
     },
-    "balanceDue": 284,
+    "balanceDue": 88,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -15131,25 +15131,25 @@
         "qty": 2
       }
     ],
-    "sourceSheet": " 1207 多ip 食玩 第二團",
+    "sourceSheet": " 1207 多ip 食玩 第二團-0115重開",
     "sourceMonth": "2025_12"
   },
   {
     "socialName": "高八毛",
-    "title": "1207 多ip 食玩 第二團",
+    "title": "1207 多ip 食玩 第二團-0115重開",
     "statusBadges": [
       "已付訂金"
     ],
     "productAmount": 1340,
     "depositPaid": 1340,
-    "secondPayment": 284,
+    "secondPayment": 88,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 252,
+      "internationalShipping": 56,
       "cardFee": 32,
       "packagingFee": 0
     },
-    "balanceDue": 284,
+    "balanceDue": 88,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -15160,12 +15160,12 @@
         "qty": 2
       }
     ],
-    "sourceSheet": " 1207 多ip 食玩 第二團",
+    "sourceSheet": " 1207 多ip 食玩 第二團-0115重開",
     "sourceMonth": "2025_12"
   },
   {
     "socialName": "臉書Hii Ragi",
-    "title": "1207 多ip 食玩 第二團",
+    "title": "1207 多ip 食玩 第二團-0115重開",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -15190,12 +15190,12 @@
         "qty": 1
       }
     ],
-    "sourceSheet": " 1207 多ip 食玩 第二團",
+    "sourceSheet": " 1207 多ip 食玩 第二團-0115重開",
     "sourceMonth": "2025_12"
   },
   {
     "socialName": "臉書 蔡宛廷",
-    "title": "1207 多ip 食玩 第二團",
+    "title": "1207 多ip 食玩 第二團-0115重開",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -15220,7 +15220,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": " 1207 多ip 食玩 第二團",
+    "sourceSheet": " 1207 多ip 食玩 第二團-0115重開",
     "sourceMonth": "2025_12"
   },
   {
