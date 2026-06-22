@@ -2561,7 +2561,7 @@
         "qty": 4
       }
     ],
-    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceSheet": "★1017 進巨 騎馬系列",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -2598,7 +2598,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceSheet": "★1017 進巨 騎馬系列",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -2631,7 +2631,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceSheet": "★1017 進巨 騎馬系列",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -2660,7 +2660,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceSheet": "★1017 進巨 騎馬系列",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -2694,7 +2694,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceSheet": "★1017 進巨 騎馬系列",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -2723,7 +2723,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceSheet": "★1017 進巨 騎馬系列",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -2764,7 +2764,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceSheet": "★1017 進巨 騎馬系列",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -2809,7 +2809,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceSheet": "★1017 進巨 騎馬系列",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -2820,14 +2820,14 @@
     ],
     "productAmount": 925,
     "depositPaid": 825,
-    "secondPayment": 24,
+    "secondPayment": 73,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 49,
       "cardFee": 24,
       "packagingFee": 0
     },
-    "balanceDue": 124,
+    "balanceDue": 173,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -2838,7 +2838,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceSheet": "★1017 進巨 騎馬系列",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -2872,7 +2872,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceSheet": "★1017 進巨 騎馬系列",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -2905,7 +2905,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceSheet": "★1017 進巨 騎馬系列",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -2942,7 +2942,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceSheet": "★1017 進巨 騎馬系列",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -2975,7 +2975,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceSheet": "★1017 進巨 騎馬系列",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -3004,7 +3004,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceSheet": "★1017 進巨 騎馬系列",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -3033,7 +3033,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceSheet": "★1017 進巨 騎馬系列",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -3062,7 +3062,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceSheet": "★1017 進巨 騎馬系列",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -3091,7 +3091,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceSheet": "★1017 進巨 騎馬系列",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -3128,7 +3128,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceSheet": "★1017 進巨 騎馬系列",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -3157,7 +3157,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1017 進巨 騎馬系列",
+    "sourceSheet": "★1017 進巨 騎馬系列",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -23206,14 +23206,14 @@
     ],
     "productAmount": 645,
     "depositPaid": 645,
-    "secondPayment": 21,
+    "secondPayment": 24,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 9,
+      "internationalShipping": 12,
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 21,
+    "balanceDue": 24,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -23313,14 +23313,14 @@
     ],
     "productAmount": 745,
     "depositPaid": 745,
-    "secondPayment": 34,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 22,
+      "internationalShipping": 23,
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 34,
+    "balanceDue": 35,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26765,14 +26765,14 @@
     ],
     "productAmount": 1720,
     "depositPaid": 1720,
-    "secondPayment": 150,
+    "secondPayment": 158,
     "secondPaymentBreakdown": {
       "domesticShipping": 62,
-      "internationalShipping": 65,
+      "internationalShipping": 73,
       "cardFee": 23,
       "packagingFee": 0
     },
-    "balanceDue": 150,
+    "balanceDue": 158,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
