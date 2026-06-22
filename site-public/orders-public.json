@@ -16632,7 +16632,7 @@
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "C",
     "items": [
       {
         "name": "水 (單抽)",
@@ -16659,7 +16659,7 @@
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "CF",
     "items": [
       {
         "name": "水 (單抽)",
