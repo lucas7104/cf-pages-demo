@@ -21400,14 +21400,14 @@
     ],
     "productAmount": 355,
     "depositPaid": 355,
-    "secondPayment": 0,
+    "secondPayment": 48,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 25,
+      "internationalShipping": 18,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 48,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -21422,7 +21422,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0102鬼滅 馬年",
+    "sourceSheet": "★0102鬼滅 馬年",
     "sourceMonth": "2026-01"
   },
   {
@@ -21433,14 +21433,14 @@
     ],
     "productAmount": 220,
     "depositPaid": 220,
-    "secondPayment": 0,
+    "secondPayment": 38,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 25,
+      "internationalShipping": 10,
+      "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 38,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -21451,7 +21451,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0102鬼滅 馬年",
+    "sourceSheet": "★0102鬼滅 馬年",
     "sourceMonth": "2026-01"
   },
   {
@@ -21462,14 +21462,14 @@
     ],
     "productAmount": 1100,
     "depositPaid": 1100,
-    "secondPayment": 0,
+    "secondPayment": 90,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 25,
+      "internationalShipping": 50,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 90,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -21480,7 +21480,7 @@
         "qty": 5
       }
     ],
-    "sourceSheet": "0102鬼滅 馬年",
+    "sourceSheet": "★0102鬼滅 馬年",
     "sourceMonth": "2026-01"
   },
   {
@@ -21491,14 +21491,14 @@
     ],
     "productAmount": 135,
     "depositPaid": 135,
-    "secondPayment": 0,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 25,
+      "internationalShipping": 8,
+      "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 35,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -21509,7 +21509,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0102鬼滅 馬年",
+    "sourceSheet": "★0102鬼滅 馬年",
     "sourceMonth": "2026-01"
   },
   {
@@ -21518,14 +21518,14 @@
     "statusBadges": [],
     "productAmount": 630,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 47,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 25,
+      "internationalShipping": 14,
+      "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 630,
+    "balanceDue": 677,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -21540,7 +21540,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0102鬼滅 馬年",
+    "sourceSheet": "★0102鬼滅 馬年",
     "sourceMonth": "2026-01"
   },
   {
@@ -21551,14 +21551,14 @@
     ],
     "productAmount": 660,
     "depositPaid": 660,
-    "secondPayment": 0,
+    "secondPayment": 64,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 25,
+      "internationalShipping": 30,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 64,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -21569,7 +21569,7 @@
         "qty": 3
       }
     ],
-    "sourceSheet": "0102鬼滅 馬年",
+    "sourceSheet": "★0102鬼滅 馬年",
     "sourceMonth": "2026-01"
   },
   {
@@ -21580,14 +21580,14 @@
     ],
     "productAmount": 135,
     "depositPaid": 135,
-    "secondPayment": 0,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 25,
+      "internationalShipping": 8,
+      "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 35,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -21598,7 +21598,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0102鬼滅 馬年",
+    "sourceSheet": "★0102鬼滅 馬年",
     "sourceMonth": "2026-01"
   },
   {
@@ -21609,14 +21609,14 @@
     ],
     "productAmount": 1100,
     "depositPaid": 1100,
-    "secondPayment": 0,
+    "secondPayment": 90,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 25,
+      "internationalShipping": 50,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 90,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -21627,7 +21627,7 @@
         "qty": 5
       }
     ],
-    "sourceSheet": "0102鬼滅 馬年",
+    "sourceSheet": "★0102鬼滅 馬年",
     "sourceMonth": "2026-01"
   },
   {
