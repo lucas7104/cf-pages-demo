@@ -33491,14 +33491,14 @@
     ],
     "productAmount": 2335,
     "depositPaid": 2335,
-    "secondPayment": 155,
+    "secondPayment": 215,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 124,
+      "internationalShipping": 184,
       "cardFee": 31,
       "packagingFee": 0
     },
-    "balanceDue": 155,
+    "balanceDue": 215,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
