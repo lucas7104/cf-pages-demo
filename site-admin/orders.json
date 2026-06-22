@@ -25713,14 +25713,14 @@
     ],
     "productAmount": 425,
     "depositPaid": 425,
-    "secondPayment": 3,
+    "secondPayment": 14,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 2,
-      "cardFee": 1,
+      "internationalShipping": 8,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 3,
+    "balanceDue": 14,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25731,7 +25731,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0127咒術  貓咪系列",
+    "sourceSheet": "★0127咒術  貓咪系列",
     "sourceMonth": "2026-01"
   },
   {
@@ -25742,14 +25742,14 @@
     ],
     "productAmount": 4800,
     "depositPaid": 4800,
-    "secondPayment": 0,
+    "secondPayment": 165,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 80,
+      "cardFee": 85,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 165,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25768,7 +25768,7 @@
         "qty": 10
       }
     ],
-    "sourceSheet": "0127咒術  貓咪系列",
+    "sourceSheet": "★0127咒術  貓咪系列",
     "sourceMonth": "2026-01"
   },
   {
@@ -25779,14 +25779,14 @@
     ],
     "productAmount": 1650,
     "depositPaid": 1650,
-    "secondPayment": 0,
+    "secondPayment": 59,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 32,
+      "cardFee": 27,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 59,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25809,7 +25809,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0127咒術  貓咪系列",
+    "sourceSheet": "★0127咒術  貓咪系列",
     "sourceMonth": "2026-01"
   },
   {
@@ -25820,14 +25820,14 @@
     ],
     "productAmount": 640,
     "depositPaid": 640,
-    "secondPayment": 0,
+    "secondPayment": 29,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 18,
+      "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 29,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25842,7 +25842,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0127咒術  貓咪系列",
+    "sourceSheet": "★0127咒術  貓咪系列",
     "sourceMonth": "2026-01"
   },
   {
@@ -25853,14 +25853,14 @@
     ],
     "productAmount": 160,
     "depositPaid": 160,
-    "secondPayment": 0,
+    "secondPayment": 11,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 8,
+      "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 11,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25871,7 +25871,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0127咒術  貓咪系列",
+    "sourceSheet": "★0127咒術  貓咪系列",
     "sourceMonth": "2026-01"
   },
   {
@@ -25882,14 +25882,14 @@
     ],
     "productAmount": 850,
     "depositPaid": 850,
-    "secondPayment": 0,
+    "secondPayment": 28,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 16,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 28,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25900,7 +25900,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0127咒術  貓咪系列",
+    "sourceSheet": "★0127咒術  貓咪系列",
     "sourceMonth": "2026-01"
   },
   {
@@ -25911,14 +25911,14 @@
     ],
     "productAmount": 415,
     "depositPaid": 415,
-    "secondPayment": 0,
+    "secondPayment": 14,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 8,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 14,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25929,7 +25929,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0127咒術  貓咪系列",
+    "sourceSheet": "★0127咒術  貓咪系列",
     "sourceMonth": "2026-01"
   },
   {
@@ -25940,14 +25940,14 @@
     ],
     "productAmount": 425,
     "depositPaid": 425,
-    "secondPayment": 0,
+    "secondPayment": 14,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 8,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 14,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25958,7 +25958,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0127咒術  貓咪系列",
+    "sourceSheet": "★0127咒術  貓咪系列",
     "sourceMonth": "2026-01"
   },
   {
@@ -25969,14 +25969,14 @@
     ],
     "productAmount": 1700,
     "depositPaid": 1700,
-    "secondPayment": 0,
+    "secondPayment": 56,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 32,
+      "cardFee": 24,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 56,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25999,7 +25999,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0127咒術  貓咪系列",
+    "sourceSheet": "★0127咒術  貓咪系列",
     "sourceMonth": "2026-01"
   },
   {
@@ -26010,14 +26010,14 @@
     ],
     "productAmount": 425,
     "depositPaid": 425,
-    "secondPayment": 0,
+    "secondPayment": 14,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 8,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 14,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26028,7 +26028,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0127咒術  貓咪系列",
+    "sourceSheet": "★0127咒術  貓咪系列",
     "sourceMonth": "2026-01"
   },
   {
