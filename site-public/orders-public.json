@@ -16400,6 +16400,7 @@
     "socialName": "季",
     "title": "1212咒術 Jump Festa 2026",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 600,
@@ -16412,7 +16413,7 @@
       "packagingFee": 0
     },
     "balanceDue": 178,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20873,7 +20874,7 @@
     "socialName": "季",
     "title": "0108 咒術 eeo班級合照",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 440,
@@ -20886,7 +20887,7 @@
       "packagingFee": 0
     },
     "balanceDue": 80,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -33487,6 +33488,7 @@
     "socialName": "FLOWDY",
     "title": "0319咒術 COSPA",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 2335,
@@ -33499,7 +33501,7 @@
       "packagingFee": 0
     },
     "balanceDue": 215,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -33518,6 +33520,7 @@
     "socialName": "又怎麼啦",
     "title": "0319咒術 COSPA",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 795,
@@ -33530,7 +33533,7 @@
       "packagingFee": 0
     },
     "balanceDue": 63,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -33545,6 +33548,7 @@
     "socialName": "Rea",
     "title": "0319咒術 COSPA",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 795,
@@ -33557,7 +33561,7 @@
       "packagingFee": 0
     },
     "balanceDue": 70,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -33572,6 +33576,7 @@
     "socialName": "君",
     "title": "0319咒術 COSPA",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 795,
@@ -33584,7 +33589,7 @@
       "packagingFee": 0
     },
     "balanceDue": 65,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -33599,6 +33604,7 @@
     "socialName": "瑞斯",
     "title": "0319咒術 COSPA",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 795,
@@ -33611,7 +33617,7 @@
       "packagingFee": 0
     },
     "balanceDue": 70,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
