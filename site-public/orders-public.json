@@ -39745,10 +39745,11 @@
     "socialName": "Ara",
     "title": "0405咒術 場面寫",
     "statusBadges": [
-      "已抵台"
+      "已抵台",
+      "已付訂金"
     ],
     "productAmount": 270,
-    "depositPaid": 0,
+    "depositPaid": 270,
     "secondPayment": 18,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -39756,9 +39757,9 @@
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 288,
+    "balanceDue": 18,
     "etaText": "已抵台",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -41892,9 +41893,11 @@
   {
     "socialName": "Ara",
     "title": "0416多IP食玩",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 720,
-    "depositPaid": 0,
+    "depositPaid": 720,
     "secondPayment": 38,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -41902,9 +41905,9 @@
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 758,
+    "balanceDue": 38,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
