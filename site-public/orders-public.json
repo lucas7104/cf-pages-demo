@@ -28913,7 +28913,7 @@
       "已付訂金"
     ],
     "productAmount": 3500,
-    "depositPaid": 1600,
+    "depositPaid": 3400,
     "secondPayment": 319,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -28921,7 +28921,7 @@
       "cardFee": 43,
       "packagingFee": 0
     },
-    "balanceDue": 2219,
+    "balanceDue": 419,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
