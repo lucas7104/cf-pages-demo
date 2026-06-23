@@ -17967,7 +17967,7 @@
     "socialName": "欲晴",
     "title": "1218 進巨 東京車站(2024)",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 190,
@@ -17980,7 +17980,7 @@
       "packagingFee": 0
     },
     "balanceDue": 10,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -28372,7 +28372,7 @@
     "socialName": "涓",
     "title": "0209 進巨 SPAO",
     "statusBadges": [
-      "返台中",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 2620,
@@ -28385,7 +28385,7 @@
       "packagingFee": 0
     },
     "balanceDue": 190,
-    "etaText": "返台中",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -28462,7 +28462,7 @@
     "socialName": "An",
     "title": "0209 進巨 SPAO",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2520,
@@ -28475,7 +28475,7 @@
       "packagingFee": 0
     },
     "balanceDue": 255,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -28534,7 +28534,7 @@
     "socialName": "鬆餅🥞",
     "title": "0209 進巨 SPAO",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2620,
@@ -28547,7 +28547,7 @@
       "packagingFee": 0
     },
     "balanceDue": 190,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -28594,7 +28594,7 @@
     "socialName": "Abby❤️",
     "title": "0209 進巨 SPAO",
     "statusBadges": [
-      "返台中",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1370,
@@ -28607,7 +28607,7 @@
       "packagingFee": 0
     },
     "balanceDue": 128,
-    "etaText": "返台中",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -39777,7 +39777,7 @@
     "socialName": "涓",
     "title": "0328韓國Photoism 空白拍立得代言",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 230,
@@ -39790,7 +39790,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
