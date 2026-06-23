@@ -33347,6 +33347,7 @@
     "socialName": "Luna 方",
     "title": "0317銀魂 吉原大炎上 pop up",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 850,
@@ -33359,7 +33360,7 @@
       "packagingFee": 0
     },
     "balanceDue": 58,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -33374,6 +33375,7 @@
     "socialName": "君",
     "title": "0317銀魂 吉原大炎上 pop up",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 425,
@@ -33386,7 +33388,7 @@
       "packagingFee": 0
     },
     "balanceDue": 42,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -33401,6 +33403,7 @@
     "socialName": "RUuu",
     "title": "0317銀魂 吉原大炎上 pop up",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 895,
@@ -33413,7 +33416,7 @@
       "packagingFee": 0
     },
     "balanceDue": 58,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -33436,6 +33439,7 @@
     "socialName": "13",
     "title": "0317銀魂 吉原大炎上 pop up",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1275,
@@ -33448,7 +33452,7 @@
       "packagingFee": 0
     },
     "balanceDue": 43,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -33471,6 +33475,7 @@
     "socialName": "Jean",
     "title": "0317銀魂 吉原大炎上 pop up",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1200,
@@ -33483,7 +33488,7 @@
       "packagingFee": 0
     },
     "balanceDue": 42,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -39729,7 +39734,7 @@
     "socialName": "Xiu han",
     "title": "0405咒術 場面寫",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 270,
@@ -39742,7 +39747,7 @@
       "packagingFee": 0
     },
     "balanceDue": 18,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
