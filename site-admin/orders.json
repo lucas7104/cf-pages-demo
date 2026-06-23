@@ -35699,7 +35699,7 @@
     "socialName": "又怎麼啦",
     "title": "0319咒術 COSPA",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 795,
@@ -35712,7 +35712,7 @@
       "packagingFee": 0
     },
     "balanceDue": 63,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -42380,7 +42380,7 @@
     "socialName": "又怎麼啦",
     "title": "0405咒術 場面寫",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 405,
@@ -42393,7 +42393,7 @@
       "packagingFee": 0
     },
     "balanceDue": 27,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
