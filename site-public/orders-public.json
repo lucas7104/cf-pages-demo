@@ -24144,6 +24144,7 @@
     "socialName": "鬆餅",
     "title": "0127咒術 貓咪系列",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 425,
@@ -24156,7 +24157,7 @@
       "packagingFee": 0
     },
     "balanceDue": 14,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24171,6 +24172,7 @@
     "socialName": "臉書 三角飯糰",
     "title": "0127咒術 貓咪系列",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 4800,
@@ -24183,7 +24185,7 @@
       "packagingFee": 0
     },
     "balanceDue": 165,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24206,6 +24208,7 @@
     "socialName": "季",
     "title": "0127咒術 貓咪系列",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1650,
@@ -24218,7 +24221,7 @@
       "packagingFee": 0
     },
     "balanceDue": 59,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24245,6 +24248,7 @@
     "socialName": "Peggy",
     "title": "0127咒術 貓咪系列",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 640,
@@ -24257,7 +24261,7 @@
       "packagingFee": 0
     },
     "balanceDue": 29,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24276,6 +24280,7 @@
     "socialName": "每天都想退休",
     "title": "0127咒術 貓咪系列",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 160,
@@ -24288,7 +24293,7 @@
       "packagingFee": 0
     },
     "balanceDue": 11,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24303,6 +24308,7 @@
     "socialName": "cc",
     "title": "0127咒術 貓咪系列",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 850,
@@ -24315,7 +24321,7 @@
       "packagingFee": 0
     },
     "balanceDue": 28,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24330,6 +24336,7 @@
     "socialName": "高雄酒吧有鏈鋸人海報",
     "title": "0127咒術 貓咪系列",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 415,
@@ -24342,7 +24349,7 @@
       "packagingFee": 0
     },
     "balanceDue": 14,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24357,6 +24364,7 @@
     "socialName": "Xiu han",
     "title": "0127咒術 貓咪系列",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 425,
@@ -24369,7 +24377,7 @@
       "packagingFee": 0
     },
     "balanceDue": 14,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24384,6 +24392,7 @@
     "socialName": "江蘇菲",
     "title": "0127咒術 貓咪系列",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1700,
@@ -24396,7 +24405,7 @@
       "packagingFee": 0
     },
     "balanceDue": 56,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24423,6 +24432,7 @@
     "socialName": "TT",
     "title": "0127咒術 貓咪系列",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 425,
@@ -24435,7 +24445,7 @@
       "packagingFee": 0
     },
     "balanceDue": 14,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
