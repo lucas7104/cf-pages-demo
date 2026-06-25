@@ -17262,7 +17262,7 @@
     "socialName": "君",
     "title": "1218坂本日常 黑色和服",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 450,
@@ -17275,7 +17275,7 @@
       "packagingFee": 0
     },
     "balanceDue": 20,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -17650,7 +17650,7 @@
     "socialName": "君",
     "title": "1219 咒術 旅遊系列",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 245,
@@ -17663,7 +17663,7 @@
       "packagingFee": 0
     },
     "balanceDue": 26,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
