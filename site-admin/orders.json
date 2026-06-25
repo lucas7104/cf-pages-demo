@@ -32227,7 +32227,7 @@
     "socialName": "君",
     "title": "0304咒術 一番賞",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1000,
@@ -32240,7 +32240,7 @@
       "packagingFee": 0
     },
     "balanceDue": 65,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "L*2、M*3",
@@ -45545,6 +45545,7 @@
     "socialName": "鬆餅",
     "title": "0424airtwokyo 脹相小房子",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 750,
@@ -45557,7 +45558,7 @@
       "packagingFee": 0
     },
     "balanceDue": 90,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -45574,6 +45575,7 @@
     "socialName": "瑞斯",
     "title": "0424airtwokyo 脹相小房子",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 750,
@@ -45586,7 +45588,7 @@
       "packagingFee": 0
     },
     "balanceDue": 90,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -45603,6 +45605,7 @@
     "socialName": "cc",
     "title": "0424airtwokyo 脹相小房子",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 750,
@@ -45615,7 +45618,7 @@
       "packagingFee": 0
     },
     "balanceDue": 90,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -45632,6 +45635,7 @@
     "socialName": "Rea",
     "title": "0424airtwokyo 脹相小房子",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 750,
@@ -45644,7 +45648,7 @@
       "packagingFee": 0
     },
     "balanceDue": 90,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
