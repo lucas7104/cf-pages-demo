@@ -30869,6 +30869,7 @@
     "socialName": "h_h",
     "title": "0220多ip Airtwokyo",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1175,
@@ -30881,7 +30882,7 @@
       "packagingFee": 0
     },
     "balanceDue": 56,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -34461,6 +34462,7 @@
     "socialName": "h_h",
     "title": "0312進巨 FEST",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 660,
@@ -34473,7 +34475,7 @@
       "packagingFee": 0
     },
     "balanceDue": 18,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
