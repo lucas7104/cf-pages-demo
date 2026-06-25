@@ -18056,6 +18056,7 @@
     "socialName": "cc",
     "title": "1218多ip Jump Festa 2026",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 530,
@@ -18068,7 +18069,7 @@
       "packagingFee": 0
     },
     "balanceDue": 46,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -18084,7 +18085,9 @@
   {
     "socialName": "vivian_lai372",
     "title": "1218多ip Jump Festa 2026",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 4400,
     "depositPaid": 0,
     "secondPayment": 28,
@@ -18095,7 +18098,7 @@
       "packagingFee": 0
     },
     "balanceDue": 4428,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -18128,6 +18131,7 @@
     "socialName": "菊米",
     "title": "1218多ip Jump Festa 2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 410,
@@ -18140,7 +18144,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -18161,6 +18165,7 @@
     "socialName": "Peggy",
     "title": "1218多ip Jump Festa 2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 530,
@@ -18173,7 +18178,7 @@
       "packagingFee": 0
     },
     "balanceDue": 46,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
