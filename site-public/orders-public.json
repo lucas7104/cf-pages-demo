@@ -26965,6 +26965,7 @@
     "socialName": "鮭",
     "title": "0211進巨 激動",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 660,
@@ -26977,7 +26978,7 @@
       "packagingFee": 0
     },
     "balanceDue": 109,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -27046,6 +27047,7 @@
     "socialName": "Chloe Lin",
     "title": "0211進巨 激動",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 660,
@@ -27058,7 +27060,7 @@
       "packagingFee": 0
     },
     "balanceDue": 109,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -28840,6 +28842,7 @@
     "socialName": "Chloe Lin",
     "title": "0220多ip Airtwokyo",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 4205,
@@ -28852,7 +28855,7 @@
       "packagingFee": 0
     },
     "balanceDue": 238,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
