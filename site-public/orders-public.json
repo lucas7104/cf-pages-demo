@@ -26939,6 +26939,7 @@
     "socialName": "江蘇菲",
     "title": "0211進巨 激動",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 660,
@@ -26951,7 +26952,7 @@
       "packagingFee": 0
     },
     "balanceDue": 109,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26994,6 +26995,7 @@
     "socialName": "Abby❤️",
     "title": "0211進巨 激動",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 660,
@@ -27006,7 +27008,7 @@
       "packagingFee": 0
     },
     "balanceDue": 109,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -27021,6 +27023,7 @@
     "socialName": "lin",
     "title": "0211進巨 激動",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 660,
@@ -27033,7 +27036,7 @@
       "packagingFee": 0
     },
     "balanceDue": 109,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -27075,7 +27078,9 @@
   {
     "socialName": "華",
     "title": "0211進巨 激動",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 1325,
     "depositPaid": 0,
     "secondPayment": 142,
@@ -27086,7 +27091,7 @@
       "packagingFee": 0
     },
     "balanceDue": 1467,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
