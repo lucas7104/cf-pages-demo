@@ -23290,7 +23290,7 @@
     "socialName": "力卡",
     "title": "0118 膽大黨pop up",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 400,
@@ -23303,7 +23303,7 @@
       "packagingFee": 0
     },
     "balanceDue": 16,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
