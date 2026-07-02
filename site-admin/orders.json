@@ -3080,7 +3080,7 @@
     "sourceMonth": "2025_09_10"
   },
   {
-    "socialName": "しおり",
+    "socialName": "しおり 西歐梨",
     "title": "1017 進巨 騎馬系列",
     "statusBadges": [
       "已出貨",
@@ -21355,7 +21355,7 @@
     "sourceMonth": "2025_12"
   },
   {
-    "socialName": "しおり",
+    "socialName": "しおり 西歐梨",
     "title": "私人委託",
     "statusBadges": [
       "已出貨",
@@ -21385,7 +21385,7 @@
     "sourceMonth": "2025_12"
   },
   {
-    "socialName": "しおり",
+    "socialName": "しおり 西歐梨",
     "title": "私人委託",
     "statusBadges": [
       "已出貨",
@@ -29301,10 +29301,10 @@
     "sourceMonth": "2026-02"
   },
   {
-    "socialName": "西歐梨",
+    "socialName": "しおり 西歐梨",
     "title": "0215 進巨 冬日散步",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1920,
@@ -29317,7 +29317,7 @@
       "packagingFee": 0
     },
     "balanceDue": 68,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36694,6 +36694,7 @@
     "socialName": "甄噠",
     "title": "0320進巨 冬季動物",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 965,
@@ -36706,7 +36707,7 @@
       "packagingFee": 0
     },
     "balanceDue": 33,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36727,6 +36728,7 @@
     "socialName": "R.O.N.G",
     "title": "0320進巨 冬季動物",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 560,
@@ -36739,7 +36741,7 @@
       "packagingFee": 0
     },
     "balanceDue": 38,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36764,6 +36766,7 @@
     "socialName": "cc77",
     "title": "0320進巨 冬季動物",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1660,
@@ -36776,7 +36779,7 @@
       "packagingFee": 0
     },
     "balanceDue": 116,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36813,6 +36816,7 @@
     "socialName": "Mi",
     "title": "0320進巨 冬季動物",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 380,
@@ -36825,7 +36829,7 @@
       "packagingFee": 0
     },
     "balanceDue": 14,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36842,6 +36846,7 @@
     "socialName": "里維",
     "title": "0320進巨 冬季動物",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 380,
@@ -36854,7 +36859,7 @@
       "packagingFee": 0
     },
     "balanceDue": 14,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36871,6 +36876,7 @@
     "socialName": "婷婷",
     "title": "0320進巨 冬季動物",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1255,
@@ -36883,7 +36889,7 @@
       "packagingFee": 0
     },
     "balanceDue": 49,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36904,6 +36910,7 @@
     "socialName": "乃",
     "title": "0320進巨 冬季動物",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 380,
@@ -36916,7 +36923,7 @@
       "packagingFee": 0
     },
     "balanceDue": 18,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36933,6 +36940,7 @@
     "socialName": "Kiwii",
     "title": "0320進巨 冬季動物",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 585,
@@ -36945,7 +36953,7 @@
       "packagingFee": 0
     },
     "balanceDue": 15,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36961,7 +36969,9 @@
   {
     "socialName": "華",
     "title": "0320進巨 冬季動物",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 380,
     "depositPaid": 0,
     "secondPayment": 14,
@@ -36972,7 +36982,7 @@
       "packagingFee": 0
     },
     "balanceDue": 394,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36989,6 +36999,7 @@
     "socialName": "KAMO",
     "title": "0320進巨 冬季動物",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 965,
@@ -37001,7 +37012,7 @@
       "packagingFee": 0
     },
     "balanceDue": 29,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -37022,6 +37033,7 @@
     "socialName": "Xuan Lin",
     "title": "0320進巨 冬季動物",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 530,
@@ -37034,7 +37046,7 @@
       "packagingFee": 0
     },
     "balanceDue": 107,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -37051,6 +37063,7 @@
     "socialName": "Silvia.",
     "title": "0320進巨 冬季動物",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 620,
@@ -37063,7 +37076,7 @@
       "packagingFee": 0
     },
     "balanceDue": 121,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -37084,6 +37097,7 @@
     "socialName": "Huang",
     "title": "0320進巨 冬季動物",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 90,
@@ -37096,7 +37110,7 @@
       "packagingFee": 0
     },
     "balanceDue": 10,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
