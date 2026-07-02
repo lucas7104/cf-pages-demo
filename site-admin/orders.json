@@ -3151,7 +3151,7 @@
     "socialName": "lin",
     "title": "1017 進巨 騎馬系列",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 925,
@@ -3164,7 +3164,7 @@
       "packagingFee": 0
     },
     "balanceDue": 190,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -18039,7 +18039,7 @@
     "socialName": "lin",
     "title": "1218 進巨 東京車站(2024)",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 190,
@@ -18052,7 +18052,7 @@
       "packagingFee": 0
     },
     "balanceDue": 10,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -28802,7 +28802,7 @@
     "socialName": "lin",
     "title": "0211進巨 激動",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 660,
@@ -28815,7 +28815,7 @@
       "packagingFee": 0
     },
     "balanceDue": 109,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -29271,6 +29271,7 @@
     "socialName": "歪歪",
     "title": "0215 進巨 冬日散步",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 480,
@@ -29283,13 +29284,13 @@
       "packagingFee": 0
     },
     "balanceDue": 16,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "全彩里維",
+        "name": "全彩里維立牌",
         "qty": 1
       }
     ],
@@ -29300,6 +29301,7 @@
     "socialName": "西歐梨",
     "title": "0215 進巨 冬日散步",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1920,
@@ -29312,25 +29314,25 @@
       "packagingFee": 0
     },
     "balanceDue": 68,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "全彩里維",
+        "name": "全彩里維立牌",
         "qty": 1
       },
       {
-        "name": "全彩漢吉",
+        "name": "全彩漢吉立牌",
         "qty": 1
       },
       {
-        "name": "全彩艾爾文",
+        "name": "全彩艾爾文立牌",
         "qty": 1
       },
       {
-        "name": "全彩艾連",
+        "name": "全彩艾連立牌",
         "qty": 1
       }
     ],
@@ -29341,6 +29343,7 @@
     "socialName": "鬆餅",
     "title": "0215 進巨 冬日散步",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 960,
@@ -29353,17 +29356,17 @@
       "packagingFee": 0
     },
     "balanceDue": 35,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "全彩里維",
+        "name": "全彩里維立牌",
         "qty": 1
       },
       {
-        "name": "全彩艾爾文",
+        "name": "全彩艾爾文立牌",
         "qty": 1
       }
     ],
@@ -29374,6 +29377,7 @@
     "socialName": "小咪",
     "title": "0215 進巨 冬日散步",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 960,
@@ -29386,17 +29390,17 @@
       "packagingFee": 0
     },
     "balanceDue": 35,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "全彩里維",
+        "name": "全彩里維立牌",
         "qty": 1
       },
       {
-        "name": "全彩艾爾文",
+        "name": "全彩艾爾文立牌",
         "qty": 1
       }
     ],
@@ -29407,6 +29411,7 @@
     "socialName": "H",
     "title": "0215 進巨 冬日散步",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 480,
@@ -29419,13 +29424,13 @@
       "packagingFee": 0
     },
     "balanceDue": 39,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "全彩里維",
+        "name": "全彩里維立牌",
         "qty": 1
       },
       {
@@ -29440,6 +29445,7 @@
     "socialName": "lin",
     "title": "0215 進巨 冬日散步",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 960,
@@ -29452,17 +29458,17 @@
       "packagingFee": 0
     },
     "balanceDue": 35,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "全彩里維",
+        "name": "全彩里維立牌",
         "qty": 1
       },
       {
-        "name": "全彩艾爾文",
+        "name": "全彩艾爾文立牌",
         "qty": 1
       }
     ],
@@ -29473,6 +29479,7 @@
     "socialName": "高八毛",
     "title": "0215 進巨 冬日散步",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 480,
@@ -29485,13 +29492,13 @@
       "packagingFee": 0
     },
     "balanceDue": 19,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "全彩艾爾文",
+        "name": "全彩艾爾文立牌",
         "qty": 1
       }
     ],
@@ -34404,6 +34411,7 @@
     "socialName": "lin",
     "title": "0312進巨 FEST",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 980,
@@ -34416,7 +34424,7 @@
       "packagingFee": 0
     },
     "balanceDue": 48,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -34433,6 +34441,7 @@
     "socialName": "君",
     "title": "0312進巨 FEST",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 690,
@@ -34445,7 +34454,7 @@
       "packagingFee": 0
     },
     "balanceDue": 38,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -34462,6 +34471,7 @@
     "socialName": "Suzy",
     "title": "0312進巨 FEST",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 615,
@@ -34474,7 +34484,7 @@
       "packagingFee": 0
     },
     "balanceDue": 36,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
