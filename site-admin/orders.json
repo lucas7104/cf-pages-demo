@@ -3083,7 +3083,7 @@
     "socialName": "しおり",
     "title": "1017 進巨 騎馬系列",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 925,
@@ -3096,7 +3096,7 @@
       "packagingFee": 0
     },
     "balanceDue": 190,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -21358,6 +21358,7 @@
     "socialName": "しおり",
     "title": "私人委託",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 800,
@@ -21370,7 +21371,7 @@
       "packagingFee": 0
     },
     "balanceDue": 22,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "免境內運",
