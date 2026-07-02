@@ -39679,6 +39679,7 @@
     "socialName": "舒芙蕾",
     "title": "0404暗殺教室 野比貓鑰匙圈",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 555,
@@ -39691,7 +39692,7 @@
       "packagingFee": 0
     },
     "balanceDue": 63,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -39714,6 +39715,7 @@
     "socialName": "君",
     "title": "0404暗殺教室 野比貓鑰匙圈",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 185,
@@ -39726,7 +39728,7 @@
       "packagingFee": 0
     },
     "balanceDue": 49,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -39741,6 +39743,7 @@
     "socialName": "紅茶拿鐵微微",
     "title": "0404暗殺教室 野比貓鑰匙圈",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 370,
@@ -39753,7 +39756,7 @@
       "packagingFee": 0
     },
     "balanceDue": 56,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
