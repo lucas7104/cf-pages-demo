@@ -33339,6 +33339,7 @@
     "socialName": "An",
     "title": "0310 進巨 東京車站",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 500,
@@ -33351,7 +33352,7 @@
       "packagingFee": 0
     },
     "balanceDue": 4,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -33372,6 +33373,7 @@
     "socialName": "TYT",
     "title": "0310 進巨 東京車站",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1040,
@@ -33384,7 +33386,7 @@
       "packagingFee": 0
     },
     "balanceDue": 7,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -33409,6 +33411,7 @@
     "socialName": "舒芙蕾",
     "title": "0310 進巨 東京車站",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 120,
@@ -33421,7 +33424,7 @@
       "packagingFee": 0
     },
     "balanceDue": 69,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
