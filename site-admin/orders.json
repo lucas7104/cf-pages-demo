@@ -10669,16 +10669,16 @@
       "已抵台",
       "已付訂金"
     ],
-    "productAmount": 540,
+    "productAmount": 270,
     "depositPaid": 540,
-    "secondPayment": 74,
+    "secondPayment": 60,
     "secondPaymentBreakdown": {
       "domesticShipping": 46,
-      "internationalShipping": 20,
-      "cardFee": 8,
+      "internationalShipping": 10,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 74,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -10686,10 +10686,6 @@
     "items": [
       {
         "name": "透明海報 ( 懷玉玉折)",
-        "qty": 1
-      },
-      {
-        "name": "透明海報 ( 涉谷事變)",
         "qty": 1
       }
     ],
