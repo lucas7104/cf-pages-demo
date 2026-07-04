@@ -17598,6 +17598,7 @@
     "socialName": "snailll",
     "title": "1215鬼滅 對士&柱抽賞",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 3225,
@@ -17610,7 +17611,7 @@
       "packagingFee": 0
     },
     "balanceDue": 130,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "胡蝶：徽章(遠景)*3、徽章(近景)*1、貼紙",
@@ -17635,6 +17636,7 @@
     "socialName": "每天都想退休",
     "title": "1215鬼滅 對士&柱抽賞",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2150,
@@ -17647,7 +17649,7 @@
       "packagingFee": 0
     },
     "balanceDue": 86,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "胡蝶：徽章(遠景)*3、徽章(近景)*1、貼紙",
@@ -17672,6 +17674,7 @@
     "socialName": "piao",
     "title": "1215鬼滅 對士&柱抽賞",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 440,
@@ -17684,7 +17687,7 @@
       "packagingFee": 0
     },
     "balanceDue": 50,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "義勇：徽章(遠景)*1、徽章(近景)*1",
@@ -17701,6 +17704,7 @@
     "socialName": "Yumi",
     "title": "1215鬼滅 對士&柱抽賞",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 220,
@@ -17713,7 +17717,7 @@
       "packagingFee": 0
     },
     "balanceDue": 62,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "義勇：立牌*1",
@@ -17730,6 +17734,7 @@
     "socialName": "Saki蒼",
     "title": "1215鬼滅 對士&柱抽賞",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 880,
@@ -17742,7 +17747,7 @@
       "packagingFee": 0
     },
     "balanceDue": 75,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "義勇：立牌*1 、徽章(近景)*1、貼紙*2",
@@ -21418,6 +21423,7 @@
     "socialName": "Peggy",
     "title": "0102鬼滅 馬年",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 355,
@@ -21430,7 +21436,7 @@
       "packagingFee": 0
     },
     "balanceDue": 48,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -21451,6 +21457,7 @@
     "socialName": "snailll",
     "title": "0102鬼滅 馬年",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 220,
@@ -21463,7 +21470,7 @@
       "packagingFee": 0
     },
     "balanceDue": 38,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -21480,6 +21487,7 @@
     "socialName": "maki_",
     "title": "0102鬼滅 馬年",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1100,
@@ -21492,7 +21500,7 @@
       "packagingFee": 0
     },
     "balanceDue": 90,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -21509,6 +21517,7 @@
     "socialName": "每天都想退休",
     "title": "0102鬼滅 馬年",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 135,
@@ -21521,7 +21530,7 @@
       "packagingFee": 0
     },
     "balanceDue": 35,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -21537,7 +21546,9 @@
   {
     "socialName": "Leila",
     "title": "0102鬼滅 馬年",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 630,
     "depositPaid": 0,
     "secondPayment": 47,
@@ -21548,7 +21559,7 @@
       "packagingFee": 0
     },
     "balanceDue": 677,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -21569,6 +21580,7 @@
     "socialName": "Saki蒼",
     "title": "0102鬼滅 馬年",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 660,
@@ -21581,7 +21593,7 @@
       "packagingFee": 0
     },
     "balanceDue": 64,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -21598,6 +21610,7 @@
     "socialName": "承",
     "title": "0102鬼滅 馬年",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 135,
@@ -21610,7 +21623,7 @@
       "packagingFee": 0
     },
     "balanceDue": 35,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -21627,6 +21640,7 @@
     "socialName": "Feiiii",
     "title": "0102鬼滅 馬年",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1100,
@@ -21639,7 +21653,7 @@
       "packagingFee": 0
     },
     "balanceDue": 90,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
