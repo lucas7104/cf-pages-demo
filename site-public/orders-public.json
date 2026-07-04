@@ -21821,7 +21821,7 @@
     "socialName": "臉書chi chi",
     "title": "0118 膽大黨pop up",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 645,
@@ -21834,7 +21834,7 @@
       "packagingFee": 0
     },
     "balanceDue": 24,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24217,7 +24217,7 @@
     "socialName": "臉書 三角飯糰",
     "title": "0127咒術 貓咪系列",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 4800,
@@ -24230,7 +24230,7 @@
       "packagingFee": 0
     },
     "balanceDue": 165,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
