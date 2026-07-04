@@ -20058,7 +20058,7 @@
     "socialName": "しおり 西歐梨",
     "title": "私人委託",
     "statusBadges": [
-      "已出貨",
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 800,
@@ -20071,7 +20071,7 @@
       "packagingFee": 0
     },
     "balanceDue": 22,
-    "etaText": "已出貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "免境內運",
