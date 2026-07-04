@@ -21640,7 +21640,7 @@
     "socialName": "Feiiii",
     "title": "0102鬼滅 馬年",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1100,
@@ -21653,7 +21653,7 @@
       "packagingFee": 0
     },
     "balanceDue": 90,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
