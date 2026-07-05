@@ -16634,7 +16634,7 @@
     "socialName": "Yumi",
     "title": "1215鬼滅 對士&柱抽賞",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 220,
@@ -16647,7 +16647,7 @@
       "packagingFee": 0
     },
     "balanceDue": 62,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "義勇：立牌*1",
@@ -16720,9 +16720,7 @@
   {
     "socialName": "溫妮",
     "title": "1216 多ip 厭世系列",
-    "statusBadges": [
-      "已抵台"
-    ],
+    "statusBadges": [],
     "productAmount": 185,
     "depositPaid": 0,
     "secondPayment": 7,
@@ -16733,7 +16731,7 @@
       "packagingFee": 0
     },
     "balanceDue": 192,
-    "etaText": "已抵台",
+    "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "退款",
@@ -21574,6 +21572,7 @@
     "socialName": "Yumi",
     "title": "0114咒術goood smile公仔",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 300,
@@ -21586,7 +21585,7 @@
       "packagingFee": 0
     },
     "balanceDue": 96,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -21601,6 +21600,7 @@
     "socialName": "Qianti",
     "title": "0114咒術goood smile公仔",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 300,
@@ -21613,7 +21613,7 @@
       "packagingFee": 0
     },
     "balanceDue": 96,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
