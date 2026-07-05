@@ -20560,6 +20560,7 @@
     "socialName": "Aila",
     "title": "0106咒術 冬季版寶寶娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 340,
@@ -20572,7 +20573,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20587,6 +20588,7 @@
     "socialName": "Yumi",
     "title": "0106咒術 冬季版寶寶娃",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 340,
@@ -20599,7 +20601,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20614,6 +20616,7 @@
     "socialName": "TYT",
     "title": "0106咒術 冬季版寶寶娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 680,
@@ -20626,7 +20629,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -20645,6 +20648,7 @@
     "socialName": "淺",
     "title": "0106咒術 冬季版寶寶娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 340,
@@ -20657,7 +20661,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
