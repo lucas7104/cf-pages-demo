@@ -34364,6 +34364,7 @@
     "socialName": "許瑜",
     "title": "0320咒術 Neowing",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 525,
@@ -34376,7 +34377,7 @@
       "packagingFee": 0
     },
     "balanceDue": 28,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -34399,6 +34400,7 @@
     "socialName": "季",
     "title": "0320咒術 Neowing",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 175,
@@ -34411,7 +34413,7 @@
       "packagingFee": 0
     },
     "balanceDue": 10,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -34426,6 +34428,7 @@
     "socialName": "ゲンーガ",
     "title": "0320咒術 Neowing",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 525,
@@ -34438,7 +34441,7 @@
       "packagingFee": 0
     },
     "balanceDue": 28,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -34461,6 +34464,7 @@
     "socialName": "Sandy Lin",
     "title": "0320咒術 Neowing",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 695,
@@ -34473,7 +34477,7 @@
       "packagingFee": 0
     },
     "balanceDue": 35,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
