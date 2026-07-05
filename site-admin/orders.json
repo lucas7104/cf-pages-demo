@@ -17797,11 +17797,10 @@
     "socialName": "溫妮",
     "title": "1216 多ip 厭世系列",
     "statusBadges": [
-      "已抵台",
-      "已付訂金"
+      "已抵台"
     ],
     "productAmount": 185,
-    "depositPaid": 185,
+    "depositPaid": 0,
     "secondPayment": 7,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -17809,11 +17808,11 @@
       "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 7,
+    "balanceDue": 192,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "退款",
     "items": [
       {
         "name": "排少盲抽立牌",
@@ -42344,7 +42343,7 @@
     "socialName": "肉雞",
     "title": "0405咒術 場面寫",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 270,
@@ -42357,7 +42356,7 @@
       "packagingFee": 0
     },
     "balanceDue": 18,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
