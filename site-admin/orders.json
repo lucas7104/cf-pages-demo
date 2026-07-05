@@ -30399,6 +30399,7 @@
     "socialName": "Ari",
     "title": "0218進巨 yyworld最終季",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 330,
@@ -30411,7 +30412,7 @@
       "packagingFee": 0
     },
     "balanceDue": 60,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -30436,6 +30437,7 @@
     "socialName": "Han",
     "title": "0218進巨 yyworld最終季",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 490,
@@ -30448,7 +30450,7 @@
       "packagingFee": 0
     },
     "balanceDue": 225,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -30469,6 +30471,7 @@
     "socialName": "ケン",
     "title": "0218進巨 yyworld最終季",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1020,
@@ -30481,7 +30484,7 @@
       "packagingFee": 0
     },
     "balanceDue": 136,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -30510,6 +30513,7 @@
     "socialName": "早ㄢ",
     "title": "0218進巨 yyworld最終季",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 535,
@@ -30522,7 +30526,7 @@
       "packagingFee": 0
     },
     "balanceDue": 31,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -30543,6 +30547,7 @@
     "socialName": "TYT",
     "title": "0218進巨 yyworld最終季",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1700,
@@ -30555,7 +30560,7 @@
       "packagingFee": 0
     },
     "balanceDue": 317,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -30595,7 +30600,9 @@
   {
     "socialName": "華",
     "title": "0218進巨 yyworld最終季",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 325,
     "depositPaid": 0,
     "secondPayment": 51,
@@ -30606,7 +30613,7 @@
       "packagingFee": 0
     },
     "balanceDue": 376,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -30627,6 +30634,7 @@
     "socialName": "Huang",
     "title": "0218進巨 yyworld最終季",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 730,
@@ -30639,7 +30647,7 @@
       "packagingFee": 0
     },
     "balanceDue": 183,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -30660,6 +30668,7 @@
     "socialName": "An",
     "title": "0218進巨 yyworld最終季",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 5625,
@@ -30672,7 +30681,7 @@
       "packagingFee": 0
     },
     "balanceDue": 2446,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
