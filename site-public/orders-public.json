@@ -27734,6 +27734,7 @@
     "socialName": "Peggy",
     "title": "0215鏈鋸人 拍立得小卡",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 660,
@@ -27746,7 +27747,7 @@
       "packagingFee": 0
     },
     "balanceDue": 91,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -27761,6 +27762,7 @@
     "socialName": "婷婷",
     "title": "0215鏈鋸人 拍立得小卡",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 660,
@@ -27773,7 +27775,7 @@
       "packagingFee": 0
     },
     "balanceDue": 91,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -34688,7 +34690,7 @@
     "socialName": "婷婷",
     "title": "0320進巨 冬季動物",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1255,
@@ -34701,7 +34703,7 @@
       "packagingFee": 0
     },
     "balanceDue": 49,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41990,7 +41992,7 @@
     "socialName": "婷婷",
     "title": "0416多IP食玩",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 5565,
@@ -42003,7 +42005,7 @@
       "packagingFee": 0
     },
     "balanceDue": 714,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -42329,7 +42331,9 @@
   {
     "socialName": "Leila",
     "title": "0418鬼滅 Jump閃卡收藏 Vol. 1",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 1075,
     "depositPaid": 0,
     "secondPayment": 117,
@@ -42340,7 +42344,7 @@
       "packagingFee": 0
     },
     "balanceDue": 1192,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -42355,6 +42359,7 @@
     "socialName": "婷婷",
     "title": "0418鬼滅 Jump閃卡收藏 Vol. 1",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1075,
@@ -42367,7 +42372,7 @@
       "packagingFee": 0
     },
     "balanceDue": 117,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -42382,6 +42387,7 @@
     "socialName": "每天都想退休",
     "title": "0418鬼滅 Jump閃卡收藏 Vol. 1",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1935,
@@ -42394,7 +42400,7 @@
       "packagingFee": 0
     },
     "balanceDue": 137,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -42409,6 +42415,7 @@
     "socialName": "13",
     "title": "0418鬼滅 Jump閃卡收藏 Vol. 1",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 215,
@@ -42421,7 +42428,7 @@
       "packagingFee": 0
     },
     "balanceDue": 97,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
