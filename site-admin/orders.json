@@ -25271,6 +25271,7 @@
     "socialName": "snailll",
     "title": "0124 芙莉蓮 撲克牌",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 715,
@@ -25283,7 +25284,7 @@
       "packagingFee": 0
     },
     "balanceDue": 55,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -25300,6 +25301,7 @@
     "socialName": "婷婷",
     "title": "0124 芙莉蓮 撲克牌",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 2145,
@@ -25312,7 +25314,7 @@
       "packagingFee": 0
     },
     "balanceDue": 165,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -25329,6 +25331,7 @@
     "socialName": "TYT",
     "title": "0124 芙莉蓮 撲克牌",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 715,
@@ -25341,7 +25344,7 @@
       "packagingFee": 0
     },
     "balanceDue": 55,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
