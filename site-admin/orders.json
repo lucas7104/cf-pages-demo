@@ -11486,30 +11486,26 @@
     "socialName": "波波",
     "title": "1118 咒術mappa",
     "statusBadges": [
-      "已出貨",
+      "已抵台",
       "已付訂金"
     ],
-    "productAmount": 490,
+    "productAmount": 270,
     "depositPaid": 490,
-    "secondPayment": 70,
+    "secondPayment": 60,
     "secondPaymentBreakdown": {
       "domesticShipping": 46,
-      "internationalShipping": 17,
-      "cardFee": 7,
+      "internationalShipping": 10,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 70,
-    "etaText": "已出貨",
+    "balanceDue": 0,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "懷玉壓克力磚已退款$230",
     "items": [
       {
         "name": "透明海報 ( 懷玉玉折)",
-        "qty": 1
-      },
-      {
-        "name": "懷玉玉折Q版壓克力磚(二人組) ￥880",
         "qty": 1
       }
     ],
