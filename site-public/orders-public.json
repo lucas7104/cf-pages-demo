@@ -15033,6 +15033,7 @@
     "socialName": "Zihan",
     "title": "1209咒術 五條悟生日",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1585,
@@ -15045,7 +15046,7 @@
       "packagingFee": 0
     },
     "balanceDue": 142,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -15060,6 +15061,7 @@
     "socialName": "芭樂",
     "title": "1209咒術 五條悟生日",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2465,
@@ -15072,7 +15074,7 @@
       "packagingFee": 0
     },
     "balanceDue": 440,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -15095,6 +15097,7 @@
     "socialName": "君",
     "title": "1209咒術 五條悟生日",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 135,
@@ -15107,7 +15110,7 @@
       "packagingFee": 0
     },
     "balanceDue": 133,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -15121,7 +15124,9 @@
   {
     "socialName": "人類",
     "title": "1209咒術 五條悟生日",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 135,
     "depositPaid": 0,
     "secondPayment": 133,
@@ -15132,7 +15137,7 @@
       "packagingFee": 0
     },
     "balanceDue": 268,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -15147,6 +15152,7 @@
     "socialName": "Alia",
     "title": "1209咒術 五條悟生日",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1665,
@@ -15159,7 +15165,7 @@
       "packagingFee": 0
     },
     "balanceDue": 148,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -15174,6 +15180,7 @@
     "socialName": "每天都想退休",
     "title": "1209咒術 五條悟生日",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 135,
@@ -15186,7 +15193,7 @@
       "packagingFee": 0
     },
     "balanceDue": 133,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -15201,6 +15208,7 @@
     "socialName": "瑞斯",
     "title": "1209咒術 五條悟生日",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1720,
@@ -15213,7 +15221,7 @@
       "packagingFee": 0
     },
     "balanceDue": 244,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -42511,6 +42519,7 @@
     "socialName": "婷婷",
     "title": "0421皮克敏食玩",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 4375,
@@ -42523,7 +42532,7 @@
       "packagingFee": 0
     },
     "balanceDue": 571,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -42542,6 +42551,7 @@
     "socialName": "Zihan",
     "title": "0421皮克敏食玩",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1150,
@@ -42554,7 +42564,7 @@
       "packagingFee": 0
     },
     "balanceDue": 152,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
