@@ -20733,6 +20733,7 @@
     "socialName": "鬆餅",
     "title": "1228咒術 小娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 400,
@@ -20745,7 +20746,7 @@
       "packagingFee": 0
     },
     "balanceDue": 122,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "境內運費99",
@@ -25767,7 +25768,7 @@
     "socialName": "鬆餅",
     "title": "0127咒術 貓咪系列",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 425,
@@ -25780,7 +25781,7 @@
       "packagingFee": 0
     },
     "balanceDue": 14,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -28591,7 +28592,7 @@
     "socialName": "鬆餅🥞",
     "title": "0209 進巨 SPAO",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 2620,
@@ -28604,7 +28605,7 @@
       "packagingFee": 0
     },
     "balanceDue": 190,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -29372,7 +29373,7 @@
     "socialName": "鬆餅",
     "title": "0215 進巨 冬日散步",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 960,
@@ -29385,7 +29386,7 @@
       "packagingFee": 0
     },
     "balanceDue": 35,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -45683,7 +45684,7 @@
     "socialName": "鬆餅",
     "title": "0424airtwokyo 脹相小房子",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 750,
@@ -45696,7 +45697,7 @@
       "packagingFee": 0
     },
     "balanceDue": 90,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
