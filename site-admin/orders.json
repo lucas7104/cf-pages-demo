@@ -2641,7 +2641,7 @@
     "socialName": "쮸",
     "title": "1017 進巨 騎馬系列",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 925,
@@ -2654,7 +2654,7 @@
       "packagingFee": 0
     },
     "balanceDue": 190,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -30884,7 +30884,7 @@
     "socialName": "쮸",
     "title": "0220多ip Airtwokyo",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 3500,
@@ -30897,7 +30897,7 @@
       "packagingFee": 0
     },
     "balanceDue": 419,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "",
