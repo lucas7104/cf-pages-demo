@@ -2865,7 +2865,7 @@
     "socialName": "陳安",
     "title": "1017 進巨 騎馬系列",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 110,
@@ -2878,7 +2878,7 @@
       "packagingFee": 0
     },
     "balanceDue": 105,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -21744,6 +21744,7 @@
     "socialName": "波波",
     "title": "0117坂本日常 功夫大師",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 560,
@@ -21756,7 +21757,7 @@
       "packagingFee": 0
     },
     "balanceDue": 74,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -21775,6 +21776,7 @@
     "socialName": "古鹿",
     "title": "0117坂本日常 功夫大師",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 585,
@@ -21787,7 +21789,7 @@
       "packagingFee": 0
     },
     "balanceDue": 72,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
