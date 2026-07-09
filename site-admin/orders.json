@@ -18218,6 +18218,7 @@
     "socialName": "里里",
     "title": "1218多ip Jump Festa 2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 715,
@@ -18230,7 +18231,7 @@
       "packagingFee": 0
     },
     "balanceDue": 60,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -30833,6 +30834,7 @@
     "socialName": "TYT",
     "title": "0220多ip Airtwokyo",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 5050,
@@ -30845,7 +30847,7 @@
       "packagingFee": 0
     },
     "balanceDue": 287,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -30882,6 +30884,7 @@
     "socialName": "쮸",
     "title": "0220多ip Airtwokyo",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 3500,
@@ -30894,7 +30897,7 @@
       "packagingFee": 0
     },
     "balanceDue": 419,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -30919,6 +30922,7 @@
     "socialName": "江蘇菲",
     "title": "0220多ip Airtwokyo",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1175,
@@ -30931,7 +30935,7 @@
       "packagingFee": 0
     },
     "balanceDue": 56,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
