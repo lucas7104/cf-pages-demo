@@ -21744,7 +21744,7 @@
     "socialName": "波波",
     "title": "0117坂本日常 功夫大師",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 560,
@@ -21757,7 +21757,7 @@
       "packagingFee": 0
     },
     "balanceDue": 74,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41677,6 +41677,7 @@
     "socialName": "Ara",
     "title": "0411芙莉蓮 COMIXYZ",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 585,
@@ -41689,13 +41690,13 @@
       "packagingFee": 0
     },
     "balanceDue": 94,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "葛納烏",
+        "name": "葛納烏 場景立牌",
         "qty": 1
       }
     ]
@@ -41704,6 +41705,7 @@
     "socialName": "chiiiii",
     "title": "0411芙莉蓮 COMIXYZ",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 530,
@@ -41716,13 +41718,13 @@
       "packagingFee": 0
     },
     "balanceDue": 90,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "迷你壓克力磚",
+        "name": "迷你壓克力磚 盲抽",
         "qty": 2
       }
     ]
