@@ -32586,6 +32586,7 @@
     "socialName": "Peggy",
     "title": "0306咒術 死滅迴游 OPver.",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 330,
@@ -32598,7 +32599,7 @@
       "packagingFee": 0
     },
     "balanceDue": 16,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -32619,6 +32620,7 @@
     "socialName": "nako",
     "title": "0306咒術 死滅迴游 OPver.",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 165,
@@ -32631,7 +32633,7 @@
       "packagingFee": 0
     },
     "balanceDue": 8,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -32648,6 +32650,7 @@
     "socialName": "芭樂",
     "title": "0306咒術 死滅迴游 OPver.",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 745,
@@ -32660,7 +32663,7 @@
       "packagingFee": 0
     },
     "balanceDue": 17,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -32677,6 +32680,7 @@
     "socialName": "季",
     "title": "0306咒術 死滅迴游 OPver.",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 880,
@@ -32689,7 +32693,7 @@
       "packagingFee": 0
     },
     "balanceDue": 27,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -33074,7 +33078,7 @@
     "socialName": "季",
     "title": "0306咒術 懷玉・玉折ED",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1245,
@@ -33087,7 +33091,7 @@
       "packagingFee": 0
     },
     "balanceDue": 85,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36641,7 +36645,7 @@
     "socialName": "季",
     "title": "0320咒術 Neowing",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 175,
@@ -36654,7 +36658,7 @@
       "packagingFee": 0
     },
     "balanceDue": 10,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
