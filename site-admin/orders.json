@@ -17956,7 +17956,7 @@
     "socialName": "豬子",
     "title": "1218 進巨 東京車站(2024)",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 120,
@@ -17969,7 +17969,7 @@
       "packagingFee": 0
     },
     "balanceDue": 10,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
