@@ -746,7 +746,7 @@
     "socialName": "TYT",
     "title": "1002 進巨 絢爛菊花飯店",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 985,
@@ -759,7 +759,7 @@
       "packagingFee": 0
     },
     "balanceDue": 185,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -2241,7 +2241,7 @@
     "socialName": "TYT",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 430,
@@ -2254,7 +2254,7 @@
       "packagingFee": 0
     },
     "balanceDue": 165,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "(沒抽，收Eilish音柱兩種各1)",
@@ -25702,7 +25702,6 @@
     "socialName": "芭樂",
     "title": "0202 TOHO多IP護手霜",
     "statusBadges": [
-      "已出貨",
       "已付訂金"
     ],
     "productAmount": 9030,
@@ -25715,7 +25714,7 @@
       "packagingFee": 0
     },
     "balanceDue": 900,
-    "etaText": "已出貨",
+    "etaText": "部分出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "部分出貨",
@@ -25818,7 +25817,6 @@
     "socialName": "TYT",
     "title": "0202 TOHO多IP護手霜",
     "statusBadges": [
-      "已出貨",
       "已付訂金"
     ],
     "productAmount": 860,
@@ -25831,10 +25829,10 @@
       "packagingFee": 0
     },
     "balanceDue": 122,
-    "etaText": "已出貨",
+    "etaText": "部分出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "一般款五條未到貨，其餘已出貨",
     "items": [
       {
         "name": "夏油",
@@ -28892,7 +28890,7 @@
     "socialName": "TYT",
     "title": "0219 進巨 浴衣",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 480,
@@ -28905,7 +28903,7 @@
       "packagingFee": 0
     },
     "balanceDue": 148,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
