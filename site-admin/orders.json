@@ -12386,7 +12386,7 @@
     "socialName": "TYT",
     "title": "1120進巨 荷官",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 565,
@@ -12399,7 +12399,7 @@
       "packagingFee": 0
     },
     "balanceDue": 48,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -14222,7 +14222,7 @@
     "socialName": "TYT",
     "title": "1201進巨 amnibus",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 2560,
@@ -14235,7 +14235,7 @@
       "packagingFee": 0
     },
     "balanceDue": 116,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
