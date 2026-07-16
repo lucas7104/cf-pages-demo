@@ -14230,6 +14230,7 @@
     "socialName": "高八毛",
     "title": "1207 多ip 食玩 第二團-0115重開",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1340,
@@ -14242,7 +14243,7 @@
       "packagingFee": 0
     },
     "balanceDue": 88,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24862,7 +24863,7 @@
     "socialName": "高八毛",
     "title": "0129 芙莉蓮 COMIXYZ",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 530,
@@ -24875,7 +24876,7 @@
       "packagingFee": 0
     },
     "balanceDue": 15,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -25152,6 +25153,7 @@
     "socialName": "高八毛",
     "title": "0131 JUMP多IP事前後生日受注",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1665,
@@ -25164,7 +25166,7 @@
       "packagingFee": 0
     },
     "balanceDue": 179,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -25179,6 +25181,7 @@
     "socialName": "nako",
     "title": "0131 JUMP多IP事前後生日受注",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 530,
@@ -25191,7 +25194,7 @@
       "packagingFee": 0
     },
     "balanceDue": 88,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -25206,6 +25209,7 @@
     "socialName": "瑞斯",
     "title": "0131 JUMP多IP事前後生日受注",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1720,
@@ -25218,7 +25222,7 @@
       "packagingFee": 0
     },
     "balanceDue": 158,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -27744,7 +27748,7 @@
     "socialName": "高八毛",
     "title": "0215 進巨 冬日散步",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 480,
@@ -27757,7 +27761,7 @@
       "packagingFee": 0
     },
     "balanceDue": 19,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
