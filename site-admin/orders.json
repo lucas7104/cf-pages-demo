@@ -28710,6 +28710,28 @@
     "sourceMonth": "2026-02"
   },
   {
+    "socialName": "不要叫我阿梅",
+    "title": "0209 進巨 SPAO",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [],
+    "sourceSheet": "0209 進巨 SPAO",
+    "sourceMonth": "2026-02"
+  },
+  {
     "socialName": "江蘇菲",
     "title": "0211 咒術 藍光",
     "statusBadges": [
