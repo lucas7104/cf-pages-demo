@@ -26962,22 +26962,29 @@
   {
     "socialName": "不要叫我阿梅",
     "title": "0209 進巨 SPAO",
-    "statusBadges": [],
-    "productAmount": 0,
-    "depositPaid": 0,
-    "secondPayment": 0,
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1150,
+    "depositPaid": 1150,
+    "secondPayment": 14,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 14,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "綠色成套睡衣 S",
+        "qty": 1
+      }
+    ]
   },
   {
     "socialName": "江蘇菲",
