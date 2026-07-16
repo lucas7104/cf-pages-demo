@@ -15118,6 +15118,7 @@
     "socialName": "Peggy",
     "title": "1207 多ip 食玩 第二團-0115重開",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1340,
@@ -15130,7 +15131,7 @@
       "packagingFee": 0
     },
     "balanceDue": 88,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -18184,7 +18185,7 @@
     "socialName": "Peggy",
     "title": "1218多ip Jump Festa 2026",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 530,
@@ -18197,7 +18198,7 @@
       "packagingFee": 0
     },
     "balanceDue": 46,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
