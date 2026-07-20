@@ -26974,6 +26974,7 @@
     "socialName": "不要叫我阿梅",
     "title": "0209 進巨 SPAO",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1150,
@@ -26986,7 +26987,7 @@
       "packagingFee": 0
     },
     "balanceDue": 89,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
