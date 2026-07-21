@@ -25473,6 +25473,7 @@
     "socialName": "lin",
     "title": "0127 進巨 Escrit",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 900,
@@ -25485,7 +25486,7 @@
       "packagingFee": 0
     },
     "balanceDue": 46,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -25506,6 +25507,7 @@
     "socialName": "Chun",
     "title": "0127 進巨 Escrit",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 925,
@@ -25518,7 +25520,7 @@
       "packagingFee": 0
     },
     "balanceDue": 32,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -25535,6 +25537,7 @@
     "socialName": "Wish",
     "title": "0127 進巨 Escrit",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1465,
@@ -25547,7 +25550,7 @@
       "packagingFee": 0
     },
     "balanceDue": 54,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -25572,6 +25575,7 @@
     "socialName": "H",
     "title": "0127 進巨 Escrit",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 770,
@@ -25584,7 +25588,7 @@
       "packagingFee": 0
     },
     "balanceDue": 27,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
