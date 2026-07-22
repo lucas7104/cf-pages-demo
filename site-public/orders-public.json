@@ -41050,14 +41050,14 @@
     ],
     "productAmount": 240,
     "depositPaid": 240,
-    "secondPayment": 24,
+    "secondPayment": 36,
     "secondPaymentBreakdown": {
       "domesticShipping": 24,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 6,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 24,
+    "balanceDue": 36,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
