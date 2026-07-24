@@ -41198,14 +41198,14 @@
     ],
     "productAmount": 2675,
     "depositPaid": 2675,
-    "secondPayment": 193,
+    "secondPayment": 232,
     "secondPaymentBreakdown": {
       "domesticShipping": 12,
       "internationalShipping": 181,
-      "cardFee": 0,
+      "cardFee": 39,
       "packagingFee": 0
     },
-    "balanceDue": 193,
+    "balanceDue": 232,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41236,7 +41236,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0331咒術 TOHO五週年第三彈",
+    "sourceSheet": "★0331咒術 TOHO五週年第三彈",
     "sourceMonth": "2026-03"
   },
   {
@@ -41247,14 +41247,14 @@
     ],
     "productAmount": 2250,
     "depositPaid": 2250,
-    "secondPayment": 123,
+    "secondPayment": 156,
     "secondPaymentBreakdown": {
       "domesticShipping": 12,
       "internationalShipping": 111,
-      "cardFee": 0,
+      "cardFee": 33,
       "packagingFee": 0
     },
-    "balanceDue": 123,
+    "balanceDue": 156,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41281,7 +41281,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0331咒術 TOHO五週年第三彈",
+    "sourceSheet": "★0331咒術 TOHO五週年第三彈",
     "sourceMonth": "2026-03"
   },
   {
@@ -41292,14 +41292,14 @@
     ],
     "productAmount": 650,
     "depositPaid": 650,
-    "secondPayment": 25,
+    "secondPayment": 34,
     "secondPaymentBreakdown": {
       "domesticShipping": 12,
       "internationalShipping": 13,
-      "cardFee": 0,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 34,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41310,7 +41310,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0331咒術 TOHO五週年第三彈",
+    "sourceSheet": "★0331咒術 TOHO五週年第三彈",
     "sourceMonth": "2026-03"
   },
   {
@@ -41321,14 +41321,14 @@
     ],
     "productAmount": 1300,
     "depositPaid": 1300,
-    "secondPayment": 38,
+    "secondPayment": 56,
     "secondPaymentBreakdown": {
       "domesticShipping": 12,
       "internationalShipping": 26,
-      "cardFee": 0,
+      "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 38,
+    "balanceDue": 56,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41339,7 +41339,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0331咒術 TOHO五週年第三彈",
+    "sourceSheet": "★0331咒術 TOHO五週年第三彈",
     "sourceMonth": "2026-03"
   },
   {
@@ -41350,14 +41350,14 @@
     ],
     "productAmount": 800,
     "depositPaid": 800,
-    "secondPayment": 63,
+    "secondPayment": 75,
     "secondPaymentBreakdown": {
       "domesticShipping": 12,
       "internationalShipping": 51,
-      "cardFee": 0,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 63,
+    "balanceDue": 75,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41372,7 +41372,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0331咒術 TOHO五週年第三彈",
+    "sourceSheet": "★0331咒術 TOHO五週年第三彈",
     "sourceMonth": "2026-03"
   },
   {
@@ -41383,14 +41383,14 @@
     ],
     "productAmount": 650,
     "depositPaid": 650,
-    "secondPayment": 25,
+    "secondPayment": 34,
     "secondPaymentBreakdown": {
       "domesticShipping": 12,
       "internationalShipping": 13,
-      "cardFee": 0,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 34,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41401,7 +41401,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0331咒術 TOHO五週年第三彈",
+    "sourceSheet": "★0331咒術 TOHO五週年第三彈",
     "sourceMonth": "2026-03"
   },
   {
@@ -41412,14 +41412,14 @@
     ],
     "productAmount": 650,
     "depositPaid": 650,
-    "secondPayment": 25,
+    "secondPayment": 34,
     "secondPaymentBreakdown": {
       "domesticShipping": 12,
       "internationalShipping": 13,
-      "cardFee": 0,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 34,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41430,7 +41430,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0331咒術 TOHO五週年第三彈",
+    "sourceSheet": "★0331咒術 TOHO五週年第三彈",
     "sourceMonth": "2026-03"
   },
   {
@@ -41441,14 +41441,14 @@
     ],
     "productAmount": 650,
     "depositPaid": 650,
-    "secondPayment": 25,
+    "secondPayment": 34,
     "secondPaymentBreakdown": {
       "domesticShipping": 12,
       "internationalShipping": 13,
-      "cardFee": 0,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 34,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41459,7 +41459,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0331咒術 TOHO五週年第三彈",
+    "sourceSheet": "★0331咒術 TOHO五週年第三彈",
     "sourceMonth": "2026-03"
   },
   {
@@ -41470,14 +41470,14 @@
     ],
     "productAmount": 240,
     "depositPaid": 240,
-    "secondPayment": 56,
+    "secondPayment": 60,
     "secondPaymentBreakdown": {
       "domesticShipping": 12,
       "internationalShipping": 44,
-      "cardFee": 0,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 56,
+    "balanceDue": 60,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41488,7 +41488,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0331咒術 TOHO五週年第三彈",
+    "sourceSheet": "★0331咒術 TOHO五週年第三彈",
     "sourceMonth": "2026-03"
   },
   {
@@ -41499,14 +41499,14 @@
     ],
     "productAmount": 240,
     "depositPaid": 240,
-    "secondPayment": 56,
+    "secondPayment": 60,
     "secondPaymentBreakdown": {
       "domesticShipping": 12,
       "internationalShipping": 44,
-      "cardFee": 0,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 56,
+    "balanceDue": 60,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41517,7 +41517,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0331咒術 TOHO五週年第三彈",
+    "sourceSheet": "★0331咒術 TOHO五週年第三彈",
     "sourceMonth": "2026-03"
   },
   {
@@ -41528,14 +41528,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 39,
+    "secondPayment": 45,
     "secondPaymentBreakdown": {
       "domesticShipping": 12,
       "internationalShipping": 27,
-      "cardFee": 0,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 39,
+    "balanceDue": 45,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41546,7 +41546,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0331咒術 TOHO五週年第三彈",
+    "sourceSheet": "★0331咒術 TOHO五週年第三彈",
     "sourceMonth": "2026-03"
   },
   {
@@ -41557,14 +41557,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 36,
+    "secondPayment": 42,
     "secondPaymentBreakdown": {
       "domesticShipping": 12,
       "internationalShipping": 24,
-      "cardFee": 0,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 36,
+    "balanceDue": 42,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41575,7 +41575,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0331咒術 TOHO五週年第三彈",
+    "sourceSheet": "★0331咒術 TOHO五週年第三彈",
     "sourceMonth": "2026-03"
   },
   {
@@ -41586,14 +41586,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 36,
+    "secondPayment": 42,
     "secondPaymentBreakdown": {
       "domesticShipping": 12,
       "internationalShipping": 24,
-      "cardFee": 0,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 36,
+    "balanceDue": 42,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41604,7 +41604,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0331咒術 TOHO五週年第三彈",
+    "sourceSheet": "★0331咒術 TOHO五週年第三彈",
     "sourceMonth": "2026-03"
   },
   {
@@ -41615,14 +41615,14 @@
     ],
     "productAmount": 650,
     "depositPaid": 650,
-    "secondPayment": 25,
+    "secondPayment": 34,
     "secondPaymentBreakdown": {
       "domesticShipping": 12,
       "internationalShipping": 13,
-      "cardFee": 0,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 34,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41633,7 +41633,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0331咒術 TOHO五週年第三彈",
+    "sourceSheet": "★0331咒術 TOHO五週年第三彈",
     "sourceMonth": "2026-03"
   },
   {
