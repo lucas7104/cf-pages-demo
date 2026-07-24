@@ -41552,9 +41552,11 @@
   {
     "socialName": "Ara",
     "title": "0331咒術 TOHO五週年第三彈",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 400,
-    "depositPaid": 0,
+    "depositPaid": 400,
     "secondPayment": 12,
     "secondPaymentBreakdown": {
       "domesticShipping": 12,
@@ -41562,9 +41564,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 412,
+    "balanceDue": 12,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
