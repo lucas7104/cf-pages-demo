@@ -3909,14 +3909,14 @@
     ],
     "productAmount": 2090,
     "depositPaid": 2090,
-    "secondPayment": 77,
+    "secondPayment": 192,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 46,
+      "internationalShipping": 161,
       "cardFee": 31,
       "packagingFee": 0
     },
-    "balanceDue": 77,
+    "balanceDue": 192,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -14928,6 +14928,35 @@
     "sourceMonth": "2025_12"
   },
   {
+    "socialName": "Feiiii",
+    "title": "1203不死川實彌掌中公仔",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1760,
+    "depositPaid": 1760,
+    "secondPayment": 215,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 124,
+      "internationalShipping": 68,
+      "cardFee": 23,
+      "packagingFee": 0
+    },
+    "balanceDue": 215,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "不死川實彌掌中公仔",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★1203不死川實彌掌中公仔",
+    "sourceMonth": "2025_12"
+  },
+  {
     "socialName": "TYT",
     "title": "1204進巨 SOLWA",
     "statusBadges": [],
@@ -14956,35 +14985,6 @@
       }
     ],
     "sourceSheet": "★1204進巨 SOLWA",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "Feiiii",
-    "title": "1205不死川實彌掌中公仔",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1760,
-    "depositPaid": 1760,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "不死川實彌掌中公仔",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1205不死川實彌掌中公仔",
     "sourceMonth": "2025_12"
   },
   {
