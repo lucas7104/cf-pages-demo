@@ -43133,14 +43133,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 0,
+    "secondPayment": 65,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 26,
+      "internationalShipping": 34,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 65,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -43151,7 +43151,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0408咒術 Takara Tomy Arts",
+    "sourceSheet": "★0408咒術 Takara Tomy Arts",
     "sourceMonth": "2026-04"
   },
   {
@@ -43162,14 +43162,14 @@
     ],
     "productAmount": 1350,
     "depositPaid": 1350,
-    "secondPayment": 0,
+    "secondPayment": 143,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 26,
+      "internationalShipping": 102,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 143,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -43188,7 +43188,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0408咒術 Takara Tomy Arts",
+    "sourceSheet": "★0408咒術 Takara Tomy Arts",
     "sourceMonth": "2026-04"
   },
   {
@@ -43199,14 +43199,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 0,
+    "secondPayment": 65,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 26,
+      "internationalShipping": 34,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 65,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -43217,7 +43217,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0408咒術 Takara Tomy Arts",
+    "sourceSheet": "★0408咒術 Takara Tomy Arts",
     "sourceMonth": "2026-04"
   },
   {
@@ -43228,14 +43228,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 0,
+    "secondPayment": 65,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 26,
+      "internationalShipping": 34,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 65,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -43246,7 +43246,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0408咒術 Takara Tomy Arts",
+    "sourceSheet": "★0408咒術 Takara Tomy Arts",
     "sourceMonth": "2026-04"
   },
   {
