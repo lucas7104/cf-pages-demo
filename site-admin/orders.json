@@ -36227,14 +36227,14 @@
     ],
     "productAmount": 2410,
     "depositPaid": 2410,
-    "secondPayment": 134,
+    "secondPayment": 170,
     "secondPaymentBreakdown": {
       "domesticShipping": 30,
       "internationalShipping": 104,
-      "cardFee": 0,
+      "cardFee": 36,
       "packagingFee": 0
     },
-    "balanceDue": 134,
+    "balanceDue": 170,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36261,7 +36261,7 @@
         "qty": 5
       }
     ],
-    "sourceSheet": "0320咒術 幻影夜行 童年死滅迴游ver.",
+    "sourceSheet": "★0320咒術 幻影夜行 童年死滅迴游ver.",
     "sourceMonth": "2026-03"
   },
   {
@@ -36272,14 +36272,14 @@
     ],
     "productAmount": 1595,
     "depositPaid": 1595,
-    "secondPayment": 133,
+    "secondPayment": 155,
     "secondPaymentBreakdown": {
       "domesticShipping": 30,
       "internationalShipping": 103,
-      "cardFee": 0,
+      "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 133,
+    "balanceDue": 155,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36298,7 +36298,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320咒術 幻影夜行 童年死滅迴游ver.",
+    "sourceSheet": "★0320咒術 幻影夜行 童年死滅迴游ver.",
     "sourceMonth": "2026-03"
   },
   {
@@ -36309,14 +36309,14 @@
     ],
     "productAmount": 960,
     "depositPaid": 1060,
-    "secondPayment": 97,
+    "secondPayment": 111,
     "secondPaymentBreakdown": {
       "domesticShipping": 30,
       "internationalShipping": 67,
-      "cardFee": 0,
+      "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 11,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36331,7 +36331,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320咒術 幻影夜行 童年死滅迴游ver.",
+    "sourceSheet": "★0320咒術 幻影夜行 童年死滅迴游ver.",
     "sourceMonth": "2026-03"
   },
   {
@@ -36342,14 +36342,14 @@
     ],
     "productAmount": 480,
     "depositPaid": 530,
-    "secondPayment": 63,
+    "secondPayment": 70,
     "secondPaymentBreakdown": {
       "domesticShipping": 30,
       "internationalShipping": 33,
-      "cardFee": 0,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 13,
+    "balanceDue": 20,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36360,7 +36360,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320咒術 幻影夜行 童年死滅迴游ver.",
+    "sourceSheet": "★0320咒術 幻影夜行 童年死滅迴游ver.",
     "sourceMonth": "2026-03"
   },
   {
@@ -36371,14 +36371,14 @@
     ],
     "productAmount": 1860,
     "depositPaid": 1860,
-    "secondPayment": 134,
+    "secondPayment": 160,
     "secondPaymentBreakdown": {
       "domesticShipping": 30,
       "internationalShipping": 104,
-      "cardFee": 0,
+      "cardFee": 26,
       "packagingFee": 0
     },
-    "balanceDue": 134,
+    "balanceDue": 160,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36401,7 +36401,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320咒術 幻影夜行 童年死滅迴游ver.",
+    "sourceSheet": "★0320咒術 幻影夜行 童年死滅迴游ver.",
     "sourceMonth": "2026-03"
   },
   {
@@ -36412,14 +36412,14 @@
     ],
     "productAmount": 1595,
     "depositPaid": 1645,
-    "secondPayment": 133,
+    "secondPayment": 155,
     "secondPaymentBreakdown": {
       "domesticShipping": 30,
       "internationalShipping": 103,
-      "cardFee": 0,
+      "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 83,
+    "balanceDue": 105,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36438,7 +36438,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320咒術 幻影夜行 童年死滅迴游ver.",
+    "sourceSheet": "★0320咒術 幻影夜行 童年死滅迴游ver.",
     "sourceMonth": "2026-03"
   },
   {
@@ -36449,14 +36449,14 @@
     ],
     "productAmount": 3640,
     "depositPaid": 3640,
-    "secondPayment": 237,
+    "secondPayment": 288,
     "secondPaymentBreakdown": {
       "domesticShipping": 30,
       "internationalShipping": 207,
-      "cardFee": 0,
+      "cardFee": 51,
       "packagingFee": 0
     },
-    "balanceDue": 237,
+    "balanceDue": 288,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36495,7 +36495,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0320咒術 幻影夜行 童年死滅迴游ver.",
+    "sourceSheet": "★0320咒術 幻影夜行 童年死滅迴游ver.",
     "sourceMonth": "2026-03"
   },
   {
@@ -36506,14 +36506,14 @@
     ],
     "productAmount": 1285,
     "depositPaid": 1285,
-    "secondPayment": 74,
+    "secondPayment": 97,
     "secondPaymentBreakdown": {
       "domesticShipping": 30,
       "internationalShipping": 44,
-      "cardFee": 0,
+      "cardFee": 23,
       "packagingFee": 0
     },
-    "balanceDue": 74,
+    "balanceDue": 97,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36532,7 +36532,7 @@
         "qty": 3
       }
     ],
-    "sourceSheet": "0320咒術 幻影夜行 童年死滅迴游ver.",
+    "sourceSheet": "★0320咒術 幻影夜行 童年死滅迴游ver.",
     "sourceMonth": "2026-03"
   },
   {
@@ -36543,14 +36543,14 @@
     ],
     "productAmount": 2790,
     "depositPaid": 2790,
-    "secondPayment": 182,
+    "secondPayment": 226,
     "secondPaymentBreakdown": {
       "domesticShipping": 30,
       "internationalShipping": 152,
-      "cardFee": 0,
+      "cardFee": 44,
       "packagingFee": 0
     },
-    "balanceDue": 182,
+    "balanceDue": 226,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36581,7 +36581,7 @@
         "qty": 4
       }
     ],
-    "sourceSheet": "0320咒術 幻影夜行 童年死滅迴游ver.",
+    "sourceSheet": "★0320咒術 幻影夜行 童年死滅迴游ver.",
     "sourceMonth": "2026-03"
   },
   {
@@ -36592,14 +36592,14 @@
     ],
     "productAmount": 960,
     "depositPaid": 960,
-    "secondPayment": 97,
+    "secondPayment": 111,
     "secondPaymentBreakdown": {
       "domesticShipping": 30,
       "internationalShipping": 67,
-      "cardFee": 0,
+      "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 97,
+    "balanceDue": 111,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36614,7 +36614,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320咒術 幻影夜行 童年死滅迴游ver.",
+    "sourceSheet": "★0320咒術 幻影夜行 童年死滅迴游ver.",
     "sourceMonth": "2026-03"
   },
   {
@@ -36625,14 +36625,14 @@
     ],
     "productAmount": 585,
     "depositPaid": 585,
-    "secondPayment": 67,
+    "secondPayment": 75,
     "secondPaymentBreakdown": {
       "domesticShipping": 30,
       "internationalShipping": 37,
-      "cardFee": 0,
+      "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 67,
+    "balanceDue": 75,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36643,7 +36643,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0320咒術 幻影夜行 童年死滅迴游ver.",
+    "sourceSheet": "★0320咒術 幻影夜行 童年死滅迴游ver.",
     "sourceMonth": "2026-03"
   },
   {
