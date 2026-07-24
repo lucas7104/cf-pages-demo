@@ -34237,14 +34237,14 @@
     ],
     "productAmount": 960,
     "depositPaid": 960,
-    "secondPayment": 9,
+    "secondPayment": 49,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 9,
-      "cardFee": 0,
+      "cardFee": 13,
       "packagingFee": 0
     },
-    "balanceDue": 9,
+    "balanceDue": 49,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34255,7 +34255,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0312 排少咒術 AnimeJapan2026",
+    "sourceSheet": "★0312 排少咒術 AnimeJapan2026",
     "sourceMonth": "2026-03"
   },
   {
@@ -34266,14 +34266,14 @@
     ],
     "productAmount": 1560,
     "depositPaid": 1560,
-    "secondPayment": 87,
+    "secondPayment": 136,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 87,
-      "cardFee": 0,
+      "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 87,
+    "balanceDue": 136,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34288,7 +34288,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0312 排少咒術 AnimeJapan2026",
+    "sourceSheet": "★0312 排少咒術 AnimeJapan2026",
     "sourceMonth": "2026-03"
   },
   {
@@ -34299,14 +34299,14 @@
     ],
     "productAmount": 985,
     "depositPaid": 985,
-    "secondPayment": 31,
+    "secondPayment": 69,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 31,
-      "cardFee": 0,
+      "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 31,
+    "balanceDue": 69,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34325,7 +34325,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0312 排少咒術 AnimeJapan2026",
+    "sourceSheet": "★0312 排少咒術 AnimeJapan2026",
     "sourceMonth": "2026-03"
   },
   {
@@ -34336,14 +34336,14 @@
     ],
     "productAmount": 600,
     "depositPaid": 600,
-    "secondPayment": 14,
+    "secondPayment": 49,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 14,
-      "cardFee": 0,
+      "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 14,
+    "balanceDue": 49,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34354,7 +34354,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0312 排少咒術 AnimeJapan2026",
+    "sourceSheet": "★0312 排少咒術 AnimeJapan2026",
     "sourceMonth": "2026-03"
   },
   {
@@ -34365,14 +34365,14 @@
     ],
     "productAmount": 480,
     "depositPaid": 480,
-    "secondPayment": 40,
+    "secondPayment": 74,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 40,
-      "cardFee": 0,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 40,
+    "balanceDue": 74,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34383,7 +34383,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0312 排少咒術 AnimeJapan2026",
+    "sourceSheet": "★0312 排少咒術 AnimeJapan2026",
     "sourceMonth": "2026-03"
   },
   {
@@ -34394,14 +34394,14 @@
     ],
     "productAmount": 960,
     "depositPaid": 960,
-    "secondPayment": 80,
+    "secondPayment": 121,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 80,
-      "cardFee": 0,
+      "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 80,
+    "balanceDue": 121,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34416,7 +34416,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0312 排少咒術 AnimeJapan2026",
+    "sourceSheet": "★0312 排少咒術 AnimeJapan2026",
     "sourceMonth": "2026-03"
   },
   {
