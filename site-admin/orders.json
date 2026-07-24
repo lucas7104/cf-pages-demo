@@ -42945,14 +42945,14 @@
     ],
     "productAmount": 715,
     "depositPaid": 715,
-    "secondPayment": 0,
+    "secondPayment": 19,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 19,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -42963,25 +42963,27 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0408咒術 整理儀容",
+    "sourceSheet": "★0408咒術 整理儀容",
     "sourceMonth": "2026-04"
   },
   {
     "socialName": "Ara",
     "title": "0408咒術 整理儀容",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 790,
-    "depositPaid": 0,
-    "secondPayment": 0,
+    "depositPaid": 790,
+    "secondPayment": 53,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 41,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 790,
+    "balanceDue": 53,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -42998,7 +43000,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0408咒術 整理儀容",
+    "sourceSheet": "★0408咒術 整理儀容",
     "sourceMonth": "2026-04"
   },
   {
@@ -43009,14 +43011,14 @@
     ],
     "productAmount": 480,
     "depositPaid": 480,
-    "secondPayment": 0,
+    "secondPayment": 40,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 33,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 40,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -43027,7 +43029,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0408咒術 整理儀容",
+    "sourceSheet": "★0408咒術 整理儀容",
     "sourceMonth": "2026-04"
   },
   {
@@ -43038,14 +43040,14 @@
     ],
     "productAmount": 480,
     "depositPaid": 480,
-    "secondPayment": 0,
+    "secondPayment": 40,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 33,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 40,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -43056,7 +43058,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0408咒術 整理儀容",
+    "sourceSheet": "★0408咒術 整理儀容",
     "sourceMonth": "2026-04"
   },
   {
@@ -43067,14 +43069,14 @@
     ],
     "productAmount": 1440,
     "depositPaid": 1440,
-    "secondPayment": 0,
+    "secondPayment": 120,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 99,
+      "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 120,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -43093,7 +43095,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0408咒術 整理儀容",
+    "sourceSheet": "★0408咒術 整理儀容",
     "sourceMonth": "2026-04"
   },
   {
@@ -43104,14 +43106,14 @@
     ],
     "productAmount": 480,
     "depositPaid": 480,
-    "secondPayment": 0,
+    "secondPayment": 40,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 33,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 40,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -43122,7 +43124,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0408咒術 整理儀容",
+    "sourceSheet": "★0408咒術 整理儀容",
     "sourceMonth": "2026-04"
   },
   {
