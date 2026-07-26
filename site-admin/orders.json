@@ -45404,14 +45404,14 @@
     ],
     "productAmount": 635,
     "depositPaid": 635,
-    "secondPayment": 0,
+    "secondPayment": 32,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 23,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 32,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -45422,7 +45422,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0421咒術 死滅迴游徽章個人池",
+    "sourceSheet": "★0421咒術 死滅迴游徽章個人池",
     "sourceMonth": "2026-04"
   },
   {
@@ -45434,14 +45434,14 @@
     ],
     "productAmount": 635,
     "depositPaid": 635,
-    "secondPayment": 0,
+    "secondPayment": 32,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 23,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 32,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -45452,7 +45452,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0421咒術 死滅迴游徽章個人池",
+    "sourceSheet": "★0421咒術 死滅迴游徽章個人池",
     "sourceMonth": "2026-04"
   },
   {
@@ -45464,14 +45464,14 @@
     ],
     "productAmount": 635,
     "depositPaid": 635,
-    "secondPayment": 0,
+    "secondPayment": 32,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 23,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 32,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -45482,7 +45482,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0421咒術 死滅迴游徽章個人池",
+    "sourceSheet": "★0421咒術 死滅迴游徽章個人池",
     "sourceMonth": "2026-04"
   },
   {
