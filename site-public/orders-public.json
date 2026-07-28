@@ -17015,14 +17015,14 @@
     ],
     "productAmount": 4400,
     "depositPaid": 0,
-    "secondPayment": 28,
+    "secondPayment": 133,
     "secondPaymentBreakdown": {
       "domesticShipping": 28,
-      "internationalShipping": 0,
+      "internationalShipping": 105,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 4428,
+    "balanceDue": 4533,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
