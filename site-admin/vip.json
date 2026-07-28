@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T07:21:52.453Z",
+  "generatedAt": "2026-07-28T07:31:53.567Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -12,7 +12,7 @@
       "topTen": [
         {
           "name": "婷婷",
-          "amount": 102455
+          "amount": 109280
         },
         {
           "name": "TYT",
@@ -115,7 +115,7 @@
       "topTen": [
         {
           "name": "婷婷",
-          "amount": 102455
+          "amount": 109280
         },
         {
           "name": "TYT",
@@ -150,8 +150,8 @@
           "amount": 15425
         },
         {
-          "name": "楚翔",
-          "amount": 12740
+          "name": "力卡",
+          "amount": 12860
         }
       ]
     },
@@ -349,6 +349,10 @@
       "children": [],
       "topTen": [
         {
+          "name": "婷婷",
+          "amount": 13670
+        },
+        {
           "name": "TYT",
           "amount": 12890
         },
@@ -361,16 +365,12 @@
           "amount": 9030
         },
         {
-          "name": "婷婷",
-          "amount": 6845
+          "name": "力卡",
+          "amount": 8520
         },
         {
           "name": "江蘇菲",
           "amount": 6815
-        },
-        {
-          "name": "力卡",
-          "amount": 6340
         },
         {
           "name": "Chloe Lin",

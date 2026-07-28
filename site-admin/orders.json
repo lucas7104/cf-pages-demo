@@ -29585,6 +29585,40 @@
     "sourceMonth": "2026-02"
   },
   {
+    "socialName": "婷婷",
+    "title": "0215我英 Ani-art",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 6825,
+    "depositPaid": 6825,
+    "secondPayment": 294,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 207,
+      "cardFee": 87,
+      "packagingFee": 0
+    },
+    "balanceDue": 294,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "像卡",
+        "qty": 3
+      },
+      {
+        "name": "徽章",
+        "qty": 3
+      }
+    ],
+    "sourceSheet": "★0215我英 Ani-art",
+    "sourceMonth": "2026-02"
+  },
+  {
     "socialName": "Peggy",
     "title": "0215鏈鋸人 拍立得小卡",
     "statusBadges": [
@@ -29645,6 +29679,36 @@
     "sourceMonth": "2026-02"
   },
   {
+    "socialName": "Alia",
+    "title": "0217 Gachiakuta 私服",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 480,
+    "depositPaid": 480,
+    "secondPayment": 25,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 18,
+      "cardFee": 7,
+      "packagingFee": 0
+    },
+    "balanceDue": 25,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (恩琴)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "★0217 Gachiakuta 私服",
+    "sourceMonth": "2026-02"
+  },
+  {
     "socialName": "婷婷",
     "title": "0217 Gachiakuta 私服",
     "statusBadges": [
@@ -29669,6 +29733,44 @@
       {
         "name": "徽章 抱盒",
         "qty": 1
+      }
+    ],
+    "sourceSheet": "★0217 Gachiakuta 私服",
+    "sourceMonth": "2026-02"
+  },
+  {
+    "socialName": "力卡",
+    "title": "0217 Gachiakuta 私服",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 2180,
+    "depositPaid": 2180,
+    "secondPayment": 110,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 80,
+      "cardFee": 30,
+      "packagingFee": 0
+    },
+    "balanceDue": 110,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "立牌 (路德)",
+        "qty": 1
+      },
+      {
+        "name": "資料夾 (路德)",
+        "qty": 1
+      },
+      {
+        "name": "徽章 抱盒",
+        "qty": 3
       }
     ],
     "sourceSheet": "★0217 Gachiakuta 私服",
