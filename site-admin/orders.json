@@ -21922,7 +21922,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0106咒術 冬季版寶寶娃",
+    "sourceSheet": "★0106咒術 冬季版寶寶娃",
     "sourceMonth": "2026-01"
   },
   {
@@ -21952,7 +21952,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0106咒術 冬季版寶寶娃",
+    "sourceSheet": "★0106咒術 冬季版寶寶娃",
     "sourceMonth": "2026-01"
   },
   {
@@ -21986,7 +21986,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0106咒術 冬季版寶寶娃",
+    "sourceSheet": "★0106咒術 冬季版寶寶娃",
     "sourceMonth": "2026-01"
   },
   {
@@ -22016,13 +22016,14 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0106咒術 冬季版寶寶娃",
+    "sourceSheet": "★0106咒術 冬季版寶寶娃",
     "sourceMonth": "2026-01"
   },
   {
     "socialName": "cc",
     "title": "0106咒術 冬季版寶寶娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 940,
@@ -22035,7 +22036,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -22053,13 +22054,14 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0106咒術 冬季版寶寶娃",
+    "sourceSheet": "★0106咒術 冬季版寶寶娃",
     "sourceMonth": "2026-01"
   },
   {
     "socialName": "lpp_ss",
     "title": "0106咒術 冬季版寶寶娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 600,
@@ -22072,7 +22074,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -22086,13 +22088,14 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0106咒術 冬季版寶寶娃",
+    "sourceSheet": "★0106咒術 冬季版寶寶娃",
     "sourceMonth": "2026-01"
   },
   {
     "socialName": "鬆餅🥞",
     "title": "0106咒術 冬季版寶寶娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 300,
@@ -22105,7 +22108,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -22115,7 +22118,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0106咒術 冬季版寶寶娃",
+    "sourceSheet": "★0106咒術 冬季版寶寶娃",
     "sourceMonth": "2026-01"
   },
   {
