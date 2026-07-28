@@ -27913,14 +27913,14 @@
     ],
     "productAmount": 2200,
     "depositPaid": 2200,
-    "secondPayment": 0,
+    "secondPayment": 283,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 184,
+      "internationalShipping": 70,
+      "cardFee": 29,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 283,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -27931,7 +27931,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0204鏈鋸人 情緒系列場景立牌",
+    "sourceSheet": "★0204鏈鋸人 情緒系列場景立牌",
     "sourceMonth": "2026-02"
   },
   {
@@ -33617,14 +33617,14 @@
     ],
     "productAmount": 2255,
     "depositPaid": 1360,
-    "secondPayment": 0,
+    "secondPayment": 135,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 104,
+      "cardFee": 31,
       "packagingFee": 0
     },
-    "balanceDue": 895,
+    "balanceDue": 1030,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -33643,7 +33643,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0310我英 Airtwokyo & 0324討論串",
+    "sourceSheet": "★0310我英 Airtwokyo & 0324討論串",
     "sourceMonth": "2026-03"
   },
   {
@@ -33654,14 +33654,14 @@
     ],
     "productAmount": 680,
     "depositPaid": 680,
-    "secondPayment": 0,
+    "secondPayment": 87,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 78,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 87,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -33672,7 +33672,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0310我英 Airtwokyo & 0324討論串",
+    "sourceSheet": "★0310我英 Airtwokyo & 0324討論串",
     "sourceMonth": "2026-03"
   },
   {
@@ -33683,14 +33683,14 @@
     ],
     "productAmount": 1320,
     "depositPaid": 1320,
-    "secondPayment": 0,
+    "secondPayment": 90,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 72,
+      "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 90,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -33701,7 +33701,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0310我英 Airtwokyo & 0324討論串",
+    "sourceSheet": "★0310我英 Airtwokyo & 0324討論串",
     "sourceMonth": "2026-03"
   },
   {
