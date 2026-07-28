@@ -13304,6 +13304,105 @@
     "sourceMonth": "2025_11"
   },
   {
+    "socialName": "每天都想退休",
+    "title": "1127鬼滅聖誕節",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 135,
+    "depositPaid": 135,
+    "secondPayment": 66,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 66,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 66,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "資料夾",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1127鬼滅聖誕節",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "紅茶拿鐵微微",
+    "title": "1127鬼滅聖誕節",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 680,
+    "depositPaid": 680,
+    "secondPayment": 66,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 66,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 66,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "資料夾",
+        "qty": 1
+      },
+      {
+        "name": "硬殼明信片盒 (時透)",
+        "qty": 1
+      },
+      {
+        "name": "徽章 (時透)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1127鬼滅聖誕節",
+    "sourceMonth": "2025_11"
+  },
+  {
+    "socialName": "Peggy",
+    "title": "1127鬼滅聖誕節",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 355,
+    "depositPaid": 355,
+    "secondPayment": 66,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 66,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 66,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "資料夾",
+        "qty": 1
+      },
+      {
+        "name": "立牌A池",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "1127鬼滅聖誕節",
+    "sourceMonth": "2025_11"
+  },
+  {
     "socialName": "絈",
     "title": "1128 進巨 賽德龐克",
     "statusBadges": [
@@ -17499,105 +17598,6 @@
       }
     ],
     "sourceSheet": "★1212咒術 Jump Festa 2026",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "每天都想退休",
-    "title": "1214鬼滅聖誕節",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 135,
-    "depositPaid": 135,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "資料夾",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1214鬼滅聖誕節",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "紅茶拿鐵微微",
-    "title": "1214鬼滅聖誕節",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 680,
-    "depositPaid": 680,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "資料夾",
-        "qty": 1
-      },
-      {
-        "name": "硬殼明信片盒 (時透)",
-        "qty": 1
-      },
-      {
-        "name": "徽章 (時透)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1214鬼滅聖誕節",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "Peggy",
-    "title": "1214鬼滅聖誕節",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 355,
-    "depositPaid": 355,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "資料夾",
-        "qty": 1
-      },
-      {
-        "name": "立牌A池",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "1214鬼滅聖誕節",
     "sourceMonth": "2025_12"
   },
   {
