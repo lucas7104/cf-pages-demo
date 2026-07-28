@@ -34683,14 +34683,14 @@
     ],
     "productAmount": 5750,
     "depositPaid": 5750,
-    "secondPayment": 495,
+    "secondPayment": 521,
     "secondPaymentBreakdown": {
       "domesticShipping": 170,
-      "internationalShipping": 249,
+      "internationalShipping": 275,
       "cardFee": 76,
       "packagingFee": 0
     },
-    "balanceDue": 495,
+    "balanceDue": 521,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34737,7 +34737,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0313銀魂 回眸",
+    "sourceSheet": "★0313銀魂 回眸",
     "sourceMonth": "2026-03"
   },
   {
@@ -34786,7 +34786,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0313銀魂 回眸",
+    "sourceSheet": "★0313銀魂 回眸",
     "sourceMonth": "2026-03"
   },
   {
@@ -34797,14 +34797,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 115,
+    "secondPayment": 128,
     "secondPaymentBreakdown": {
       "domesticShipping": 109,
-      "internationalShipping": 0,
+      "internationalShipping": 13,
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 115,
+    "balanceDue": 128,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34815,7 +34815,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0313銀魂 回眸",
+    "sourceSheet": "★0313銀魂 回眸",
     "sourceMonth": "2026-03"
   },
   {
@@ -34844,7 +34844,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0313銀魂 回眸",
+    "sourceSheet": "★0313銀魂 回眸",
     "sourceMonth": "2026-03"
   },
   {
@@ -34905,7 +34905,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0313銀魂 回眸",
+    "sourceSheet": "★0313銀魂 回眸",
     "sourceMonth": "2026-03"
   },
   {
@@ -34938,7 +34938,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0313銀魂 回眸",
+    "sourceSheet": "★0313銀魂 回眸",
     "sourceMonth": "2026-03"
   },
   {
@@ -34949,14 +34949,14 @@
     ],
     "productAmount": 1670,
     "depositPaid": 1670,
-    "secondPayment": 308,
+    "secondPayment": 321,
     "secondPaymentBreakdown": {
       "domesticShipping": 170,
-      "internationalShipping": 116,
+      "internationalShipping": 129,
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 308,
+    "balanceDue": 321,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34983,7 +34983,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0313銀魂 回眸",
+    "sourceSheet": "★0313銀魂 回眸",
     "sourceMonth": "2026-03"
   },
   {
@@ -34994,14 +34994,14 @@
     ],
     "productAmount": 3805,
     "depositPaid": 3805,
-    "secondPayment": 311,
+    "secondPayment": 324,
     "secondPaymentBreakdown": {
       "domesticShipping": 170,
-      "internationalShipping": 90,
+      "internationalShipping": 103,
       "cardFee": 51,
       "packagingFee": 0
     },
-    "balanceDue": 311,
+    "balanceDue": 324,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35032,7 +35032,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0313銀魂 回眸",
+    "sourceSheet": "★0313銀魂 回眸",
     "sourceMonth": "2026-03"
   },
   {
@@ -35061,7 +35061,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0313銀魂 回眸",
+    "sourceSheet": "★0313銀魂 回眸",
     "sourceMonth": "2026-03"
   },
   {
@@ -35094,7 +35094,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0313銀魂 回眸",
+    "sourceSheet": "★0313銀魂 回眸",
     "sourceMonth": "2026-03"
   },
   {
@@ -35159,7 +35159,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0313銀魂 回眸",
+    "sourceSheet": "★0313銀魂 回眸",
     "sourceMonth": "2026-03"
   },
   {
@@ -35196,7 +35196,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0313銀魂 回眸",
+    "sourceSheet": "★0313銀魂 回眸",
     "sourceMonth": "2026-03"
   },
   {
@@ -35245,7 +35245,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0313銀魂 回眸",
+    "sourceSheet": "★0313銀魂 回眸",
     "sourceMonth": "2026-03"
   },
   {
@@ -35256,14 +35256,14 @@
     ],
     "productAmount": 1510,
     "depositPaid": 1510,
-    "secondPayment": 254,
+    "secondPayment": 267,
     "secondPaymentBreakdown": {
       "domesticShipping": 170,
-      "internationalShipping": 64,
+      "internationalShipping": 77,
       "cardFee": 20,
       "packagingFee": 0
     },
-    "balanceDue": 254,
+    "balanceDue": 267,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -35306,7 +35306,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0313銀魂 回眸",
+    "sourceSheet": "★0313銀魂 回眸",
     "sourceMonth": "2026-03"
   },
   {
