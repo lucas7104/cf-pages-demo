@@ -29813,14 +29813,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 50,
+    "secondPayment": 65,
     "secondPaymentBreakdown": {
       "domesticShipping": 50,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 50,
+    "balanceDue": 65,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29831,7 +29831,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0217咒術 ensky-2",
+    "sourceSheet": "★0217咒術 ensky-2",
     "sourceMonth": "2026-02"
   },
   {
@@ -29842,14 +29842,14 @@
     ],
     "productAmount": 1080,
     "depositPaid": 1080,
-    "secondPayment": 50,
+    "secondPayment": 104,
     "secondPaymentBreakdown": {
       "domesticShipping": 50,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 39,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 50,
+    "balanceDue": 104,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29868,7 +29868,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0217咒術 ensky-2",
+    "sourceSheet": "★0217咒術 ensky-2",
     "sourceMonth": "2026-02"
   },
   {
@@ -29879,14 +29879,14 @@
     ],
     "productAmount": 800,
     "depositPaid": 800,
-    "secondPayment": 50,
+    "secondPayment": 79,
     "secondPaymentBreakdown": {
       "domesticShipping": 50,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 17,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 50,
+    "balanceDue": 79,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29901,7 +29901,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0217咒術 ensky-2",
+    "sourceSheet": "★0217咒術 ensky-2",
     "sourceMonth": "2026-02"
   },
   {
@@ -29912,14 +29912,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 50,
+    "secondPayment": 65,
     "secondPaymentBreakdown": {
       "domesticShipping": 50,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 50,
+    "balanceDue": 65,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29930,7 +29930,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0217咒術 ensky-2",
+    "sourceSheet": "★0217咒術 ensky-2",
     "sourceMonth": "2026-02"
   },
   {
@@ -29941,14 +29941,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 50,
+    "secondPayment": 65,
     "secondPaymentBreakdown": {
       "domesticShipping": 50,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 50,
+    "balanceDue": 65,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29959,7 +29959,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0217咒術 ensky-2",
+    "sourceSheet": "★0217咒術 ensky-2",
     "sourceMonth": "2026-02"
   },
   {
@@ -29970,14 +29970,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 50,
+    "secondPayment": 65,
     "secondPaymentBreakdown": {
       "domesticShipping": 50,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 50,
+    "balanceDue": 65,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -29988,7 +29988,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0217咒術 ensky-2",
+    "sourceSheet": "★0217咒術 ensky-2",
     "sourceMonth": "2026-02"
   },
   {
@@ -29999,14 +29999,14 @@
     ],
     "productAmount": 1160,
     "depositPaid": 1100,
-    "secondPayment": 50,
+    "secondPayment": 99,
     "secondPaymentBreakdown": {
       "domesticShipping": 50,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 32,
+      "cardFee": 17,
       "packagingFee": 0
     },
-    "balanceDue": 110,
+    "balanceDue": 159,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30025,7 +30025,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0217咒術 ensky-2",
+    "sourceSheet": "★0217咒術 ensky-2",
     "sourceMonth": "2026-02"
   },
   {
@@ -30036,14 +30036,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 50,
+    "secondPayment": 65,
     "secondPaymentBreakdown": {
       "domesticShipping": 50,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 50,
+    "balanceDue": 65,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30054,7 +30054,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0217咒術 ensky-2",
+    "sourceSheet": "★0217咒術 ensky-2",
     "sourceMonth": "2026-02"
   },
   {
@@ -30065,14 +30065,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 50,
+    "secondPayment": 64,
     "secondPaymentBreakdown": {
       "domesticShipping": 50,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 8,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 50,
+    "balanceDue": 64,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -30083,7 +30083,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0217咒術 ensky-2",
+    "sourceSheet": "★0217咒術 ensky-2",
     "sourceMonth": "2026-02"
   },
   {
@@ -30094,14 +30094,14 @@
     ],
     "productAmount": 800,
     "depositPaid": 800,
-    "secondPayment": 50,
+    "secondPayment": 80,
     "secondPaymentBreakdown": {
       "domesticShipping": 50,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 18,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 50,
+    "balanceDue": 80,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30112,7 +30112,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0217咒術 ensky-2",
+    "sourceSheet": "★0217咒術 ensky-2",
     "sourceMonth": "2026-02"
   },
   {
@@ -30123,14 +30123,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 50,
+    "secondPayment": 65,
     "secondPaymentBreakdown": {
       "domesticShipping": 50,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 50,
+    "balanceDue": 65,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30141,7 +30141,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0217咒術 ensky-2",
+    "sourceSheet": "★0217咒術 ensky-2",
     "sourceMonth": "2026-02"
   },
   {
@@ -30163,7 +30163,7 @@
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [],
-    "sourceSheet": "0217咒術 ensky-2",
+    "sourceSheet": "★0217咒術 ensky-2",
     "sourceMonth": "2026-02"
   },
   {
@@ -30174,14 +30174,14 @@
     ],
     "productAmount": 1060,
     "depositPaid": 1060,
-    "secondPayment": 39,
+    "secondPayment": 71,
     "secondPaymentBreakdown": {
       "domesticShipping": 39,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 18,
+      "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 39,
+    "balanceDue": 71,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30196,7 +30196,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0217咒術 ensky-2",
+    "sourceSheet": "★0217咒術 ensky-2",
     "sourceMonth": "2026-02"
   },
   {
@@ -30207,14 +30207,14 @@
     ],
     "productAmount": 530,
     "depositPaid": 530,
-    "secondPayment": 39,
+    "secondPayment": 55,
     "secondPaymentBreakdown": {
       "domesticShipping": 39,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 39,
+    "balanceDue": 55,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30225,7 +30225,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0217咒術 ensky-2",
+    "sourceSheet": "★0217咒術 ensky-2",
     "sourceMonth": "2026-02"
   },
   {
@@ -30236,14 +30236,14 @@
     ],
     "productAmount": 530,
     "depositPaid": 530,
-    "secondPayment": 39,
+    "secondPayment": 55,
     "secondPaymentBreakdown": {
       "domesticShipping": 39,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 39,
+    "balanceDue": 55,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30254,7 +30254,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0217咒術 ensky-2",
+    "sourceSheet": "★0217咒術 ensky-2",
     "sourceMonth": "2026-02"
   },
   {
