@@ -42238,19 +42238,20 @@
     "socialName": "婷婷",
     "title": "0416排少 下雨系列",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1325,
     "depositPaid": 1325,
-    "secondPayment": 161,
+    "secondPayment": 232,
     "secondPaymentBreakdown": {
       "domesticShipping": 161,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 53,
+      "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 161,
-    "etaText": "待公告",
+    "balanceDue": 232,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
