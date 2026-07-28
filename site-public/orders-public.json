@@ -37404,14 +37404,14 @@
     ],
     "productAmount": 2145,
     "depositPaid": 2145,
-    "secondPayment": 90,
+    "secondPayment": 104,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 48,
+      "internationalShipping": 62,
       "cardFee": 42,
       "packagingFee": 0
     },
-    "balanceDue": 90,
+    "balanceDue": 104,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
