@@ -41082,6 +41082,7 @@
     "socialName": "Bao",
     "title": "0410gachiakuta 公主咖啡廳",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 240,
@@ -41094,7 +41095,7 @@
       "packagingFee": 0
     },
     "balanceDue": 36,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41109,6 +41110,7 @@
     "socialName": "赤羽業",
     "title": "0410gachiakuta 公主咖啡廳",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 370,
@@ -41121,7 +41123,7 @@
       "packagingFee": 0
     },
     "balanceDue": 24,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41136,6 +41138,7 @@
     "socialName": "崔西",
     "title": "0410gachiakuta 公主咖啡廳",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 480,
@@ -41148,7 +41151,7 @@
       "packagingFee": 0
     },
     "balanceDue": 24,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41163,6 +41166,7 @@
     "socialName": "力卡",
     "title": "0410gachiakuta 公主咖啡廳",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 615,
@@ -41175,7 +41179,7 @@
       "packagingFee": 0
     },
     "balanceDue": 39,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
