@@ -29784,14 +29784,14 @@
     ],
     "productAmount": 630,
     "depositPaid": 630,
-    "secondPayment": 0,
+    "secondPayment": 123,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 102,
+      "internationalShipping": 12,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 123,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -29802,7 +29802,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0217坂本 神獸",
+    "sourceSheet": "★0217坂本 神獸",
     "sourceMonth": "2026-02"
   },
   {
