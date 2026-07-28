@@ -4927,7 +4927,7 @@
         "qty": 4
       }
     ],
-    "sourceSheet": "1028鬼滅隊士百景",
+    "sourceSheet": "★1028鬼滅隊士百景",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -4938,14 +4938,14 @@
     ],
     "productAmount": 1160,
     "depositPaid": 1060,
-    "secondPayment": 94,
+    "secondPayment": 106,
     "secondPaymentBreakdown": {
       "domesticShipping": 66,
-      "internationalShipping": 8,
+      "internationalShipping": 20,
       "cardFee": 20,
       "packagingFee": 0
     },
-    "balanceDue": 194,
+    "balanceDue": 206,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -4968,7 +4968,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "1028鬼滅隊士百景",
+    "sourceSheet": "★1028鬼滅隊士百景",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -35346,19 +35346,20 @@
     "socialName": "YuH",
     "title": "0315銀魂 munyugurumi新劇場版",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1830,
     "depositPaid": 1800,
-    "secondPayment": 160.21775,
+    "secondPayment": 223,
     "secondPaymentBreakdown": {
-      "domesticShipping": 160.21775,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 161,
+      "internationalShipping": 38,
+      "cardFee": 24,
       "packagingFee": 0
     },
-    "balanceDue": 190.22,
-    "etaText": "待公告",
+    "balanceDue": 253,
+    "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -35376,7 +35377,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0315銀魂 munyugurumi新劇場版",
+    "sourceSheet": "★0315銀魂 munyugurumi新劇場版",
     "sourceMonth": "2026-03"
   },
   {
