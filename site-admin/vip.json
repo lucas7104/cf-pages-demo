@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T07:11:47.134Z",
+  "generatedAt": "2026-07-28T07:21:52.453Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -150,8 +150,8 @@
           "amount": 15425
         },
         {
-          "name": "力卡",
-          "amount": 12860
+          "name": "楚翔",
+          "amount": 12740
         }
       ]
     },
@@ -361,16 +361,16 @@
           "amount": 9030
         },
         {
-          "name": "力卡",
-          "amount": 8520
-        },
-        {
           "name": "婷婷",
           "amount": 6845
         },
         {
           "name": "江蘇菲",
           "amount": 6815
+        },
+        {
+          "name": "力卡",
+          "amount": 6340
         },
         {
           "name": "Chloe Lin",
