@@ -35350,14 +35350,14 @@
     ],
     "productAmount": 1830,
     "depositPaid": 1800,
-    "secondPayment": 0,
+    "secondPayment": 160.21775,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 160.21775,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 30,
+    "balanceDue": 190.22,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
