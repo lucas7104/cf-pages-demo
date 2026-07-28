@@ -12852,14 +12852,14 @@
     ],
     "productAmount": 365,
     "depositPaid": 365,
-    "secondPayment": 0,
+    "secondPayment": 1172,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 1124,
+      "internationalShipping": 43,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 1172,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12870,7 +12870,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1124鬼滅ufotable",
+    "sourceSheet": "★1124鬼滅ufotable",
     "sourceMonth": "2025_11"
   },
   {
@@ -12881,14 +12881,14 @@
     ],
     "productAmount": 200,
     "depositPaid": 200,
-    "secondPayment": 0,
+    "secondPayment": 1133,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 1127,
+      "internationalShipping": 3,
+      "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 1133,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12899,7 +12899,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1124鬼滅ufotable",
+    "sourceSheet": "★1124鬼滅ufotable",
     "sourceMonth": "2025_11"
   },
   {
@@ -12910,14 +12910,14 @@
     ],
     "productAmount": 2880,
     "depositPaid": 2880,
-    "secondPayment": 66,
+    "secondPayment": 160,
     "secondPaymentBreakdown": {
       "domesticShipping": 66,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 56,
+      "cardFee": 38,
       "packagingFee": 0
     },
-    "balanceDue": 66,
+    "balanceDue": 160,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12932,7 +12932,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1124鬼滅ufotable原畫掛毯",
+    "sourceSheet": "★1124鬼滅ufotable原畫掛毯",
     "sourceMonth": "2025_11"
   },
   {
@@ -12943,14 +12943,14 @@
     ],
     "productAmount": 2880,
     "depositPaid": 2880,
-    "secondPayment": 66,
+    "secondPayment": 309,
     "secondPaymentBreakdown": {
       "domesticShipping": 66,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 204,
+      "cardFee": 39,
       "packagingFee": 0
     },
-    "balanceDue": 66,
+    "balanceDue": 309,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -12977,7 +12977,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1124鬼滅ufotable原畫掛毯",
+    "sourceSheet": "★1124鬼滅ufotable原畫掛毯",
     "sourceMonth": "2025_11"
   },
   {
@@ -12988,14 +12988,14 @@
     ],
     "productAmount": 2160,
     "depositPaid": 2160,
-    "secondPayment": 66,
+    "secondPayment": 211,
     "secondPaymentBreakdown": {
       "domesticShipping": 66,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 116,
+      "cardFee": 29,
       "packagingFee": 0
     },
-    "balanceDue": 66,
+    "balanceDue": 211,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -13014,7 +13014,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1124鬼滅ufotable原畫掛毯",
+    "sourceSheet": "★1124鬼滅ufotable原畫掛毯",
     "sourceMonth": "2025_11"
   },
   {
