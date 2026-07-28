@@ -39407,14 +39407,14 @@
     ],
     "productAmount": 4620,
     "depositPaid": 4620,
-    "secondPayment": 0,
+    "secondPayment": 477,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 414,
+      "cardFee": 63,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 477,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39457,7 +39457,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0328芙莉蓮 Ani-art",
+    "sourceSheet": "★0328芙莉蓮 Ani-art",
     "sourceMonth": "2026-03"
   },
   {
@@ -39468,14 +39468,14 @@
     ],
     "productAmount": 1980,
     "depositPaid": 1980,
-    "secondPayment": 0,
+    "secondPayment": 201,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 174,
+      "cardFee": 27,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 201,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39518,7 +39518,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0328芙莉蓮 Ani-art",
+    "sourceSheet": "★0328芙莉蓮 Ani-art",
     "sourceMonth": "2026-03"
   },
   {
@@ -39529,14 +39529,14 @@
     ],
     "productAmount": 440,
     "depositPaid": 440,
-    "secondPayment": 0,
+    "secondPayment": 50,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 44,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 50,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39551,7 +39551,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0328芙莉蓮 Ani-art",
+    "sourceSheet": "★0328芙莉蓮 Ani-art",
     "sourceMonth": "2026-03"
   },
   {
@@ -39562,14 +39562,14 @@
     ],
     "productAmount": 440,
     "depositPaid": 440,
-    "secondPayment": 0,
+    "secondPayment": 50,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 44,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 50,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39584,7 +39584,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0328芙莉蓮 Ani-art",
+    "sourceSheet": "★0328芙莉蓮 Ani-art",
     "sourceMonth": "2026-03"
   },
   {
@@ -39595,14 +39595,14 @@
     ],
     "productAmount": 5280,
     "depositPaid": 5280,
-    "secondPayment": 0,
+    "secondPayment": 530,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 458,
+      "cardFee": 72,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 530,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39645,7 +39645,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0328芙莉蓮 Ani-art",
+    "sourceSheet": "★0328芙莉蓮 Ani-art",
     "sourceMonth": "2026-03"
   },
   {
@@ -39656,14 +39656,14 @@
     ],
     "productAmount": 1980,
     "depositPaid": 1980,
-    "secondPayment": 0,
+    "secondPayment": 201,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 174,
+      "cardFee": 27,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 201,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39706,7 +39706,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0328芙莉蓮 Ani-art",
+    "sourceSheet": "★0328芙莉蓮 Ani-art",
     "sourceMonth": "2026-03"
   },
   {
@@ -39717,14 +39717,14 @@
     ],
     "productAmount": 440,
     "depositPaid": 440,
-    "secondPayment": 0,
+    "secondPayment": 50,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 44,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 50,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39739,7 +39739,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0328芙莉蓮 Ani-art",
+    "sourceSheet": "★0328芙莉蓮 Ani-art",
     "sourceMonth": "2026-03"
   },
   {
@@ -39750,14 +39750,14 @@
     ],
     "productAmount": 2145,
     "depositPaid": 2145,
-    "secondPayment": 0,
+    "secondPayment": 90,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 48,
+      "cardFee": 42,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 90,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39772,7 +39772,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0328芙莉蓮 Ani-art",
+    "sourceSheet": "★0328芙莉蓮 Ani-art",
     "sourceMonth": "2026-03"
   },
   {
@@ -39783,14 +39783,14 @@
     ],
     "productAmount": 440,
     "depositPaid": 440,
-    "secondPayment": 0,
+    "secondPayment": 50,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 44,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 50,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39805,7 +39805,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0328芙莉蓮 Ani-art",
+    "sourceSheet": "★0328芙莉蓮 Ani-art",
     "sourceMonth": "2026-03"
   },
   {
