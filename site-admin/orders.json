@@ -13311,14 +13311,14 @@
     ],
     "productAmount": 135,
     "depositPaid": 135,
-    "secondPayment": 66,
+    "secondPayment": 80,
     "secondPaymentBreakdown": {
       "domesticShipping": 66,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 8,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 66,
+    "balanceDue": 80,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -13329,7 +13329,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1127鬼滅聖誕節",
+    "sourceSheet": "★1127鬼滅聖誕節",
     "sourceMonth": "2025_11"
   },
   {
@@ -13340,14 +13340,14 @@
     ],
     "productAmount": 680,
     "depositPaid": 680,
-    "secondPayment": 66,
+    "secondPayment": 99,
     "secondPaymentBreakdown": {
       "domesticShipping": 66,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 20,
+      "cardFee": 13,
       "packagingFee": 0
     },
-    "balanceDue": 66,
+    "balanceDue": 99,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -13366,7 +13366,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1127鬼滅聖誕節",
+    "sourceSheet": "★1127鬼滅聖誕節",
     "sourceMonth": "2025_11"
   },
   {
@@ -13377,14 +13377,14 @@
     ],
     "productAmount": 355,
     "depositPaid": 355,
-    "secondPayment": 66,
+    "secondPayment": 90,
     "secondPaymentBreakdown": {
       "domesticShipping": 66,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 15,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 66,
+    "balanceDue": 90,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -13399,7 +13399,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1127鬼滅聖誕節",
+    "sourceSheet": "★1127鬼滅聖誕節",
     "sourceMonth": "2025_11"
   },
   {
