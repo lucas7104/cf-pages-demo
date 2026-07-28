@@ -42047,19 +42047,20 @@
     "socialName": "漉",
     "title": "0414咒術 COSPA第三季",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 800,
     "depositPaid": 800,
-    "secondPayment": 142,
+    "secondPayment": 168,
     "secondPaymentBreakdown": {
       "domesticShipping": 142,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 14,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 142,
-    "etaText": "待公告",
+    "balanceDue": 168,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
