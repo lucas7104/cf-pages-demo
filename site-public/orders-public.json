@@ -8400,7 +8400,7 @@
     "socialName": "piao",
     "title": "1114進巨Amnibus復古時尚",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 575,
@@ -8413,7 +8413,7 @@
       "packagingFee": 0
     },
     "balanceDue": 135,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "",
