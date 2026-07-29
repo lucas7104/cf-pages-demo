@@ -2209,7 +2209,7 @@
     "socialName": "ling",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 2150,
@@ -2222,7 +2222,7 @@
       "packagingFee": 0
     },
     "balanceDue": 317,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -2269,7 +2269,7 @@
     "socialName": "惠",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1075,
@@ -2282,7 +2282,7 @@
       "packagingFee": 0
     },
     "balanceDue": 222,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -2449,7 +2449,7 @@
     "socialName": "Piao",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 2580,
@@ -2462,7 +2462,7 @@
       "packagingFee": 0
     },
     "balanceDue": 355,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "A水換Saki猗窩座",
@@ -2509,7 +2509,7 @@
     "socialName": "Snailll",
     "title": "1015鬼滅抽賞色紙",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 2580,
@@ -2522,7 +2522,7 @@
       "packagingFee": 0
     },
     "balanceDue": 355,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
