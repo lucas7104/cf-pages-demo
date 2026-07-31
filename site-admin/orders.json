@@ -4893,6 +4893,7 @@
     "socialName": "Eilish",
     "title": "1028鬼滅隊士百景",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 4800,
@@ -4905,7 +4906,7 @@
       "packagingFee": 0
     },
     "balanceDue": 309,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -4934,6 +4935,7 @@
     "socialName": "snailll",
     "title": "1028鬼滅隊士百景",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1160,
@@ -4946,7 +4948,7 @@
       "packagingFee": 0
     },
     "balanceDue": 206,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
