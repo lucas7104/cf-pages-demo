@@ -26401,7 +26401,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0129 芙莉蓮 COMIXYZ",
+    "sourceSheet": "★0129 芙莉蓮 COMIXYZ",
     "sourceMonth": "2026-01"
   },
   {
@@ -26413,14 +26413,14 @@
     ],
     "productAmount": 960,
     "depositPaid": 960,
-    "secondPayment": 158,
+    "secondPayment": 202,
     "secondPaymentBreakdown": {
       "domesticShipping": 144,
-      "internationalShipping": 0,
+      "internationalShipping": 44,
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 158,
+    "balanceDue": 202,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26431,7 +26431,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0129 芙莉蓮 COMIXYZ",
+    "sourceSheet": "★0129 芙莉蓮 COMIXYZ",
     "sourceMonth": "2026-01"
   },
   {
@@ -26473,7 +26473,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0129 芙莉蓮 COMIXYZ",
+    "sourceSheet": "★0129 芙莉蓮 COMIXYZ",
     "sourceMonth": "2026-01"
   },
   {
@@ -26503,7 +26503,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0129 芙莉蓮 COMIXYZ",
+    "sourceSheet": "★0129 芙莉蓮 COMIXYZ",
     "sourceMonth": "2026-01"
   },
   {
@@ -43036,14 +43036,14 @@
     ],
     "productAmount": 790,
     "depositPaid": 790,
-    "secondPayment": 53,
+    "secondPayment": 54,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 41,
+      "internationalShipping": 42,
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 53,
+    "balanceDue": 54,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -43765,7 +43765,7 @@
         "qty": 3
       }
     ],
-    "sourceSheet": "0410gachiakuta 公主咖啡廳",
+    "sourceSheet": "★0410gachiakuta 公主咖啡廳",
     "sourceMonth": "2026-04"
   },
   {
@@ -43777,14 +43777,14 @@
     ],
     "productAmount": 370,
     "depositPaid": 370,
-    "secondPayment": 28,
+    "secondPayment": 33,
     "secondPaymentBreakdown": {
       "domesticShipping": 24,
       "internationalShipping": 4,
-      "cardFee": 0,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 28,
+    "balanceDue": 33,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -43795,7 +43795,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0410gachiakuta 公主咖啡廳",
+    "sourceSheet": "★0410gachiakuta 公主咖啡廳",
     "sourceMonth": "2026-04"
   },
   {
@@ -43807,14 +43807,14 @@
     ],
     "productAmount": 480,
     "depositPaid": 480,
-    "secondPayment": 24,
+    "secondPayment": 43,
     "secondPaymentBreakdown": {
       "domesticShipping": 24,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 12,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 24,
+    "balanceDue": 43,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -43825,7 +43825,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0410gachiakuta 公主咖啡廳",
+    "sourceSheet": "★0410gachiakuta 公主咖啡廳",
     "sourceMonth": "2026-04"
   },
   {
@@ -43837,14 +43837,14 @@
     ],
     "productAmount": 615,
     "depositPaid": 600,
-    "secondPayment": 24,
+    "secondPayment": 44,
     "secondPaymentBreakdown": {
       "domesticShipping": 24,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 11,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 39,
+    "balanceDue": 59,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -43859,7 +43859,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0410gachiakuta 公主咖啡廳",
+    "sourceSheet": "★0410gachiakuta 公主咖啡廳",
     "sourceMonth": "2026-04"
   },
   {
