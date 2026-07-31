@@ -12850,6 +12850,7 @@
     "socialName": "cc",
     "title": "1124鬼滅ufotable",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 365,
@@ -12862,7 +12863,7 @@
       "packagingFee": 0
     },
     "balanceDue": 1172,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -12879,6 +12880,7 @@
     "socialName": "每天都想退休",
     "title": "1124鬼滅ufotable",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 200,
@@ -12891,7 +12893,7 @@
       "packagingFee": 0
     },
     "balanceDue": 1133,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -12908,6 +12910,7 @@
     "socialName": "snailll",
     "title": "1124鬼滅ufotable原畫掛毯",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2880,
@@ -12920,7 +12923,7 @@
       "packagingFee": 0
     },
     "balanceDue": 160,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -12941,6 +12944,7 @@
     "socialName": "cc",
     "title": "1124鬼滅ufotable原畫掛毯",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2880,
@@ -12953,7 +12957,7 @@
       "packagingFee": 0
     },
     "balanceDue": 309,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -12986,6 +12990,7 @@
     "socialName": "承",
     "title": "1124鬼滅ufotable原畫掛毯",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2160,
@@ -12998,7 +13003,7 @@
       "packagingFee": 0
     },
     "balanceDue": 211,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -13309,6 +13314,7 @@
     "socialName": "每天都想退休",
     "title": "1127鬼滅聖誕節",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 135,
@@ -13321,7 +13327,7 @@
       "packagingFee": 0
     },
     "balanceDue": 80,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -13338,6 +13344,7 @@
     "socialName": "紅茶拿鐵微微",
     "title": "1127鬼滅聖誕節",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 680,
@@ -13350,7 +13357,7 @@
       "packagingFee": 0
     },
     "balanceDue": 99,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -13375,6 +13382,7 @@
     "socialName": "Peggy",
     "title": "1127鬼滅聖誕節",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 355,
@@ -13387,7 +13395,7 @@
       "packagingFee": 0
     },
     "balanceDue": 90,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -23459,7 +23467,7 @@
         "qty": 12
       }
     ],
-    "sourceSheet": "0119幻影夜行本舖抽賞",
+    "sourceSheet": "★0119幻影夜行本舖抽賞",
     "sourceMonth": "2026-01"
   },
   {
@@ -23488,7 +23496,7 @@
         "qty": 4
       }
     ],
-    "sourceSheet": "0119幻影夜行本舖抽賞",
+    "sourceSheet": "★0119幻影夜行本舖抽賞",
     "sourceMonth": "2026-01"
   },
   {
@@ -23517,7 +23525,7 @@
         "qty": 12
       }
     ],
-    "sourceSheet": "0119幻影夜行本舖抽賞",
+    "sourceSheet": "★0119幻影夜行本舖抽賞",
     "sourceMonth": "2026-01"
   },
   {
@@ -23546,7 +23554,7 @@
         "qty": 8
       }
     ],
-    "sourceSheet": "0119幻影夜行本舖抽賞",
+    "sourceSheet": "★0119幻影夜行本舖抽賞",
     "sourceMonth": "2026-01"
   },
   {
@@ -23575,7 +23583,7 @@
         "qty": 8
       }
     ],
-    "sourceSheet": "0119幻影夜行本舖抽賞",
+    "sourceSheet": "★0119幻影夜行本舖抽賞",
     "sourceMonth": "2026-01"
   },
   {
@@ -23604,7 +23612,7 @@
         "qty": 24
       }
     ],
-    "sourceSheet": "0119幻影夜行本舖抽賞",
+    "sourceSheet": "★0119幻影夜行本舖抽賞",
     "sourceMonth": "2026-01"
   },
   {
@@ -23633,7 +23641,7 @@
         "qty": 12
       }
     ],
-    "sourceSheet": "0119幻影夜行本舖抽賞",
+    "sourceSheet": "★0119幻影夜行本舖抽賞",
     "sourceMonth": "2026-01"
   },
   {
@@ -23662,7 +23670,7 @@
         "qty": 4
       }
     ],
-    "sourceSheet": "0119幻影夜行本舖抽賞",
+    "sourceSheet": "★0119幻影夜行本舖抽賞",
     "sourceMonth": "2026-01"
   },
   {
@@ -23691,7 +23699,7 @@
         "qty": 4
       }
     ],
-    "sourceSheet": "0119幻影夜行本舖抽賞",
+    "sourceSheet": "★0119幻影夜行本舖抽賞",
     "sourceMonth": "2026-01"
   },
   {
