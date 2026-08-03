@@ -14458,6 +14458,147 @@
     "sourceMonth": "2025_12"
   },
   {
+    "socialName": "西西👻",
+    "title": "1202鬼滅 Ufotable多角色抽賞",
+    "statusBadges": [],
+    "productAmount": 825,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 825,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "Q版義勇(5抽)",
+        "qty": 5
+      }
+    ],
+    "sourceSheet": "1202鬼滅 Ufotable多角色抽賞",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "華",
+    "title": "1202鬼滅 Ufotable多角色抽賞",
+    "statusBadges": [],
+    "productAmount": 990,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 990,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "香忍 (5抽)",
+        "qty": 6
+      }
+    ],
+    "sourceSheet": "1202鬼滅 Ufotable多角色抽賞",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "Leila",
+    "title": "1202鬼滅 Ufotable多角色抽賞",
+    "statusBadges": [],
+    "productAmount": 680,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 680,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "時透 (單抽)",
+        "qty": 2
+      },
+      {
+        "name": "善逸 (五抽)",
+        "qty": 2
+      }
+    ],
+    "sourceSheet": "1202鬼滅 Ufotable多角色抽賞",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "piao",
+    "title": "1202鬼滅 Ufotable多角色抽賞",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 825,
+    "depositPaid": 825,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "無卡",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "蛇戀 (5抽)",
+        "qty": 5
+      }
+    ],
+    "sourceSheet": "1202鬼滅 Ufotable多角色抽賞",
+    "sourceMonth": "2025_12"
+  },
+  {
+    "socialName": "GU搭",
+    "title": "1202鬼滅 Ufotable多角色抽賞",
+    "statusBadges": [],
+    "productAmount": 825,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 825,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "香奈呼(5抽)",
+        "qty": 5
+      }
+    ],
+    "sourceSheet": "1202鬼滅 Ufotable多角色抽賞",
+    "sourceMonth": "2025_12"
+  },
+  {
     "socialName": "Vivian_lai372",
     "title": "1203 咒術 安美Chugai萬聖節",
     "statusBadges": [
@@ -20770,147 +20911,6 @@
       }
     ],
     "sourceSheet": "★1228咒術 小娃",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "西西👻",
-    "title": "1228鬼滅 Ufotable多角色抽賞",
-    "statusBadges": [],
-    "productAmount": 825,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 825,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "Q版義勇(5抽)",
-        "qty": 5
-      }
-    ],
-    "sourceSheet": "1228鬼滅 Ufotable多角色抽賞",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "華",
-    "title": "1228鬼滅 Ufotable多角色抽賞",
-    "statusBadges": [],
-    "productAmount": 990,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 990,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "香忍 (5抽)",
-        "qty": 6
-      }
-    ],
-    "sourceSheet": "1228鬼滅 Ufotable多角色抽賞",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "Leila",
-    "title": "1228鬼滅 Ufotable多角色抽賞",
-    "statusBadges": [],
-    "productAmount": 680,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 680,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "時透 (單抽)",
-        "qty": 2
-      },
-      {
-        "name": "善逸 (五抽)",
-        "qty": 2
-      }
-    ],
-    "sourceSheet": "1228鬼滅 Ufotable多角色抽賞",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "piao",
-    "title": "1228鬼滅 Ufotable多角色抽賞",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 825,
-    "depositPaid": 825,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "無卡",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "蛇戀 (5抽)",
-        "qty": 5
-      }
-    ],
-    "sourceSheet": "1228鬼滅 Ufotable多角色抽賞",
-    "sourceMonth": "2025_12"
-  },
-  {
-    "socialName": "GU搭",
-    "title": "1228鬼滅 Ufotable多角色抽賞",
-    "statusBadges": [],
-    "productAmount": 825,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 825,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "香奈呼(5抽)",
-        "qty": 5
-      }
-    ],
-    "sourceSheet": "1228鬼滅 Ufotable多角色抽賞",
     "sourceMonth": "2025_12"
   },
   {
