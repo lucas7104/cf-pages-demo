@@ -14261,6 +14261,7 @@
     "socialName": "Feiiii",
     "title": "1203不死川實彌掌中公仔",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1760,
@@ -14273,7 +14274,7 @@
       "packagingFee": 0
     },
     "balanceDue": 215,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
