@@ -30192,6 +30192,7 @@
     "socialName": "暈",
     "title": "0217咒術 ensky-2",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1060,
@@ -30204,7 +30205,7 @@
       "packagingFee": 0
     },
     "balanceDue": 71,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -30225,6 +30226,7 @@
     "socialName": "雪雪",
     "title": "0217咒術 ensky-2",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 530,
@@ -30237,7 +30239,7 @@
       "packagingFee": 0
     },
     "balanceDue": 55,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -30254,6 +30256,7 @@
     "socialName": "鹹酥雞、米血、百頁豆腐，要洋蔥不要辣",
     "title": "0217咒術 ensky-2",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 530,
@@ -30266,7 +30269,7 @@
       "packagingFee": 0
     },
     "balanceDue": 55,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -34292,6 +34295,7 @@
     "socialName": "しおり／西歐梨🍐",
     "title": "0312 排少咒術 AnimeJapan2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 960,
@@ -34304,7 +34308,7 @@
       "packagingFee": 0
     },
     "balanceDue": 49,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -34321,6 +34325,7 @@
     "socialName": "高八毛",
     "title": "0312 排少咒術 AnimeJapan2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1560,
@@ -34333,7 +34338,7 @@
       "packagingFee": 0
     },
     "balanceDue": 136,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -34354,6 +34359,7 @@
     "socialName": "季",
     "title": "0312 排少咒術 AnimeJapan2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 985,
@@ -34366,7 +34372,7 @@
       "packagingFee": 0
     },
     "balanceDue": 69,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -34391,6 +34397,7 @@
     "socialName": "婷婷",
     "title": "0312 排少咒術 AnimeJapan2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 600,
@@ -34403,7 +34410,7 @@
       "packagingFee": 0
     },
     "balanceDue": 49,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -34420,6 +34427,7 @@
     "socialName": "雪雪",
     "title": "0312 排少咒術 AnimeJapan2026",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 480,
@@ -34432,7 +34440,7 @@
       "packagingFee": 0
     },
     "balanceDue": 74,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -34449,6 +34457,7 @@
     "socialName": "_🦊",
     "title": "0312 排少咒術 AnimeJapan2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 960,
@@ -34461,7 +34470,7 @@
       "packagingFee": 0
     },
     "balanceDue": 121,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
