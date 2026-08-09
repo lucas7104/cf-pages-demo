@@ -4652,14 +4652,14 @@
     ],
     "productAmount": 1980,
     "depositPaid": 1880,
-    "secondPayment": 0,
+    "secondPayment": 106,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 69,
+      "internationalShipping": 37,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 206,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -4670,7 +4670,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1025鬼滅老照片風",
+    "sourceSheet": "★1025鬼滅老照片風",
     "sourceMonth": "2025_09_10"
   },
   {
@@ -4681,14 +4681,14 @@
     ],
     "productAmount": 1980,
     "depositPaid": 1880,
-    "secondPayment": 0,
+    "secondPayment": 106,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 69,
+      "internationalShipping": 37,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 100,
+    "balanceDue": 206,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -4699,7 +4699,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "1025鬼滅老照片風",
+    "sourceSheet": "★1025鬼滅老照片風",
     "sourceMonth": "2025_09_10"
   },
   {
