@@ -21990,7 +21990,7 @@
     "socialName": "臉書LI En-tsu",
     "title": "0118坂本日常 威化餅食玩",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1320,
@@ -22003,7 +22003,7 @@
       "packagingFee": 10
     },
     "balanceDue": 414,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -26357,7 +26357,7 @@
     "socialName": "Lulumi",
     "title": "0208 鏈鋸人 波奇塔可動鑰匙圈",
     "statusBadges": [
-      "已抵台"
+      "已出貨"
     ],
     "productAmount": 715,
     "depositPaid": 0,
@@ -26369,8 +26369,8 @@
       "packagingFee": 0
     },
     "balanceDue": 836,
-    "etaText": "已抵台",
-    "paymentMethod": "未填",
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -27190,7 +27190,7 @@
     "statusBadges": [
       "已抵台"
     ],
-    "productAmount": 1325,
+    "productAmount": 1670,
     "depositPaid": 0,
     "secondPayment": 142,
     "secondPaymentBreakdown": {
@@ -27199,7 +27199,7 @@
       "cardFee": 23,
       "packagingFee": 0
     },
-    "balanceDue": 1467,
+    "balanceDue": 1812,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -27979,7 +27979,7 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 630,
+    "productAmount": 0,
     "depositPaid": 630,
     "secondPayment": 123,
     "secondPaymentBreakdown": {
@@ -27988,7 +27988,7 @@
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 123,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -40794,19 +40794,21 @@
   {
     "socialName": "甄噠",
     "title": "0408家庭教師 一番賞",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 1800,
-    "depositPaid": 0,
-    "secondPayment": 0,
+    "depositPaid": 1800,
+    "secondPayment": 161,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 161,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 1800,
+    "balanceDue": 161,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
@@ -41530,9 +41532,11 @@
   {
     "socialName": "lpp_ss",
     "title": "0411咒術 死滅洄游麻糬娃",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 590,
-    "depositPaid": 0,
+    "depositPaid": 590,
     "secondPayment": 66,
     "secondPaymentBreakdown": {
       "domesticShipping": 66,
@@ -41540,9 +41544,9 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 656,
+    "balanceDue": 66,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
