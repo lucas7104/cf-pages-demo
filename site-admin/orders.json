@@ -29793,7 +29793,7 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 0,
+    "productAmount": 630,
     "depositPaid": 630,
     "secondPayment": 123,
     "secondPaymentBreakdown": {
@@ -29802,7 +29802,7 @@
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 123,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
