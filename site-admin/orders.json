@@ -23564,16 +23564,16 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 1480,
+    "productAmount": 2220,
     "depositPaid": 1480,
-    "secondPayment": 124,
+    "secondPayment": 136,
     "secondPaymentBreakdown": {
       "domesticShipping": 19,
       "internationalShipping": 81,
-      "cardFee": 24,
+      "cardFee": 36,
       "packagingFee": 0
     },
-    "balanceDue": 124,
+    "balanceDue": 876,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -23581,7 +23581,7 @@
     "items": [
       {
         "name": "四抽",
-        "qty": 8
+        "qty": 12
       }
     ],
     "sourceSheet": "★0119幻影夜行本舖抽賞",
@@ -34886,7 +34886,7 @@
     "socialName": "Suzy",
     "title": "0313銀魂 回眸",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1365,
@@ -34899,7 +34899,7 @@
       "packagingFee": 0
     },
     "balanceDue": 172,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
