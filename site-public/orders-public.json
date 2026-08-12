@@ -38911,14 +38911,14 @@
     ],
     "productAmount": 2675,
     "depositPaid": 2675,
-    "secondPayment": 232,
+    "secondPayment": 196,
     "secondPaymentBreakdown": {
       "domesticShipping": 12,
-      "internationalShipping": 181,
+      "internationalShipping": 145,
       "cardFee": 39,
       "packagingFee": 0
     },
-    "balanceDue": 232,
+    "balanceDue": 196,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39170,23 +39170,23 @@
     "socialName": "Jccc",
     "title": "0331咒術 TOHO五週年第三彈",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 240,
     "depositPaid": 240,
-    "secondPayment": 60,
+    "secondPayment": 24,
     "secondPaymentBreakdown": {
       "domesticShipping": 12,
-      "internationalShipping": 44,
+      "internationalShipping": 8,
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 60,
-    "etaText": "已抵台",
+    "balanceDue": 24,
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "待退款36",
     "items": [
       {
         "name": "明信片套組",
@@ -39203,18 +39203,18 @@
     ],
     "productAmount": 240,
     "depositPaid": 240,
-    "secondPayment": 60,
+    "secondPayment": 24,
     "secondPaymentBreakdown": {
       "domesticShipping": 12,
-      "internationalShipping": 44,
+      "internationalShipping": 8,
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 60,
+    "balanceDue": 24,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "待退款36",
     "items": [
       {
         "name": "明信片套組",
