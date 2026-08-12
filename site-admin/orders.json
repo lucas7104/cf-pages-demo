@@ -40447,7 +40447,7 @@
     "socialName": "N",
     "title": "0329咒術 KOTOWARI仙台",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 660,
@@ -40460,7 +40460,7 @@
       "packagingFee": 0
     },
     "balanceDue": 62,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41387,14 +41387,14 @@
     ],
     "productAmount": 2675,
     "depositPaid": 2675,
-    "secondPayment": 196,
+    "secondPayment": 197,
     "secondPaymentBreakdown": {
       "domesticShipping": 12,
-      "internationalShipping": 145,
+      "internationalShipping": 146,
       "cardFee": 39,
       "packagingFee": 0
     },
-    "balanceDue": 196,
+    "balanceDue": 197,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41667,18 +41667,18 @@
     ],
     "productAmount": 240,
     "depositPaid": 240,
-    "secondPayment": 24,
+    "secondPayment": 25,
     "secondPaymentBreakdown": {
       "domesticShipping": 12,
-      "internationalShipping": 8,
+      "internationalShipping": 9,
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 24,
+    "balanceDue": 25,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "待退款36",
+    "note": "待退款35",
     "items": [
       {
         "name": "明信片套組",
@@ -41697,18 +41697,18 @@
     ],
     "productAmount": 240,
     "depositPaid": 240,
-    "secondPayment": 24,
+    "secondPayment": 25,
     "secondPaymentBreakdown": {
       "domesticShipping": 12,
-      "internationalShipping": 8,
+      "internationalShipping": 9,
       "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 24,
+    "balanceDue": 25,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "待退款36",
+    "note": "待退款35",
     "items": [
       {
         "name": "明信片套組",
