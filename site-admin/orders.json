@@ -40274,14 +40274,14 @@
     ],
     "productAmount": 405,
     "depositPaid": 405,
-    "secondPayment": 44,
+    "secondPayment": 69,
     "secondPaymentBreakdown": {
-      "domesticShipping": 38,
+      "domesticShipping": 63,
       "internationalShipping": 0,
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 44,
+    "balanceDue": 69,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -40312,14 +40312,14 @@
     ],
     "productAmount": 2485,
     "depositPaid": 2485,
-    "secondPayment": 183,
+    "secondPayment": 275,
     "secondPaymentBreakdown": {
-      "domesticShipping": 65,
+      "domesticShipping": 157,
       "internationalShipping": 81,
       "cardFee": 37,
       "packagingFee": 0
     },
-    "balanceDue": 183,
+    "balanceDue": 275,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -40358,14 +40358,14 @@
     ],
     "productAmount": 615,
     "depositPaid": 615,
-    "secondPayment": 52,
+    "secondPayment": 119,
     "secondPaymentBreakdown": {
-      "domesticShipping": 27,
+      "domesticShipping": 94,
       "internationalShipping": 16,
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 52,
+    "balanceDue": 119,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -40392,14 +40392,14 @@
     ],
     "productAmount": 480,
     "depositPaid": 480,
-    "secondPayment": 46,
+    "secondPayment": 57,
     "secondPaymentBreakdown": {
-      "domesticShipping": 27,
+      "domesticShipping": 38,
       "internationalShipping": 12,
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 46,
+    "balanceDue": 57,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -40422,14 +40422,14 @@
     ],
     "productAmount": 135,
     "depositPaid": 135,
-    "secondPayment": 33,
+    "secondPayment": 44,
     "secondPaymentBreakdown": {
-      "domesticShipping": 27,
+      "domesticShipping": 38,
       "internationalShipping": 4,
       "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 33,
+    "balanceDue": 44,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -40452,14 +40452,14 @@
     ],
     "productAmount": 660,
     "depositPaid": 660,
-    "secondPayment": 62,
+    "secondPayment": 87,
     "secondPaymentBreakdown": {
-      "domesticShipping": 38,
+      "domesticShipping": 63,
       "internationalShipping": 12,
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 62,
+    "balanceDue": 87,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -40474,31 +40474,6 @@
     "sourceMonth": "2026-03"
   },
   {
-    "socialName": "高八毛",
-    "title": "0329咒術 KOTOWARI仙台",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 0,
-    "depositPaid": 660,
-    "secondPayment": 38,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 38,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [],
-    "sourceSheet": "★0329咒術 KOTOWARI仙台",
-    "sourceMonth": "2026-03"
-  },
-  {
     "socialName": "Kaho",
     "title": "0329咒術 KOTOWARI仙台",
     "statusBadges": [
@@ -40507,14 +40482,14 @@
     ],
     "productAmount": 135,
     "depositPaid": 135,
-    "secondPayment": 33,
+    "secondPayment": 44,
     "secondPaymentBreakdown": {
-      "domesticShipping": 27,
+      "domesticShipping": 38,
       "internationalShipping": 4,
       "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 33,
+    "balanceDue": 44,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -40529,31 +40504,6 @@
     "sourceMonth": "2026-03"
   },
   {
-    "socialName": "暈",
-    "title": "0329咒術 KOTOWARI仙台",
-    "statusBadges": [
-      "已抵台",
-      "已付訂金"
-    ],
-    "productAmount": 0,
-    "depositPaid": 660,
-    "secondPayment": 38,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 38,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "已抵台",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [],
-    "sourceSheet": "★0329咒術 KOTOWARI仙台",
-    "sourceMonth": "2026-03"
-  },
-  {
     "socialName": "nako",
     "title": "0329咒術 KOTOWARI仙台",
     "statusBadges": [
@@ -40562,14 +40512,14 @@
     ],
     "productAmount": 480,
     "depositPaid": 480,
-    "secondPayment": 46,
+    "secondPayment": 57,
     "secondPaymentBreakdown": {
-      "domesticShipping": 27,
+      "domesticShipping": 38,
       "internationalShipping": 12,
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 46,
+    "balanceDue": 57,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -40592,14 +40542,14 @@
     ],
     "productAmount": 480,
     "depositPaid": 480,
-    "secondPayment": 46,
+    "secondPayment": 57,
     "secondPaymentBreakdown": {
-      "domesticShipping": 27,
+      "domesticShipping": 38,
       "internationalShipping": 12,
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 46,
+    "balanceDue": 57,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
