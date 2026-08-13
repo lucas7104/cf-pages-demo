@@ -38064,26 +38064,21 @@
       "已抵台",
       "已付訂金"
     ],
-    "productAmount": 660,
+    "productAmount": 0,
     "depositPaid": 660,
-    "secondPayment": 62,
+    "secondPayment": 38,
     "secondPaymentBreakdown": {
       "domesticShipping": 38,
-      "internationalShipping": 12,
-      "cardFee": 12,
+      "internationalShipping": 0,
+      "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 62,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [
-      {
-        "name": "透卡",
-        "qty": 6
-      }
-    ]
+    "items": []
   },
   {
     "socialName": "Kaho",
@@ -38120,26 +38115,21 @@
       "已抵台",
       "已付訂金"
     ],
-    "productAmount": 660,
+    "productAmount": 0,
     "depositPaid": 660,
-    "secondPayment": 62,
+    "secondPayment": 38,
     "secondPaymentBreakdown": {
       "domesticShipping": 38,
-      "internationalShipping": 12,
-      "cardFee": 12,
+      "internationalShipping": 0,
+      "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 62,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [
-      {
-        "name": "透卡",
-        "qty": 6
-      }
-    ]
+    "items": []
   },
   {
     "socialName": "nako",

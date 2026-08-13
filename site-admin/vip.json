@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T03:11:24.396Z",
+  "generatedAt": "2026-08-13T03:21:17.032Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -28,7 +28,7 @@
         },
         {
           "name": "高八毛",
-          "amount": 35255
+          "amount": 34595
         },
         {
           "name": "瑞斯",
@@ -135,7 +135,7 @@
         },
         {
           "name": "高八毛",
-          "amount": 26445
+          "amount": 25785
         },
         {
           "name": "Sabrina",
@@ -420,12 +420,12 @@
           "amount": 9800
         },
         {
-          "name": "高八毛",
-          "amount": 8985
-        },
-        {
           "name": "ゲンーガ",
           "amount": 8445
+        },
+        {
+          "name": "高八毛",
+          "amount": 8325
         },
         {
           "name": "TYT",
