@@ -23656,7 +23656,7 @@
     "socialName": "鴨",
     "title": "0119幻影夜行本舖抽賞",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 2220,
@@ -23669,7 +23669,7 @@
       "packagingFee": 0
     },
     "balanceDue": 144,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36639,7 +36639,7 @@
     "socialName": "鴨",
     "title": "0320咒術 幻影夜行 童年死滅迴游ver.",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1285,
@@ -36652,7 +36652,7 @@
       "packagingFee": 0
     },
     "balanceDue": 103,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
