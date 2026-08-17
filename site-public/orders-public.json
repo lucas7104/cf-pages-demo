@@ -8635,7 +8635,7 @@
     "socialName": "lin",
     "title": "1117 進巨尊爵Dignified",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 430,
@@ -8648,7 +8648,7 @@
       "packagingFee": 0
     },
     "balanceDue": 21,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -13391,7 +13391,7 @@
     "socialName": "lin",
     "title": "1201進巨 amnibus",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1440,
@@ -13404,7 +13404,7 @@
       "packagingFee": 0
     },
     "balanceDue": 87,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -19408,7 +19408,7 @@
     "socialName": "lin",
     "title": "1228 進巨 Zogankin",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 360,
@@ -19421,7 +19421,7 @@
       "packagingFee": 0
     },
     "balanceDue": 31,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
