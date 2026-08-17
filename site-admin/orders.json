@@ -33685,6 +33685,7 @@
     "socialName": "舒芙蕾",
     "title": "0310我英 Airtwokyo & 0324討論串",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2255,
@@ -33697,7 +33698,7 @@
       "packagingFee": 0
     },
     "balanceDue": 1030,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -33722,6 +33723,7 @@
     "socialName": "cc77",
     "title": "0310我英 Airtwokyo & 0324討論串",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 680,
@@ -33734,13 +33736,13 @@
       "packagingFee": 0
     },
     "balanceDue": 87,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "我會再圍起來",
+        "name": "我會再圍起來 立牌組",
         "qty": 1
       }
     ],
@@ -33751,6 +33753,7 @@
     "socialName": "婷婷",
     "title": "0310我英 Airtwokyo & 0324討論串",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1320,
@@ -33763,7 +33766,7 @@
       "packagingFee": 0
     },
     "balanceDue": 90,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
