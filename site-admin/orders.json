@@ -7523,7 +7523,7 @@
     "socialName": "麥香魚堡",
     "title": "1107 鏈鋸人 PochiMart",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 515,
@@ -7536,7 +7536,7 @@
       "packagingFee": 0
     },
     "balanceDue": 126,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -34507,7 +34507,7 @@
     "socialName": "_🦊",
     "title": "0312 排少咒術 AnimeJapan2026",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 960,
@@ -34520,7 +34520,7 @@
       "packagingFee": 0
     },
     "balanceDue": 121,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
