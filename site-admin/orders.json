@@ -16010,7 +16010,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "取消",
+    "etaText": "取消(已將貨款支付其他團務)",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
