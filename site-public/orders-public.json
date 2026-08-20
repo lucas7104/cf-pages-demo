@@ -15038,7 +15038,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "取消",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -15123,7 +15123,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "取消",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
