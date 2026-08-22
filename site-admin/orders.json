@@ -35296,7 +35296,7 @@
     "socialName": "YC",
     "title": "0313銀魂 回眸",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 450,
@@ -35309,7 +35309,7 @@
       "packagingFee": 0
     },
     "balanceDue": 73,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -40356,7 +40356,7 @@
     "socialName": "妮娜",
     "title": "0329咒術 KOTOWARI仙台",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 615,
@@ -40369,7 +40369,7 @@
       "packagingFee": 0
     },
     "balanceDue": 119,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
