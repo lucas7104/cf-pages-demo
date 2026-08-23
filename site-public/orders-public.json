@@ -4386,7 +4386,7 @@
     "socialName": "Eilish",
     "title": "1025鬼滅老照片風",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1980,
@@ -4399,7 +4399,7 @@
       "packagingFee": 0
     },
     "balanceDue": 232,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -4589,7 +4589,7 @@
     "socialName": "Eilish",
     "title": "1028鬼滅隊士百景",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 4800,
@@ -4602,7 +4602,7 @@
       "packagingFee": 0
     },
     "balanceDue": 309,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
