@@ -22020,7 +22020,7 @@
     "socialName": "Peggy",
     "title": "0119幻影夜行本舖抽賞",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 2220,
@@ -22033,7 +22033,7 @@
       "packagingFee": 0
     },
     "balanceDue": 125,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -28115,7 +28115,7 @@
     "socialName": "Peggy佩姬",
     "title": "0217咒術 ensky-2",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 800,
@@ -28128,7 +28128,7 @@
       "packagingFee": 0
     },
     "balanceDue": 79,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -39033,7 +39033,7 @@
     "socialName": "Peggy佩姬",
     "title": "0331咒術 TOHO五週年第三彈",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 650,
@@ -39046,7 +39046,7 @@
       "packagingFee": 0
     },
     "balanceDue": 34,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
