@@ -29497,14 +29497,14 @@
     ],
     "productAmount": 880,
     "depositPaid": 880,
-    "secondPayment": 61,
+    "secondPayment": 185,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 124,
       "internationalShipping": 49,
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 61,
+    "balanceDue": 185,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
