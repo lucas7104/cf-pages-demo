@@ -12508,7 +12508,7 @@
     "socialName": "每天都想退休",
     "title": "1127鬼滅聖誕節",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 135,
@@ -12521,7 +12521,7 @@
       "packagingFee": 0
     },
     "balanceDue": 80,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -22116,7 +22116,7 @@
     "socialName": "每天都想退休",
     "title": "0119幻影夜行本舖抽賞",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1480,
@@ -22129,7 +22129,7 @@
       "packagingFee": 0
     },
     "balanceDue": 94,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
