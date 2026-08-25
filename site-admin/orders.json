@@ -34541,6 +34541,7 @@
     "socialName": "Han",
     "title": "0312吉伊卡哇 9090",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1400,
@@ -34553,7 +34554,7 @@
       "packagingFee": 0
     },
     "balanceDue": 72,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -34574,6 +34575,7 @@
     "socialName": "Ari",
     "title": "0312吉伊卡哇 9090",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 700,
@@ -34586,7 +34588,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
