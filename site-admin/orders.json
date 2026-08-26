@@ -31296,7 +31296,7 @@
       "packagingFee": 0
     },
     "balanceDue": 892,
-    "etaText": "待公告",
+    "etaText": "官方未發貨",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -31323,7 +31323,7 @@
       "packagingFee": 0
     },
     "balanceDue": 1784,
-    "etaText": "待公告",
+    "etaText": "官方未發貨",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -31356,7 +31356,7 @@
       "packagingFee": 0
     },
     "balanceDue": 12,
-    "etaText": "待公告",
+    "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -31385,7 +31385,7 @@
       "packagingFee": 0
     },
     "balanceDue": 12,
-    "etaText": "待公告",
+    "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -31402,6 +31402,7 @@
     "socialName": "菊米",
     "title": "(2月重開)1029 鬼滅 look up-26下單",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 880,
@@ -31414,7 +31415,7 @@
       "packagingFee": 0
     },
     "balanceDue": 185,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
