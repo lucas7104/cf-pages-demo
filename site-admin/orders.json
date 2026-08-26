@@ -22077,7 +22077,7 @@
     "socialName": "lpp_ss",
     "title": "0106咒術 冬季版寶寶娃",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 600,
@@ -22090,7 +22090,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -39949,7 +39949,7 @@
     "socialName": "lpp_ss",
     "title": "0328芙莉蓮 Ani-art",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 440,
@@ -39962,7 +39962,7 @@
       "packagingFee": 0
     },
     "balanceDue": 50,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
