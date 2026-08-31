@@ -38254,7 +38254,7 @@
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "1",
     "items": [
       {
         "name": "五抽",
@@ -38308,7 +38308,7 @@
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "1",
     "items": [
       {
         "name": "五抽",

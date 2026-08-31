@@ -40602,7 +40602,7 @@
         "qty": 5
       }
     ],
-    "sourceSheet": "0329相反的你和我 抽賞",
+    "sourceSheet": "★0329相反的你和我 抽賞",
     "sourceMonth": "2026-03"
   },
   {
@@ -40631,7 +40631,7 @@
         "qty": 10
       }
     ],
-    "sourceSheet": "0329相反的你和我 抽賞",
+    "sourceSheet": "★0329相反的你和我 抽賞",
     "sourceMonth": "2026-03"
   },
   {
@@ -40660,7 +40660,7 @@
         "qty": 15
       }
     ],
-    "sourceSheet": "0329相反的你和我 抽賞",
+    "sourceSheet": "★0329相反的你和我 抽賞",
     "sourceMonth": "2026-03"
   },
   {
@@ -40682,14 +40682,14 @@
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "1",
     "items": [
       {
         "name": "五抽",
         "qty": 10
       }
     ],
-    "sourceSheet": "0329相反的你和我 抽賞",
+    "sourceSheet": "★0329相反的你和我 抽賞",
     "sourceMonth": "2026-03"
   },
   {
@@ -40718,7 +40718,7 @@
         "qty": 10
       }
     ],
-    "sourceSheet": "0329相反的你和我 抽賞",
+    "sourceSheet": "★0329相反的你和我 抽賞",
     "sourceMonth": "2026-03"
   },
   {
@@ -40740,14 +40740,14 @@
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "1",
     "items": [
       {
         "name": "五抽",
         "qty": 5
       }
     ],
-    "sourceSheet": "0329相反的你和我 抽賞",
+    "sourceSheet": "★0329相反的你和我 抽賞",
     "sourceMonth": "2026-03"
   },
   {
@@ -40776,7 +40776,7 @@
         "qty": 5
       }
     ],
-    "sourceSheet": "0329相反的你和我 抽賞",
+    "sourceSheet": "★0329相反的你和我 抽賞",
     "sourceMonth": "2026-03"
   },
   {
@@ -40805,7 +40805,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0329相反的你和我 抽賞",
+    "sourceSheet": "★0329相反的你和我 抽賞",
     "sourceMonth": "2026-03"
   },
   {
