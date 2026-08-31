@@ -25441,14 +25441,14 @@
     ],
     "productAmount": 135,
     "depositPaid": 135,
-    "secondPayment": 81,
+    "secondPayment": 85,
     "secondPaymentBreakdown": {
       "domesticShipping": 81,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 2,
+      "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 81,
+    "balanceDue": 85,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25459,7 +25459,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0124坂本 Jump Festa",
+    "sourceSheet": "★0124坂本 Jump Festa",
     "sourceMonth": "2026-01"
   },
   {
@@ -25470,14 +25470,14 @@
     ],
     "productAmount": 1015,
     "depositPaid": 1010,
-    "secondPayment": 81,
+    "secondPayment": 122,
     "secondPaymentBreakdown": {
       "domesticShipping": 81,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 20,
+      "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 86,
+    "balanceDue": 127,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25500,7 +25500,7 @@
         "qty": 7
       }
     ],
-    "sourceSheet": "0124坂本 Jump Festa",
+    "sourceSheet": "★0124坂本 Jump Festa",
     "sourceMonth": "2026-01"
   },
   {
