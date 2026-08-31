@@ -38158,14 +38158,14 @@
     ],
     "productAmount": 1875,
     "depositPaid": 1875,
-    "secondPayment": 0,
+    "secondPayment": 15,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 15,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 15,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38317,7 +38317,7 @@
     ]
   },
   {
-    "socialName": "柯吟霓",
+    "socialName": "臉書 柯吟霓",
     "title": "0329相反的你和我 抽賞",
     "statusBadges": [
       "已付訂金"
