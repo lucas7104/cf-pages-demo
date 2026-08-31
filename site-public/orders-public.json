@@ -26894,7 +26894,7 @@
     "socialName": "TYT",
     "title": "0209 進巨 SPAO",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 3480,
@@ -26907,7 +26907,7 @@
       "packagingFee": 0
     },
     "balanceDue": 350,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "短袖、披風毛毯抵台",
@@ -28852,7 +28852,7 @@
     "socialName": "TYT",
     "title": "0218進巨 yyworld最終季",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1700,
@@ -28865,7 +28865,7 @@
       "packagingFee": 0
     },
     "balanceDue": 317,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
