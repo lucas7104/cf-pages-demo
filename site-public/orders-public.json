@@ -20639,7 +20639,7 @@
     "socialName": "TYT",
     "title": "0106咒術 冬季版寶寶娃",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 680,
@@ -20652,7 +20652,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -23867,7 +23867,7 @@
     "socialName": "TYT",
     "title": "0124 芙莉蓮 撲克牌",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 715,
@@ -23880,7 +23880,7 @@
       "packagingFee": 0
     },
     "balanceDue": 55,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
