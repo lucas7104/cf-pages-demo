@@ -38169,7 +38169,7 @@
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "鑰匙圈/平*2、西",
+    "note": "",
     "items": [
       {
         "name": "一抽",
@@ -38200,7 +38200,7 @@
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
-    "note": "立牌鑰匙圈 /平",
+    "note": "",
     "items": [
       {
         "name": "五抽",
@@ -38227,7 +38227,7 @@
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "徽章 /西、東、平、鈴木",
+    "note": "",
     "items": [
       {
         "name": "五抽",
@@ -38254,7 +38254,7 @@
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "鑰匙圈/平、谷、西",
+    "note": "",
     "items": [
       {
         "name": "五抽",
@@ -38281,7 +38281,7 @@
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "徽章 /平",
+    "note": "",
     "items": [
       {
         "name": "五抽",
@@ -38308,7 +38308,7 @@
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "徽章 /鈴木",
+    "note": "",
     "items": [
       {
         "name": "五抽",
@@ -38335,7 +38335,7 @@
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "徽章 /山田",
+    "note": "",
     "items": [
       {
         "name": "五抽",
