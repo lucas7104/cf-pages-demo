@@ -31738,14 +31738,14 @@
     ],
     "productAmount": 555,
     "depositPaid": 555,
-    "secondPayment": 8,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 10,
+      "internationalShipping": 17,
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 8,
+    "balanceDue": 35,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31756,7 +31756,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0303進巨 Runway",
+    "sourceSheet": "★0303進巨 Runway",
     "sourceMonth": "2026-03"
   },
   {
@@ -31767,14 +31767,14 @@
     ],
     "productAmount": 1110,
     "depositPaid": 1110,
-    "secondPayment": 16,
+    "secondPayment": 60,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 10,
+      "internationalShipping": 34,
       "cardFee": 16,
       "packagingFee": 0
     },
-    "balanceDue": 16,
+    "balanceDue": 60,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31789,7 +31789,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0303進巨 Runway",
+    "sourceSheet": "★0303進巨 Runway",
     "sourceMonth": "2026-03"
   },
   {
@@ -31800,14 +31800,14 @@
     ],
     "productAmount": 2270,
     "depositPaid": 2270,
-    "secondPayment": 30,
+    "secondPayment": 94,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 10,
+      "internationalShipping": 54,
       "cardFee": 30,
       "packagingFee": 0
     },
-    "balanceDue": 30,
+    "balanceDue": 94,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31822,7 +31822,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0303進巨 Runway",
+    "sourceSheet": "★0303進巨 Runway",
     "sourceMonth": "2026-03"
   },
   {
@@ -31833,14 +31833,14 @@
     ],
     "productAmount": 665,
     "depositPaid": 665,
-    "secondPayment": 10,
+    "secondPayment": 39,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 10,
+      "internationalShipping": 19,
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 10,
+    "balanceDue": 39,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31855,7 +31855,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0303進巨 Runway",
+    "sourceSheet": "★0303進巨 Runway",
     "sourceMonth": "2026-03"
   },
   {
@@ -31866,14 +31866,14 @@
     ],
     "productAmount": 665,
     "depositPaid": 667,
-    "secondPayment": 10,
+    "secondPayment": 45,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 10,
+      "internationalShipping": 25,
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 8,
+    "balanceDue": 43,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31888,7 +31888,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0303進巨 Runway",
+    "sourceSheet": "★0303進巨 Runway",
     "sourceMonth": "2026-03"
   },
   {
@@ -31899,14 +31899,14 @@
     ],
     "productAmount": 2050,
     "depositPaid": 2045,
-    "secondPayment": 28,
+    "secondPayment": 114,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 10,
+      "internationalShipping": 76,
       "cardFee": 28,
       "packagingFee": 0
     },
-    "balanceDue": 33,
+    "balanceDue": 119,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31921,7 +31921,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0303進巨 Runway",
+    "sourceSheet": "★0303進巨 Runway",
     "sourceMonth": "2026-03"
   },
   {
@@ -31932,14 +31932,14 @@
     ],
     "productAmount": 555,
     "depositPaid": 555,
-    "secondPayment": 8,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 10,
+      "internationalShipping": 17,
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 8,
+    "balanceDue": 35,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31950,7 +31950,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0303進巨 Runway",
+    "sourceSheet": "★0303進巨 Runway",
     "sourceMonth": "2026-03"
   },
   {
@@ -31961,14 +31961,14 @@
     ],
     "productAmount": 555,
     "depositPaid": 555,
-    "secondPayment": 8,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 10,
+      "internationalShipping": 17,
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 8,
+    "balanceDue": 35,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31979,7 +31979,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0303進巨 Runway",
+    "sourceSheet": "★0303進巨 Runway",
     "sourceMonth": "2026-03"
   },
   {
@@ -31990,14 +31990,14 @@
     ],
     "productAmount": 5520,
     "depositPaid": 5520,
-    "secondPayment": 78,
+    "secondPayment": 247,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 10,
+      "internationalShipping": 159,
       "cardFee": 78,
       "packagingFee": 0
     },
-    "balanceDue": 78,
+    "balanceDue": 247,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32040,7 +32040,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0303進巨 Runway",
+    "sourceSheet": "★0303進巨 Runway",
     "sourceMonth": "2026-03"
   },
   {
@@ -32051,14 +32051,14 @@
     ],
     "productAmount": 555,
     "depositPaid": 555,
-    "secondPayment": 8,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 10,
+      "internationalShipping": 17,
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 8,
+    "balanceDue": 35,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32069,7 +32069,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0303進巨 Runway",
+    "sourceSheet": "★0303進巨 Runway",
     "sourceMonth": "2026-03"
   },
   {
@@ -32080,14 +32080,14 @@
     ],
     "productAmount": 2190,
     "depositPaid": 2190,
-    "secondPayment": 30,
+    "secondPayment": 97,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 10,
+      "internationalShipping": 57,
       "cardFee": 30,
       "packagingFee": 0
     },
-    "balanceDue": 30,
+    "balanceDue": 97,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32106,7 +32106,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0303進巨 Runway",
+    "sourceSheet": "★0303進巨 Runway",
     "sourceMonth": "2026-03"
   },
   {
@@ -32117,14 +32117,14 @@
     ],
     "productAmount": 1080,
     "depositPaid": 1080,
-    "secondPayment": 14,
+    "secondPayment": 47,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 10,
+      "internationalShipping": 23,
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 14,
+    "balanceDue": 47,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32135,7 +32135,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0303進巨 Runway",
+    "sourceSheet": "★0303進巨 Runway",
     "sourceMonth": "2026-03"
   },
   {
@@ -32146,14 +32146,14 @@
     ],
     "productAmount": 555,
     "depositPaid": 545,
-    "secondPayment": 8,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 10,
+      "internationalShipping": 17,
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 18,
+    "balanceDue": 45,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32164,7 +32164,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0303進巨 Runway",
+    "sourceSheet": "★0303進巨 Runway",
     "sourceMonth": "2026-03"
   },
   {
@@ -32175,14 +32175,14 @@
     ],
     "productAmount": 1635,
     "depositPaid": 1635,
-    "secondPayment": 22,
+    "secondPayment": 72,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 10,
+      "internationalShipping": 40,
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 22,
+    "balanceDue": 72,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32197,7 +32197,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0303進巨 Runway",
+    "sourceSheet": "★0303進巨 Runway",
     "sourceMonth": "2026-03"
   },
   {
@@ -32208,10 +32208,10 @@
     ],
     "productAmount": 555,
     "depositPaid": 645,
-    "secondPayment": 8,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 10,
+      "internationalShipping": 17,
       "cardFee": 8,
       "packagingFee": 0
     },
@@ -32226,7 +32226,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0303進巨 Runway",
+    "sourceSheet": "★0303進巨 Runway",
     "sourceMonth": "2026-03"
   },
   {
@@ -32237,14 +32237,14 @@
     ],
     "productAmount": 555,
     "depositPaid": 555,
-    "secondPayment": 8,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 10,
+      "internationalShipping": 17,
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 8,
+    "balanceDue": 35,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -32255,7 +32255,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0303進巨 Runway",
+    "sourceSheet": "★0303進巨 Runway",
     "sourceMonth": "2026-03"
   },
   {
