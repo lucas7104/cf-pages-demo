@@ -25538,173 +25538,6 @@
     "sourceMonth": "2026-01"
   },
   {
-    "socialName": "無敵雪莉🍐",
-    "title": "0127&0129我英 娃娃",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 400,
-    "depositPaid": 400,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "渡我 vol.2",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "★0127&0129我英 娃娃",
-    "sourceMonth": "2026-01"
-  },
-  {
-    "socialName": "婷婷",
-    "title": "0127&0129我英 娃娃",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 3200,
-    "depositPaid": 3200,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "渡我 vol.2",
-        "qty": 2
-      },
-      {
-        "name": "綠谷 vol.2",
-        "qty": 2
-      },
-      {
-        "name": "爆豪 vol.2",
-        "qty": 2
-      },
-      {
-        "name": "轟焦凍 vol.2",
-        "qty": 2
-      }
-    ],
-    "sourceSheet": "★0127&0129我英 娃娃",
-    "sourceMonth": "2026-01"
-  },
-  {
-    "socialName": "Ching Kao",
-    "title": "0127&0129我英 娃娃",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 800,
-    "depositPaid": 800,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "轟焦凍 vol.2",
-        "qty": 1
-      },
-      {
-        "name": "荼毘 vol.2",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "★0127&0129我英 娃娃",
-    "sourceMonth": "2026-01"
-  },
-  {
-    "socialName": "Yura mori",
-    "title": "0127&0129我英 娃娃",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 400,
-    "depositPaid": 400,
-    "secondPayment": 124,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 124,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 124,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "綠谷 vol.1",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "★0127&0129我英 娃娃",
-    "sourceMonth": "2026-01"
-  },
-  {
-    "socialName": "小吳",
-    "title": "0127&0129我英 娃娃",
-    "statusBadges": [],
-    "productAmount": 1200,
-    "depositPaid": 0,
-    "secondPayment": 124,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 124,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 1324,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "渡我 vol.2",
-        "qty": 1
-      },
-      {
-        "name": "綠谷 vol.2",
-        "qty": 1
-      },
-      {
-        "name": "麗日 vol.2",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "★0127&0129我英 娃娃",
-    "sourceMonth": "2026-01"
-  },
-  {
     "socialName": "臉書Yura mori",
     "title": "0127我英 Buruburuzu毛絨娃娃",
     "statusBadges": [
@@ -25731,7 +25564,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0127我英 Buruburuzu毛絨娃娃",
+    "sourceSheet": "★0127我英 Buruburuzu毛絨娃娃",
     "sourceMonth": "2026-01"
   },
   {
@@ -25742,14 +25575,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 0,
+    "secondPayment": 15,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 15,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25760,7 +25593,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0127我英 Buruburuzu毛絨娃娃",
+    "sourceSheet": "★0127我英 Buruburuzu毛絨娃娃",
     "sourceMonth": "2026-01"
   },
   {
@@ -25771,14 +25604,14 @@
     ],
     "productAmount": 3200,
     "depositPaid": 3200,
-    "secondPayment": 0,
+    "secondPayment": 120,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 72,
+      "cardFee": 48,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 120,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25801,7 +25634,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0127我英 Buruburuzu毛絨娃娃",
+    "sourceSheet": "★0127我英 Buruburuzu毛絨娃娃",
     "sourceMonth": "2026-01"
   },
   {
@@ -25812,14 +25645,14 @@
     ],
     "productAmount": 800,
     "depositPaid": 800,
-    "secondPayment": 0,
+    "secondPayment": 29,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 17,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 29,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25834,7 +25667,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0127我英 Buruburuzu毛絨娃娃",
+    "sourceSheet": "★0127我英 Buruburuzu毛絨娃娃",
     "sourceMonth": "2026-01"
   },
   {
@@ -25845,14 +25678,14 @@
     ],
     "productAmount": 1200,
     "depositPaid": 1200,
-    "secondPayment": 124,
+    "secondPayment": 168,
     "secondPaymentBreakdown": {
       "domesticShipping": 124,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 26,
+      "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 124,
+    "balanceDue": 168,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -25871,7 +25704,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0127我英 Buruburuzu毛絨娃娃",
+    "sourceSheet": "★0127我英 Buruburuzu毛絨娃娃",
     "sourceMonth": "2026-01"
   },
   {
