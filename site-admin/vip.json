@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T15:31:26.898Z",
+  "generatedAt": "2026-09-08T15:41:16.436Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -16,7 +16,7 @@
         },
         {
           "name": "TYT",
-          "amount": 57840
+          "amount": 57760
         },
         {
           "name": "芭樂",
@@ -119,7 +119,7 @@
         },
         {
           "name": "TYT",
-          "amount": 35755
+          "amount": 35675
         },
         {
           "name": "季",
@@ -429,7 +429,7 @@
         },
         {
           "name": "TYT",
-          "amount": 7170
+          "amount": 7090
         },
         {
           "name": "R",
