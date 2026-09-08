@@ -43857,7 +43857,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0411咒術 死滅洄游麻糬娃",
+    "sourceSheet": "★0411咒術 死滅洄游麻糬娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -43910,7 +43910,7 @@
         "qty": 3
       }
     ],
-    "sourceSheet": "0411咒術 死滅洄游麻糬娃",
+    "sourceSheet": "★0411咒術 死滅洄游麻糬娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -43947,7 +43947,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0411咒術 死滅洄游麻糬娃",
+    "sourceSheet": "★0411咒術 死滅洄游麻糬娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -43980,7 +43980,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0411咒術 死滅洄游麻糬娃",
+    "sourceSheet": "★0411咒術 死滅洄游麻糬娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -44009,7 +44009,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0411咒術 死滅洄游麻糬娃",
+    "sourceSheet": "★0411咒術 死滅洄游麻糬娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -44038,7 +44038,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0411咒術 死滅洄游麻糬娃",
+    "sourceSheet": "★0411咒術 死滅洄游麻糬娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -44071,7 +44071,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0411咒術 死滅洄游麻糬娃",
+    "sourceSheet": "★0411咒術 死滅洄游麻糬娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -44104,7 +44104,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0411咒術 死滅洄游麻糬娃",
+    "sourceSheet": "★0411咒術 死滅洄游麻糬娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -44115,14 +44115,14 @@
     ],
     "productAmount": 640,
     "depositPaid": 640,
-    "secondPayment": 0,
+    "secondPayment": 22,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 12,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 22,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44137,7 +44137,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0411咒術 懷玉玉折麻糬娃",
+    "sourceSheet": "★0411咒術 懷玉玉折麻糬娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -44148,14 +44148,14 @@
     ],
     "productAmount": 640,
     "depositPaid": 640,
-    "secondPayment": 0,
+    "secondPayment": 22,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 12,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 22,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44170,7 +44170,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0411咒術 懷玉玉折麻糬娃",
+    "sourceSheet": "★0411咒術 懷玉玉折麻糬娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -44181,14 +44181,14 @@
     ],
     "productAmount": 320,
     "depositPaid": 320,
-    "secondPayment": 0,
+    "secondPayment": 12,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 7,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 12,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44199,7 +44199,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0411咒術 懷玉玉折麻糬娃",
+    "sourceSheet": "★0411咒術 懷玉玉折麻糬娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -44210,14 +44210,14 @@
     ],
     "productAmount": 320,
     "depositPaid": 320,
-    "secondPayment": 0,
+    "secondPayment": 12,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 7,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 12,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44228,7 +44228,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0411咒術 懷玉玉折麻糬娃",
+    "sourceSheet": "★0411咒術 懷玉玉折麻糬娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -44239,14 +44239,14 @@
     ],
     "productAmount": 640,
     "depositPaid": 640,
-    "secondPayment": 0,
+    "secondPayment": 22,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 12,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 22,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44261,7 +44261,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0411咒術 懷玉玉折麻糬娃",
+    "sourceSheet": "★0411咒術 懷玉玉折麻糬娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -44272,14 +44272,14 @@
     ],
     "productAmount": 320,
     "depositPaid": 320,
-    "secondPayment": 0,
+    "secondPayment": 12,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 7,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 12,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44290,7 +44290,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0411咒術 懷玉玉折麻糬娃",
+    "sourceSheet": "★0411咒術 懷玉玉折麻糬娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -44301,14 +44301,14 @@
     ],
     "productAmount": 320,
     "depositPaid": 320,
-    "secondPayment": 0,
+    "secondPayment": 12,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 7,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 12,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44319,7 +44319,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0411咒術 懷玉玉折麻糬娃",
+    "sourceSheet": "★0411咒術 懷玉玉折麻糬娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -44341,7 +44341,7 @@
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [],
-    "sourceSheet": "0411咒術 懷玉玉折麻糬娃",
+    "sourceSheet": "★0411咒術 懷玉玉折麻糬娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -44352,14 +44352,14 @@
     ],
     "productAmount": 320,
     "depositPaid": 320,
-    "secondPayment": 42,
+    "secondPayment": 54,
     "secondPaymentBreakdown": {
       "domesticShipping": 42,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 7,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 42,
+    "balanceDue": 54,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44370,7 +44370,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0411咒術 懷玉玉折麻糬娃",
+    "sourceSheet": "★0411咒術 懷玉玉折麻糬娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -44381,14 +44381,14 @@
     ],
     "productAmount": 320,
     "depositPaid": 320,
-    "secondPayment": 42,
+    "secondPayment": 54,
     "secondPaymentBreakdown": {
       "domesticShipping": 42,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 7,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 42,
+    "balanceDue": 54,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44399,7 +44399,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0411咒術 懷玉玉折麻糬娃",
+    "sourceSheet": "★0411咒術 懷玉玉折麻糬娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -44410,14 +44410,14 @@
     ],
     "productAmount": 640,
     "depositPaid": 640,
-    "secondPayment": 42,
+    "secondPayment": 64,
     "secondPaymentBreakdown": {
       "domesticShipping": 42,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 12,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 42,
+    "balanceDue": 64,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44432,7 +44432,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0411咒術 懷玉玉折麻糬娃",
+    "sourceSheet": "★0411咒術 懷玉玉折麻糬娃",
     "sourceMonth": "2026-04"
   },
   {
