@@ -23990,6 +23990,163 @@
     ]
   },
   {
+    "socialName": "無敵雪莉🍐",
+    "title": "0127&0129我英 娃娃",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 400,
+    "depositPaid": 400,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "渡我 vol.2",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "婷婷",
+    "title": "0127&0129我英 娃娃",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 3200,
+    "depositPaid": 3200,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "渡我 vol.2",
+        "qty": 2
+      },
+      {
+        "name": "綠谷 vol.2",
+        "qty": 2
+      },
+      {
+        "name": "爆豪 vol.2",
+        "qty": 2
+      },
+      {
+        "name": "轟焦凍 vol.2",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "socialName": "Ching Kao",
+    "title": "0127&0129我英 娃娃",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 800,
+    "depositPaid": 800,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "轟焦凍 vol.2",
+        "qty": 1
+      },
+      {
+        "name": "荼毘 vol.2",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "Yura mori",
+    "title": "0127&0129我英 娃娃",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 400,
+    "depositPaid": 400,
+    "secondPayment": 124,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 124,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 124,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "綠谷 vol.1",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "小吳",
+    "title": "0127&0129我英 娃娃",
+    "statusBadges": [],
+    "productAmount": 1200,
+    "depositPaid": 0,
+    "secondPayment": 124,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 124,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 1324,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "渡我 vol.2",
+        "qty": 1
+      },
+      {
+        "name": "綠谷 vol.2",
+        "qty": 1
+      },
+      {
+        "name": "麗日 vol.2",
+        "qty": 1
+      }
+    ]
+  },
+  {
     "socialName": "臉書Yura mori",
     "title": "0127我英 Buruburuzu毛絨娃娃",
     "statusBadges": [
@@ -24122,14 +24279,14 @@
     ],
     "productAmount": 1200,
     "depositPaid": 1200,
-    "secondPayment": 0,
+    "secondPayment": 124,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 124,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 124,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -24829,155 +24986,6 @@
     "items": [
       {
         "name": "芙麗蓮立體立牌",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "無敵雪莉🍐",
-    "title": "0129我英 娃娃",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 400,
-    "depositPaid": 400,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "渡我 vol.2",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "婷婷",
-    "title": "0129我英 娃娃",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 3200,
-    "depositPaid": 3200,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "渡我 vol.2",
-        "qty": 2
-      },
-      {
-        "name": "綠谷 vol.2",
-        "qty": 2
-      },
-      {
-        "name": "爆豪 vol.2",
-        "qty": 2
-      },
-      {
-        "name": "轟焦凍 vol.2",
-        "qty": 2
-      }
-    ]
-  },
-  {
-    "socialName": "Ching Kao",
-    "title": "0129我英 娃娃",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 800,
-    "depositPaid": 800,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "轟焦凍 vol.2",
-        "qty": 1
-      },
-      {
-        "name": "荼毘 vol.2",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "Yura mori",
-    "title": "0129我英 娃娃",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 400,
-    "depositPaid": 400,
-    "secondPayment": 124,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 124,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 124,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "綠谷 vol.1",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "小吳",
-    "title": "0129我英 娃娃",
-    "statusBadges": [],
-    "productAmount": 0,
-    "depositPaid": 0,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "綠谷 vol.2",
         "qty": 1
       }
     ]
