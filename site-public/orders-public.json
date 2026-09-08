@@ -22308,130 +22308,6 @@
     ]
   },
   {
-    "socialName": "無敵雪莉🍐",
-    "title": "0119我英 娃娃",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 400,
-    "depositPaid": 400,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "渡我 vol.2",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "婷婷",
-    "title": "0119我英 娃娃",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 3200,
-    "depositPaid": 3200,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "渡我 vol.2",
-        "qty": 2
-      },
-      {
-        "name": "綠谷 vol.2",
-        "qty": 2
-      },
-      {
-        "name": "爆豪 vol.2",
-        "qty": 2
-      },
-      {
-        "name": "轟焦凍 vol.2",
-        "qty": 2
-      }
-    ]
-  },
-  {
-    "socialName": "Ching Kao",
-    "title": "0119我英 娃娃",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 800,
-    "depositPaid": 800,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "轟焦凍 vol.2",
-        "qty": 1
-      },
-      {
-        "name": "荼毘 vol.2",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "Yura mori",
-    "title": "0119我英 娃娃",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 400,
-    "depositPaid": 400,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "綠谷 vol.1",
-        "qty": 1
-      }
-    ]
-  },
-  {
     "socialName": "nako",
     "title": "0119咒術 幻影夜行2週年紀念",
     "statusBadges": [
@@ -24953,6 +24829,155 @@
     "items": [
       {
         "name": "芙麗蓮立體立牌",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "無敵雪莉🍐",
+    "title": "0129我英 娃娃",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 400,
+    "depositPaid": 400,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "渡我 vol.2",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "婷婷",
+    "title": "0129我英 娃娃",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 3200,
+    "depositPaid": 3200,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "渡我 vol.2",
+        "qty": 2
+      },
+      {
+        "name": "綠谷 vol.2",
+        "qty": 2
+      },
+      {
+        "name": "爆豪 vol.2",
+        "qty": 2
+      },
+      {
+        "name": "轟焦凍 vol.2",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "socialName": "Ching Kao",
+    "title": "0129我英 娃娃",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 800,
+    "depositPaid": 800,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "轟焦凍 vol.2",
+        "qty": 1
+      },
+      {
+        "name": "荼毘 vol.2",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "Yura mori",
+    "title": "0129我英 娃娃",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 400,
+    "depositPaid": 400,
+    "secondPayment": 124,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 124,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 124,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "綠谷 vol.1",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "小吳",
+    "title": "0129我英 娃娃",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "綠谷 vol.2",
         "qty": 1
       }
     ]
@@ -33951,14 +33976,14 @@
     ],
     "productAmount": 3185,
     "depositPaid": 3185,
-    "secondPayment": 172,
+    "secondPayment": 356,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 184,
       "internationalShipping": 128,
       "cardFee": 44,
       "packagingFee": 0
     },
-    "balanceDue": 172,
+    "balanceDue": 356,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -33994,14 +34019,14 @@
     ],
     "productAmount": 960,
     "depositPaid": 1000,
-    "secondPayment": 40,
+    "secondPayment": 102,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 62,
       "internationalShipping": 26,
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 62,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34025,14 +34050,14 @@
     ],
     "productAmount": 135,
     "depositPaid": 135,
-    "secondPayment": 10,
+    "secondPayment": 194,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 184,
       "internationalShipping": 8,
       "cardFee": 2,
       "packagingFee": 0
     },
-    "balanceDue": 10,
+    "balanceDue": 194,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34052,14 +34077,14 @@
     ],
     "productAmount": 2760,
     "depositPaid": 2755,
-    "secondPayment": 171,
+    "secondPayment": 417,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 246,
       "internationalShipping": 132,
       "cardFee": 39,
       "packagingFee": 0
     },
-    "balanceDue": 176,
+    "balanceDue": 422,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34091,14 +34116,14 @@
     ],
     "productAmount": 2570,
     "depositPaid": 2650,
-    "secondPayment": 160,
+    "secondPayment": 344,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 184,
       "internationalShipping": 125,
       "cardFee": 35,
       "packagingFee": 0
     },
-    "balanceDue": 80,
+    "balanceDue": 264,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34130,14 +34155,14 @@
     ],
     "productAmount": 1665,
     "depositPaid": 1600,
-    "secondPayment": 119,
+    "secondPayment": 181,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 62,
       "internationalShipping": 97,
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 184,
+    "balanceDue": 246,
     "etaText": "待公告",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -34157,14 +34182,14 @@
     ],
     "productAmount": 1585,
     "depositPaid": 1585,
-    "secondPayment": 89,
+    "secondPayment": 273,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 184,
       "internationalShipping": 68,
       "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 89,
+    "balanceDue": 273,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -42698,14 +42723,14 @@
     "statusBadges": [],
     "productAmount": 615,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 123,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 92,
+      "internationalShipping": 22,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 615,
+    "balanceDue": 738,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -42729,14 +42754,14 @@
     ],
     "productAmount": 810,
     "depositPaid": 810,
-    "secondPayment": 0,
+    "secondPayment": 336,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 276,
+      "internationalShipping": 48,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 336,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
