@@ -39414,9 +39414,11 @@
   {
     "socialName": "鈺",
     "title": "0325進巨 一起去看海吧",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 955,
-    "depositPaid": 0,
+    "depositPaid": 955,
     "secondPayment": 0,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -39424,7 +39426,7 @@
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 955,
+    "balanceDue": 0,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
