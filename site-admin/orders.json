@@ -41035,14 +41035,14 @@
     ],
     "productAmount": 640,
     "depositPaid": 640,
-    "secondPayment": 25,
+    "secondPayment": 58,
     "secondPaymentBreakdown": {
       "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 23,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 58,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41057,7 +41057,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0330Mappa AnimeJapan2026",
+    "sourceSheet": "★0330Mappa AnimeJapan2026",
     "sourceMonth": "2026-03"
   },
   {
@@ -41068,14 +41068,14 @@
     ],
     "productAmount": 675,
     "depositPaid": 675,
-    "secondPayment": 25,
+    "secondPayment": 40,
     "secondPaymentBreakdown": {
       "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 5,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 40,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41086,7 +41086,7 @@
         "qty": 5
       }
     ],
-    "sourceSheet": "0330Mappa AnimeJapan2026",
+    "sourceSheet": "★0330Mappa AnimeJapan2026",
     "sourceMonth": "2026-03"
   },
   {
@@ -41097,14 +41097,14 @@
     ],
     "productAmount": 480,
     "depositPaid": 480,
-    "secondPayment": 25,
+    "secondPayment": 47,
     "secondPaymentBreakdown": {
       "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 15,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 47,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41115,7 +41115,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0330Mappa AnimeJapan2026",
+    "sourceSheet": "★0330Mappa AnimeJapan2026",
     "sourceMonth": "2026-03"
   },
   {
@@ -41126,14 +41126,14 @@
     ],
     "productAmount": 480,
     "depositPaid": 480,
-    "secondPayment": 25,
+    "secondPayment": 47,
     "secondPaymentBreakdown": {
       "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 15,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 47,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41144,7 +41144,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0330Mappa AnimeJapan2026",
+    "sourceSheet": "★0330Mappa AnimeJapan2026",
     "sourceMonth": "2026-03"
   },
   {
@@ -41155,14 +41155,14 @@
     ],
     "productAmount": 480,
     "depositPaid": 480,
-    "secondPayment": 25,
+    "secondPayment": 47,
     "secondPaymentBreakdown": {
       "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 15,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 47,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41173,7 +41173,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0330Mappa AnimeJapan2026",
+    "sourceSheet": "★0330Mappa AnimeJapan2026",
     "sourceMonth": "2026-03"
   },
   {
@@ -41184,14 +41184,14 @@
     ],
     "productAmount": 265,
     "depositPaid": 265,
-    "secondPayment": 25,
+    "secondPayment": 34,
     "secondPaymentBreakdown": {
       "domesticShipping": 25,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 5,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 25,
+    "balanceDue": 34,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41202,7 +41202,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0330Mappa AnimeJapan2026",
+    "sourceSheet": "★0330Mappa AnimeJapan2026",
     "sourceMonth": "2026-03"
   },
   {
