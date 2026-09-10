@@ -36055,14 +36055,14 @@
     ],
     "productAmount": 1310,
     "depositPaid": 1310,
-    "secondPayment": 0,
+    "secondPayment": 40,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 20,
+      "cardFee": 20,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 40,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36094,14 +36094,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 0,
+    "secondPayment": 11,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 5,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 11,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36121,25 +36121,25 @@
     ],
     "productAmount": 1325,
     "depositPaid": 1325,
-    "secondPayment": 0,
+    "secondPayment": 60,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 40,
+      "cardFee": 20,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 60,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "艾連透明海報",
+        "name": "透明海報 (艾連)",
         "qty": 2
       },
       {
-        "name": "里維透明海報",
+        "name": "透明海報 (里維)",
         "qty": 3
       }
     ]
@@ -36152,14 +36152,14 @@
     ],
     "productAmount": 665,
     "depositPaid": 665,
-    "secondPayment": 0,
+    "secondPayment": 19,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 19,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36170,7 +36170,7 @@
         "qty": 1
       },
       {
-        "name": "透卡A",
+        "name": "透卡A (艾+里)",
         "qty": 1
       }
     ]
@@ -36183,14 +36183,14 @@
     ],
     "productAmount": 955,
     "depositPaid": 955,
-    "secondPayment": 0,
+    "secondPayment": 30,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 17,
+      "cardFee": 13,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 30,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36210,14 +36210,14 @@
     ],
     "productAmount": 1395,
     "depositPaid": 1395,
-    "secondPayment": 0,
+    "secondPayment": 42,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 21,
+      "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 42,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36245,14 +36245,14 @@
     ],
     "productAmount": 878,
     "depositPaid": 878,
-    "secondPayment": 0,
+    "secondPayment": 29,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 15,
+      "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 29,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36280,14 +36280,14 @@
     ],
     "productAmount": 2650,
     "depositPaid": 2650,
-    "secondPayment": 0,
+    "secondPayment": 100,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 64,
+      "cardFee": 36,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36315,14 +36315,14 @@
     ],
     "productAmount": 614,
     "depositPaid": 614,
-    "secondPayment": 0,
+    "secondPayment": 23,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 13,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 23,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36333,7 +36333,7 @@
         "qty": 1
       },
       {
-        "name": "艾連透明海報",
+        "name": "透明海報 (艾連)",
         "qty": 1
       },
       {
@@ -36350,21 +36350,21 @@
     ],
     "productAmount": 1220,
     "depositPaid": 1220,
-    "secondPayment": 0,
+    "secondPayment": 38,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 21,
+      "cardFee": 17,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 38,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "透卡A",
+        "name": "透卡A (艾+里)",
         "qty": 1
       },
       {
@@ -36381,14 +36381,14 @@
     ],
     "productAmount": 3540,
     "depositPaid": 3540,
-    "secondPayment": 0,
+    "secondPayment": 116,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 60,
+      "cardFee": 56,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 116,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36411,19 +36411,19 @@
         "qty": 1
       },
       {
-        "name": "艾連透明海報",
+        "name": "透明海報 (艾連)",
         "qty": 1
       },
       {
-        "name": "里維透明海報",
+        "name": "透明海報 (里維)",
         "qty": 1
       },
       {
-        "name": "透卡A",
+        "name": "透卡A (艾+里)",
         "qty": 1
       },
       {
-        "name": "透卡B",
+        "name": "透卡B (米+敏)",
         "qty": 1
       },
       {
@@ -36468,11 +36468,11 @@
     ],
     "productAmount": 220,
     "depositPaid": 270,
-    "secondPayment": 0,
+    "secondPayment": 10,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 6,
+      "cardFee": 4,
       "packagingFee": 0
     },
     "balanceDue": 0,
@@ -36499,14 +36499,14 @@
     ],
     "productAmount": 2055,
     "depositPaid": 2055,
-    "secondPayment": 0,
+    "secondPayment": 68,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 36,
+      "cardFee": 32,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 68,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36529,15 +36529,15 @@
         "qty": 1
       },
       {
-        "name": "艾連透明海報",
+        "name": "透明海報 (艾連)",
         "qty": 1
       },
       {
-        "name": "里維透明海報",
+        "name": "透明海報 (里維)",
         "qty": 1
       },
       {
-        "name": "透卡A",
+        "name": "透卡A (艾+里)",
         "qty": 1
       },
       {
@@ -36554,14 +36554,14 @@
     ],
     "productAmount": 1015,
     "depositPaid": 1015,
-    "secondPayment": 0,
+    "secondPayment": 30,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 14,
+      "cardFee": 16,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 30,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36576,7 +36576,7 @@
         "qty": 1
       },
       {
-        "name": "透卡A",
+        "name": "透卡A (艾+里)",
         "qty": 1
       },
       {
@@ -36593,21 +36593,21 @@
     ],
     "productAmount": 265,
     "depositPaid": 265,
-    "secondPayment": 0,
+    "secondPayment": 12,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 8,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 12,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "里維透明海報",
+        "name": "透明海報 (里維)",
         "qty": 1
       }
     ]
@@ -36620,14 +36620,14 @@
     ],
     "productAmount": 955,
     "depositPaid": 955,
-    "secondPayment": 0,
+    "secondPayment": 41,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 27,
+      "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 41,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36651,14 +36651,14 @@
     ],
     "productAmount": 665,
     "depositPaid": 665,
-    "secondPayment": 0,
+    "secondPayment": 21,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 11,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 21,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36669,7 +36669,7 @@
         "qty": 1
       },
       {
-        "name": "透卡B",
+        "name": "透卡B (米+敏)",
         "qty": 1
       }
     ]
@@ -36682,14 +36682,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 0,
+    "secondPayment": 11,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 5,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 11,
     "etaText": "官方未發貨",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
@@ -36709,14 +36709,14 @@
     ],
     "productAmount": 2515,
     "depositPaid": 2515,
-    "secondPayment": 0,
+    "secondPayment": 121,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 87,
+      "cardFee": 34,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 121,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36744,14 +36744,14 @@
     ],
     "productAmount": 2890,
     "depositPaid": 2890,
-    "secondPayment": 0,
+    "secondPayment": 100,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 60,
+      "cardFee": 40,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 100,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36762,7 +36762,7 @@
         "qty": 1
       },
       {
-        "name": "里維透明海報",
+        "name": "透明海報 (里維)",
         "qty": 1
       },
       {
@@ -36783,21 +36783,21 @@
     ],
     "productAmount": 265,
     "depositPaid": 265,
-    "secondPayment": 0,
+    "secondPayment": 12,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 8,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 12,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "里維透明海報",
+        "name": "透明海報 (里維)",
         "qty": 1
       }
     ]
@@ -36810,14 +36810,14 @@
     ],
     "productAmount": 240,
     "depositPaid": 240,
-    "secondPayment": 0,
+    "secondPayment": 8,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 4,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 8,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36837,14 +36837,14 @@
     ],
     "productAmount": 440,
     "depositPaid": 440,
-    "secondPayment": 0,
+    "secondPayment": 12,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 4,
+      "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 12,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36874,14 +36874,14 @@
     "statusBadges": [],
     "productAmount": 510,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 15,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 7,
+      "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 510,
+    "balanceDue": 525,
     "etaText": "官方未發貨",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -36905,21 +36905,21 @@
     ],
     "productAmount": 1220,
     "depositPaid": 1220,
-    "secondPayment": 0,
+    "secondPayment": 42,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 25,
+      "cardFee": 17,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 42,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "里維透明海報",
+        "name": "透明海報 (里維)",
         "qty": 1
       },
       {
@@ -36936,14 +36936,14 @@
     ],
     "productAmount": 1680,
     "depositPaid": 1680,
-    "secondPayment": 0,
+    "secondPayment": 55,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 29,
+      "cardFee": 26,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 55,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -36958,15 +36958,15 @@
         "qty": 1
       },
       {
-        "name": "里維透明海報",
+        "name": "透明海報 (里維)",
         "qty": 1
       },
       {
-        "name": "透卡A",
+        "name": "透卡A (艾+里)",
         "qty": 1
       },
       {
-        "name": "透卡B",
+        "name": "透卡B (米+敏)",
         "qty": 1
       },
       {
@@ -36987,25 +36987,25 @@
     ],
     "productAmount": 2630,
     "depositPaid": 2630,
-    "secondPayment": 0,
+    "secondPayment": 126,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 89,
+      "cardFee": 37,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 126,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "艾連透明海報",
+        "name": "透明海報 (艾連)",
         "qty": 1
       },
       {
-        "name": "里維透明海報",
+        "name": "透明海報 (里維)",
         "qty": 1
       },
       {
@@ -37034,14 +37034,14 @@
     ],
     "productAmount": 239,
     "depositPaid": 239,
-    "secondPayment": 0,
+    "secondPayment": 8,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 4,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 8,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -37061,14 +37061,14 @@
     ],
     "productAmount": 955,
     "depositPaid": 955,
-    "secondPayment": 0,
+    "secondPayment": 30,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 17,
+      "cardFee": 13,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 30,
     "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
