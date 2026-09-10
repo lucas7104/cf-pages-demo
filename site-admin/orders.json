@@ -30319,14 +30319,14 @@
     ],
     "productAmount": 720,
     "depositPaid": 720,
-    "secondPayment": 0,
+    "secondPayment": 129,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 102,
+      "internationalShipping": 17,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 129,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30341,7 +30341,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0217進巨 ShopNui坐姿毛絨娃",
+    "sourceSheet": "★0217進巨 ShopNui坐姿毛絨娃",
     "sourceMonth": "2026-02"
   },
   {
@@ -30352,14 +30352,14 @@
     ],
     "productAmount": 360,
     "depositPaid": 360,
-    "secondPayment": 0,
+    "secondPayment": 116,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 102,
+      "internationalShipping": 9,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 116,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30370,7 +30370,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0217進巨 ShopNui坐姿毛絨娃",
+    "sourceSheet": "★0217進巨 ShopNui坐姿毛絨娃",
     "sourceMonth": "2026-02"
   },
   {
@@ -30381,14 +30381,14 @@
     ],
     "productAmount": 1080,
     "depositPaid": 1080,
-    "secondPayment": 0,
+    "secondPayment": 247,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 206,
+      "internationalShipping": 26,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 247,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -30403,7 +30403,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0217進巨 ShopNui坐姿毛絨娃",
+    "sourceSheet": "★0217進巨 ShopNui坐姿毛絨娃",
     "sourceMonth": "2026-02"
   },
   {
