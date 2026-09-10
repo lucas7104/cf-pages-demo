@@ -39866,14 +39866,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 0,
+    "secondPayment": 15,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 15,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39884,7 +39884,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0328銀魂 AnimeJapan2026",
+    "sourceSheet": "★0328銀魂 AnimeJapan2026",
     "sourceMonth": "2026-03"
   },
   {
@@ -39895,14 +39895,14 @@
     ],
     "productAmount": 575,
     "depositPaid": 575,
-    "secondPayment": 0,
+    "secondPayment": 14,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 5,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 14,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39917,7 +39917,7 @@
         "qty": 3
       }
     ],
-    "sourceSheet": "0328銀魂 AnimeJapan2026",
+    "sourceSheet": "★0328銀魂 AnimeJapan2026",
     "sourceMonth": "2026-03"
   },
   {
@@ -39928,14 +39928,14 @@
     ],
     "productAmount": 925,
     "depositPaid": 925,
-    "secondPayment": 0,
+    "secondPayment": 36,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 24,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 36,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39946,7 +39946,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0328銀魂 AnimeJapan2026",
+    "sourceSheet": "★0328銀魂 AnimeJapan2026",
     "sourceMonth": "2026-03"
   },
   {
@@ -39957,14 +39957,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 0,
+    "secondPayment": 15,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 9,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 15,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39975,7 +39975,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0328銀魂 AnimeJapan2026",
+    "sourceSheet": "★0328銀魂 AnimeJapan2026",
     "sourceMonth": "2026-03"
   },
   {
