@@ -43327,14 +43327,14 @@
     ],
     "productAmount": 1320,
     "depositPaid": 1320,
-    "secondPayment": 0,
+    "secondPayment": 45,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 28,
+      "cardFee": 17,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 45,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -43345,7 +43345,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0408銀魂 燈籠",
+    "sourceSheet": "★0408銀魂 燈籠",
     "sourceMonth": "2026-04"
   },
   {
@@ -43356,14 +43356,14 @@
     ],
     "productAmount": 530,
     "depositPaid": 530,
-    "secondPayment": 0,
+    "secondPayment": 19,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 12,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 19,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -43374,7 +43374,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0408銀魂 燈籠",
+    "sourceSheet": "★0408銀魂 燈籠",
     "sourceMonth": "2026-04"
   },
   {
