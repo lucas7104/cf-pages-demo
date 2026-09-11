@@ -43768,29 +43768,34 @@
     "sourceMonth": "2026-04"
   },
   {
-    "socialName": "Bao",
+    "socialName": "婷婷",
     "title": "0410芙莉蓮 Medhouse pop up",
-    "statusBadges": [
-      "已出貨",
-      "已付訂金"
-    ],
-    "productAmount": 740,
-    "depositPaid": 240,
-    "secondPayment": 24,
+    "statusBadges": [],
+    "productAmount": 1905,
+    "depositPaid": 0,
+    "secondPayment": 235,
     "secondPaymentBreakdown": {
-      "domesticShipping": 24,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 167,
+      "internationalShipping": 42,
+      "cardFee": 26,
       "packagingFee": 0
     },
-    "balanceDue": 524,
-    "etaText": "已出貨",
+    "balanceDue": 2140,
+    "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
         "name": "插畫視覺卡 (BOX)",
+        "qty": 1
+      },
+      {
+        "name": "插畫水晶徽章 (BOX)",
+        "qty": 1
+      },
+      {
+        "name": "原畫明信片",
         "qty": 1
       }
     ],
