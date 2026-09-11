@@ -46845,22 +46845,29 @@
   {
     "socialName": "嘿嘿哈哈",
     "title": "4月委託",
-    "statusBadges": [],
-    "productAmount": 0,
-    "depositPaid": 0,
-    "secondPayment": 0,
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 5400,
+    "depositPaid": 5400,
+    "secondPayment": 70,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
       "internationalShipping": 0,
-      "cardFee": 0,
+      "cardFee": 70,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 70,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "閃電11人",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "4月委託",
     "sourceMonth": "2026-04"
   },
