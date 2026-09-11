@@ -39441,6 +39441,59 @@
     "sourceMonth": "2026-03"
   },
   {
+    "socialName": "nana",
+    "title": "0327鬼滅 Aniplex AJ 2026",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1200,
+    "depositPaid": 400,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 800,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "插畫透卡 （單抽）",
+        "qty": 3
+      }
+    ],
+    "sourceSheet": "★0327鬼滅 Aniplex AJ 2026",
+    "sourceMonth": "2026-03"
+  },
+  {
+    "socialName": "每天都想退休",
+    "title": "0327鬼滅 Aniplex AJ 2026",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 0,
+    "depositPaid": 575,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [],
+    "sourceSheet": "★0327鬼滅 Aniplex AJ 2026",
+    "sourceMonth": "2026-03"
+  },
+  {
     "socialName": "楚翔",
     "title": "0328芙莉蓮 Ani-art",
     "statusBadges": [
