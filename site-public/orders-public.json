@@ -40242,14 +40242,14 @@
     ],
     "productAmount": 795,
     "depositPaid": 795,
-    "secondPayment": 146,
+    "secondPayment": 260,
     "secondPaymentBreakdown": {
       "domesticShipping": 146,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 103,
+      "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 146,
+    "balanceDue": 260,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
