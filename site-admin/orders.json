@@ -39443,19 +39443,17 @@
   {
     "socialName": "nana",
     "title": "0327鬼滅 Aniplex AJ 2026",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1200,
-    "depositPaid": 400,
-    "secondPayment": 0,
+    "statusBadges": [],
+    "productAmount": 225,
+    "depositPaid": 0,
+    "secondPayment": 71,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 62,
+      "internationalShipping": 6,
+      "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 800,
+    "balanceDue": 296,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39472,24 +39470,31 @@
   {
     "socialName": "每天都想退休",
     "title": "0327鬼滅 Aniplex AJ 2026",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 0,
-    "depositPaid": 575,
-    "secondPayment": 0,
+    "statusBadges": [],
+    "productAmount": 300,
+    "depositPaid": 0,
+    "secondPayment": 82,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 62,
+      "internationalShipping": 16,
+      "cardFee": 4,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 382,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "金屬資料夾 (義勇)",
+        "qty": 1
+      },
+      {
+        "name": "金屬資料夾 (猗窩座)",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "★0327鬼滅 Aniplex AJ 2026",
     "sourceMonth": "2026-03"
   },
