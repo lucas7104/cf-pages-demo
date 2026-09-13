@@ -23307,7 +23307,7 @@
     "socialName": "楚翔",
     "title": "0118 膽大黨pop up",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 2650,
@@ -23320,7 +23320,7 @@
       "packagingFee": 0
     },
     "balanceDue": 160,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -35290,6 +35290,7 @@
     "socialName": "楚翔",
     "title": "0315芙莉蓮 EMOCA小卡",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 2540,
@@ -35302,7 +35303,7 @@
       "packagingFee": 0
     },
     "balanceDue": 121,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
