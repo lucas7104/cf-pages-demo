@@ -39695,7 +39695,7 @@
     "socialName": "R",
     "title": "0328芙莉蓮 Ani-art",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 5280,
@@ -39708,7 +39708,7 @@
       "packagingFee": 0
     },
     "balanceDue": 596,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
