@@ -43935,14 +43935,14 @@
     ],
     "productAmount": 320,
     "depositPaid": 320,
-    "secondPayment": 0,
+    "secondPayment": 12,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 7,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 12,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -43964,14 +43964,14 @@
     ],
     "productAmount": 2605,
     "depositPaid": 2605,
-    "secondPayment": 0,
+    "secondPayment": 88,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 46,
+      "cardFee": 42,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 88,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44017,14 +44017,14 @@
     ],
     "productAmount": 1170,
     "depositPaid": 1170,
-    "secondPayment": 0,
+    "secondPayment": 38,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 20,
+      "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 38,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44054,14 +44054,14 @@
     ],
     "productAmount": 590,
     "depositPaid": 640,
-    "secondPayment": 66,
+    "secondPayment": 88,
     "secondPaymentBreakdown": {
       "domesticShipping": 66,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 12,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 16,
+    "balanceDue": 38,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44087,14 +44087,14 @@
     ],
     "productAmount": 320,
     "depositPaid": 320,
-    "secondPayment": 0,
+    "secondPayment": 12,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 7,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 12,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44116,14 +44116,14 @@
     ],
     "productAmount": 320,
     "depositPaid": 320,
-    "secondPayment": 0,
+    "secondPayment": 12,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 7,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 12,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44145,14 +44145,14 @@
     ],
     "productAmount": 530,
     "depositPaid": 530,
-    "secondPayment": 0,
+    "secondPayment": 14,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 6,
+      "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 14,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44178,14 +44178,14 @@
     ],
     "productAmount": 590,
     "depositPaid": 590,
-    "secondPayment": 66,
+    "secondPayment": 88,
     "secondPaymentBreakdown": {
       "domesticShipping": 66,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 12,
+      "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 66,
+    "balanceDue": 88,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -46457,7 +46457,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0429咒術 2026咒術祭",
+    "sourceSheet": "★0429咒術 2026咒術祭",
     "sourceMonth": "2026-04"
   },
   {
@@ -46486,7 +46486,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0429咒術 2026咒術祭",
+    "sourceSheet": "★0429咒術 2026咒術祭",
     "sourceMonth": "2026-04"
   },
   {
@@ -46535,7 +46535,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0429咒術 2026咒術祭",
+    "sourceSheet": "★0429咒術 2026咒術祭",
     "sourceMonth": "2026-04"
   },
   {
@@ -46564,7 +46564,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0429咒術 2026咒術祭",
+    "sourceSheet": "★0429咒術 2026咒術祭",
     "sourceMonth": "2026-04"
   },
   {
@@ -46593,7 +46593,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0429咒術 2026咒術祭",
+    "sourceSheet": "★0429咒術 2026咒術祭",
     "sourceMonth": "2026-04"
   },
   {
@@ -46654,7 +46654,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0429咒術 2026咒術祭",
+    "sourceSheet": "★0429咒術 2026咒術祭",
     "sourceMonth": "2026-04"
   },
   {
