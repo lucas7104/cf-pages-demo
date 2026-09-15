@@ -43783,7 +43783,7 @@
     },
     "balanceDue": 2140,
     "etaText": "待公告",
-    "paymentMethod": "轉帳",
+    "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
