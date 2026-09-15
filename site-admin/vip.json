@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T19:41:35.434Z",
+  "generatedAt": "2026-09-15T19:51:15.428Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -16,7 +16,7 @@
         },
         {
           "name": "TYT",
-          "amount": 57760
+          "amount": 57804
         },
         {
           "name": "芭樂",
@@ -36,7 +36,7 @@
         },
         {
           "name": "季",
-          "amount": 31435
+          "amount": 31504
         },
         {
           "name": "cc",
@@ -119,11 +119,11 @@
         },
         {
           "name": "TYT",
-          "amount": 35675
+          "amount": 35719
         },
         {
           "name": "季",
-          "amount": 29775
+          "amount": 29844
         },
         {
           "name": "芭樂",
@@ -139,7 +139,7 @@
         },
         {
           "name": "Sabrina",
-          "amount": 24975
+          "amount": 25250
         },
         {
           "name": "FLOWDY",
@@ -401,11 +401,11 @@
         },
         {
           "name": "季",
-          "amount": 14815
+          "amount": 14884
         },
         {
           "name": "Sabrina",
-          "amount": 12145
+          "amount": 12420
         },
         {
           "name": "楚翔",
@@ -429,7 +429,7 @@
         },
         {
           "name": "TYT",
-          "amount": 7090
+          "amount": 7134
         },
         {
           "name": "R",
