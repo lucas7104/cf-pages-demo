@@ -40613,14 +40613,14 @@
     ],
     "productAmount": 44,
     "depositPaid": 33,
-    "secondPayment": 11,
+    "secondPayment": 19,
     "secondPaymentBreakdown": {
       "domesticShipping": 11,
-      "internationalShipping": 0,
+      "internationalShipping": 8,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 22,
+    "balanceDue": 30,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
