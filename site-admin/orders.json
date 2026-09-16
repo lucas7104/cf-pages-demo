@@ -43187,6 +43187,7 @@
     "socialName": "Rea",
     "title": "0407咒術 TAPIOCA",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 925,
@@ -43199,7 +43200,7 @@
       "packagingFee": 0
     },
     "balanceDue": 101,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -43216,6 +43217,7 @@
     "socialName": "Sabrina",
     "title": "0407咒術 TAPIOCA",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 715,
@@ -43228,7 +43230,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
