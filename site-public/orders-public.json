@@ -43544,6 +43544,7 @@
     "socialName": "Sabrina",
     "title": "0425咒術 MOVIC動畫五週年",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1200,
@@ -43556,7 +43557,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
