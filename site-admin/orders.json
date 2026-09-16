@@ -43656,6 +43656,7 @@
     "socialName": "Peggy佩姬",
     "title": "0410咒術 幻影夜行Fanpare Mart",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1800,
@@ -43668,7 +43669,7 @@
       "packagingFee": 0
     },
     "balanceDue": 220,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "v",
@@ -43685,6 +43686,7 @@
     "socialName": "君",
     "title": "0410咒術 幻影夜行Fanpare Mart",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2880,
@@ -43697,7 +43699,7 @@
       "packagingFee": 0
     },
     "balanceDue": 222,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "多2",
@@ -43722,6 +43724,7 @@
     "socialName": "拉拉",
     "title": "0410咒術 幻影夜行Fanpare Mart",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2160,
@@ -43734,7 +43737,7 @@
       "packagingFee": 0
     },
     "balanceDue": 239,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -43755,6 +43758,7 @@
     "socialName": "芭樂",
     "title": "0410咒術 幻影夜行Fanpare Mart",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2340,
@@ -43767,7 +43771,7 @@
       "packagingFee": 0
     },
     "balanceDue": 188,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "v",
@@ -43792,6 +43796,7 @@
     "socialName": "Rea",
     "title": "0410咒術 幻影夜行Fanpare Mart",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1440,
@@ -43804,7 +43809,7 @@
       "packagingFee": 0
     },
     "balanceDue": 208,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "v",
@@ -43821,6 +43826,7 @@
     "socialName": "Sabrina",
     "title": "0410咒術 幻影夜行Fanpare Mart",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2160,
@@ -43833,7 +43839,7 @@
       "packagingFee": 0
     },
     "balanceDue": 245,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "v",
@@ -43857,7 +43863,9 @@
   {
     "socialName": "Lulumi",
     "title": "0410咒術 幻影夜行Fanpare Mart",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 1080,
     "depositPaid": 0,
     "secondPayment": 129,
@@ -43868,7 +43876,7 @@
       "packagingFee": 0
     },
     "balanceDue": 1209,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "v",
@@ -43889,6 +43897,7 @@
     "socialName": "莎拉拉",
     "title": "0410咒術 幻影夜行Fanpare Mart",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2700,
@@ -43901,7 +43910,7 @@
       "packagingFee": 0
     },
     "balanceDue": 163,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "v",
@@ -43922,6 +43931,7 @@
     "socialName": "每天都想退休",
     "title": "0410咒術 幻影夜行Fanpare Mart",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1800,
@@ -43934,7 +43944,7 @@
       "packagingFee": 0
     },
     "balanceDue": 571,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "v",
@@ -43955,6 +43965,7 @@
     "socialName": "FLOWDY",
     "title": "0410咒術 幻影夜行Fanpare Mart",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 3060,
@@ -43967,7 +43978,7 @@
       "packagingFee": 0
     },
     "balanceDue": 236,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "v",
@@ -46333,14 +46344,14 @@
     ],
     "productAmount": 1200,
     "depositPaid": 1200,
-    "secondPayment": 0,
+    "secondPayment": 80,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 62,
+      "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 80,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -46370,14 +46381,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 0,
+    "secondPayment": 28,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 22,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 28,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -46399,14 +46410,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 0,
+    "secondPayment": 25,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 19,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 25,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -46428,14 +46439,14 @@
     ],
     "productAmount": 1600,
     "depositPaid": 1600,
-    "secondPayment": 0,
+    "secondPayment": 109,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 85,
+      "cardFee": 24,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 109,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -46469,14 +46480,14 @@
     ],
     "productAmount": 4560,
     "depositPaid": 4560,
-    "secondPayment": 0,
+    "secondPayment": 147,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 85,
+      "cardFee": 62,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 147,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
