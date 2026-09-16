@@ -44119,7 +44119,7 @@
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "款項剩餘",
     "items": [
       {
         "name": "立牌 (場販五條)",
