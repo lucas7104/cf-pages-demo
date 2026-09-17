@@ -14293,7 +14293,9 @@
   {
     "socialName": "TYT",
     "title": "1204進巨 SOLWA",
-    "statusBadges": [],
+    "statusBadges": [
+      "已出貨"
+    ],
     "productAmount": 5800,
     "depositPaid": 0,
     "secondPayment": 57,
@@ -14304,7 +14306,7 @@
       "packagingFee": 0
     },
     "balanceDue": 5857,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
