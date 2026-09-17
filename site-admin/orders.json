@@ -30859,7 +30859,7 @@
     "socialName": "TYT",
     "title": "0220多ip Airtwokyo",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 5050,
@@ -30872,7 +30872,7 @@
       "packagingFee": 0
     },
     "balanceDue": 287,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -33463,7 +33463,7 @@
     "socialName": "TYT",
     "title": "0310 進巨 東京車站",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1040,
@@ -33476,7 +33476,7 @@
       "packagingFee": 0
     },
     "balanceDue": 7,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
