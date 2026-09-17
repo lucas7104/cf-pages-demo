@@ -24771,7 +24771,7 @@
     "socialName": "TYT",
     "title": "0129 芙莉蓮 COMIXYZ",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 5555,
@@ -24784,7 +24784,7 @@
       "packagingFee": 0
     },
     "balanceDue": 620,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -34415,7 +34415,7 @@
     "socialName": "TYT",
     "title": "0320咒術 幻影夜行 童年死滅迴游ver.",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 960,
@@ -34428,7 +34428,7 @@
       "packagingFee": 0
     },
     "balanceDue": 111,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -37957,7 +37957,7 @@
     "socialName": "TYT",
     "title": "0329咒術 KOTOWARI仙台",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 135,
@@ -37970,7 +37970,7 @@
       "packagingFee": 0
     },
     "balanceDue": 44,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
