@@ -25307,6 +25307,7 @@
     "socialName": "Alia",
     "title": "0124坂本 Jump Festa",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 135,
@@ -25319,7 +25320,7 @@
       "packagingFee": 0
     },
     "balanceDue": 85,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -25336,6 +25337,7 @@
     "socialName": "臉書 許懿心",
     "title": "0124坂本 Jump Festa",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1015,
@@ -25348,7 +25350,7 @@
       "packagingFee": 0
     },
     "balanceDue": 127,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
