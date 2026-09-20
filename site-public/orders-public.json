@@ -42572,7 +42572,7 @@
     "socialName": "季",
     "title": "0417咒術 極樂湯",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1110,
@@ -42585,7 +42585,7 @@
       "packagingFee": 0
     },
     "balanceDue": 35,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -42600,6 +42600,7 @@
     "socialName": "芭樂",
     "title": "0417咒術 極樂湯",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1925,
@@ -42612,7 +42613,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -42635,6 +42636,7 @@
     "socialName": "姿姿姿",
     "title": "0417咒術 極樂湯",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 745,
@@ -42647,7 +42649,7 @@
       "packagingFee": 0
     },
     "balanceDue": 31,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -42666,6 +42668,7 @@
     "socialName": "cu",
     "title": "0417咒術 極樂湯",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1440,
@@ -42678,7 +42681,7 @@
       "packagingFee": 0
     },
     "balanceDue": 41,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -42701,6 +42704,7 @@
     "socialName": "Ichika",
     "title": "0417咒術 極樂湯",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 660,
@@ -42713,7 +42717,7 @@
       "packagingFee": 0
     },
     "balanceDue": 29,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -42728,6 +42732,7 @@
     "socialName": "瑞斯",
     "title": "0417咒術 極樂湯",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 480,
@@ -42740,7 +42745,7 @@
       "packagingFee": 0
     },
     "balanceDue": 27,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -42755,6 +42760,7 @@
     "socialName": "破產的人",
     "title": "0417咒術 極樂湯",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1110,
@@ -42767,7 +42773,7 @@
       "packagingFee": 0
     },
     "balanceDue": 35,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -44087,7 +44093,9 @@
   {
     "socialName": "Ara",
     "title": "0429咒術 2026咒術祭",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 820,
     "depositPaid": 0,
     "secondPayment": 64,
@@ -44098,7 +44106,7 @@
       "packagingFee": 0
     },
     "balanceDue": 884,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -44117,6 +44125,7 @@
     "socialName": "君",
     "title": "0429咒術 2026咒術祭",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 410,
@@ -44129,7 +44138,7 @@
       "packagingFee": 0
     },
     "balanceDue": 46,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -44144,6 +44153,7 @@
     "socialName": "Charlotte",
     "title": "0429咒術 2026咒術祭",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1560,
@@ -44156,7 +44166,7 @@
       "packagingFee": 0
     },
     "balanceDue": 98,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -44191,6 +44201,7 @@
     "socialName": "鴨",
     "title": "0429咒術 2026咒術祭",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 485,
@@ -44203,7 +44214,7 @@
       "packagingFee": 0
     },
     "balanceDue": 58,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -44218,6 +44229,7 @@
     "socialName": "拉拉",
     "title": "0429咒術 2026咒術祭",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 390,
@@ -44230,7 +44242,7 @@
       "packagingFee": 0
     },
     "balanceDue": 39,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -44245,6 +44257,7 @@
     "socialName": "季",
     "title": "0429咒術 2026咒術祭",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 3765,
@@ -44257,7 +44270,7 @@
       "packagingFee": 0
     },
     "balanceDue": 204,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
