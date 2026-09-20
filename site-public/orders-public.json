@@ -36063,6 +36063,7 @@
     "socialName": "Ally",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1310,
@@ -36075,7 +36076,7 @@
       "packagingFee": 0
     },
     "balanceDue": 40,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36102,6 +36103,7 @@
     "socialName": "佳蓉",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 400,
@@ -36114,7 +36116,7 @@
       "packagingFee": 0
     },
     "balanceDue": 11,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36129,6 +36131,7 @@
     "socialName": "楚翔",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1325,
@@ -36141,7 +36144,7 @@
       "packagingFee": 0
     },
     "balanceDue": 60,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36160,6 +36163,7 @@
     "socialName": "lin",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 665,
@@ -36172,7 +36176,7 @@
       "packagingFee": 0
     },
     "balanceDue": 19,
-    "etaText": "官方未發貨",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36191,6 +36195,7 @@
     "socialName": "efa",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 955,
@@ -36203,7 +36208,7 @@
       "packagingFee": 0
     },
     "balanceDue": 30,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36218,6 +36223,7 @@
     "socialName": "羊羊羊",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1395,
@@ -36230,7 +36236,7 @@
       "packagingFee": 0
     },
     "balanceDue": 42,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36253,6 +36259,7 @@
     "socialName": "Ari",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 878,
@@ -36265,7 +36272,7 @@
       "packagingFee": 0
     },
     "balanceDue": 29,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "艾連：乃",
@@ -36288,6 +36295,7 @@
     "socialName": "婷婷",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2650,
@@ -36300,7 +36308,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36323,6 +36331,7 @@
     "socialName": "乃",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 614,
@@ -36335,7 +36344,7 @@
       "packagingFee": 0
     },
     "balanceDue": 23,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36358,6 +36367,7 @@
     "socialName": "哞吉",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1220,
@@ -36370,7 +36380,7 @@
       "packagingFee": 0
     },
     "balanceDue": 38,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36389,6 +36399,7 @@
     "socialName": "cc77",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 3540,
@@ -36401,7 +36412,7 @@
       "packagingFee": 0
     },
     "balanceDue": 148,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36476,6 +36487,7 @@
     "socialName": "R.O.N.G",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 220,
@@ -36488,7 +36500,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36507,6 +36519,7 @@
     "socialName": "ゲンーガ",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2055,
@@ -36519,7 +36532,7 @@
       "packagingFee": 0
     },
     "balanceDue": 68,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36562,6 +36575,7 @@
     "socialName": "A-Joe",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1015,
@@ -36574,7 +36588,7 @@
       "packagingFee": 0
     },
     "balanceDue": 30,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36601,6 +36615,7 @@
     "socialName": "舒芙蕾",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 265,
@@ -36613,7 +36628,7 @@
       "packagingFee": 0
     },
     "balanceDue": 12,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36628,6 +36643,7 @@
     "socialName": "淺花",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 955,
@@ -36640,7 +36656,7 @@
       "packagingFee": 0
     },
     "balanceDue": 41,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36659,6 +36675,7 @@
     "socialName": "陳。",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 665,
@@ -36671,7 +36688,7 @@
       "packagingFee": 0
     },
     "balanceDue": 21,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36690,6 +36707,7 @@
     "socialName": "쮸",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 400,
@@ -36702,7 +36720,7 @@
       "packagingFee": 0
     },
     "balanceDue": 11,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36717,6 +36735,7 @@
     "socialName": "DABU",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2515,
@@ -36729,7 +36748,7 @@
       "packagingFee": 0
     },
     "balanceDue": 121,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36752,6 +36771,7 @@
     "socialName": "莎拉拉",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2890,
@@ -36764,7 +36784,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36791,6 +36811,7 @@
     "socialName": "H",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 265,
@@ -36803,7 +36824,7 @@
       "packagingFee": 0
     },
     "balanceDue": 12,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36818,6 +36839,7 @@
     "socialName": "豬子",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 240,
@@ -36830,7 +36852,7 @@
       "packagingFee": 0
     },
     "balanceDue": 8,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36845,6 +36867,7 @@
     "socialName": "An",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 440,
@@ -36857,7 +36880,7 @@
       "packagingFee": 0
     },
     "balanceDue": 12,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36883,7 +36906,9 @@
   {
     "socialName": "華",
     "title": "0325進巨 一起去看海吧",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 510,
     "depositPaid": 0,
     "secondPayment": 23,
@@ -36894,7 +36919,7 @@
       "packagingFee": 0
     },
     "balanceDue": 533,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36913,6 +36938,7 @@
     "socialName": "よう",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1220,
@@ -36925,7 +36951,7 @@
       "packagingFee": 0
     },
     "balanceDue": 42,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36944,6 +36970,7 @@
     "socialName": "Pa",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1680,
@@ -36956,7 +36983,7 @@
       "packagingFee": 0
     },
     "balanceDue": 55,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36995,6 +37022,7 @@
     "socialName": "lpp_ss",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2630,
@@ -37007,7 +37035,7 @@
       "packagingFee": 0
     },
     "balanceDue": 126,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -37042,6 +37070,7 @@
     "socialName": "翔",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 239,
@@ -37054,7 +37083,7 @@
       "packagingFee": 0
     },
     "balanceDue": 8,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -37069,6 +37098,7 @@
     "socialName": "鈺",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 955,
@@ -37081,7 +37111,7 @@
       "packagingFee": 0
     },
     "balanceDue": 30,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41533,6 +41563,7 @@
     "socialName": "小呱",
     "title": "0411咒術 死滅洄游麻糬娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 320,
@@ -41545,7 +41576,7 @@
       "packagingFee": 0
     },
     "balanceDue": 12,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41560,6 +41591,7 @@
     "socialName": "FLOWDY",
     "title": "0411咒術 死滅洄游麻糬娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2605,
@@ -41572,7 +41604,7 @@
       "packagingFee": 0
     },
     "balanceDue": 88,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41611,6 +41643,7 @@
     "socialName": "芭樂",
     "title": "0411咒術 死滅洄游麻糬娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1170,
@@ -41623,7 +41656,7 @@
       "packagingFee": 0
     },
     "balanceDue": 38,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41646,6 +41679,7 @@
     "socialName": "Peggy佩姬",
     "title": "0411咒術 死滅洄游麻糬娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 590,
@@ -41658,7 +41692,7 @@
       "packagingFee": 0
     },
     "balanceDue": 38,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41677,6 +41711,7 @@
     "socialName": "君",
     "title": "0411咒術 死滅洄游麻糬娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 320,
@@ -41689,7 +41724,7 @@
       "packagingFee": 0
     },
     "balanceDue": 12,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41704,6 +41739,7 @@
     "socialName": "セン(璇）",
     "title": "0411咒術 死滅洄游麻糬娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 320,
@@ -41716,7 +41752,7 @@
       "packagingFee": 0
     },
     "balanceDue": 12,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41731,6 +41767,7 @@
     "socialName": "拉拉",
     "title": "0411咒術 死滅洄游麻糬娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 530,
@@ -41743,7 +41780,7 @@
       "packagingFee": 0
     },
     "balanceDue": 14,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41762,6 +41799,7 @@
     "socialName": "lpp_ss",
     "title": "0411咒術 死滅洄游麻糬娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 590,
@@ -41774,7 +41812,7 @@
       "packagingFee": 0
     },
     "balanceDue": 88,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41793,6 +41831,7 @@
     "socialName": "小呱",
     "title": "0411咒術 懷玉玉折麻糬娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 640,
@@ -41805,7 +41844,7 @@
       "packagingFee": 0
     },
     "balanceDue": 22,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41824,6 +41863,7 @@
     "socialName": "FLOWDY",
     "title": "0411咒術 懷玉玉折麻糬娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 640,
@@ -41836,7 +41876,7 @@
       "packagingFee": 0
     },
     "balanceDue": 22,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41855,6 +41895,7 @@
     "socialName": "Peggy佩姬",
     "title": "0411咒術 懷玉玉折麻糬娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 320,
@@ -41867,7 +41908,7 @@
       "packagingFee": 0
     },
     "balanceDue": 12,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41882,6 +41923,7 @@
     "socialName": "芭樂",
     "title": "0411咒術 懷玉玉折麻糬娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 320,
@@ -41894,7 +41936,7 @@
       "packagingFee": 0
     },
     "balanceDue": 12,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41909,6 +41951,7 @@
     "socialName": "君",
     "title": "0411咒術 懷玉玉折麻糬娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 640,
@@ -41921,7 +41964,7 @@
       "packagingFee": 0
     },
     "balanceDue": 22,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41940,6 +41983,7 @@
     "socialName": "奶油威威白",
     "title": "0411咒術 懷玉玉折麻糬娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 320,
@@ -41952,7 +41996,7 @@
       "packagingFee": 0
     },
     "balanceDue": 12,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41967,6 +42011,7 @@
     "socialName": "CICC",
     "title": "0411咒術 懷玉玉折麻糬娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 320,
@@ -41979,7 +42024,7 @@
       "packagingFee": 0
     },
     "balanceDue": 12,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -42014,6 +42059,7 @@
     "socialName": "セン(璇）",
     "title": "0411咒術 懷玉玉折麻糬娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 320,
@@ -42026,7 +42072,7 @@
       "packagingFee": 0
     },
     "balanceDue": 54,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -42041,6 +42087,7 @@
     "socialName": "lpp_ss",
     "title": "0411咒術 懷玉玉折麻糬娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 320,
@@ -42053,7 +42100,7 @@
       "packagingFee": 0
     },
     "balanceDue": 54,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -42068,6 +42115,7 @@
     "socialName": "jennylin640",
     "title": "0411咒術 懷玉玉折麻糬娃",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 640,
@@ -42080,7 +42128,7 @@
       "packagingFee": 0
     },
     "balanceDue": 64,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -43826,6 +43874,7 @@
     "socialName": "Kaho",
     "title": "0425咒術 MOVIC動畫五週年",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 400,
@@ -43838,7 +43887,7 @@
       "packagingFee": 0
     },
     "balanceDue": 28,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -43853,6 +43902,7 @@
     "socialName": "nako",
     "title": "0425咒術 MOVIC動畫五週年",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 400,
@@ -43865,7 +43915,7 @@
       "packagingFee": 0
     },
     "balanceDue": 25,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -43880,6 +43930,7 @@
     "socialName": "jennylin640",
     "title": "0425咒術 MOVIC動畫五週年",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1600,
@@ -43892,7 +43943,7 @@
       "packagingFee": 0
     },
     "balanceDue": 109,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -43919,6 +43970,7 @@
     "socialName": "FLOWDY",
     "title": "0425咒術 MOVIC動畫五週年",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 4560,
@@ -43931,7 +43983,7 @@
       "packagingFee": 0
     },
     "balanceDue": 147,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
