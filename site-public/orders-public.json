@@ -37580,6 +37580,7 @@
     "socialName": "君",
     "title": "0328銀魂 AnimeJapan2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 400,
@@ -37592,7 +37593,7 @@
       "packagingFee": 0
     },
     "balanceDue": 15,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -37607,6 +37608,7 @@
     "socialName": "Bao",
     "title": "0328銀魂 AnimeJapan2026",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 575,
@@ -37619,7 +37621,7 @@
       "packagingFee": 0
     },
     "balanceDue": 14,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -37638,6 +37640,7 @@
     "socialName": "婷婷",
     "title": "0328銀魂 AnimeJapan2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 925,
@@ -37650,7 +37653,7 @@
       "packagingFee": 0
     },
     "balanceDue": 36,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -37665,6 +37668,7 @@
     "socialName": "淺花",
     "title": "0328銀魂 AnimeJapan2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 400,
@@ -37677,7 +37681,7 @@
       "packagingFee": 0
     },
     "balanceDue": 15,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
