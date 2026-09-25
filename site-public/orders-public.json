@@ -43218,7 +43218,7 @@
     "socialName": "婷婷",
     "title": "0421皮克敏食玩",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 4375,
@@ -43231,7 +43231,7 @@
       "packagingFee": 0
     },
     "balanceDue": 571,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
