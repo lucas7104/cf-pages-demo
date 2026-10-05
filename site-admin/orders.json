@@ -41359,6 +41359,7 @@
     "socialName": "Kaho",
     "title": "0330Mappa AnimeJapan2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 640,
@@ -41371,7 +41372,7 @@
       "packagingFee": 0
     },
     "balanceDue": 58,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41392,6 +41393,7 @@
     "socialName": "An",
     "title": "0330Mappa AnimeJapan2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 675,
@@ -41404,7 +41406,7 @@
       "packagingFee": 0
     },
     "balanceDue": 40,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41421,6 +41423,7 @@
     "socialName": "高八毛",
     "title": "0330Mappa AnimeJapan2026",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 480,
@@ -41433,7 +41436,7 @@
       "packagingFee": 0
     },
     "balanceDue": 47,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41450,6 +41453,7 @@
     "socialName": "瑞斯",
     "title": "0330Mappa AnimeJapan2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 480,
@@ -41462,7 +41466,7 @@
       "packagingFee": 0
     },
     "balanceDue": 47,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41479,6 +41483,7 @@
     "socialName": "TYT",
     "title": "0330Mappa AnimeJapan2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 480,
@@ -41491,7 +41496,7 @@
       "packagingFee": 0
     },
     "balanceDue": 47,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -41508,6 +41513,7 @@
     "socialName": "Peggy佩姬",
     "title": "0330Mappa AnimeJapan2026",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 265,
@@ -41520,7 +41526,7 @@
       "packagingFee": 0
     },
     "balanceDue": 34,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
