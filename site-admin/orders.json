@@ -6005,6 +6005,7 @@
     "socialName": "嘿嘿哈哈",
     "title": "1103狛治戀雪抽賞",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 220,
@@ -6017,7 +6018,7 @@
       "packagingFee": 0
     },
     "balanceDue": 226,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -6034,6 +6035,7 @@
     "socialName": "piao",
     "title": "1103狛治戀雪抽賞",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1075,
@@ -6046,7 +6048,7 @@
       "packagingFee": 0
     },
     "balanceDue": 343,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "A大型分層壓克力面板",
@@ -14465,7 +14467,9 @@
   {
     "socialName": "西西👻",
     "title": "1202鬼滅 Ufotable多角色抽賞",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 825,
     "depositPaid": 0,
     "secondPayment": 0,
@@ -14476,7 +14480,7 @@
       "packagingFee": 0
     },
     "balanceDue": 825,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -14492,7 +14496,9 @@
   {
     "socialName": "華",
     "title": "1202鬼滅 Ufotable多角色抽賞",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 990,
     "depositPaid": 0,
     "secondPayment": 0,
@@ -14503,7 +14509,7 @@
       "packagingFee": 0
     },
     "balanceDue": 990,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -14519,7 +14525,9 @@
   {
     "socialName": "Leila",
     "title": "1202鬼滅 Ufotable多角色抽賞",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 680,
     "depositPaid": 0,
     "secondPayment": 0,
@@ -14530,7 +14538,7 @@
       "packagingFee": 0
     },
     "balanceDue": 680,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -14551,6 +14559,7 @@
     "socialName": "piao",
     "title": "1202鬼滅 Ufotable多角色抽賞",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 825,
@@ -14563,7 +14572,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -14579,7 +14588,9 @@
   {
     "socialName": "GU搭",
     "title": "1202鬼滅 Ufotable多角色抽賞",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 825,
     "depositPaid": 0,
     "secondPayment": 0,
@@ -14590,7 +14601,7 @@
       "packagingFee": 0
     },
     "balanceDue": 825,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
