@@ -320,7 +320,7 @@
       y2026: {
         label: "2026VIP",
         parent: "root",
-        children: ["m2026-01", "m2026-02", "m2026-03", "m2026-04"],
+        children: ["m2026-01", "m2026-02", "m2026-03", "m2026-04", "m2026-05", "m2026-06-07", "m2026-08", "m2026-09"],
         match: (order) => normalizeSourceMonth(order.sourceMonth).startsWith("2026")
       },
       "m2025-09-10": {
@@ -364,6 +364,30 @@
         parent: "y2026",
         children: [],
         match: (order) => normalizeSourceMonth(order.sourceMonth) === "2026-04"
+      },
+      "m2026-05": {
+        label: "5月VIP",
+        parent: "y2026",
+        children: [],
+        match: (order) => normalizeSourceMonth(order.sourceMonth) === "2026-05"
+      },
+      "m2026-06-07": {
+        label: "6、7月VIP",
+        parent: "y2026",
+        children: [],
+        match: (order) => normalizeSourceMonth(order.sourceMonth) === "2026-06-07"
+      },
+      "m2026-08": {
+        label: "8月VIP",
+        parent: "y2026",
+        children: [],
+        match: (order) => normalizeSourceMonth(order.sourceMonth) === "2026-08"
+      },
+      "m2026-09": {
+        label: "9月VIP",
+        parent: "y2026",
+        children: [],
+        match: (order) => normalizeSourceMonth(order.sourceMonth) === "2026-09"
       }
     };
 
