@@ -50,8 +50,8 @@ const VIP_SECTIONS = {
   y2026: {
     label: "2026VIP",
     parent: "root",
-    children: ["m2026-01", "m2026-02", "m2026-03", "m2026-04"],
-    monthKeys: ["2026-01", "2026-02", "2026-03", "2026-04"]
+    children: ["m2026-01", "m2026-02", "m2026-03", "m2026-04", "m2026-05", "m2026-06-07", "m2026-08", "m2026-09"],
+    monthKeys: ["2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06-07", "2026-08", "2026-09"]
   },
   "m2025-09-10": {
     label: "9/10月VIP",
@@ -94,6 +94,30 @@ const VIP_SECTIONS = {
     parent: "y2026",
     children: [],
     monthKeys: ["2026-04"]
+  },
+  "m2026-05": {
+  label: "5月VIP",
+  parent: "y2026",
+  children: [],
+  monthKeys: ["2026-05"]
+  },
+  "m2026-06-07": {
+  label: "6、7月VIP",
+  parent: "y2026",
+  children: [],
+  monthKeys: ["2026-06-07"]
+  },
+  "m2026-08": {
+  label: "8月VIP",
+  parent: "y2026",
+  children: [],
+  monthKeys: ["2026-08"]
+  },
+  "m2026-09": {
+  label: "9月VIP",
+  parent: "y2026",
+  children: [],
+  monthKeys: ["2026-09"]
   }
 };
 
@@ -422,7 +446,11 @@ function buildVipData(orders) {
       normalizedMonth === "2026-01" ||
       normalizedMonth === "2026-02" ||
       normalizedMonth === "2026-03" ||
-      normalizedMonth === "2026-04"
+      normalizedMonth === "2026-04" ||
+      normalizedMonth === "2026-05" ||
+      normalizedMonth === "2026-06-07" ||
+      normalizedMonth === "2026-08" ||
+      normalizedMonth === "2026-09" 
     );
   });
 

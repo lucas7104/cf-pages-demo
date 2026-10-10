@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "generatedAt": "2026-10-10T19:21:48.566Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
@@ -12,43 +13,43 @@
       "topTen": [
         {
           "name": "婷婷",
-          "amount": 107985
+          "amount": 117915
         },
         {
           "name": "TYT",
-          "amount": 57804
-        },
-        {
-          "name": "芭樂",
-          "amount": 43720
+          "amount": 60929
         },
         {
           "name": "君",
-          "amount": 35910
+          "amount": 52760
         },
         {
-          "name": "高八毛",
-          "amount": 34595
-        },
-        {
-          "name": "瑞斯",
-          "amount": 31960
+          "name": "芭樂",
+          "amount": 50725
         },
         {
           "name": "季",
-          "amount": 31504
+          "amount": 46814
         },
         {
-          "name": "cc",
-          "amount": 30300
+          "name": "瑞斯",
+          "amount": 45255
         },
         {
-          "name": "vivian_lai372",
-          "amount": 28715
+          "name": "nako",
+          "amount": 38462
         },
         {
-          "name": "每天都想退休",
-          "amount": 26754
+          "name": "lpp_ss",
+          "amount": 37140
+        },
+        {
+          "name": "高八毛",
+          "amount": 36920
+        },
+        {
+          "name": "涓",
+          "amount": 33500
         }
       ]
     },
@@ -110,48 +111,52 @@
         "m2026-01",
         "m2026-02",
         "m2026-03",
-        "m2026-04"
+        "m2026-04",
+        "m2026-05",
+        "m2026-06-07",
+        "m2026-08",
+        "m2026-09"
       ],
       "topTen": [
         {
           "name": "婷婷",
-          "amount": 107985
-        },
-        {
-          "name": "TYT",
-          "amount": 35719
+          "amount": 117915
         },
         {
           "name": "季",
-          "amount": 29844
-        },
-        {
-          "name": "芭樂",
-          "amount": 29175
+          "amount": 45154
         },
         {
           "name": "君",
-          "amount": 27505
+          "amount": 44355
+        },
+        {
+          "name": "TYT",
+          "amount": 38844
+        },
+        {
+          "name": "芭樂",
+          "amount": 36180
+        },
+        {
+          "name": "nako",
+          "amount": 34127
         },
         {
           "name": "高八毛",
-          "amount": 25785
+          "amount": 28110
         },
         {
-          "name": "Sabrina",
-          "amount": 25250
+          "name": "涓",
+          "amount": 27040
         },
         {
-          "name": "FLOWDY",
-          "amount": 15530
+          "name": "皮卡啾咪",
+          "amount": 26875
         },
         {
-          "name": "Peggy",
-          "amount": 15425
-        },
-        {
-          "name": "力卡",
-          "amount": 12860
+          "name": "lpp_ss",
+          "amount": 25875
         }
       ]
     },
@@ -481,6 +486,194 @@
         {
           "name": "TYT",
           "amount": 4200
+        }
+      ]
+    },
+    "m2026-05": {
+      "label": "5月VIP",
+      "parent": "y2026",
+      "children": [],
+      "topTen": [
+        {
+          "name": "皮卡啾咪",
+          "amount": 5205
+        },
+        {
+          "name": "jennylin640",
+          "amount": 4525
+        },
+        {
+          "name": "婷婷",
+          "amount": 3800
+        },
+        {
+          "name": "FLOWDY",
+          "amount": 2950
+        },
+        {
+          "name": "H",
+          "amount": 2675
+        },
+        {
+          "name": "高八毛",
+          "amount": 2325
+        },
+        {
+          "name": "寶",
+          "amount": 2300
+        },
+        {
+          "name": "君",
+          "amount": 2215
+        },
+        {
+          "name": "妮妮熊",
+          "amount": 1340
+        },
+        {
+          "name": "季",
+          "amount": 1200
+        }
+      ]
+    },
+    "m2026-06-07": {
+      "label": "6、7月VIP",
+      "parent": "y2026",
+      "children": [],
+      "topTen": [
+        {
+          "name": "涓",
+          "amount": 18005
+        },
+        {
+          "name": "皮卡啾咪",
+          "amount": 14910
+        },
+        {
+          "name": "aurora",
+          "amount": 8865
+        },
+        {
+          "name": "小咪",
+          "amount": 7930
+        },
+        {
+          "name": "lpp_ss",
+          "amount": 6485
+        },
+        {
+          "name": "婷婷",
+          "amount": 6130
+        },
+        {
+          "name": "君",
+          "amount": 5960
+        },
+        {
+          "name": "尖尖哇咖奈",
+          "amount": 5950
+        },
+        {
+          "name": "兵長的盤子",
+          "amount": 5950
+        },
+        {
+          "name": "芫",
+          "amount": 5950
+        }
+      ]
+    },
+    "m2026-08": {
+      "label": "8月VIP",
+      "parent": "y2026",
+      "children": [],
+      "topTen": [
+        {
+          "name": "nako",
+          "amount": 22365
+        },
+        {
+          "name": "寶",
+          "amount": 11580
+        },
+        {
+          "name": "季",
+          "amount": 8305
+        },
+        {
+          "name": "君",
+          "amount": 7745
+        },
+        {
+          "name": "FLOWDY",
+          "amount": 7375
+        },
+        {
+          "name": "老了一年級",
+          "amount": 4255
+        },
+        {
+          "name": "An",
+          "amount": 3570
+        },
+        {
+          "name": "呱呱",
+          "amount": 3390
+        },
+        {
+          "name": "瑞斯",
+          "amount": 3365
+        },
+        {
+          "name": "芭樂",
+          "amount": 3360
+        }
+      ]
+    },
+    "m2026-09": {
+      "label": "9月VIP",
+      "parent": "y2026",
+      "children": [],
+      "topTen": [
+        {
+          "name": "Marcus",
+          "amount": 6805
+        },
+        {
+          "name": "皮卡啾咪",
+          "amount": 6760
+        },
+        {
+          "name": "PEiii👻",
+          "amount": 6435
+        },
+        {
+          "name": "Eggbao",
+          "amount": 5455
+        },
+        {
+          "name": "運算思維",
+          "amount": 5355
+        },
+        {
+          "name": "H",
+          "amount": 5355
+        },
+        {
+          "name": "lpp_ss",
+          "amount": 5085
+        },
+        {
+          "name": "瑞斯",
+          "amount": 4865
+        },
+        {
+          "name": "UZ213ZU 速速咩",
+          "amount": 4495
+        },
+        {
+          "name": "涓",
+          "amount": 4475
         }
       ]
     }
