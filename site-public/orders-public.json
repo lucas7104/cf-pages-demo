@@ -44406,6 +44406,7 @@
     "socialName": "嘿嘿哈哈",
     "title": "4月委託",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 5400,
@@ -44418,7 +44419,7 @@
       "packagingFee": 0
     },
     "balanceDue": 150,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
