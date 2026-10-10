@@ -29333,6 +29333,7 @@
     "socialName": "Feiiii",
     "title": "(2月重開)1029 鬼滅 look up-26下單",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 880,
@@ -29345,7 +29346,7 @@
       "packagingFee": 0
     },
     "balanceDue": 12,
-    "etaText": "官方未發貨",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
