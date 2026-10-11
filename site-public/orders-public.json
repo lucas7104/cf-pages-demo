@@ -33910,7 +33910,7 @@
     "socialName": "Saki蒼",
     "title": "0319Jump 生日系列",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 960,
@@ -33923,7 +33923,7 @@
       "packagingFee": 0
     },
     "balanceDue": 62,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -46142,7 +46142,7 @@
     "socialName": "Saki蒼",
     "title": "0601咒術 旅遊系列",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 530,
@@ -46155,7 +46155,7 @@
       "packagingFee": 0
     },
     "balanceDue": 71,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
