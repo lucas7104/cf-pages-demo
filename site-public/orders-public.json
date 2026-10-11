@@ -29622,7 +29622,7 @@
     "socialName": "H",
     "title": "0303芙莉蓮 AJ2026",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 430,
@@ -29635,7 +29635,7 @@
       "packagingFee": 0
     },
     "balanceDue": 68,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -29894,7 +29894,7 @@
     "socialName": "H",
     "title": "0303進巨 Runway",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 2270,
@@ -29907,7 +29907,7 @@
       "packagingFee": 0
     },
     "balanceDue": 94,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36849,7 +36849,7 @@
     "socialName": "H",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 265,
@@ -36862,7 +36862,7 @@
       "packagingFee": 0
     },
     "balanceDue": 12,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
