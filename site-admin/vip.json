@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T13:31:38.346Z",
+  "generatedAt": "2026-10-11T13:41:43.845Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -412,16 +412,16 @@
           "amount": 12420
         },
         {
+          "name": "楚翔",
+          "amount": 10090
+        },
+        {
           "name": "君",
           "amount": 10070
         },
         {
           "name": "cc",
           "amount": 9800
-        },
-        {
-          "name": "楚翔",
-          "amount": 8765
         },
         {
           "name": "ゲンーガ",
