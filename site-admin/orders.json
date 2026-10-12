@@ -22891,6 +22891,7 @@
     "socialName": "Zihan",
     "title": "0109鬼滅 無限城節分",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 435,
@@ -22903,7 +22904,7 @@
       "packagingFee": 0
     },
     "balanceDue": 117,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -22920,6 +22921,7 @@
     "socialName": "承",
     "title": "0109鬼滅 無限城節分",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 290,
@@ -22932,7 +22934,7 @@
       "packagingFee": 0
     },
     "balanceDue": 114,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -45584,7 +45586,7 @@
     "socialName": "破產的人",
     "title": "0417咒術 極樂湯",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1110,
@@ -45597,7 +45599,7 @@
       "packagingFee": 0
     },
     "balanceDue": 35,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
