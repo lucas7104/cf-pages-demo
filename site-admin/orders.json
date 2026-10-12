@@ -25701,6 +25701,7 @@
     "socialName": "小吳",
     "title": "0127我英 Buruburuzu毛絨娃娃",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1200,
@@ -25713,7 +25714,7 @@
       "packagingFee": 0
     },
     "balanceDue": 168,
-    "etaText": "官方未發貨",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
