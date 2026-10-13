@@ -7180,6 +7180,7 @@
     "socialName": "加加（++)",
     "title": "1105鏈鋸人Look up",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 945,
@@ -7192,7 +7193,7 @@
       "packagingFee": 0
     },
     "balanceDue": 282,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -32248,7 +32249,7 @@
     "socialName": "Susu🐶",
     "title": "0303進巨 Runway",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 555,
@@ -32261,7 +32262,7 @@
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
