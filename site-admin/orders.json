@@ -7180,7 +7180,7 @@
     "socialName": "加加（++)",
     "title": "1105鏈鋸人Look up",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 945,
@@ -7193,7 +7193,7 @@
       "packagingFee": 0
     },
     "balanceDue": 282,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -31637,7 +31637,7 @@
     "socialName": "愛咪",
     "title": "0303芙莉蓮 AJ2026",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 480,
@@ -31650,7 +31650,7 @@
       "packagingFee": 0
     },
     "balanceDue": 69,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
