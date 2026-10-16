@@ -48486,68 +48486,6 @@
     ]
   },
   {
-    "socialName": "鹹酥雞",
-    "title": "THE★JOJO WORLD",
-    "statusBadges": [],
-    "productAmount": 310,
-    "depositPaid": 0,
-    "secondPayment": 4,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 4,
-      "packagingFee": 0
-    },
-    "balanceDue": 314,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "五喬杯墊",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "婷婷",
-    "title": "THE★JOJO WORLD",
-    "statusBadges": [],
-    "productAmount": 3665,
-    "depositPaid": 0,
-    "secondPayment": 12,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 12,
-      "packagingFee": 0
-    },
-    "balanceDue": 3677,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "絲巾",
-        "qty": 1
-      },
-      {
-        "name": "鑰匙圈",
-        "qty": 1
-      },
-      {
-        "name": "短袖",
-        "qty": 1
-      },
-      {
-        "name": "杯子",
-        "qty": 1
-      }
-    ]
-  },
-  {
     "socialName": "季",
     "title": "0802咒術 五週年西裝系列",
     "statusBadges": [
