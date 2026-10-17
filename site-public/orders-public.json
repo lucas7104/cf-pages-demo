@@ -44454,7 +44454,7 @@
     "socialName": "承",
     "title": "0501多IP Jump再入荷",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 400,
@@ -44467,7 +44467,7 @@
       "packagingFee": 0
     },
     "balanceDue": 97,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -44542,7 +44542,7 @@
     "socialName": "ㄗ",
     "title": "0501多IP Jump再入荷",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 400,
@@ -44555,7 +44555,7 @@
       "packagingFee": 0
     },
     "balanceDue": 97,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
