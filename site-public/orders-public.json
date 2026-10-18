@@ -24049,6 +24049,7 @@
     "socialName": "無敵雪莉",
     "title": "0127我英 Buruburuzu毛絨娃娃",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 400,
@@ -24061,7 +24062,7 @@
       "packagingFee": 0
     },
     "balanceDue": 15,
-    "etaText": "官方未發貨",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -24076,6 +24077,7 @@
     "socialName": "婷婷",
     "title": "0127我英 Buruburuzu毛絨娃娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 3200,
@@ -24088,7 +24090,7 @@
       "packagingFee": 0
     },
     "balanceDue": 120,
-    "etaText": "官方未發貨",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
