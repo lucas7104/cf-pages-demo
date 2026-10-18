@@ -27669,14 +27669,14 @@
     ],
     "productAmount": 360,
     "depositPaid": 360,
-    "secondPayment": 0,
+    "secondPayment": 64,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 51,
+      "internationalShipping": 8,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 64,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -27687,7 +27687,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0204 進巨小披風",
+    "sourceSheet": "★0204 進巨小披風",
     "sourceMonth": "2026-02"
   },
   {
@@ -27698,14 +27698,14 @@
     ],
     "productAmount": 360,
     "depositPaid": 360,
-    "secondPayment": 0,
+    "secondPayment": 64,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 51,
+      "internationalShipping": 8,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 64,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -27716,7 +27716,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0204 進巨小披風",
+    "sourceSheet": "★0204 進巨小披風",
     "sourceMonth": "2026-02"
   },
   {
@@ -27727,14 +27727,14 @@
     ],
     "productAmount": 360,
     "depositPaid": 360,
-    "secondPayment": 0,
+    "secondPayment": 64,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 51,
+      "internationalShipping": 8,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 64,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -27745,7 +27745,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0204 進巨小披風",
+    "sourceSheet": "★0204 進巨小披風",
     "sourceMonth": "2026-02"
   },
   {
@@ -27756,14 +27756,14 @@
     ],
     "productAmount": 360,
     "depositPaid": 360,
-    "secondPayment": 0,
+    "secondPayment": 64,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 51,
+      "internationalShipping": 8,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 64,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -27774,7 +27774,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0204 進巨小披風",
+    "sourceSheet": "★0204 進巨小披風",
     "sourceMonth": "2026-02"
   },
   {
@@ -27785,14 +27785,14 @@
     ],
     "productAmount": 360,
     "depositPaid": 360,
-    "secondPayment": 0,
+    "secondPayment": 64,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 51,
+      "internationalShipping": 8,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 64,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -27803,7 +27803,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0204 進巨小披風",
+    "sourceSheet": "★0204 進巨小披風",
     "sourceMonth": "2026-02"
   },
   {
@@ -27814,14 +27814,14 @@
     ],
     "productAmount": 1080,
     "depositPaid": 1080,
-    "secondPayment": 0,
+    "secondPayment": 192,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 153,
+      "internationalShipping": 24,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 192,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -27832,7 +27832,7 @@
         "qty": 3
       }
     ],
-    "sourceSheet": "0204 進巨小披風",
+    "sourceSheet": "★0204 進巨小披風",
     "sourceMonth": "2026-02"
   },
   {
@@ -27843,14 +27843,14 @@
     ],
     "productAmount": 360,
     "depositPaid": 360,
-    "secondPayment": 0,
+    "secondPayment": 64,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 51,
+      "internationalShipping": 8,
+      "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 64,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -27861,7 +27861,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0204 進巨小披風",
+    "sourceSheet": "★0204 進巨小披風",
     "sourceMonth": "2026-02"
   },
   {
@@ -27959,14 +27959,14 @@
     ],
     "productAmount": 3420,
     "depositPaid": 3420,
-    "secondPayment": 0,
+    "secondPayment": 102,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 102,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 102,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -27988,14 +27988,14 @@
     ],
     "productAmount": 1710,
     "depositPaid": 1710,
-    "secondPayment": 0,
+    "secondPayment": 51,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 51,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 51,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -31931,7 +31931,7 @@
     "socialName": "絈",
     "title": "0303進巨 Runway",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 2050,
@@ -31944,7 +31944,7 @@
       "packagingFee": 0
     },
     "balanceDue": 119,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -38616,7 +38616,7 @@
     "socialName": "Ari",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 878,
@@ -38629,7 +38629,7 @@
       "packagingFee": 0
     },
     "balanceDue": 29,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "艾連：乃",
@@ -49428,7 +49428,7 @@
     "socialName": "絈",
     "title": "0603進巨 天使與惡魔ver",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 960,
@@ -49441,7 +49441,7 @@
       "packagingFee": 0
     },
     "balanceDue": 58,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
