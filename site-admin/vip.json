@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T15:01:13.379Z",
+  "generatedAt": "2026-10-19T15:11:08.055Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -12,11 +12,11 @@
       "topTen": [
         {
           "name": "婷婷",
-          "amount": 117915
+          "amount": 79015
         },
         {
           "name": "TYT",
-          "amount": 60929
+          "amount": 57529
         },
         {
           "name": "君",
@@ -32,7 +32,7 @@
         },
         {
           "name": "瑞斯",
-          "amount": 45255
+          "amount": 44075
         },
         {
           "name": "nako",
@@ -119,7 +119,7 @@
       "topTen": [
         {
           "name": "婷婷",
-          "amount": 117915
+          "amount": 79015
         },
         {
           "name": "季",
@@ -130,12 +130,12 @@
           "amount": 44355
         },
         {
-          "name": "TYT",
-          "amount": 38844
-        },
-        {
           "name": "芭樂",
           "amount": 36180
+        },
+        {
+          "name": "TYT",
+          "amount": 35444
         },
         {
           "name": "nako",
@@ -448,7 +448,7 @@
       "topTen": [
         {
           "name": "婷婷",
-          "amount": 61685
+          "amount": 22785
         },
         {
           "name": "FLOWDY",
@@ -471,20 +471,20 @@
           "amount": 8045
         },
         {
-          "name": "Rea",
-          "amount": 6815
-        },
-        {
           "name": "jennylin640",
           "amount": 5550
+        },
+        {
+          "name": "Rea",
+          "amount": 5480
         },
         {
           "name": "嘿嘿哈哈",
           "amount": 5400
         },
         {
-          "name": "TYT",
-          "amount": 4200
+          "name": "拉拉",
+          "amount": 4010
         }
       ]
     },
