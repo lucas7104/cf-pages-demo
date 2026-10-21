@@ -46817,7 +46817,12 @@
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "D",
+        "qty": 2
+      }
+    ],
     "sourceSheet": "「★0410咒術  幻影夜行Fanpare Mart」的副本",
     "sourceMonth": "2026-04"
   },
@@ -46841,7 +46846,16 @@
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "D",
+        "qty": 2
+      },
+      {
+        "name": "E",
+        "qty": 2
+      }
+    ],
     "sourceSheet": "「★0410咒術  幻影夜行Fanpare Mart」的副本",
     "sourceMonth": "2026-04"
   },
@@ -46982,6 +46996,28 @@
     },
     "balanceDue": 0,
     "etaText": "已出貨",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [],
+    "sourceSheet": "「★0410咒術  幻影夜行Fanpare Mart」的副本",
+    "sourceMonth": "2026-04"
+  },
+  {
+    "socialName": "瓜麻",
+    "title": "「★0410咒術 幻影夜行Fanpare Mart」的副本",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
