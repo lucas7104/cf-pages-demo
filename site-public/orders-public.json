@@ -30549,6 +30549,7 @@
     "socialName": "snailll",
     "title": "0305鬼滅 無限城第一章 再販",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1450,
@@ -30561,7 +30562,7 @@
       "packagingFee": 0
     },
     "balanceDue": 188,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -30587,7 +30588,9 @@
   {
     "socialName": "華",
     "title": "0305鬼滅 無限城第一章 再販",
-    "statusBadges": [],
+    "statusBadges": [
+      "已抵台"
+    ],
     "productAmount": 725,
     "depositPaid": 0,
     "secondPayment": 128,
@@ -30598,7 +30601,7 @@
       "packagingFee": 0
     },
     "balanceDue": 853,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -43991,7 +43994,16 @@
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "C",
+        "qty": 2
+      },
+      {
+        "name": "D",
+        "qty": 2
+      }
+    ]
   },
   {
     "socialName": "拉拉",
@@ -44038,7 +44050,7 @@
     "items": [
       {
         "name": "D",
-        "qty": 2
+        "qty": 3
       },
       {
         "name": "E",
@@ -44088,7 +44100,16 @@
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "D",
+        "qty": 3
+      },
+      {
+        "name": "E",
+        "qty": 2
+      }
+    ]
   },
   {
     "socialName": "Lulumi",
@@ -44159,7 +44180,12 @@
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "D",
+        "qty": 2
+      }
+    ]
   },
   {
     "socialName": "FLOWDY",
