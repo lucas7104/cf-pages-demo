@@ -30549,7 +30549,7 @@
     "socialName": "snailll",
     "title": "0305鬼滅 無限城第一章 再販",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1450,
@@ -30562,7 +30562,7 @@
       "packagingFee": 0
     },
     "balanceDue": 188,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -30620,6 +30620,7 @@
     "socialName": "每天都想退休",
     "title": "0305鬼滅 無限城第一章 再販",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 690,
@@ -30632,7 +30633,7 @@
       "packagingFee": 0
     },
     "balanceDue": 185,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -44025,7 +44026,12 @@
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "E",
+        "qty": 2
+      }
+    ]
   },
   {
     "socialName": "芭樂",
@@ -44107,7 +44113,7 @@
       },
       {
         "name": "E",
-        "qty": 2
+        "qty": 3
       }
     ]
   },
@@ -44207,7 +44213,12 @@
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "D",
+        "qty": 5
+      }
+    ]
   },
   {
     "socialName": "瓜麻",
