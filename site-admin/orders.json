@@ -27602,7 +27602,12 @@
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "特典",
+        "qty": 2
+      }
+    ],
     "sourceSheet": "「★0118幻影夜行本舖抽賞」的副本",
     "sourceMonth": "2026-01"
   },

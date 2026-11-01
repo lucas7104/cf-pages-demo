@@ -25928,7 +25928,12 @@
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "特典",
+        "qty": 2
+      }
+    ]
   },
   {
     "socialName": "紅茶拿鐵微微",
