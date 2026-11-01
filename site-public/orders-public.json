@@ -22008,36 +22008,8 @@
     ]
   },
   {
-    "socialName": "臉書LI En-tsu",
-    "title": "0118坂本日常 威化餅食玩",
-    "statusBadges": [
-      "已出貨",
-      "已付訂金"
-    ],
-    "productAmount": 1320,
-    "depositPaid": 1320,
-    "secondPayment": 414,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 130,
-      "internationalShipping": 255,
-      "cardFee": 19,
-      "packagingFee": 10
-    },
-    "balanceDue": 414,
-    "etaText": "已出貨",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "威化餅食玩",
-        "qty": 2
-      }
-    ]
-  },
-  {
     "socialName": "Peggy",
-    "title": "0119幻影夜行本舖抽賞",
+    "title": "0118幻影夜行本舖抽賞",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -22073,7 +22045,7 @@
   },
   {
     "socialName": "芭樂",
-    "title": "0119幻影夜行本舖抽賞",
+    "title": "0118幻影夜行本舖抽賞",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -22105,7 +22077,7 @@
   },
   {
     "socialName": "君",
-    "title": "0119幻影夜行本舖抽賞",
+    "title": "0118幻影夜行本舖抽賞",
     "statusBadges": [
       "已抵台",
       "已付訂金"
@@ -22133,7 +22105,7 @@
   },
   {
     "socialName": "每天都想退休",
-    "title": "0119幻影夜行本舖抽賞",
+    "title": "0118幻影夜行本舖抽賞",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -22165,7 +22137,7 @@
   },
   {
     "socialName": "Ni",
-    "title": "0119幻影夜行本舖抽賞",
+    "title": "0118幻影夜行本舖抽賞",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -22197,7 +22169,7 @@
   },
   {
     "socialName": "高八毛",
-    "title": "0119幻影夜行本舖抽賞",
+    "title": "0118幻影夜行本舖抽賞",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -22233,7 +22205,7 @@
   },
   {
     "socialName": "鴨",
-    "title": "0119幻影夜行本舖抽賞",
+    "title": "0118幻影夜行本舖抽賞",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -22269,7 +22241,7 @@
   },
   {
     "socialName": "彤",
-    "title": "0119幻影夜行本舖抽賞",
+    "title": "0118幻影夜行本舖抽賞",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -22297,7 +22269,7 @@
   },
   {
     "socialName": "Saki蒼",
-    "title": "0119幻影夜行本舖抽賞",
+    "title": "0118幻影夜行本舖抽賞",
     "statusBadges": [
       "已出貨",
       "已付訂金"
@@ -22320,6 +22292,34 @@
       {
         "name": "四抽",
         "qty": 4
+      }
+    ]
+  },
+  {
+    "socialName": "臉書LI En-tsu",
+    "title": "0118坂本日常 威化餅食玩",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 1320,
+    "depositPaid": 1320,
+    "secondPayment": 414,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 130,
+      "internationalShipping": 255,
+      "cardFee": 19,
+      "packagingFee": 10
+    },
+    "balanceDue": 414,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "威化餅食玩",
+        "qty": 2
       }
     ]
   },
@@ -25660,6 +25660,294 @@
       {
         "name": "資料夾-向日葵",
         "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "Peggy",
+    "title": "「★0118幻影夜行本舖抽賞」的副本",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 2220,
+    "depositPaid": 2220,
+    "secondPayment": 125,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 19,
+      "internationalShipping": 70,
+      "cardFee": 36,
+      "packagingFee": 0
+    },
+    "balanceDue": 125,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "四抽",
+        "qty": 12
+      },
+      {
+        "name": "E透卡",
+        "qty": 2
+      },
+      {
+        "name": "特典",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "socialName": "芭樂",
+    "title": "「★0118幻影夜行本舖抽賞」的副本",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 740,
+    "depositPaid": 740,
+    "secondPayment": 97,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 19,
+      "internationalShipping": 66,
+      "cardFee": 12,
+      "packagingFee": 0
+    },
+    "balanceDue": 97,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "四抽",
+        "qty": 4
+      },
+      {
+        "name": "E透卡",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "socialName": "君",
+    "title": "「★0118幻影夜行本舖抽賞」的副本",
+    "statusBadges": [
+      "已抵台",
+      "已付訂金"
+    ],
+    "productAmount": 2220,
+    "depositPaid": 2220,
+    "secondPayment": 120,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 19,
+      "internationalShipping": 65,
+      "cardFee": 36,
+      "packagingFee": 0
+    },
+    "balanceDue": 120,
+    "etaText": "已抵台",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "四抽",
+        "qty": 12
+      }
+    ]
+  },
+  {
+    "socialName": "每天都想退休",
+    "title": "「★0118幻影夜行本舖抽賞」的副本",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 1480,
+    "depositPaid": 1480,
+    "secondPayment": 94,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 19,
+      "internationalShipping": 51,
+      "cardFee": 24,
+      "packagingFee": 0
+    },
+    "balanceDue": 94,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "四抽",
+        "qty": 8
+      },
+      {
+        "name": "E透卡",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "socialName": "Ni",
+    "title": "「★0118幻影夜行本舖抽賞」的副本",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 2220,
+    "depositPaid": 1480,
+    "secondPayment": 136,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 19,
+      "internationalShipping": 81,
+      "cardFee": 36,
+      "packagingFee": 0
+    },
+    "balanceDue": 876,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "Daddy給CM&脆瓜麻各1",
+    "items": [
+      {
+        "name": "四抽",
+        "qty": 12
+      },
+      {
+        "name": "E透卡",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "socialName": "高八毛",
+    "title": "「★0118幻影夜行本舖抽賞」的副本",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 4440,
+    "depositPaid": 2960,
+    "secondPayment": 227,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 19,
+      "internationalShipping": 136,
+      "cardFee": 72,
+      "packagingFee": 0
+    },
+    "balanceDue": 1707,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "四抽",
+        "qty": 24
+      },
+      {
+        "name": "E透卡",
+        "qty": 3
+      },
+      {
+        "name": "特典",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "socialName": "鴨",
+    "title": "「★0118幻影夜行本舖抽賞」的副本",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 2220,
+    "depositPaid": 2220,
+    "secondPayment": 144,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 19,
+      "internationalShipping": 89,
+      "cardFee": 36,
+      "packagingFee": 0
+    },
+    "balanceDue": 144,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "四抽",
+        "qty": 12
+      },
+      {
+        "name": "E透卡",
+        "qty": 2
+      },
+      {
+        "name": "特典",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "socialName": "彤",
+    "title": "「★0118幻影夜行本舖抽賞」的副本",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 740,
+    "depositPaid": 740,
+    "secondPayment": 76,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 19,
+      "internationalShipping": 45,
+      "cardFee": 12,
+      "packagingFee": 0
+    },
+    "balanceDue": 76,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "四抽",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "socialName": "Saki蒼",
+    "title": "「★0118幻影夜行本舖抽賞」的副本",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 740,
+    "depositPaid": 740,
+    "secondPayment": 79,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 19,
+      "internationalShipping": 48,
+      "cardFee": 12,
+      "packagingFee": 0
+    },
+    "balanceDue": 79,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "四抽",
+        "qty": 4
       }
     ]
   },
@@ -40682,7 +40970,7 @@
       "已出貨",
       "已付訂金"
     ],
-    "productAmount": 1800,
+    "productAmount": 0,
     "depositPaid": 1800,
     "secondPayment": 220,
     "secondPaymentBreakdown": {
@@ -40691,11 +40979,11 @@
       "cardFee": 30,
       "packagingFee": 0
     },
-    "balanceDue": 220,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "v",
+    "note": "",
     "items": [
       {
         "name": "五抽以上",
@@ -40710,7 +40998,7 @@
       "已出貨",
       "已付訂金"
     ],
-    "productAmount": 2880,
+    "productAmount": 0,
     "depositPaid": 2880,
     "secondPayment": 222,
     "secondPaymentBreakdown": {
@@ -40719,11 +41007,11 @@
       "cardFee": 48,
       "packagingFee": 0
     },
-    "balanceDue": 222,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "多2",
+    "note": "",
     "items": [
       {
         "name": "五抽以上",
@@ -40734,7 +41022,7 @@
         "qty": 2
       },
       {
-        "name": "E",
+        "name": "D",
         "qty": 2
       }
     ]
@@ -40766,6 +41054,10 @@
         "qty": 12
       },
       {
+        "name": "D",
+        "qty": 2
+      },
+      {
         "name": "E",
         "qty": 2
       }
@@ -40778,7 +41070,7 @@
       "已出貨",
       "已付訂金"
     ],
-    "productAmount": 2340,
+    "productAmount": 0,
     "depositPaid": 2340,
     "secondPayment": 188,
     "secondPaymentBreakdown": {
@@ -40787,11 +41079,11 @@
       "cardFee": 39,
       "packagingFee": 0
     },
-    "balanceDue": 188,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "v",
+    "note": "",
     "items": [
       {
         "name": "五抽以上",
@@ -40814,7 +41106,7 @@
       "已出貨",
       "已付訂金"
     ],
-    "productAmount": 1440,
+    "productAmount": 0,
     "depositPaid": 1440,
     "secondPayment": 208,
     "secondPaymentBreakdown": {
@@ -40823,11 +41115,11 @@
       "cardFee": 24,
       "packagingFee": 0
     },
-    "balanceDue": 208,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "v",
+    "note": "",
     "items": [
       {
         "name": "五抽以上",
@@ -40842,7 +41134,7 @@
       "已出貨",
       "已付訂金"
     ],
-    "productAmount": 2160,
+    "productAmount": 0,
     "depositPaid": 2160,
     "secondPayment": 245,
     "secondPaymentBreakdown": {
@@ -40851,11 +41143,11 @@
       "cardFee": 36,
       "packagingFee": 0
     },
-    "balanceDue": 245,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "v",
+    "note": "",
     "items": [
       {
         "name": "五抽以上",
@@ -40877,7 +41169,7 @@
     "statusBadges": [
       "已出貨"
     ],
-    "productAmount": 1080,
+    "productAmount": 0,
     "depositPaid": 0,
     "secondPayment": 129,
     "secondPaymentBreakdown": {
@@ -40886,11 +41178,11 @@
       "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 1209,
+    "balanceDue": 129,
     "etaText": "已出貨",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
-    "note": "v",
+    "note": "",
     "items": [
       {
         "name": "五抽以上",
@@ -40909,7 +41201,7 @@
       "已出貨",
       "已付訂金"
     ],
-    "productAmount": 2700,
+    "productAmount": 0,
     "depositPaid": 2700,
     "secondPayment": 163,
     "secondPaymentBreakdown": {
@@ -40918,19 +41210,15 @@
       "cardFee": 45,
       "packagingFee": 0
     },
-    "balanceDue": 163,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "v",
+    "note": "",
     "items": [
       {
         "name": "五抽以上",
         "qty": 15
-      },
-      {
-        "name": "E",
-        "qty": 2
       }
     ]
   },
@@ -40941,7 +41229,7 @@
       "已抵台",
       "已付訂金"
     ],
-    "productAmount": 1800,
+    "productAmount": 0,
     "depositPaid": 1800,
     "secondPayment": 571,
     "secondPaymentBreakdown": {
@@ -40950,11 +41238,11 @@
       "cardFee": 30,
       "packagingFee": 0
     },
-    "balanceDue": 571,
+    "balanceDue": 0,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "v",
+    "note": "",
     "items": [
       {
         "name": "五抽以上",
@@ -40973,7 +41261,7 @@
       "已出貨",
       "已付訂金"
     ],
-    "productAmount": 3060,
+    "productAmount": 0,
     "depositPaid": 3060,
     "secondPayment": 236,
     "secondPaymentBreakdown": {
@@ -40982,11 +41270,11 @@
       "cardFee": 51,
       "packagingFee": 0
     },
-    "balanceDue": 236,
+    "balanceDue": 0,
     "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "v",
+    "note": "",
     "items": [
       {
         "name": "五抽以上",

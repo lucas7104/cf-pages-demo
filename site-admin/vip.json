@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T16:51:47.114Z",
+  "generatedAt": "2026-11-01T17:01:33.330Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -20,11 +20,11 @@
         },
         {
           "name": "君",
-          "amount": 52760
+          "amount": 52100
         },
         {
           "name": "芭樂",
-          "amount": 50725
+          "amount": 49125
         },
         {
           "name": "季",
@@ -35,16 +35,16 @@
           "amount": 44075
         },
         {
+          "name": "高八毛",
+          "amount": 41360
+        },
+        {
           "name": "nako",
           "amount": 38462
         },
         {
           "name": "lpp_ss",
           "amount": 37140
-        },
-        {
-          "name": "高八毛",
-          "amount": 36920
         },
         {
           "name": "涓",
@@ -127,15 +127,15 @@
         },
         {
           "name": "君",
-          "amount": 44355
-        },
-        {
-          "name": "芭樂",
-          "amount": 36180
+          "amount": 43695
         },
         {
           "name": "TYT",
           "amount": 35444
+        },
+        {
+          "name": "芭樂",
+          "amount": 34580
         },
         {
           "name": "nako",
@@ -143,7 +143,7 @@
         },
         {
           "name": "高八毛",
-          "amount": 28110
+          "amount": 32550
         },
         {
           "name": "涓",
@@ -307,7 +307,7 @@
       "topTen": [
         {
           "name": "高八毛",
-          "amount": 15710
+          "amount": 20150
         },
         {
           "name": "TYT",
@@ -315,31 +315,31 @@
         },
         {
           "name": "Peggy",
-          "amount": 9175
+          "amount": 11395
         },
         {
           "name": "君",
-          "amount": 8440
+          "amount": 10660
+        },
+        {
+          "name": "鴨",
+          "amount": 8170
+        },
+        {
+          "name": "芭樂",
+          "amount": 7650
         },
         {
           "name": "婷婷",
           "amount": 7065
         },
         {
-          "name": "芭樂",
-          "amount": 6910
-        },
-        {
-          "name": "鴨",
-          "amount": 5950
+          "name": "Saki蒼",
+          "amount": 6065
         },
         {
           "name": "良",
           "amount": 5690
-        },
-        {
-          "name": "Saki蒼",
-          "amount": 5325
         },
         {
           "name": "臉書 三角飯糰",
@@ -451,36 +451,36 @@
           "amount": 22785
         },
         {
-          "name": "FLOWDY",
-          "amount": 13195
-        },
-        {
-          "name": "Sabrina",
-          "amount": 10475
-        },
-        {
           "name": "季",
           "amount": 10265
         },
         {
-          "name": "芭樂",
-          "amount": 9590
+          "name": "FLOWDY",
+          "amount": 10135
         },
         {
-          "name": "君",
-          "amount": 8045
+          "name": "Sabrina",
+          "amount": 8315
+        },
+        {
+          "name": "芭樂",
+          "amount": 7250
         },
         {
           "name": "jennylin640",
           "amount": 5550
         },
         {
-          "name": "Rea",
-          "amount": 5480
-        },
-        {
           "name": "嘿嘿哈哈",
           "amount": 5400
+        },
+        {
+          "name": "君",
+          "amount": 5165
+        },
+        {
+          "name": "Rea",
+          "amount": 4040
         },
         {
           "name": "拉拉",
