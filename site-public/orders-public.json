@@ -25853,6 +25853,10 @@
       {
         "name": "四抽",
         "qty": 12
+      },
+      {
+        "name": "特典",
+        "qty": 2
       }
     ]
   },
@@ -25934,6 +25938,26 @@
         "qty": 2
       }
     ]
+  },
+  {
+    "socialName": "CM",
+    "title": "「★0118幻影夜行本舖抽賞」的副本",
+    "statusBadges": [],
+    "productAmount": 0,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": []
   },
   {
     "socialName": "紅茶拿鐵微微",
