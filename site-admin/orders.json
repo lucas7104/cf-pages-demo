@@ -1744,7 +1744,7 @@
     "socialName": "魚🐟",
     "title": "1010 鬼滅拆信刀",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1600,
@@ -1757,7 +1757,7 @@
       "packagingFee": 0
     },
     "balanceDue": 144,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -3351,7 +3351,7 @@
     "socialName": "魚🐟",
     "title": "1017Jump義勇誕生日",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 135,
@@ -3364,7 +3364,7 @@
       "packagingFee": 0
     },
     "balanceDue": 170,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
