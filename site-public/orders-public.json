@@ -30057,7 +30057,7 @@
     "socialName": "莎拉拉",
     "title": "0303進巨 Runway",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 555,
@@ -30070,7 +30070,7 @@
       "packagingFee": 0
     },
     "balanceDue": 35,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -36820,7 +36820,7 @@
     "socialName": "莎拉拉",
     "title": "0325進巨 一起去看海吧",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 2890,
@@ -36833,7 +36833,7 @@
       "packagingFee": 0
     },
     "balanceDue": 100,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -40906,7 +40906,7 @@
     "socialName": "莎拉拉",
     "title": "0410咒術 幻影夜行Fanpare Mart",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 2700,
@@ -40919,7 +40919,7 @@
       "packagingFee": 0
     },
     "balanceDue": 163,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "v",
