@@ -37648,14 +37648,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 0,
+    "secondPayment": 37,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 37,
       "internationalShipping": 0,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 37,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
