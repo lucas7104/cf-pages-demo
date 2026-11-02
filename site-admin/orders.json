@@ -37648,14 +37648,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 37,
+    "secondPayment": 103,
     "secondPaymentBreakdown": {
-      "domesticShipping": 37,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 14,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 37,
+    "balanceDue": 103,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -37666,7 +37666,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -37677,14 +37677,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 0,
+    "secondPayment": 103,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 14,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 103,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -37695,7 +37695,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -37706,14 +37706,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 0,
+    "secondPayment": 103,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 14,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 103,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -37724,7 +37724,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -37735,14 +37735,14 @@
     ],
     "productAmount": 1350,
     "depositPaid": 1350,
-    "secondPayment": 0,
+    "secondPayment": 143,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 42,
+      "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 143,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -37761,7 +37761,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -37772,14 +37772,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 0,
+    "secondPayment": 103,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 14,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 103,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -37790,7 +37790,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -37801,14 +37801,14 @@
     ],
     "productAmount": 1350,
     "depositPaid": 1350,
-    "secondPayment": 0,
+    "secondPayment": 143,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 42,
+      "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 143,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -37827,7 +37827,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -37838,14 +37838,14 @@
     ],
     "productAmount": 2200,
     "depositPaid": 2200,
-    "secondPayment": 0,
+    "secondPayment": 183,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 70,
+      "cardFee": 30,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 183,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -37876,7 +37876,7 @@
         "qty": 5
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -37887,14 +37887,14 @@
     ],
     "productAmount": 1800,
     "depositPaid": 1800,
-    "secondPayment": 0,
+    "secondPayment": 163,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 56,
+      "cardFee": 24,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 163,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -37917,7 +37917,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -37928,14 +37928,14 @@
     ],
     "productAmount": 900,
     "depositPaid": 900,
-    "secondPayment": 0,
+    "secondPayment": 123,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 28,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 123,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -37950,7 +37950,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -37961,14 +37961,14 @@
     ],
     "productAmount": 900,
     "depositPaid": 900,
-    "secondPayment": 0,
+    "secondPayment": 123,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 28,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 123,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -37983,7 +37983,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -37994,14 +37994,14 @@
     ],
     "productAmount": 900,
     "depositPaid": 900,
-    "secondPayment": 0,
+    "secondPayment": 123,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 28,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 123,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38016,7 +38016,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -38027,14 +38027,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 0,
+    "secondPayment": 103,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 14,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 103,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38045,7 +38045,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -38056,14 +38056,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 0,
+    "secondPayment": 103,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 14,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 103,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38074,7 +38074,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -38085,14 +38085,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 0,
+    "secondPayment": 103,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 14,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 103,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38103,7 +38103,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -38114,14 +38114,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 0,
+    "secondPayment": 103,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 14,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 103,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38132,7 +38132,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -38143,14 +38143,14 @@
     ],
     "productAmount": 900,
     "depositPaid": 900,
-    "secondPayment": 0,
+    "secondPayment": 123,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 28,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 123,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38165,7 +38165,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -38176,14 +38176,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 0,
+    "secondPayment": 103,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 14,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 103,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38194,7 +38194,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -38205,14 +38205,14 @@
     ],
     "productAmount": 1800,
     "depositPaid": 1800,
-    "secondPayment": 0,
+    "secondPayment": 163,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 56,
+      "cardFee": 24,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 163,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38235,7 +38235,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -38246,14 +38246,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 0,
+    "secondPayment": 103,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 14,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 103,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38264,7 +38264,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -38275,14 +38275,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 0,
+    "secondPayment": 103,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 14,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 103,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38293,7 +38293,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -38304,14 +38304,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 0,
+    "secondPayment": 103,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 14,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 103,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38322,7 +38322,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -38333,14 +38333,14 @@
     ],
     "productAmount": 900,
     "depositPaid": 900,
-    "secondPayment": 0,
+    "secondPayment": 123,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 28,
+      "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 123,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38355,7 +38355,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -38366,14 +38366,14 @@
     ],
     "productAmount": 3960,
     "depositPaid": 3960,
-    "secondPayment": 0,
+    "secondPayment": 263,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 126,
+      "cardFee": 54,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 263,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38404,7 +38404,7 @@
         "qty": 9
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -38415,14 +38415,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 0,
+    "secondPayment": 103,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 14,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 103,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38433,7 +38433,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -38444,14 +38444,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 0,
+    "secondPayment": 103,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 14,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 103,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38462,7 +38462,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -38473,14 +38473,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 0,
+    "secondPayment": 103,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 14,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 103,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38491,7 +38491,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -38502,14 +38502,14 @@
     ],
     "productAmount": 2200,
     "depositPaid": 2200,
-    "secondPayment": 0,
+    "secondPayment": 183,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 70,
+      "cardFee": 30,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 183,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38540,7 +38540,7 @@
         "qty": 5
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -38551,14 +38551,14 @@
     ],
     "productAmount": 1800,
     "depositPaid": 1800,
-    "secondPayment": 0,
+    "secondPayment": 163,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 56,
+      "cardFee": 24,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 163,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38581,7 +38581,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -38592,14 +38592,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 0,
+    "secondPayment": 103,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 14,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 103,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38610,7 +38610,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -38621,14 +38621,14 @@
     ],
     "productAmount": 2640,
     "depositPaid": 2640,
-    "secondPayment": 0,
+    "secondPayment": 203,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 84,
+      "cardFee": 36,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 203,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38663,7 +38663,7 @@
         "qty": 6
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -38674,14 +38674,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 0,
+    "secondPayment": 103,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 14,
+      "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 103,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38692,7 +38692,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -38703,14 +38703,14 @@
     ],
     "productAmount": 1350,
     "depositPaid": 1350,
-    "secondPayment": 0,
+    "secondPayment": 143,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 83,
+      "internationalShipping": 42,
+      "cardFee": 18,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 143,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -38729,7 +38729,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0323咒術 JUMP情緒立牌再受注",
+    "sourceSheet": "★0323咒術 JUMP情緒立牌再受注",
     "sourceMonth": "2026-03"
   },
   {
@@ -44777,14 +44777,14 @@
     ],
     "productAmount": 1165,
     "depositPaid": 1165,
-    "secondPayment": 14,
+    "secondPayment": 44,
     "secondPaymentBreakdown": {
       "domesticShipping": 14,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 15,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 14,
+    "balanceDue": 44,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44795,7 +44795,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0413咒術 五週年紀念熊熊娃",
+    "sourceSheet": "★0413咒術 五週年紀念熊熊娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -44806,14 +44806,14 @@
     ],
     "productAmount": 1165,
     "depositPaid": 1165,
-    "secondPayment": 14,
+    "secondPayment": 44,
     "secondPaymentBreakdown": {
       "domesticShipping": 14,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 15,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 14,
+    "balanceDue": 44,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44824,7 +44824,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0413咒術 五週年紀念熊熊娃",
+    "sourceSheet": "★0413咒術 五週年紀念熊熊娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -44835,14 +44835,14 @@
     ],
     "productAmount": 1165,
     "depositPaid": 1165,
-    "secondPayment": 14,
+    "secondPayment": 44,
     "secondPaymentBreakdown": {
       "domesticShipping": 14,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 15,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 14,
+    "balanceDue": 44,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44853,7 +44853,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0413咒術 五週年紀念熊熊娃",
+    "sourceSheet": "★0413咒術 五週年紀念熊熊娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -44864,14 +44864,14 @@
     ],
     "productAmount": 1165,
     "depositPaid": 1165,
-    "secondPayment": 14,
+    "secondPayment": 44,
     "secondPaymentBreakdown": {
       "domesticShipping": 14,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 15,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 14,
+    "balanceDue": 44,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44882,7 +44882,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0413咒術 五週年紀念熊熊娃",
+    "sourceSheet": "★0413咒術 五週年紀念熊熊娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -44893,14 +44893,14 @@
     ],
     "productAmount": 2330,
     "depositPaid": 2330,
-    "secondPayment": 14,
+    "secondPayment": 74,
     "secondPaymentBreakdown": {
       "domesticShipping": 14,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 30,
+      "cardFee": 30,
       "packagingFee": 0
     },
-    "balanceDue": 14,
+    "balanceDue": 74,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44915,7 +44915,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0413咒術 五週年紀念熊熊娃",
+    "sourceSheet": "★0413咒術 五週年紀念熊熊娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -44926,14 +44926,14 @@
     ],
     "productAmount": 1165,
     "depositPaid": 1165,
-    "secondPayment": 14,
+    "secondPayment": 44,
     "secondPaymentBreakdown": {
       "domesticShipping": 14,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 15,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 14,
+    "balanceDue": 44,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44944,7 +44944,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0413咒術 五週年紀念熊熊娃",
+    "sourceSheet": "★0413咒術 五週年紀念熊熊娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -44955,14 +44955,14 @@
     ],
     "productAmount": 1165,
     "depositPaid": 1165,
-    "secondPayment": 14,
+    "secondPayment": 44,
     "secondPaymentBreakdown": {
       "domesticShipping": 14,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 15,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 14,
+    "balanceDue": 44,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -44973,7 +44973,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0413咒術 五週年紀念熊熊娃",
+    "sourceSheet": "★0413咒術 五週年紀念熊熊娃",
     "sourceMonth": "2026-04"
   },
   {
