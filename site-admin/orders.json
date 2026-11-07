@@ -55038,9 +55038,11 @@
   {
     "socialName": "Kiwii",
     "title": "0901進巨 graniph(討論串)",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 1940,
-    "depositPaid": 0,
+    "depositPaid": 1940,
     "secondPayment": 25,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -55048,9 +55050,9 @@
       "cardFee": 25,
       "packagingFee": 0
     },
-    "balanceDue": 1965,
+    "balanceDue": 25,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
