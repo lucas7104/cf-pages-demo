@@ -23147,7 +23147,7 @@
     "socialName": "櫻桃🍒",
     "title": "0120鏈鋸人 太陽城王子飯店",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 425,
@@ -23160,7 +23160,7 @@
       "packagingFee": 0
     },
     "balanceDue": 35,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -25316,6 +25316,7 @@
     "socialName": "Peggy",
     "title": "0131咒術 麻糬娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 640,
@@ -25328,7 +25329,7 @@
       "packagingFee": 0
     },
     "balanceDue": 57,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -25347,6 +25348,7 @@
     "socialName": "Charlie",
     "title": "0131咒術 麻糬娃",
     "statusBadges": [
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 320,
@@ -25359,7 +25361,7 @@
       "packagingFee": 0
     },
     "balanceDue": 45,
-    "etaText": "待公告",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -25374,6 +25376,7 @@
     "socialName": "Alia",
     "title": "0131咒術 麻糬娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 320,
@@ -25386,7 +25389,7 @@
       "packagingFee": 0
     },
     "balanceDue": 45,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -25401,6 +25404,7 @@
     "socialName": "恩恩",
     "title": "0131咒術 麻糬娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 320,
@@ -25413,7 +25417,7 @@
       "packagingFee": 0
     },
     "balanceDue": 65,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "無卡",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -25428,6 +25432,7 @@
     "socialName": "鬆餅",
     "title": "0131咒術 麻糬娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 320,
@@ -25440,7 +25445,7 @@
       "packagingFee": 0
     },
     "balanceDue": 45,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
