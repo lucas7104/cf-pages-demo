@@ -47375,7 +47375,7 @@
     "socialName": "寶",
     "title": "0611咒術 Movic拍立得相卡",
     "statusBadges": [
-      "已抵台"
+      "已出貨"
     ],
     "productAmount": 2010,
     "depositPaid": 0,
@@ -47387,7 +47387,7 @@
       "packagingFee": 0
     },
     "balanceDue": 2097,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -49641,7 +49641,7 @@
       "packagingFee": 0
     },
     "balanceDue": 137,
-    "etaText": "待公告",
+    "etaText": "部分出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "部分抵台",
