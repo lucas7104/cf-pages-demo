@@ -4046,7 +4046,7 @@
     "socialName": "lpp_ss",
     "title": "1023進巨蘑菇娃",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1270,
@@ -4059,7 +4059,7 @@
       "packagingFee": 0
     },
     "balanceDue": 169,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -5910,7 +5910,7 @@
     "socialName": "lpp_ss",
     "title": "1104 咒術ensky周邊",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 890,
@@ -5923,7 +5923,7 @@
       "packagingFee": 0
     },
     "balanceDue": 222,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -7842,7 +7842,7 @@
     "socialName": "lpp_ss",
     "title": "1108 進巨 放鬆系列",
     "statusBadges": [
-      "已抵台",
+      "已出貨",
       "已付訂金"
     ],
     "productAmount": 540,
@@ -7855,7 +7855,7 @@
       "packagingFee": 0
     },
     "balanceDue": 130,
-    "etaText": "已抵台",
+    "etaText": "已出貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
