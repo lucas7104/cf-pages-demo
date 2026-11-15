@@ -43953,59 +43953,28 @@
     ]
   },
   {
-    "socialName": "很累",
-    "title": "0429多ip Jump Festa 2026",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 2285,
-    "depositPaid": 2285,
-    "secondPayment": 82,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 46,
-      "internationalShipping": 0,
-      "cardFee": 36,
-      "packagingFee": 0
-    },
-    "balanceDue": 82,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "排少金屬鑰匙圈 Vol. 1",
-        "qty": 4
-      },
-      {
-        "name": "我英包裝盒鑰匙圈",
-        "qty": 5
-      }
-    ]
-  },
-  {
     "socialName": "++",
     "title": "0429多ip Jump Festa 2026",
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 480,
+    "productAmount": 0,
     "depositPaid": 476,
-    "secondPayment": 53,
+    "secondPayment": 46,
     "secondPaymentBreakdown": {
       "domesticShipping": 46,
       "internationalShipping": 0,
-      "cardFee": 7,
+      "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 57,
+    "balanceDue": 0,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
-        "name": "銀魂立牌 (土方)",
+        "name": "伊莉莎白包",
         "qty": 1
       }
     ]
