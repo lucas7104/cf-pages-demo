@@ -48705,19 +48705,20 @@
     "socialName": "Jhan",
     "title": "0601咒術 五週年咖啡廳",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 645,
     "depositPaid": 645,
-    "secondPayment": 60,
+    "secondPayment": 58,
     "secondPaymentBreakdown": {
-      "domesticShipping": 27,
+      "domesticShipping": 25,
       "internationalShipping": 24,
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 60,
-    "etaText": "待公告",
+    "balanceDue": 58,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -48738,19 +48739,20 @@
     "socialName": "maki__",
     "title": "0601咒術 五週年咖啡廳",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 345,
     "depositPaid": 345,
-    "secondPayment": 56,
+    "secondPayment": 54,
     "secondPaymentBreakdown": {
-      "domesticShipping": 27,
+      "domesticShipping": 25,
       "internationalShipping": 24,
       "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 56,
-    "etaText": "待公告",
+    "balanceDue": 54,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -48767,19 +48769,20 @@
     "socialName": "寶",
     "title": "0601咒術 五週年咖啡廳",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2855,
     "depositPaid": 2855,
-    "secondPayment": 262,
+    "secondPayment": 260,
     "secondPaymentBreakdown": {
-      "domesticShipping": 27,
+      "domesticShipping": 25,
       "internationalShipping": 195,
       "cardFee": 40,
       "packagingFee": 0
     },
-    "balanceDue": 262,
-    "etaText": "待公告",
+    "balanceDue": 260,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -48820,19 +48823,20 @@
     "socialName": "君",
     "title": "0601咒術 五週年咖啡廳",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 825,
     "depositPaid": 825,
-    "secondPayment": 112,
+    "secondPayment": 110,
     "secondPaymentBreakdown": {
-      "domesticShipping": 27,
+      "domesticShipping": 25,
       "internationalShipping": 73,
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 112,
-    "etaText": "待公告",
+    "balanceDue": 110,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -48853,19 +48857,20 @@
     "socialName": "Saki蒼",
     "title": "0601咒術 五週年咖啡廳",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 825,
     "depositPaid": 825,
-    "secondPayment": 112,
+    "secondPayment": 110,
     "secondPaymentBreakdown": {
-      "domesticShipping": 27,
+      "domesticShipping": 25,
       "internationalShipping": 73,
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 112,
-    "etaText": "待公告",
+    "balanceDue": 110,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -48886,19 +48891,20 @@
     "socialName": "🌧️",
     "title": "0601咒術 五週年咖啡廳",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 690,
     "depositPaid": 690,
-    "secondPayment": 85,
+    "secondPayment": 83,
     "secondPaymentBreakdown": {
-      "domesticShipping": 27,
+      "domesticShipping": 25,
       "internationalShipping": 48,
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 85,
-    "etaText": "待公告",
+    "balanceDue": 83,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -48919,19 +48925,20 @@
     "socialName": "N",
     "title": "0601咒術 五週年咖啡廳",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 550,
     "depositPaid": 550,
-    "secondPayment": 60,
+    "secondPayment": 58,
     "secondPaymentBreakdown": {
-      "domesticShipping": 27,
+      "domesticShipping": 25,
       "internationalShipping": 24,
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 60,
-    "etaText": "待公告",
+    "balanceDue": 58,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -48956,19 +48963,20 @@
     "socialName": "芭樂",
     "title": "0601咒術 五週年咖啡廳",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2210,
     "depositPaid": 2210,
-    "secondPayment": 210,
+    "secondPayment": 208,
     "secondPaymentBreakdown": {
-      "domesticShipping": 27,
+      "domesticShipping": 25,
       "internationalShipping": 150,
       "cardFee": 33,
       "packagingFee": 0
     },
-    "balanceDue": 210,
-    "etaText": "待公告",
+    "balanceDue": 208,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -49025,19 +49033,20 @@
     "socialName": "Pa",
     "title": "0601咒術 五週年咖啡廳",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 825,
     "depositPaid": 825,
-    "secondPayment": 112,
+    "secondPayment": 110,
     "secondPaymentBreakdown": {
-      "domesticShipping": 27,
+      "domesticShipping": 25,
       "internationalShipping": 73,
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 112,
-    "etaText": "待公告",
+    "balanceDue": 110,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -49058,19 +49067,20 @@
     "socialName": "🐟❤️",
     "title": "0601咒術 五週年咖啡廳",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1325,
     "depositPaid": 1675,
-    "secondPayment": 121,
+    "secondPayment": 119,
     "secondPaymentBreakdown": {
-      "domesticShipping": 27,
+      "domesticShipping": 25,
       "internationalShipping": 73,
       "cardFee": 21,
       "packagingFee": 0
     },
     "balanceDue": 0,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -49111,19 +49121,20 @@
     "socialName": "季",
     "title": "0601咒術 五週年咖啡廳",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2010,
     "depositPaid": 1935,
-    "secondPayment": 179,
+    "secondPayment": 177,
     "secondPaymentBreakdown": {
-      "domesticShipping": 27,
+      "domesticShipping": 25,
       "internationalShipping": 121,
       "cardFee": 31,
       "packagingFee": 0
     },
-    "balanceDue": 254,
-    "etaText": "待公告",
+    "balanceDue": 252,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -49180,19 +49191,20 @@
     "socialName": "破產的人",
     "title": "0601咒術 五週年咖啡廳",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 480,
     "depositPaid": 480,
-    "secondPayment": 83,
+    "secondPayment": 81,
     "secondPaymentBreakdown": {
-      "domesticShipping": 27,
+      "domesticShipping": 25,
       "internationalShipping": 49,
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 83,
-    "etaText": "待公告",
+    "balanceDue": 81,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -49208,18 +49220,20 @@
   {
     "socialName": "婷婷",
     "title": "0601咒術 五週年咖啡廳",
-    "statusBadges": [],
-    "productAmount": 0,
+    "statusBadges": [
+      "已抵台"
+    ],
+    "productAmount": 650,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 43,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 25,
+      "internationalShipping": 9,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "待公告",
+    "balanceDue": 693,
+    "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -52071,14 +52085,14 @@
     ],
     "productAmount": 425,
     "depositPaid": 425,
-    "secondPayment": 47,
+    "secondPayment": 57,
     "secondPaymentBreakdown": {
       "domesticShipping": 41,
-      "internationalShipping": 0,
+      "internationalShipping": 10,
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 47,
+    "balanceDue": 57,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -52089,7 +52103,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0802咒術 五週年雜誌風",
+    "sourceSheet": "★0802咒術 五週年雜誌風",
     "sourceMonth": "2026-08"
   },
   {
@@ -52100,14 +52114,14 @@
     ],
     "productAmount": 425,
     "depositPaid": 425,
-    "secondPayment": 47,
+    "secondPayment": 57,
     "secondPaymentBreakdown": {
       "domesticShipping": 41,
-      "internationalShipping": 0,
+      "internationalShipping": 10,
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 47,
+    "balanceDue": 57,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -52118,7 +52132,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0802咒術 五週年雜誌風",
+    "sourceSheet": "★0802咒術 五週年雜誌風",
     "sourceMonth": "2026-08"
   },
   {
@@ -52129,14 +52143,14 @@
     ],
     "productAmount": 1065,
     "depositPaid": 1065,
-    "secondPayment": 56,
+    "secondPayment": 82,
     "secondPaymentBreakdown": {
       "domesticShipping": 41,
-      "internationalShipping": 0,
+      "internationalShipping": 26,
       "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 56,
+    "balanceDue": 82,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -52155,7 +52169,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0802咒術 五週年雜誌風",
+    "sourceSheet": "★0802咒術 五週年雜誌風",
     "sourceMonth": "2026-08"
   },
   {
@@ -52166,14 +52180,14 @@
     ],
     "productAmount": 2845,
     "depositPaid": 2845,
-    "secondPayment": 83,
+    "secondPayment": 166,
     "secondPaymentBreakdown": {
       "domesticShipping": 41,
-      "internationalShipping": 0,
+      "internationalShipping": 83,
       "cardFee": 42,
       "packagingFee": 0
     },
-    "balanceDue": 83,
+    "balanceDue": 166,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -52208,7 +52222,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0802咒術 五週年雜誌風",
+    "sourceSheet": "★0802咒術 五週年雜誌風",
     "sourceMonth": "2026-08"
   },
   {
