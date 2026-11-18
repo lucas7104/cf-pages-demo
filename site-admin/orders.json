@@ -42590,14 +42590,14 @@
     ],
     "productAmount": 1450,
     "depositPaid": 1450,
-    "secondPayment": 54,
+    "secondPayment": 204,
     "secondPaymentBreakdown": {
       "domesticShipping": 54,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 57,
+      "cardFee": 93,
       "packagingFee": 0
     },
-    "balanceDue": 54,
+    "balanceDue": 204,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -42608,7 +42608,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0404咒術 娃衣&抬頭娃",
+    "sourceSheet": "★0404咒術 娃衣&抬頭娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -42619,14 +42619,14 @@
     ],
     "productAmount": 960,
     "depositPaid": 960,
-    "secondPayment": 54,
+    "secondPayment": 134,
     "secondPaymentBreakdown": {
       "domesticShipping": 54,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 20,
+      "cardFee": 60,
       "packagingFee": 0
     },
-    "balanceDue": 54,
+    "balanceDue": 134,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -42637,7 +42637,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0404咒術 娃衣&抬頭娃",
+    "sourceSheet": "★0404咒術 娃衣&抬頭娃",
     "sourceMonth": "2026-04"
   },
   {
@@ -42648,14 +42648,14 @@
     ],
     "productAmount": 960,
     "depositPaid": 960,
-    "secondPayment": 54,
+    "secondPayment": 133,
     "secondPaymentBreakdown": {
       "domesticShipping": 54,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 19,
+      "cardFee": 60,
       "packagingFee": 0
     },
-    "balanceDue": 54,
+    "balanceDue": 133,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -42670,7 +42670,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0404咒術 娃衣&抬頭娃",
+    "sourceSheet": "★0404咒術 娃衣&抬頭娃",
     "sourceMonth": "2026-04"
   },
   {
