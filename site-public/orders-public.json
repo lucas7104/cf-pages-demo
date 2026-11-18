@@ -26212,14 +26212,14 @@
     ],
     "productAmount": 3000,
     "depositPaid": 3000,
-    "secondPayment": 68,
+    "secondPayment": 409,
     "secondPaymentBreakdown": {
       "domesticShipping": 68,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 296,
+      "cardFee": 45,
       "packagingFee": 0
     },
-    "balanceDue": 68,
+    "balanceDue": 409,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26267,14 +26267,14 @@
     ],
     "productAmount": 2000,
     "depositPaid": 2000,
-    "secondPayment": 68,
+    "secondPayment": 252,
     "secondPaymentBreakdown": {
       "domesticShipping": 68,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 154,
+      "cardFee": 30,
       "packagingFee": 0
     },
-    "balanceDue": 68,
+    "balanceDue": 252,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26318,14 +26318,14 @@
     ],
     "productAmount": 1000,
     "depositPaid": 1000,
-    "secondPayment": 68,
+    "secondPayment": 319,
     "secondPaymentBreakdown": {
       "domesticShipping": 68,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 236,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 68,
+    "balanceDue": 319,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26365,14 +26365,14 @@
     ],
     "productAmount": 3000,
     "depositPaid": 3000,
-    "secondPayment": 68,
+    "secondPayment": 770,
     "secondPaymentBreakdown": {
       "domesticShipping": 68,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 657,
+      "cardFee": 45,
       "packagingFee": 0
     },
-    "balanceDue": 68,
+    "balanceDue": 770,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -26412,6 +26412,10 @@
       },
       {
         "name": "G-7賞",
+        "qty": 1
+      },
+      {
+        "name": "G-8賞",
         "qty": 1
       },
       {

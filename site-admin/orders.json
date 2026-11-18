@@ -27904,14 +27904,14 @@
     ],
     "productAmount": 3000,
     "depositPaid": 3000,
-    "secondPayment": 68,
+    "secondPayment": 409,
     "secondPaymentBreakdown": {
       "domesticShipping": 68,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 296,
+      "cardFee": 45,
       "packagingFee": 0
     },
-    "balanceDue": 68,
+    "balanceDue": 409,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -27950,7 +27950,7 @@
         "qty": 5
       }
     ],
-    "sourceSheet": "0202我英 一番賞",
+    "sourceSheet": "★0202我英 一番賞",
     "sourceMonth": "2026-02"
   },
   {
@@ -27961,14 +27961,14 @@
     ],
     "productAmount": 2000,
     "depositPaid": 2000,
-    "secondPayment": 68,
+    "secondPayment": 252,
     "secondPaymentBreakdown": {
       "domesticShipping": 68,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 154,
+      "cardFee": 30,
       "packagingFee": 0
     },
-    "balanceDue": 68,
+    "balanceDue": 252,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28003,7 +28003,7 @@
         "qty": 4
       }
     ],
-    "sourceSheet": "0202我英 一番賞",
+    "sourceSheet": "★0202我英 一番賞",
     "sourceMonth": "2026-02"
   },
   {
@@ -28014,14 +28014,14 @@
     ],
     "productAmount": 1000,
     "depositPaid": 1000,
-    "secondPayment": 68,
+    "secondPayment": 319,
     "secondPaymentBreakdown": {
       "domesticShipping": 68,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 236,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 68,
+    "balanceDue": 319,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28052,7 +28052,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0202我英 一番賞",
+    "sourceSheet": "★0202我英 一番賞",
     "sourceMonth": "2026-02"
   },
   {
@@ -28063,14 +28063,14 @@
     ],
     "productAmount": 3000,
     "depositPaid": 3000,
-    "secondPayment": 68,
+    "secondPayment": 770,
     "secondPaymentBreakdown": {
       "domesticShipping": 68,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 657,
+      "cardFee": 45,
       "packagingFee": 0
     },
-    "balanceDue": 68,
+    "balanceDue": 770,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -28113,6 +28113,10 @@
         "qty": 1
       },
       {
+        "name": "G-8賞",
+        "qty": 1
+      },
+      {
         "name": "H賞",
         "qty": 2
       },
@@ -28121,7 +28125,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0202我英 一番賞",
+    "sourceSheet": "★0202我英 一番賞",
     "sourceMonth": "2026-02"
   },
   {
@@ -48116,7 +48120,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0522咒術 Ani-art五週年紀念",
+    "sourceSheet": "★0522咒術 Ani-art五週年紀念",
     "sourceMonth": "2026-05"
   },
   {
@@ -48149,7 +48153,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0522咒術 Ani-art五週年紀念",
+    "sourceSheet": "★0522咒術 Ani-art五週年紀念",
     "sourceMonth": "2026-05"
   },
   {
@@ -48186,7 +48190,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0522咒術 Ani-art五週年紀念",
+    "sourceSheet": "★0522咒術 Ani-art五週年紀念",
     "sourceMonth": "2026-05"
   },
   {
@@ -48239,7 +48243,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0522咒術 Ani-art五週年紀念",
+    "sourceSheet": "★0522咒術 Ani-art五週年紀念",
     "sourceMonth": "2026-05"
   },
   {
@@ -48268,7 +48272,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0522咒術 Ani-art五週年紀念",
+    "sourceSheet": "★0522咒術 Ani-art五週年紀念",
     "sourceMonth": "2026-05"
   },
   {
@@ -48297,7 +48301,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0522咒術 Ani-art五週年紀念",
+    "sourceSheet": "★0522咒術 Ani-art五週年紀念",
     "sourceMonth": "2026-05"
   },
   {
@@ -48342,7 +48346,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0522咒術 Ani-art五週年紀念",
+    "sourceSheet": "★0522咒術 Ani-art五週年紀念",
     "sourceMonth": "2026-05"
   },
   {
