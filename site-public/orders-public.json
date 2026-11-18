@@ -26205,6 +26205,114 @@
     ]
   },
   {
+    "socialName": "cc",
+    "title": "0202我英 一番賞",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 3000,
+    "depositPaid": 3000,
+    "secondPayment": 68,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 68,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 68,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "五抽",
+        "qty": 15
+      }
+    ]
+  },
+  {
+    "socialName": "小吳",
+    "title": "0202我英 一番賞",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 2000,
+    "depositPaid": 2000,
+    "secondPayment": 68,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 68,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 68,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "五抽",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "socialName": "Jhan",
+    "title": "0202我英 一番賞",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 1000,
+    "depositPaid": 1000,
+    "secondPayment": 68,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 68,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 68,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "五抽",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "socialName": "婷婷",
+    "title": "0202我英 一番賞",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 3000,
+    "depositPaid": 3000,
+    "secondPayment": 68,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 68,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 68,
+    "etaText": "待公告",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "五抽",
+        "qty": 15
+      }
+    ]
+  },
+  {
     "socialName": "江蘇菲",
     "title": "0202咒術 夏油傑生日",
     "statusBadges": [
@@ -29735,114 +29843,6 @@
     ]
   },
   {
-    "socialName": "cc",
-    "title": "「0202我英 一番賞」的副本",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 3000,
-    "depositPaid": 3000,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "五抽",
-        "qty": 15
-      }
-    ]
-  },
-  {
-    "socialName": "小吳",
-    "title": "「0202我英 一番賞」的副本",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 2000,
-    "depositPaid": 2000,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "五抽",
-        "qty": 10
-      }
-    ]
-  },
-  {
-    "socialName": "Jhan",
-    "title": "「0202我英 一番賞」的副本",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1000,
-    "depositPaid": 1000,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "五抽",
-        "qty": 5
-      }
-    ]
-  },
-  {
-    "socialName": "婷婷",
-    "title": "「0202我英 一番賞」的副本",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 3000,
-    "depositPaid": 3000,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "五抽",
-        "qty": 15
-      }
-    ]
-  },
-  {
     "socialName": "季",
     "title": "私人委託",
     "statusBadges": [
@@ -29931,114 +29931,6 @@
       {
         "name": "艾連海報",
         "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "cc",
-    "title": "0202我英 一番賞",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 3000,
-    "depositPaid": 3000,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "五抽",
-        "qty": 15
-      }
-    ]
-  },
-  {
-    "socialName": "小吳",
-    "title": "0202我英 一番賞",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 2000,
-    "depositPaid": 2000,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "五抽",
-        "qty": 10
-      }
-    ]
-  },
-  {
-    "socialName": "Jhan",
-    "title": "0202我英 一番賞",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 1000,
-    "depositPaid": 1000,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "五抽",
-        "qty": 5
-      }
-    ]
-  },
-  {
-    "socialName": "婷婷",
-    "title": "0202我英 一番賞",
-    "statusBadges": [
-      "已付訂金"
-    ],
-    "productAmount": 3000,
-    "depositPaid": 3000,
-    "secondPayment": 0,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
-      "packagingFee": 0
-    },
-    "balanceDue": 0,
-    "etaText": "待公告",
-    "paymentMethod": "轉帳",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "五抽",
-        "qty": 15
       }
     ]
   },
