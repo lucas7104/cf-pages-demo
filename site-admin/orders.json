@@ -48709,14 +48709,14 @@
     ],
     "productAmount": 645,
     "depositPaid": 645,
-    "secondPayment": 9,
+    "secondPayment": 36,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 0,
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 9,
+    "balanceDue": 36,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -48731,7 +48731,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0601咒術 五週年咖啡廳",
+    "sourceSheet": "★0601咒術 五週年咖啡廳",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -48742,14 +48742,14 @@
     ],
     "productAmount": 345,
     "depositPaid": 345,
-    "secondPayment": 5,
+    "secondPayment": 32,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 0,
       "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 5,
+    "balanceDue": 32,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -48760,7 +48760,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0601咒術 五週年咖啡廳",
+    "sourceSheet": "★0601咒術 五週年咖啡廳",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -48771,14 +48771,14 @@
     ],
     "productAmount": 2855,
     "depositPaid": 2855,
-    "secondPayment": 40,
+    "secondPayment": 67,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 0,
       "cardFee": 40,
       "packagingFee": 0
     },
-    "balanceDue": 40,
+    "balanceDue": 67,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -48813,7 +48813,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0601咒術 五週年咖啡廳",
+    "sourceSheet": "★0601咒術 五週年咖啡廳",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -48824,14 +48824,14 @@
     ],
     "productAmount": 825,
     "depositPaid": 825,
-    "secondPayment": 12,
+    "secondPayment": 39,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 0,
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 12,
+    "balanceDue": 39,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -48846,7 +48846,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0601咒術 五週年咖啡廳",
+    "sourceSheet": "★0601咒術 五週年咖啡廳",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -48857,14 +48857,14 @@
     ],
     "productAmount": 825,
     "depositPaid": 825,
-    "secondPayment": 12,
+    "secondPayment": 39,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 0,
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 12,
+    "balanceDue": 39,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -48879,7 +48879,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0601咒術 五週年咖啡廳",
+    "sourceSheet": "★0601咒術 五週年咖啡廳",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -48890,14 +48890,14 @@
     ],
     "productAmount": 690,
     "depositPaid": 690,
-    "secondPayment": 10,
+    "secondPayment": 37,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 0,
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 10,
+    "balanceDue": 37,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -48912,7 +48912,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0601咒術 五週年咖啡廳",
+    "sourceSheet": "★0601咒術 五週年咖啡廳",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -48923,14 +48923,14 @@
     ],
     "productAmount": 550,
     "depositPaid": 550,
-    "secondPayment": 9,
+    "secondPayment": 36,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 0,
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 9,
+    "balanceDue": 36,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -48949,7 +48949,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0601咒術 五週年咖啡廳",
+    "sourceSheet": "★0601咒術 五週年咖啡廳",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -48960,14 +48960,14 @@
     ],
     "productAmount": 2210,
     "depositPaid": 2210,
-    "secondPayment": 33,
+    "secondPayment": 60,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 0,
       "cardFee": 33,
       "packagingFee": 0
     },
-    "balanceDue": 33,
+    "balanceDue": 60,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -49018,7 +49018,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0601咒術 五週年咖啡廳",
+    "sourceSheet": "★0601咒術 五週年咖啡廳",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -49029,14 +49029,14 @@
     ],
     "productAmount": 825,
     "depositPaid": 825,
-    "secondPayment": 12,
+    "secondPayment": 39,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 0,
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 12,
+    "balanceDue": 39,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -49051,7 +49051,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0601咒術 五週年咖啡廳",
+    "sourceSheet": "★0601咒術 五週年咖啡廳",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -49062,9 +49062,9 @@
     ],
     "productAmount": 1325,
     "depositPaid": 1675,
-    "secondPayment": 21,
+    "secondPayment": 48,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 0,
       "cardFee": 21,
       "packagingFee": 0
@@ -49104,7 +49104,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0601咒術 五週年咖啡廳",
+    "sourceSheet": "★0601咒術 五週年咖啡廳",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -49115,14 +49115,14 @@
     ],
     "productAmount": 2010,
     "depositPaid": 1935,
-    "secondPayment": 31,
+    "secondPayment": 58,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 0,
       "cardFee": 31,
       "packagingFee": 0
     },
-    "balanceDue": 106,
+    "balanceDue": 133,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -49173,7 +49173,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0601咒術 五週年咖啡廳",
+    "sourceSheet": "★0601咒術 五週年咖啡廳",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -49184,14 +49184,14 @@
     ],
     "productAmount": 480,
     "depositPaid": 480,
-    "secondPayment": 7,
+    "secondPayment": 34,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 27,
       "internationalShipping": 0,
       "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 7,
+    "balanceDue": 34,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -49202,7 +49202,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0601咒術 五週年咖啡廳",
+    "sourceSheet": "★0601咒術 五週年咖啡廳",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -49426,7 +49426,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0603咒術 羽田機場",
+    "sourceSheet": "★0603咒術 羽田機場",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -49455,7 +49455,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0603咒術 羽田機場",
+    "sourceSheet": "★0603咒術 羽田機場",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -49488,7 +49488,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0603咒術 羽田機場",
+    "sourceSheet": "★0603咒術 羽田機場",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -49517,7 +49517,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0603咒術 羽田機場",
+    "sourceSheet": "★0603咒術 羽田機場",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -49546,7 +49546,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0603咒術 羽田機場",
+    "sourceSheet": "★0603咒術 羽田機場",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -49575,7 +49575,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0603咒術 羽田機場",
+    "sourceSheet": "★0603咒術 羽田機場",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -49612,7 +49612,7 @@
         "qty": 5
       }
     ],
-    "sourceSheet": "0603咒術 羽田機場",
+    "sourceSheet": "★0603咒術 羽田機場",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -49657,7 +49657,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0603咒術 羽田機場",
+    "sourceSheet": "★0603咒術 羽田機場",
     "sourceMonth": "2026-06-07"
   },
   {
