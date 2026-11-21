@@ -48710,14 +48710,14 @@
     ],
     "productAmount": 645,
     "depositPaid": 645,
-    "secondPayment": 58,
+    "secondPayment": 64,
     "secondPaymentBreakdown": {
       "domesticShipping": 25,
-      "internationalShipping": 24,
+      "internationalShipping": 30,
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 58,
+    "balanceDue": 64,
     "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -49225,14 +49225,14 @@
     ],
     "productAmount": 650,
     "depositPaid": 0,
-    "secondPayment": 43,
+    "secondPayment": 52,
     "secondPaymentBreakdown": {
       "domesticShipping": 25,
-      "internationalShipping": 9,
+      "internationalShipping": 18,
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 693,
+    "balanceDue": 702,
     "etaText": "已抵台",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -54582,14 +54582,14 @@
     ],
     "productAmount": 6435,
     "depositPaid": 6435,
-    "secondPayment": 270,
+    "secondPayment": 441,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 187,
-      "cardFee": 83,
+      "internationalShipping": 361,
+      "cardFee": 80,
       "packagingFee": 0
     },
-    "balanceDue": 270,
+    "balanceDue": 441,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -55015,14 +55015,14 @@
     ],
     "productAmount": 3045,
     "depositPaid": 3045,
-    "secondPayment": 39,
+    "secondPayment": 36,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
       "internationalShipping": 0,
-      "cardFee": 39,
+      "cardFee": 36,
       "packagingFee": 0
     },
-    "balanceDue": 39,
+    "balanceDue": 36,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -55213,14 +55213,14 @@
     ],
     "productAmount": 5085,
     "depositPaid": 5085,
-    "secondPayment": 299,
+    "secondPayment": 470,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 234,
-      "cardFee": 65,
+      "internationalShipping": 408,
+      "cardFee": 62,
       "packagingFee": 0
     },
-    "balanceDue": 299,
+    "balanceDue": 470,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -55422,6 +55422,33 @@
     "items": [
       {
         "name": "調查兵團小吊飾",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "0901進巨 graniph(討論串)",
+    "sourceMonth": "2026-09"
+  },
+  {
+    "socialName": "瑞斯",
+    "title": "0901進巨 graniph(討論串)",
+    "statusBadges": [],
+    "productAmount": 1940,
+    "depositPaid": 0,
+    "secondPayment": 25,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 25,
+      "packagingFee": 0
+    },
+    "balanceDue": 1965,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "里維襯衫 (L)",
         "qty": 1
       }
     ],

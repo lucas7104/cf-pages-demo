@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T15:21:05.937Z",
+  "generatedAt": "2026-11-21T15:31:06.510Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -32,7 +32,7 @@
         },
         {
           "name": "瑞斯",
-          "amount": 44075
+          "amount": 46015
         },
         {
           "name": "nako",
@@ -635,6 +635,10 @@
       "children": [],
       "topTen": [
         {
+          "name": "瑞斯",
+          "amount": 6805
+        },
+        {
           "name": "Marcus",
           "amount": 6805
         },
@@ -661,10 +665,6 @@
         {
           "name": "lpp_ss",
           "amount": 5085
-        },
-        {
-          "name": "瑞斯",
-          "amount": 4865
         },
         {
           "name": "UZ213ZU 速速咩",
