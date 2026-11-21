@@ -50480,7 +50480,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0609銀魂 賞櫻ver.",
+    "sourceSheet": "★0609銀魂 賞櫻ver.",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -51638,14 +51638,14 @@
     ],
     "productAmount": 710,
     "depositPaid": 710,
-    "secondPayment": 130,
+    "secondPayment": 152,
     "secondPaymentBreakdown": {
       "domesticShipping": 124,
-      "internationalShipping": 0,
+      "internationalShipping": 22,
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 130,
+    "balanceDue": 152,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -51660,7 +51660,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0718進巨 守衛囚徒ver.",
+    "sourceSheet": "★0718進巨 守衛囚徒ver.",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -51671,14 +51671,14 @@
     ],
     "productAmount": 390,
     "depositPaid": 390,
-    "secondPayment": 130,
+    "secondPayment": 153,
     "secondPaymentBreakdown": {
       "domesticShipping": 124,
-      "internationalShipping": 0,
+      "internationalShipping": 23,
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 130,
+    "balanceDue": 153,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -51693,7 +51693,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0718進巨 守衛囚徒ver.",
+    "sourceSheet": "★0718進巨 守衛囚徒ver.",
     "sourceMonth": "2026-06-07"
   },
   {
