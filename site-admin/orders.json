@@ -50454,14 +50454,14 @@
     ],
     "productAmount": 1855,
     "depositPaid": 1850,
-    "secondPayment": 25,
+    "secondPayment": 119,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 94,
       "cardFee": 25,
       "packagingFee": 0
     },
-    "balanceDue": 30,
+    "balanceDue": 124,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
