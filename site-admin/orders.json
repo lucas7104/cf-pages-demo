@@ -49668,14 +49668,14 @@
     ],
     "productAmount": 2310,
     "depositPaid": 2310,
-    "secondPayment": 74,
+    "secondPayment": 82,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 43,
+      "internationalShipping": 51,
       "cardFee": 31,
       "packagingFee": 0
     },
-    "balanceDue": 74,
+    "balanceDue": 82,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
