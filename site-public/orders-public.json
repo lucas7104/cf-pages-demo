@@ -41026,14 +41026,14 @@
     ],
     "productAmount": 1800,
     "depositPaid": 1800,
-    "secondPayment": 161,
+    "secondPayment": 223,
     "secondPaymentBreakdown": {
       "domesticShipping": 161,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 38,
+      "cardFee": 24,
       "packagingFee": 0
     },
-    "balanceDue": 161,
+    "balanceDue": 223,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41042,6 +41042,22 @@
       {
         "name": "一抽",
         "qty": 10
+      },
+      {
+        "name": "立牌",
+        "qty": 2
+      },
+      {
+        "name": "徽章",
+        "qty": 3
+      },
+      {
+        "name": "吊飾",
+        "qty": 4
+      },
+      {
+        "name": "小立牌",
+        "qty": 1
       }
     ]
   },
