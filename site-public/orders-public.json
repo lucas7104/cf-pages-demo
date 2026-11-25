@@ -39964,14 +39964,14 @@
     ],
     "productAmount": 1010,
     "depositPaid": 1010,
-    "secondPayment": 0,
+    "secondPayment": 168,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 115,
+      "internationalShipping": 53,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 168,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
