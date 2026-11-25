@@ -23163,212 +23163,6 @@
     "sourceMonth": "2026-01"
   },
   {
-    "socialName": "呱呱",
-    "title": "0115我英 Jump shop再受注",
-    "statusBadges": [
-      "已抵台"
-    ],
-    "productAmount": 2470,
-    "depositPaid": 0,
-    "secondPayment": 211,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 31,
-      "internationalShipping": 144,
-      "cardFee": 36,
-      "packagingFee": 0
-    },
-    "balanceDue": 2681,
-    "etaText": "已抵台",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "歐爾麥特 簽名鑰匙扣",
-        "qty": 2
-      },
-      {
-        "name": "雙面壓克力鑰匙圈 (轟)",
-        "qty": 1
-      },
-      {
-        "name": "雙面壓克力鑰匙圈 (綠谷)",
-        "qty": 1
-      },
-      {
-        "name": "雙面壓克力鑰匙圈 (爆豪)",
-        "qty": 1
-      },
-      {
-        "name": "下沉式靠墊",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "★0115我英 Jump shop再受注",
-    "sourceMonth": "2026-01"
-  },
-  {
-    "socialName": "enterainment__rose",
-    "title": "0115我英 Jump shop再受注",
-    "statusBadges": [
-      "已抵台"
-    ],
-    "productAmount": 480,
-    "depositPaid": 0,
-    "secondPayment": 48,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 31,
-      "internationalShipping": 10,
-      "cardFee": 7,
-      "packagingFee": 0
-    },
-    "balanceDue": 528,
-    "etaText": "已抵台",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "歐爾麥特 簽名鑰匙扣",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "★0115我英 Jump shop再受注",
-    "sourceMonth": "2026-01"
-  },
-  {
-    "socialName": "00240",
-    "title": "0115我英 Jump shop再受注",
-    "statusBadges": [
-      "已抵台"
-    ],
-    "productAmount": 6125,
-    "depositPaid": 0,
-    "secondPayment": 58,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 31,
-      "internationalShipping": 14,
-      "cardFee": 13,
-      "packagingFee": 0
-    },
-    "balanceDue": 6183,
-    "etaText": "已抵台",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "歐爾麥特 簽名鑰匙扣",
-        "qty": 1
-      },
-      {
-        "name": "手帕",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "★0115我英 Jump shop再受注",
-    "sourceMonth": "2026-01"
-  },
-  {
-    "socialName": "TYT",
-    "title": "0115我英 Jump shop再受注",
-    "statusBadges": [
-      "已抵台"
-    ],
-    "productAmount": 4285,
-    "depositPaid": 0,
-    "secondPayment": 55,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 31,
-      "internationalShipping": 15,
-      "cardFee": 9,
-      "packagingFee": 0
-    },
-    "balanceDue": 4340,
-    "etaText": "已抵台",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "雙面壓克力鑰匙圈 (轟)",
-        "qty": 1
-      },
-      {
-        "name": "雙面壓克力鑰匙圈 (綠谷)",
-        "qty": 1
-      },
-      {
-        "name": "雙面壓克力鑰匙圈 (爆豪)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "★0115我英 Jump shop再受注",
-    "sourceMonth": "2026-01"
-  },
-  {
-    "socialName": "嗯",
-    "title": "0115我英 Jump shop再受注",
-    "statusBadges": [
-      "已抵台"
-    ],
-    "productAmount": 185,
-    "depositPaid": 0,
-    "secondPayment": 39,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 31,
-      "internationalShipping": 5,
-      "cardFee": 3,
-      "packagingFee": 0
-    },
-    "balanceDue": 224,
-    "etaText": "已抵台",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "雙面壓克力鑰匙圈 (爆豪)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "★0115我英 Jump shop再受注",
-    "sourceMonth": "2026-01"
-  },
-  {
-    "socialName": "瑞斯",
-    "title": "0115我英 Jump shop再受注",
-    "statusBadges": [
-      "已抵台"
-    ],
-    "productAmount": 1670,
-    "depositPaid": 0,
-    "secondPayment": 124,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 31,
-      "internationalShipping": 70,
-      "cardFee": 23,
-      "packagingFee": 0
-    },
-    "balanceDue": 1794,
-    "etaText": "已抵台",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "歐爾麥特 簽名鑰匙扣",
-        "qty": 1
-      },
-      {
-        "name": "綠谷紀念T (XL)",
-        "qty": 1
-      }
-    ],
-    "sourceSheet": "★0115我英 Jump shop再受注",
-    "sourceMonth": "2026-01"
-  },
-  {
     "socialName": "淋雨欣",
     "title": "0116坂本日常 西裝系列",
     "statusBadges": [
@@ -34016,14 +33810,14 @@
     ],
     "productAmount": 2695,
     "depositPaid": 2695,
-    "secondPayment": 0,
+    "secondPayment": 269,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 102,
+      "internationalShipping": 132,
+      "cardFee": 35,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 269,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -34034,26 +33828,27 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0308鬼滅 貓貓公仔",
+    "sourceSheet": "★0308鬼滅 貓貓公仔",
     "sourceMonth": "2026-03"
   },
   {
     "socialName": "呱呱",
     "title": "0309 我英 jump再受注(重開0115記事本)",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2470,
     "depositPaid": 2470,
-    "secondPayment": 0,
+    "secondPayment": 211,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 31,
+      "internationalShipping": 144,
+      "cardFee": 36,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "待公告",
+    "balanceDue": 211,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -34086,19 +33881,20 @@
     "socialName": "enterainment__rose",
     "title": "0309 我英 jump再受注(重開0115記事本)",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 480,
     "depositPaid": 480,
-    "secondPayment": 0,
+    "secondPayment": 48,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 31,
+      "internationalShipping": 10,
+      "cardFee": 7,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "待公告",
+    "balanceDue": 48,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -34115,19 +33911,20 @@
     "socialName": "00240",
     "title": "0309 我英 jump再受注(重開0115記事本)",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 880,
     "depositPaid": 880,
-    "secondPayment": 0,
+    "secondPayment": 58,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 31,
+      "internationalShipping": 14,
+      "cardFee": 13,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "待公告",
+    "balanceDue": 58,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -34148,19 +33945,20 @@
     "socialName": "TYT",
     "title": "0309 我英 jump再受注(重開0115記事本)",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 555,
     "depositPaid": 555,
-    "secondPayment": 0,
+    "secondPayment": 55,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 31,
+      "internationalShipping": 15,
+      "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "待公告",
+    "balanceDue": 55,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -34185,19 +33983,20 @@
     "socialName": "嗯",
     "title": "0309 我英 jump再受注(重開0115記事本)",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 185,
     "depositPaid": 185,
-    "secondPayment": 0,
+    "secondPayment": 39,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 31,
+      "internationalShipping": 5,
+      "cardFee": 3,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "待公告",
+    "balanceDue": 39,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -34214,19 +34013,20 @@
     "socialName": "瑞斯",
     "title": "0309 我英 jump再受注(重開0115記事本)",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1670,
     "depositPaid": 1670,
-    "secondPayment": 0,
+    "secondPayment": 124,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "domesticShipping": 31,
+      "internationalShipping": 70,
+      "cardFee": 23,
       "packagingFee": 0
     },
-    "balanceDue": 0,
-    "etaText": "待公告",
+    "balanceDue": 124,
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
