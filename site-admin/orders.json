@@ -41575,14 +41575,14 @@
     ],
     "productAmount": 2460,
     "depositPaid": 1350,
-    "secondPayment": 57,
+    "secondPayment": 90,
     "secondPaymentBreakdown": {
       "domesticShipping": 21,
-      "internationalShipping": 0,
+      "internationalShipping": 33,
       "cardFee": 36,
       "packagingFee": 0
     },
-    "balanceDue": 1167,
+    "balanceDue": 1200,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41597,7 +41597,7 @@
         "qty": 3
       }
     ],
-    "sourceSheet": "0330Jump Festa 2026獨家商品",
+    "sourceSheet": "★0330Jump Festa 2026獨家商品",
     "sourceMonth": "2026-03"
   },
   {
@@ -41608,14 +41608,14 @@
     ],
     "productAmount": 635,
     "depositPaid": 635,
-    "secondPayment": 30,
+    "secondPayment": 38,
     "secondPaymentBreakdown": {
       "domesticShipping": 21,
-      "internationalShipping": 0,
+      "internationalShipping": 8,
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 30,
+    "balanceDue": 38,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41626,7 +41626,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0330Jump Festa 2026獨家商品",
+    "sourceSheet": "★0330Jump Festa 2026獨家商品",
     "sourceMonth": "2026-03"
   },
   {
@@ -41637,14 +41637,14 @@
     ],
     "productAmount": 955,
     "depositPaid": 955,
-    "secondPayment": 39,
+    "secondPayment": 55,
     "secondPaymentBreakdown": {
       "domesticShipping": 21,
-      "internationalShipping": 4,
+      "internationalShipping": 20,
       "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 39,
+    "balanceDue": 55,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41659,7 +41659,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0330Jump Festa 2026獨家商品",
+    "sourceSheet": "★0330Jump Festa 2026獨家商品",
     "sourceMonth": "2026-03"
   },
   {
@@ -41688,7 +41688,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0330Jump Festa 2026獨家商品",
+    "sourceSheet": "★0330Jump Festa 2026獨家商品",
     "sourceMonth": "2026-03"
   },
   {
@@ -41717,7 +41717,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0330Jump Festa 2026獨家商品",
+    "sourceSheet": "★0330Jump Festa 2026獨家商品",
     "sourceMonth": "2026-03"
   },
   {
@@ -41728,14 +41728,14 @@
     ],
     "productAmount": 635,
     "depositPaid": 635,
-    "secondPayment": 34,
+    "secondPayment": 77,
     "secondPaymentBreakdown": {
       "domesticShipping": 21,
-      "internationalShipping": 4,
+      "internationalShipping": 47,
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 34,
+    "balanceDue": 77,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41750,7 +41750,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0330Jump Festa 2026獨家商品",
+    "sourceSheet": "★0330Jump Festa 2026獨家商品",
     "sourceMonth": "2026-03"
   },
   {
@@ -41761,14 +41761,14 @@
     ],
     "productAmount": 370,
     "depositPaid": 370,
-    "secondPayment": 26,
+    "secondPayment": 69,
     "secondPaymentBreakdown": {
       "domesticShipping": 21,
-      "internationalShipping": 0,
+      "internationalShipping": 43,
       "cardFee": 5,
       "packagingFee": 0
     },
-    "balanceDue": 26,
+    "balanceDue": 69,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41779,7 +41779,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0330Jump Festa 2026獨家商品",
+    "sourceSheet": "★0330Jump Festa 2026獨家商品",
     "sourceMonth": "2026-03"
   },
   {
@@ -41790,14 +41790,14 @@
     ],
     "productAmount": 750,
     "depositPaid": 750,
-    "secondPayment": 32,
+    "secondPayment": 49,
     "secondPaymentBreakdown": {
       "domesticShipping": 21,
-      "internationalShipping": 0,
+      "internationalShipping": 17,
       "cardFee": 11,
       "packagingFee": 0
     },
-    "balanceDue": 32,
+    "balanceDue": 49,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41812,7 +41812,7 @@
         "qty": 3
       }
     ],
-    "sourceSheet": "0330Jump Festa 2026獨家商品",
+    "sourceSheet": "★0330Jump Festa 2026獨家商品",
     "sourceMonth": "2026-03"
   },
   {
@@ -41823,14 +41823,14 @@
     ],
     "productAmount": 615,
     "depositPaid": 615,
-    "secondPayment": 30,
+    "secondPayment": 44,
     "secondPaymentBreakdown": {
       "domesticShipping": 21,
-      "internationalShipping": 0,
+      "internationalShipping": 14,
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 30,
+    "balanceDue": 44,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -41845,7 +41845,7 @@
         "qty": 2
       }
     ],
-    "sourceSheet": "0330Jump Festa 2026獨家商品",
+    "sourceSheet": "★0330Jump Festa 2026獨家商品",
     "sourceMonth": "2026-03"
   },
   {
