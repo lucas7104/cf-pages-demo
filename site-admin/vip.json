@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T15:21:36.388Z",
+  "generatedAt": "2026-11-25T15:31:47.550Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -16,7 +16,7 @@
         },
         {
           "name": "TYT",
-          "amount": 57899
+          "amount": 61814
         },
         {
           "name": "君",
@@ -131,7 +131,7 @@
         },
         {
           "name": "TYT",
-          "amount": 35814
+          "amount": 39729
         },
         {
           "name": "nako",
@@ -306,12 +306,12 @@
       "children": [],
       "topTen": [
         {
-          "name": "高八毛",
-          "amount": 15710
+          "name": "TYT",
+          "amount": 15780
         },
         {
-          "name": "TYT",
-          "amount": 11865
+          "name": "高八毛",
+          "amount": 15710
         },
         {
           "name": "Peggy",
