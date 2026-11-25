@@ -39964,14 +39964,14 @@
     ],
     "productAmount": 1010,
     "depositPaid": 1010,
-    "secondPayment": 168,
+    "secondPayment": 182,
     "secondPaymentBreakdown": {
       "domesticShipping": 115,
       "internationalShipping": 53,
-      "cardFee": 0,
+      "cardFee": 14,
       "packagingFee": 0
     },
-    "balanceDue": 168,
+    "balanceDue": 182,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -39979,6 +39979,10 @@
     "items": [
       {
         "name": "像素皮卡丘",
+        "qty": 1
+      },
+      {
+        "name": "像素皮卡丘吊飾",
         "qty": 1
       }
     ]
@@ -42213,6 +42217,7 @@
     "socialName": "黑澤",
     "title": "0413咒術 五週年紀念熊熊娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1165,
@@ -42225,7 +42230,7 @@
       "packagingFee": 0
     },
     "balanceDue": 44,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -42240,6 +42245,7 @@
     "socialName": "Rea",
     "title": "0413咒術 五週年紀念熊熊娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1165,
@@ -42252,7 +42258,7 @@
       "packagingFee": 0
     },
     "balanceDue": 44,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -42295,6 +42301,7 @@
     "socialName": "君",
     "title": "0413咒術 五週年紀念熊熊娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1165,
@@ -42307,7 +42314,7 @@
       "packagingFee": 0
     },
     "balanceDue": 44,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -42322,6 +42329,7 @@
     "socialName": "FLOWDY",
     "title": "0413咒術 五週年紀念熊熊娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 2330,
@@ -42334,7 +42342,7 @@
       "packagingFee": 0
     },
     "balanceDue": 74,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -42353,6 +42361,7 @@
     "socialName": "++",
     "title": "0413咒術 五週年紀念熊熊娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1165,
@@ -42365,7 +42374,7 @@
       "packagingFee": 0
     },
     "balanceDue": 44,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
@@ -42380,6 +42389,7 @@
     "socialName": "Sera",
     "title": "0413咒術 五週年紀念熊熊娃",
     "statusBadges": [
+      "已抵台",
       "已付訂金"
     ],
     "productAmount": 1165,
@@ -42392,7 +42402,7 @@
       "packagingFee": 0
     },
     "balanceDue": 44,
-    "etaText": "待公告",
+    "etaText": "已抵台",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
