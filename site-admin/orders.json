@@ -27325,6 +27325,66 @@
     "sourceMonth": "2026-01"
   },
   {
+    "socialName": "Yumi",
+    "title": "「★0115我英 Jump shop」的副本",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 875,
+    "depositPaid": 875,
+    "secondPayment": 122,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 92,
+      "internationalShipping": 15,
+      "cardFee": 15,
+      "packagingFee": 0
+    },
+    "balanceDue": 122,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "徽章",
+        "qty": 5
+      }
+    ],
+    "sourceSheet": "「★0115我英 Jump shop」的副本",
+    "sourceMonth": "2026-01"
+  },
+  {
+    "socialName": "Jhan",
+    "title": "「★0115我英 Jump shop」的副本",
+    "statusBadges": [
+      "已出貨",
+      "已付訂金"
+    ],
+    "productAmount": 215,
+    "depositPaid": 215,
+    "secondPayment": 97,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 92,
+      "internationalShipping": 2,
+      "cardFee": 3,
+      "packagingFee": 0
+    },
+    "balanceDue": 97,
+    "etaText": "已出貨",
+    "paymentMethod": "轉帳",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "護身符貼紙",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "「★0115我英 Jump shop」的副本",
+    "sourceMonth": "2026-01"
+  },
+  {
     "socialName": "Peggy",
     "title": "「★0118幻影夜行本舖抽賞」的副本",
     "statusBadges": [
