@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T15:11:36.560Z",
+  "generatedAt": "2026-11-25T15:21:36.388Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -16,7 +16,7 @@
         },
         {
           "name": "TYT",
-          "amount": 57529
+          "amount": 57899
         },
         {
           "name": "君",
@@ -27,12 +27,12 @@
           "amount": 48385
         },
         {
-          "name": "季",
-          "amount": 46814
+          "name": "瑞斯",
+          "amount": 47685
         },
         {
-          "name": "瑞斯",
-          "amount": 46015
+          "name": "季",
+          "amount": 46814
         },
         {
           "name": "nako",
@@ -131,7 +131,7 @@
         },
         {
           "name": "TYT",
-          "amount": 35444
+          "amount": 35814
         },
         {
           "name": "nako",
@@ -311,7 +311,7 @@
         },
         {
           "name": "TYT",
-          "amount": 11495
+          "amount": 11865
         },
         {
           "name": "Peggy",
@@ -330,6 +330,10 @@
           "amount": 6910
         },
         {
+          "name": "00240",
+          "amount": 6390
+        },
+        {
           "name": "鴨",
           "amount": 5950
         },
@@ -340,10 +344,6 @@
         {
           "name": "Saki蒼",
           "amount": 5325
-        },
-        {
-          "name": "臉書 三角飯糰",
-          "amount": 4800
         }
       ]
     },
