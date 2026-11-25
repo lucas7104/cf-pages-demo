@@ -51618,7 +51618,20 @@
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "懷玉玉折海報",
+        "qty": 2
+      },
+      {
+        "name": "咒0海報",
+        "qty": 2
+      },
+      {
+        "name": "澀谷事變海報",
+        "qty": 2
+      }
+    ],
     "sourceSheet": "0718咒術 TOHO動畫五週年紀念",
     "sourceMonth": "2026-06-07"
   },
@@ -51640,7 +51653,20 @@
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "懷玉玉折海報",
+        "qty": 1
+      },
+      {
+        "name": "五條立牌 (側面)",
+        "qty": 1
+      },
+      {
+        "name": "五條立牌 (正面)",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0718咒術 TOHO動畫五週年紀念",
     "sourceMonth": "2026-06-07"
   },
@@ -51662,7 +51688,16 @@
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "五條立牌 (側面)",
+        "qty": 1
+      },
+      {
+        "name": "五條立牌 (正面)",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0718咒術 TOHO動畫五週年紀念",
     "sourceMonth": "2026-06-07"
   },

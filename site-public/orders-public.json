@@ -48534,7 +48534,20 @@
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "懷玉玉折海報",
+        "qty": 2
+      },
+      {
+        "name": "咒0海報",
+        "qty": 2
+      },
+      {
+        "name": "澀谷事變海報",
+        "qty": 2
+      }
+    ]
   },
   {
     "socialName": "君",
@@ -48554,7 +48567,20 @@
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "懷玉玉折海報",
+        "qty": 1
+      },
+      {
+        "name": "五條立牌 (側面)",
+        "qty": 1
+      },
+      {
+        "name": "五條立牌 (正面)",
+        "qty": 1
+      }
+    ]
   },
   {
     "socialName": "瑞斯",
@@ -48574,7 +48600,16 @@
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": []
+    "items": [
+      {
+        "name": "五條立牌 (側面)",
+        "qty": 1
+      },
+      {
+        "name": "五條立牌 (正面)",
+        "qty": 1
+      }
+    ]
   },
   {
     "socialName": "季",
