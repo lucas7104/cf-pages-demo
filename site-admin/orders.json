@@ -54116,6 +54116,60 @@
     "sourceMonth": "2026-08"
   },
   {
+    "socialName": "西歐梨",
+    "title": "8月私人委託",
+    "statusBadges": [],
+    "productAmount": 960,
+    "depositPaid": 0,
+    "secondPayment": 125,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 112,
+      "cardFee": 13,
+      "packagingFee": 0
+    },
+    "balanceDue": 1085,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "排少外套 (梟谷)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "8月私人委託",
+    "sourceMonth": "2026-08"
+  },
+  {
+    "socialName": "涓",
+    "title": "8月私人委託",
+    "statusBadges": [],
+    "productAmount": 960,
+    "depositPaid": 0,
+    "secondPayment": 126,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 113,
+      "cardFee": 13,
+      "packagingFee": 0
+    },
+    "balanceDue": 1086,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": [
+      {
+        "name": "排少外套 (烏野)",
+        "qty": 1
+      }
+    ],
+    "sourceSheet": "8月私人委託",
+    "sourceMonth": "2026-08"
+  },
+  {
     "socialName": "LWQ",
     "title": "0901進巨 graniph(討論串)",
     "statusBadges": [
