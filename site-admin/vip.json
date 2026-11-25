@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T19:01:43.910Z",
+  "generatedAt": "2026-11-25T19:11:42.066Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -20,19 +20,19 @@
         },
         {
           "name": "君",
-          "amount": 49880
+          "amount": 50895
+        },
+        {
+          "name": "季",
+          "amount": 48969
         },
         {
           "name": "芭樂",
           "amount": 48385
         },
         {
-          "name": "季",
-          "amount": 46814
-        },
-        {
           "name": "瑞斯",
-          "amount": 46015
+          "amount": 47680
         },
         {
           "name": "nako",
@@ -123,11 +123,11 @@
         },
         {
           "name": "季",
-          "amount": 45154
+          "amount": 47309
         },
         {
           "name": "君",
-          "amount": 41475
+          "amount": 42490
         },
         {
           "name": "TYT",
@@ -553,8 +553,16 @@
           "amount": 8865
         },
         {
+          "name": "季",
+          "amount": 7960
+        },
+        {
           "name": "小咪",
           "amount": 7930
+        },
+        {
+          "name": "君",
+          "amount": 6975
         },
         {
           "name": "婷婷",
@@ -565,19 +573,11 @@
           "amount": 6485
         },
         {
-          "name": "君",
-          "amount": 5960
+          "name": "瑞斯",
+          "amount": 5980
         },
         {
           "name": "尖尖哇咖奈",
-          "amount": 5950
-        },
-        {
-          "name": "兵長的盤子",
-          "amount": 5950
-        },
-        {
-          "name": "芫",
           "amount": 5950
         }
       ]
