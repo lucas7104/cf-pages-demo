@@ -51741,14 +51741,14 @@
     "statusBadges": [],
     "productAmount": 560,
     "depositPaid": 0,
-    "secondPayment": 8,
+    "secondPayment": 22,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 14,
       "cardFee": 8,
       "packagingFee": 0
     },
-    "balanceDue": 568,
+    "balanceDue": 582,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -51763,7 +51763,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0731進巨 溫泉大分縣",
+    "sourceSheet": "★0731進巨 溫泉大分縣",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -51774,14 +51774,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 6,
+    "secondPayment": 20,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 14,
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 6,
+    "balanceDue": 20,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -51792,7 +51792,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0731進巨 溫泉大分縣",
+    "sourceSheet": "★0731進巨 溫泉大分縣",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -51803,14 +51803,14 @@
     ],
     "productAmount": 450,
     "depositPaid": 450,
-    "secondPayment": 6,
+    "secondPayment": 20,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 14,
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 6,
+    "balanceDue": 20,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -51821,7 +51821,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0731進巨 溫泉大分縣",
+    "sourceSheet": "★0731進巨 溫泉大分縣",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -54237,14 +54237,14 @@
     ],
     "productAmount": 5355,
     "depositPaid": 5355,
-    "secondPayment": 232,
+    "secondPayment": 289,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 164,
+      "internationalShipping": 221,
       "cardFee": 68,
       "packagingFee": 0
     },
-    "balanceDue": 232,
+    "balanceDue": 289,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
