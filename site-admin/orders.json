@@ -33201,14 +33201,14 @@
     ],
     "productAmount": 730,
     "depositPaid": 730,
-    "secondPayment": 0,
+    "secondPayment": 118,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 0,
+      "domesticShipping": 102,
+      "internationalShipping": 16,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 118,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -33223,7 +33223,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0306日版Look up抬頭娃配件",
+    "sourceSheet": "★0306日版Look up抬頭娃配件",
     "sourceMonth": "2026-03"
   },
   {
