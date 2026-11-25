@@ -51641,14 +51641,14 @@
     "statusBadges": [],
     "productAmount": 0,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 9,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 9,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 9,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
@@ -51676,25 +51676,45 @@
     "statusBadges": [],
     "productAmount": 0,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 12,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 12,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 12,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
       {
+        "name": "懷玉玉折海報",
+        "qty": 1
+      },
+      {
+        "name": "咒0海報",
+        "qty": 1
+      },
+      {
+        "name": "澀谷事變海報",
+        "qty": 1
+      },
+      {
         "name": "五條立牌 (側面)",
         "qty": 1
       },
       {
         "name": "五條立牌 (正面)",
+        "qty": 1
+      },
+      {
+        "name": "五條徽章 (側面)",
+        "qty": 1
+      },
+      {
+        "name": "五條徽章 (正面)",
         "qty": 1
       }
     ],
@@ -51707,19 +51727,40 @@
     "statusBadges": [],
     "productAmount": 0,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 40,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
-      "cardFee": 0,
+      "internationalShipping": 25,
+      "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 40,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "懷玉玉折海報",
+        "qty": 1
+      },
+      {
+        "name": "咒0海報",
+        "qty": 1
+      },
+      {
+        "name": "澀谷事變海報",
+        "qty": 1
+      },
+      {
+        "name": "ed場景透卡 BOX",
+        "qty": 1
+      },
+      {
+        "name": "明信片",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0718咒術 TOHO動畫五週年紀念",
     "sourceMonth": "2026-06-07"
   },
@@ -51741,7 +51782,12 @@
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "卡套 (乙骨)",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0718咒術 TOHO動畫五週年紀念",
     "sourceMonth": "2026-06-07"
   },
@@ -51751,19 +51797,32 @@
     "statusBadges": [],
     "productAmount": 0,
     "depositPaid": 0,
-    "secondPayment": 0,
+    "secondPayment": 11,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 11,
       "cardFee": 0,
       "packagingFee": 0
     },
-    "balanceDue": 0,
+    "balanceDue": 11,
     "etaText": "待公告",
     "paymentMethod": "未填",
     "contactUrl": "https://example.com/contact",
     "note": "",
-    "items": [],
+    "items": [
+      {
+        "name": "ed場景透卡 一抽",
+        "qty": 1
+      },
+      {
+        "name": "主視覺透卡 一抽",
+        "qty": 1
+      },
+      {
+        "name": "虎杖立牌",
+        "qty": 1
+      }
+    ],
     "sourceSheet": "0718咒術 TOHO動畫五週年紀念",
     "sourceMonth": "2026-06-07"
   },
