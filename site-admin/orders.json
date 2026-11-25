@@ -47711,14 +47711,14 @@
     ],
     "productAmount": 800,
     "depositPaid": 800,
-    "secondPayment": 34,
+    "secondPayment": 46,
     "secondPaymentBreakdown": {
       "domesticShipping": 22,
-      "internationalShipping": 0,
+      "internationalShipping": 12,
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 34,
+    "balanceDue": 46,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -47733,7 +47733,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0504咒術 動畫5週年咖啡廳",
+    "sourceSheet": "★0504咒術 動畫5週年咖啡廳",
     "sourceMonth": "2026-05"
   },
   {
@@ -47744,14 +47744,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 28,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
       "domesticShipping": 22,
-      "internationalShipping": 0,
+      "internationalShipping": 7,
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 28,
+    "balanceDue": 35,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -47762,7 +47762,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0504咒術 動畫5週年咖啡廳",
+    "sourceSheet": "★0504咒術 動畫5週年咖啡廳",
     "sourceMonth": "2026-05"
   },
   {
@@ -47773,14 +47773,14 @@
     ],
     "productAmount": 560,
     "depositPaid": 560,
-    "secondPayment": 31,
+    "secondPayment": 42,
     "secondPaymentBreakdown": {
       "domesticShipping": 22,
-      "internationalShipping": 0,
+      "internationalShipping": 11,
       "cardFee": 9,
       "packagingFee": 0
     },
-    "balanceDue": 31,
+    "balanceDue": 42,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -47795,7 +47795,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0504咒術 動畫5週年咖啡廳",
+    "sourceSheet": "★0504咒術 動畫5週年咖啡廳",
     "sourceMonth": "2026-05"
   },
   {
@@ -47806,14 +47806,14 @@
     ],
     "productAmount": 695,
     "depositPaid": 695,
-    "secondPayment": 32,
+    "secondPayment": 48,
     "secondPaymentBreakdown": {
       "domesticShipping": 22,
-      "internationalShipping": 0,
+      "internationalShipping": 16,
       "cardFee": 10,
       "packagingFee": 0
     },
-    "balanceDue": 32,
+    "balanceDue": 48,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -47828,7 +47828,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0504咒術 動畫5週年咖啡廳",
+    "sourceSheet": "★0504咒術 動畫5週年咖啡廳",
     "sourceMonth": "2026-05"
   },
   {
@@ -47839,14 +47839,14 @@
     ],
     "productAmount": 855,
     "depositPaid": 855,
-    "secondPayment": 35,
+    "secondPayment": 55,
     "secondPaymentBreakdown": {
       "domesticShipping": 22,
-      "internationalShipping": 0,
+      "internationalShipping": 20,
       "cardFee": 13,
       "packagingFee": 0
     },
-    "balanceDue": 35,
+    "balanceDue": 55,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -47865,7 +47865,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0504咒術 動畫5週年咖啡廳",
+    "sourceSheet": "★0504咒術 動畫5週年咖啡廳",
     "sourceMonth": "2026-05"
   },
   {
@@ -47876,14 +47876,14 @@
     ],
     "productAmount": 855,
     "depositPaid": 855,
-    "secondPayment": 35,
+    "secondPayment": 55,
     "secondPaymentBreakdown": {
       "domesticShipping": 22,
-      "internationalShipping": 0,
+      "internationalShipping": 20,
       "cardFee": 13,
       "packagingFee": 0
     },
-    "balanceDue": 35,
+    "balanceDue": 55,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -47902,7 +47902,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0504咒術 動畫5週年咖啡廳",
+    "sourceSheet": "★0504咒術 動畫5週年咖啡廳",
     "sourceMonth": "2026-05"
   },
   {
@@ -47913,14 +47913,14 @@
     ],
     "productAmount": 400,
     "depositPaid": 400,
-    "secondPayment": 28,
+    "secondPayment": 35,
     "secondPaymentBreakdown": {
       "domesticShipping": 22,
-      "internationalShipping": 0,
+      "internationalShipping": 7,
       "cardFee": 6,
       "packagingFee": 0
     },
-    "balanceDue": 28,
+    "balanceDue": 35,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -47931,7 +47931,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0504咒術 動畫5週年咖啡廳",
+    "sourceSheet": "★0504咒術 動畫5週年咖啡廳",
     "sourceMonth": "2026-05"
   },
   {
