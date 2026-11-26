@@ -53489,9 +53489,11 @@
   {
     "socialName": "Yikes",
     "title": "0818咒術 graniph(討論串)",
-    "statusBadges": [],
+    "statusBadges": [
+      "已付訂金"
+    ],
     "productAmount": 1695,
-    "depositPaid": 0,
+    "depositPaid": 1695,
     "secondPayment": 121,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
@@ -53499,9 +53501,9 @@
       "cardFee": 22,
       "packagingFee": 0
     },
-    "balanceDue": 1816,
+    "balanceDue": 121,
     "etaText": "待公告",
-    "paymentMethod": "未填",
+    "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
