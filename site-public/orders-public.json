@@ -51594,16 +51594,16 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 4085,
+    "productAmount": 6025,
     "depositPaid": 4085,
-    "secondPayment": 245,
+    "secondPayment": 335,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 193,
-      "cardFee": 52,
+      "internationalShipping": 258,
+      "cardFee": 77,
       "packagingFee": 0
     },
-    "balanceDue": 245,
+    "balanceDue": 2275,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -51623,6 +51623,10 @@
       },
       {
         "name": "美高彩蛋黑T (XL)",
+        "qty": 1
+      },
+      {
+        "name": "里維襯衫 (L)",
         "qty": 1
       }
     ]
@@ -52353,31 +52357,6 @@
     "items": [
       {
         "name": "調查兵團小吊飾",
-        "qty": 1
-      }
-    ]
-  },
-  {
-    "socialName": "瑞斯",
-    "title": "0901進巨 graniph(討論串)",
-    "statusBadges": [],
-    "productAmount": 1940,
-    "depositPaid": 0,
-    "secondPayment": 90,
-    "secondPaymentBreakdown": {
-      "domesticShipping": 0,
-      "internationalShipping": 65,
-      "cardFee": 25,
-      "packagingFee": 0
-    },
-    "balanceDue": 2030,
-    "etaText": "待公告",
-    "paymentMethod": "未填",
-    "contactUrl": "https://example.com/contact",
-    "note": "",
-    "items": [
-      {
-        "name": "里維襯衫 (L)",
         "qty": 1
       }
     ]
