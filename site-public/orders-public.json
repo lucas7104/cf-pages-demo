@@ -51825,21 +51825,25 @@
     "statusBadges": [
       "已付訂金"
     ],
-    "productAmount": 6805,
+    "productAmount": 11460,
     "depositPaid": 6805,
-    "secondPayment": 474,
+    "secondPayment": 760,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 388,
-      "cardFee": 86,
+      "internationalShipping": 615,
+      "cardFee": 145,
       "packagingFee": 0
     },
-    "balanceDue": 474,
+    "balanceDue": 5415,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
     "items": [
+      {
+        "name": "九大巨外套 (XL)",
+        "qty": 1
+      },
       {
         "name": "城牆巨人針織外套 (XL)",
         "qty": 1

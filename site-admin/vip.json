@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T14:01:43.283Z",
+  "generatedAt": "2026-11-26T14:11:35.467Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -635,11 +635,11 @@
       "children": [],
       "topTen": [
         {
-          "name": "瑞斯",
-          "amount": 6805
+          "name": "Marcus",
+          "amount": 11460
         },
         {
-          "name": "Marcus",
+          "name": "瑞斯",
           "amount": 6805
         },
         {
