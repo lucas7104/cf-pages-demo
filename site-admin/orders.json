@@ -49780,14 +49780,14 @@
     ],
     "productAmount": 1635,
     "depositPaid": 1635,
-    "secondPayment": 74,
+    "secondPayment": 116,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 42,
       "internationalShipping": 53,
       "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 74,
+    "balanceDue": 116,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -49798,7 +49798,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0603進巨 日本郵便局聯名",
+    "sourceSheet": "★0603進巨 日本郵便局聯名",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -49809,14 +49809,14 @@
     ],
     "productAmount": 1155,
     "depositPaid": 1155,
-    "secondPayment": 33,
+    "secondPayment": 75,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 42,
       "internationalShipping": 18,
       "cardFee": 15,
       "packagingFee": 0
     },
-    "balanceDue": 33,
+    "balanceDue": 75,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -49827,7 +49827,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0603進巨 日本郵便局聯名",
+    "sourceSheet": "★0603進巨 日本郵便局聯名",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -49838,14 +49838,14 @@
     ],
     "productAmount": 1635,
     "depositPaid": 1635,
-    "secondPayment": 74,
+    "secondPayment": 116,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 42,
       "internationalShipping": 53,
       "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 74,
+    "balanceDue": 116,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -49856,7 +49856,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0603進巨 日本郵便局聯名",
+    "sourceSheet": "★0603進巨 日本郵便局聯名",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -49867,14 +49867,14 @@
     ],
     "productAmount": 4710,
     "depositPaid": 4710,
-    "secondPayment": 274,
+    "secondPayment": 316,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 42,
       "internationalShipping": 212,
       "cardFee": 62,
       "packagingFee": 0
     },
-    "balanceDue": 274,
+    "balanceDue": 316,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -49889,7 +49889,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0603進巨 日本郵便局聯名",
+    "sourceSheet": "★0603進巨 日本郵便局聯名",
     "sourceMonth": "2026-06-07"
   },
   {
@@ -49900,14 +49900,14 @@
     ],
     "productAmount": 1635,
     "depositPaid": 1635,
-    "secondPayment": 74,
+    "secondPayment": 116,
     "secondPaymentBreakdown": {
-      "domesticShipping": 0,
+      "domesticShipping": 42,
       "internationalShipping": 53,
       "cardFee": 21,
       "packagingFee": 0
     },
-    "balanceDue": 74,
+    "balanceDue": 116,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
@@ -49918,7 +49918,7 @@
         "qty": 1
       }
     ],
-    "sourceSheet": "0603進巨 日本郵便局聯名",
+    "sourceSheet": "★0603進巨 日本郵便局聯名",
     "sourceMonth": "2026-06-07"
   },
   {
