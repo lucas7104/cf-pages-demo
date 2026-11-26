@@ -49981,7 +49981,6 @@
     "socialName": "芭樂",
     "title": "0818咒術 graniph(討論串)",
     "statusBadges": [
-      "已出貨",
       "已付訂金"
     ],
     "productAmount": 1205,
@@ -49994,7 +49993,7 @@
       "packagingFee": 0
     },
     "balanceDue": 78,
-    "etaText": "已出貨",
+    "etaText": "官方未發貨",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
     "note": "",
