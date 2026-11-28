@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T12:40:50.952Z",
+  "generatedAt": "2026-11-28T12:50:50.926Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -20,23 +20,23 @@
         },
         {
           "name": "君",
-          "amount": 50933
+          "amount": 50895
         },
         {
           "name": "季",
-          "amount": 48985
+          "amount": 48969
         },
         {
           "name": "芭樂",
-          "amount": 48463
+          "amount": 48385
         },
         {
           "name": "瑞斯",
-          "amount": 47774
+          "amount": 47680
         },
         {
           "name": "nako",
-          "amount": 38976
+          "amount": 38462
         },
         {
           "name": "lpp_ss",
@@ -123,11 +123,11 @@
         },
         {
           "name": "季",
-          "amount": 47325
+          "amount": 47309
         },
         {
           "name": "君",
-          "amount": 42528
+          "amount": 42490
         },
         {
           "name": "TYT",
@@ -135,11 +135,11 @@
         },
         {
           "name": "nako",
-          "amount": 34641
+          "amount": 34127
         },
         {
           "name": "芭樂",
-          "amount": 33918
+          "amount": 33840
         },
         {
           "name": "高八毛",
@@ -589,7 +589,7 @@
       "topTen": [
         {
           "name": "nako",
-          "amount": 22879
+          "amount": 22365
         },
         {
           "name": "寶",
@@ -597,11 +597,11 @@
         },
         {
           "name": "季",
-          "amount": 8321
+          "amount": 8305
         },
         {
           "name": "君",
-          "amount": 7783
+          "amount": 7745
         },
         {
           "name": "FLOWDY",
@@ -617,15 +617,15 @@
         },
         {
           "name": "呱呱",
-          "amount": 3533
+          "amount": 3390
         },
         {
           "name": "瑞斯",
-          "amount": 3459
+          "amount": 3365
         },
         {
           "name": "芭樂",
-          "amount": 3438
+          "amount": 3360
         }
       ]
     },
