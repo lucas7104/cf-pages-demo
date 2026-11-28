@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T13:30:44.811Z",
+  "generatedAt": "2026-11-28T13:40:54.628Z",
   "note": "VIP 不含台北動漫節資料",
   "sections": {
     "root": {
@@ -40,7 +40,7 @@
         },
         {
           "name": "lpp_ss",
-          "amount": 37140
+          "amount": 38034
         },
         {
           "name": "高八毛",
@@ -155,7 +155,7 @@
         },
         {
           "name": "lpp_ss",
-          "amount": 25875
+          "amount": 26769
         }
       ]
     },
@@ -651,6 +651,10 @@
           "amount": 6435
         },
         {
+          "name": "lpp_ss",
+          "amount": 5979
+        },
+        {
           "name": "Eggbao",
           "amount": 5455
         },
@@ -661,10 +665,6 @@
         {
           "name": "H",
           "amount": 5355
-        },
-        {
-          "name": "lpp_ss",
-          "amount": 5085
         },
         {
           "name": "UZ213ZU 速速咩",

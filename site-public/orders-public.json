@@ -51986,7 +51986,7 @@
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "10-11月二補收175",
     "items": [
       {
         "name": "全員運動夾克 (M)",
@@ -52056,7 +52056,7 @@
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "10-11月二補收133",
     "items": [
       {
         "name": "團兵短T (L)",
@@ -52114,7 +52114,7 @@
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "10-11月二補收69",
     "items": [
       {
         "name": "美高彩蛋黑T (XL)",
@@ -52172,7 +52172,7 @@
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "10-11月二補收411",
     "items": [
       {
         "name": "團兵斜背包",
@@ -52261,7 +52261,7 @@
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
-    "note": "",
+    "note": "10-11月二補收121",
     "items": [
       {
         "name": "城牆巨人卡其T (M)",
@@ -52361,6 +52361,224 @@
         "qty": 1
       }
     ]
+  },
+  {
+    "socialName": "240",
+    "title": "0901進巨 graniph(討論串)",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 68,
+    "depositPaid": 2,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 66,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": []
+  },
+  {
+    "socialName": "Freiii",
+    "title": "0901進巨 graniph(討論串)",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 185,
+    "depositPaid": 2,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 183,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": []
+  },
+  {
+    "socialName": "莎拉拉",
+    "title": "0901進巨 graniph(討論串)",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 236,
+    "depositPaid": 2,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 234,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": []
+  },
+  {
+    "socialName": "Tiana",
+    "title": "0901進巨 graniph(討論串)",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 79,
+    "depositPaid": 2,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 77,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": []
+  },
+  {
+    "socialName": "lpp_ss",
+    "title": "0901進巨 graniph(討論串)",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 894,
+    "depositPaid": 1,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 893,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": []
+  },
+  {
+    "socialName": "子茵",
+    "title": "0901進巨 graniph(討論串)",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 131,
+    "depositPaid": 3,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 128,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": []
+  },
+  {
+    "socialName": "歪歪",
+    "title": "0901進巨 graniph(討論串)",
+    "statusBadges": [],
+    "productAmount": 74,
+    "depositPaid": 0,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 74,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": []
+  },
+  {
+    "socialName": "羊羊羊",
+    "title": "0901進巨 graniph(討論串)",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 0,
+    "depositPaid": 3,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": []
+  },
+  {
+    "socialName": "一棵樹",
+    "title": "0901進巨 graniph(討論串)",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 0,
+    "depositPaid": 1,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": []
+  },
+  {
+    "socialName": "五月開花🌸",
+    "title": "0901進巨 graniph(討論串)",
+    "statusBadges": [
+      "已付訂金"
+    ],
+    "productAmount": 0,
+    "depositPaid": 3,
+    "secondPayment": 0,
+    "secondPaymentBreakdown": {
+      "domesticShipping": 0,
+      "internationalShipping": 0,
+      "cardFee": 0,
+      "packagingFee": 0
+    },
+    "balanceDue": 0,
+    "etaText": "待公告",
+    "paymentMethod": "未填",
+    "contactUrl": "https://example.com/contact",
+    "note": "",
+    "items": []
   },
   {
     "socialName": "瑞斯",
