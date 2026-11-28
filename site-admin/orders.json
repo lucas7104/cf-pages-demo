@@ -54919,14 +54919,14 @@
     ],
     "productAmount": 960,
     "depositPaid": 960,
-    "secondPayment": 12,
+    "secondPayment": 50,
     "secondPaymentBreakdown": {
       "domesticShipping": 0,
-      "internationalShipping": 0,
+      "internationalShipping": 38,
       "cardFee": 12,
       "packagingFee": 0
     },
-    "balanceDue": 12,
+    "balanceDue": 50,
     "etaText": "待公告",
     "paymentMethod": "轉帳",
     "contactUrl": "https://example.com/contact",
